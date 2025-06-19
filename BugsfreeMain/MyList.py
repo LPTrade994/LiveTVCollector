@@ -1,90 +1,112 @@
 #!/usr/bin/env python3
 """
-MyList.py – genera una playlist contenente solo i canali (live + VOD) in lingua italiana
-da una sorgente M3U molto grande (anche >300 MB).
-
-• L’URL sorgente viene passato via secret GitHub:  M3U_SOURCE
-• Il file filtrato viene salvato in LiveTV/MyList/LiveTV.m3u
+MyList.py – Estrae tutti i canali/VOD in lingua italiana da playlist molto grandi.
+Scrive due file:
+  • LiveTV/MyList/LiveTV.m3u   (tenuti)
+  • LiveTV/MyList/Skipped.m3u  (scartati, per audit)
+L’URL sorgente è nel secret GitHub  M3U_SOURCE.
 """
 
-import os
-import re
-import sys
-import pathlib
-import requests
+import os, re, sys, pathlib, requests
 from contextlib import suppress
 
-# ──────────────────────────────────────────────────────────────────────────────
-URL       = os.environ["M3U_SOURCE"]                            # segreto GitHub
-TARGET    = pathlib.Path("LiveTV/MyList/LiveTV.m3u")            # output
-TARGET.parent.mkdir(parents=True, exist_ok=True)
+# ───────────────────── PARAMETRI PERSONALIZZABILI ──────────────────────────
+URL          = os.environ["M3U_SOURCE"]                # secret GitHub
+TARGET_DIR   = pathlib.Path("LiveTV/MyList")
+OUT_FILE     = TARGET_DIR / "LiveTV.m3u"
+SKIP_FILE    = TARGET_DIR / "Skipped.m3u"              # audit opzionale
 
-# pattern che identifica la lingua italiana (IT| … o .it nel tag)
-ITA_RE = re.compile(r"(it\|)|(\.it\b)", re.IGNORECASE)
+WHITELIST = [
+    "rai ", "rai|", "canale 5", "canale5", "tgcom",
+    "italia ", "italia1", "italia 1", "rete 4", "rete4",
+    "sky ", "helbiz", "boing", "gulp", "yoyo", "nickelodeon",
+    "cartoonito", "discovery", "dmax", "focus", "laeffe",
+]
+# se vuoi aggiungere parole, mettile qui in minuscolo
 
+# regex pronte (RE.VERBOSE per leggibilità)
+RE_LANG_IT = re.compile(r'tvg-language\s*=\s*"(?:ita|it)"', re.I)
+RE_TVG_ID  = re.compile(r'tvg-id\s*=\s*"[^\"]+\.it"', re.I)
+RE_GROUP   = re.compile(r'group-title\s*=\s*"[^\"]*(it\||italia|italiano)', re.I)
+RE_NAME    = re.compile(r'(^|\|)it\|', re.I)    # match "IT|" inizio o dopo pipe
 
-def iter_ita_lines(resp):
-    """
-    Generator: produce solo le righe (#EXTINF + URL) relative ai canali italiani.
-    Gestisce sia bytes che str, evitando errori di concatenazione.
-    """
-    keep_next = False
-    header_emitted = False
+# streaming sicuro
+TIMEOUT = (15, 900)  # 15 s handshake, 15 min read
 
-    for raw in resp.iter_lines():               # nessuna decodifica automatica
-        if raw is None:
-            continue
+# ───────────────────── FUNZIONI DI UTILITÀ ─────────────────────────────────
+def decode(line_bytes: bytes) -> str:
+    """bytes → str UTF-8 safe"""
+    return line_bytes.decode("utf-8", "ignore")
 
-        # convertiamo in str UTF-8, ignorando caratteri non validi
-        if isinstance(raw, bytes):
-            line = raw.decode("utf-8", "ignore") + "\n"
-        else:
-            line = str(raw) + "\n"
+def is_italian(extinf: str, display: str) -> bool:
+    """True se la riga EXTINF corrisponde a un canale italiano."""
+    low = extinf.lower()
+    disp = display.lower()
 
-        # header una sola volta
-        if not header_emitted and line.startswith("#EXTM3U"):
-            header_emitted = True
-            yield line
-            continue
+    if RE_LANG_IT.search(extinf):        return True
+    if RE_TVG_ID.search(extinf):         return True
+    if RE_GROUP.search(extinf):          return True
+    if RE_NAME.search(extinf):           return True
+    if any(k in low or k in disp for k in WHITELIST):  return True
+    return False
 
-        # tag EXTINF
-        if line.startswith("#EXTINF"):
-            keep_next = bool(ITA_RE.search(line))
-            if keep_next:
-                yield line
-            continue
+# ───────────────────── PROCESSING STREAM ───────────────────────────────────
+def process_playlist():
+    TARGET_DIR.mkdir(parents=True, exist_ok=True)
+    kept = skipped = 0
+    header_written = False
 
-        # URL immediatamente dopo un EXTINF da tenere
-        if keep_next:
-            yield line
-            keep_next = False
+    with requests.get(URL, stream=True, timeout=TIMEOUT) as r,\
+         OUT_FILE.open("w", encoding="utf-8") as out,\
+         SKIP_FILE.open("w", encoding="utf-8") as skp:
 
+        r.raise_for_status()
+        buf_extinf = None  # memorizza la #EXTINF in attesa del relativo URL
 
+        for raw in r.iter_lines():
+            if raw is None:
+                continue
+            line = decode(raw) + "\n"
+
+            # header iniziale
+            if not header_written and line.startswith("#EXTM3U"):
+                out.write(line)
+                skp.write(line)
+                header_written = True
+                continue
+
+            if line.startswith("#EXTINF"):
+                buf_extinf = line      # salva e valuta dopo
+                continue
+
+            # Se arriva qui, è (quasi sempre) la URL seguente
+            if buf_extinf is not None:
+                keep = is_italian(buf_extinf, line)
+
+                dest = out if keep else skp
+                dest.write(buf_extinf)
+                dest.write(line)
+
+                kept += keep
+                skipped += not keep
+                buf_extinf = None      # reset buffer
+
+    return kept, skipped
+
+# ───────────────────── MAIN ────────────────────────────────────────────────
 def main():
     try:
-        print(f"[INFO] Scarico {URL[:120]}...")
-        with requests.get(
-            URL,
-            stream=True,
-            timeout=(15, 900),          # 15 s handshake, 15 min read
-            headers={"User-Agent": "Mozilla/5.0 GitHubRunner"},
-        ) as r:
-            r.raise_for_status()
-
-            with TARGET.open("w", encoding="utf-8") as out:
-                count = 0
-                for chunk in iter_ita_lines(r):
-                    out.write(chunk)
-                    if chunk.startswith("#EXTINF"):
-                        count += 1
-
-        print(f"[INFO] Salvati {count} canali ITA in {TARGET}")
+        print(f"[INFO] Downloading playlist… (timeout read {TIMEOUT[1]} s)")
+        kept, skipped = process_playlist()
+        print(f"[INFO] Kept {kept} italian channels  –  Skipped {skipped}")
+        if skipped:
+            print(f"[INFO] Controlla {SKIP_FILE} per eventuali canali da aggiustare")
     except Exception as exc:
         print(f"[ERROR] {exc}", file=sys.stderr)
         with suppress(Exception):
-            TARGET.unlink(missing_ok=True)
+            OUT_FILE.unlink(missing_ok=True)
+            SKIP_FILE.unlink(missing_ok=True)
         sys.exit(1)
-
 
 if __name__ == "__main__":
     main()
