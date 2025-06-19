@@ -1,54 +1,73 @@
 #!/usr/bin/env python3
 """
-MyList.py – estrai solo i canali italiani da playlist molto grandi (>300 MB)
-Il download avviene a streaming, senza caricare tutto in RAM.
+MyList.py – genera una playlist contenente solo i canali (live + VOD) in lingua italiana
+da una sorgente M3U molto grande (anche >300 MB).
+
+• L’URL sorgente viene passato via secret GitHub:  M3U_SOURCE
+• Il file filtrato viene salvato in LiveTV/MyList/LiveTV.m3u
 """
 
-import os, re, pathlib, requests, sys
+import os
+import re
+import sys
+import pathlib
+import requests
 from contextlib import suppress
 
-URL       = os.environ["M3U_SOURCE"]            # segreto GitHub
-TARGET    = pathlib.Path("LiveTV/MyList/LiveTV.m3u")
+# ──────────────────────────────────────────────────────────────────────────────
+URL       = os.environ["M3U_SOURCE"]                            # segreto GitHub
+TARGET    = pathlib.Path("LiveTV/MyList/LiveTV.m3u")            # output
 TARGET.parent.mkdir(parents=True, exist_ok=True)
 
-# pattern che identifica la lingua italiana
+# pattern che identifica la lingua italiana (IT| … o .it nel tag)
 ITA_RE = re.compile(r"(it\|)|(\.it\b)", re.IGNORECASE)
 
+
 def iter_ita_lines(resp):
-    """Restituisce SOLO le righe (#EXTINF + URL) con lingua ITA."""
+    """
+    Generator: produce solo le righe (#EXTINF + URL) relative ai canali italiani.
+    Gestisce sia bytes che str, evitando errori di concatenazione.
+    """
     keep_next = False
     header_emitted = False
 
-    for raw in resp.iter_lines(decode_unicode=True):
+    for raw in resp.iter_lines():               # nessuna decodifica automatica
         if raw is None:
             continue
-        line = raw + "\n"
 
-        # rilascio header una sola volta
+        # convertiamo in str UTF-8, ignorando caratteri non validi
+        if isinstance(raw, bytes):
+            line = raw.decode("utf-8", "ignore") + "\n"
+        else:
+            line = str(raw) + "\n"
+
+        # header una sola volta
         if not header_emitted and line.startswith("#EXTM3U"):
             header_emitted = True
             yield line
             continue
 
+        # tag EXTINF
         if line.startswith("#EXTINF"):
             keep_next = bool(ITA_RE.search(line))
             if keep_next:
                 yield line
             continue
 
-        # questa è la riga-URL
+        # URL immediatamente dopo un EXTINF da tenere
         if keep_next:
             yield line
             keep_next = False
 
+
 def main():
     try:
-        print(f"[INFO] Scarico {URL[:80]}...")
+        print(f"[INFO] Scarico {URL[:120]}...")
         with requests.get(
             URL,
             stream=True,
-            timeout=(15, 600),          # 15 s handshake, 10 min senza limiti di read
-            headers={"User-Agent": "Mozilla/5.0 GithubRunner"},
+            timeout=(15, 900),          # 15 s handshake, 15 min read
+            headers={"User-Agent": "Mozilla/5.0 GitHubRunner"},
         ) as r:
             r.raise_for_status()
 
@@ -58,13 +77,14 @@ def main():
                     out.write(chunk)
                     if chunk.startswith("#EXTINF"):
                         count += 1
-                print(f"[INFO] Salvati {count} canali ITA in {TARGET}")
+
+        print(f"[INFO] Salvati {count} canali ITA in {TARGET}")
     except Exception as exc:
         print(f"[ERROR] {exc}", file=sys.stderr)
-        # scrivo file vuoto per far fallire il job se serve
         with suppress(Exception):
-            TARGET.unlink()
+            TARGET.unlink(missing_ok=True)
         sys.exit(1)
+
 
 if __name__ == "__main__":
     main()
