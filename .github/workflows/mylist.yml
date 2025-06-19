@@ -22,7 +22,7 @@ jobs:
       env:
         M3U_SOURCE: ${{ secrets.M3U_SOURCE }}
       run: |
-        python BugsfreeMain/MyList.py
+  python -m BugsfreeMain.MyList
 
     - name: Commit & push
       uses: EndBug/add-and-commit@v9
