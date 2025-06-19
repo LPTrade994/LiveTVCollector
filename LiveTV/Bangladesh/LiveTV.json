@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-19 13:54:29",
+  "date": "2025-06-19 21:51:57",
   "channels": {
     "BANGLA": [
       {
@@ -2564,6 +2564,146 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
         "url": "http://10.20.30.40:8088/704/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "Bangla Jago TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8"
+      },
+      {
+        "name": "DD Bangla",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://cdn-4.pishow.tv/live/37/master.m3u8"
+      },
+      {
+        "name": "Dhoom Music",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://cdn-1.pishow.tv/live/1456/master.m3u8"
+      },
+      {
+        "name": "Rupashi Bangla",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://cdn-4.pishow.tv/live/1039/master.m3u8"
+      },
+      {
+        "name": "Aakash Aath",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://cdn-4.pishow.tv/live/969/master.m3u8"
+      },
+      {
+        "name": "ABP Ananda",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8"
+      },
+      {
+        "name": "Tara TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/tara-tv/8451cd5b-af45-46f3-b3f8-41497e8aa5c1/0.m3u8"
+      },
+      {
+        "name": "Republic Bangla",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://vg-republictvyupp.akamaized.net/ptnr-yuppt/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/93d674ab-f7a0-404e-88b2-b4f163373dbe/0.m3u8"
+      },
+      {
+        "name": "Sangeet Bangla",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8"
+      },
+      {
+        "name": "Rongeen TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://cdn-4.pishow.tv/live/1029/master.m3u8"
+      },
+      {
+        "name": "ZB Cartoon",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
+      },
+      {
+        "name": "ZB Cinema",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
+      },
+      {
+        "name": "ZB Music",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "R Plus Gold",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://cdn-4.pishow.tv/live/1231/1231_1.m3u8"
+      },
+      {
+        "name": "24 Hours TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://server.livelegitpro.in/24hourstv/24hourstv/tracks-v1a1/mono.ts.m3u8"
+      },
+      {
+        "name": "Tribe TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tribe-tv/index.m3u8"
+      },
+      {
+        "name": "NKTV Plus",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8"
+      },
+      {
+        "name": "NKTV Bangla",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8"
+      },
+      {
+        "name": "Orange Bangla",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://cdn-4.pishow.tv/live/1499/master.m3u8"
+      },
+      {
+        "name": "TV9 Bangla",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/ts-eu-w1-n2/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8"
       },
       {
         "name": "TSPORTS",
