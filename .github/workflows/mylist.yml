@@ -1,32 +1,38 @@
 name: MyList LiveTV Files
+
 on:
-  workflow_dispatch:          # lo avvii a mano
-  schedule:
-    - cron: '25 */8 * * *'    # ogni 8 ore
+  workflow_dispatch:          # avvio manuale (bottone "Run workflow")
+  schedule:                   # run automatico ogni 8 ore
+    - cron: '25 */8 * * *'    # modifica se vuoi un’altra frequenza
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v4
+      # 1) Clona il repo
+      - uses: actions/checkout@v4
 
-    - name: Setup Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.12'
+      # 2) Installa Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
 
-    - name: Install deps
-      run: pip install -r requirements.txt
+      # 3) Installa le dipendenze del progetto
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-    - name: Generate playlist
-      env:
-        M3U_SOURCE: ${{ secrets.M3U_SOURCE }}
-      run: |
-  python -m BugsfreeMain.MyList
+      # 4) Genera la playlist filtrata
+      - name: Generate playlist
+        env:                      # prende l’URL dal segreto
+          M3U_SOURCE: ${{ secrets.M3U_SOURCE }}
+        run: |
+          python -m BugsfreeMain.MyList
 
-
-    - name: Commit & push
-      uses: EndBug/add-and-commit@v9
-      with:
-        add: 'LiveTV/MyList'
-        message: 'auto: update MyList playlist'
+      # 5) Commit e push dei file aggiornati
+      - name: Commit & push
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'LiveTV/MyList'
+          message: 'auto: update MyList playlist'
