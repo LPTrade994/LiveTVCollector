@@ -1,38 +1,56 @@
 name: MyList LiveTV Files
 
 on:
-  workflow_dispatch:          # avvio manuale (bottone "Run workflow")
-  schedule:                   # run automatico ogni 8 ore
-    - cron: '25 */8 * * *'    # modifica se vuoi un’altra frequenza
+  workflow_dispatch:          # avvio manuale
+  schedule:
+    - cron: '25 */8 * * *'    # ogni 8 h
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1) Clona il repo
+      # ─────────────────── 0) Recupera repo ───────────────────
       - uses: actions/checkout@v4
 
-      # 2) Installa Python
+      # ─────────────────── 1) Python ───────────────────────────
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-      # 3) Installa le dipendenze del progetto
+      # ─────────────────── 2) Dipendenze ───────────────────────
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install requests
 
-      # 4) Genera la playlist filtrata
+      # ─────────────────── 3) Genera playlist ITA ──────────────
       - name: Generate playlist
-        env:                      # prende l’URL dal segreto
+        env:
           M3U_SOURCE: ${{ secrets.M3U_SOURCE }}
         run: |
           python -m BugsfreeMain.MyList
 
-      # 5) Commit e push dei file aggiornati
+      # ─────────────────── 4) Commit & push SOLO LiveTV.m3u ────
       - name: Commit & push
         uses: EndBug/add-and-commit@v9
         with:
-          add: 'LiveTV/MyList'
+          add: 'LiveTV/MyList/LiveTV.m3u'
           message: 'auto: update MyList playlist'
+
+      # ─────────────────── 5) (Opz.) Comprime Skipped.m3u ─────
+      - name: Gzip skipped list
+        run: |
+          if [ -f LiveTV/MyList/Skipped.m3u ]; then
+            gzip -f -9 LiveTV/MyList/Skipped.m3u
+          fi
+
+      # ─────────────────── 6) Pubblica come artifact ──────────
+      - name: Upload skipped list
+        uses: actions/upload-artifact@v4
+        with:
+          name: skipped-m3u
+          path: |
+            LiveTV/MyList/Skipped.m3u.gz
+            !LiveTV/MyList/Skipped.m3u   # già compresso
+          if-no-files-found: ignore
+          retention-days: 7
