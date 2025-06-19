@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-18 21:46:15",
+  "date": "2025-06-19 14:03:40",
   "channels": {
     "INDONESIA": [
       {
@@ -13100,13 +13100,6 @@
         "url": "https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd|referrer=https://visionplus.id"
       },
       {
-        "name": "16.RCTI 🔵",
-        "logo": "https://iili.io/JMp36xI.png",
-        "group": "NASIONAL",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd"
-      },
-      {
         "name": "23.INEWS HD",
         "logo": "https://i.ibb.co.com/WxdZ1KH/inews.png",
         "group": "NASIONAL",
@@ -15725,11 +15718,18 @@
         "url": "https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/playlist.mpd"
       },
       {
-        "name": "RCTI HD",
+        "name": "RCTI",
         "logo": "http://alkhalifitv.github.io/TV/big/rcti.png",
         "group": "LOKAL",
         "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
         "url": "https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd"
+      },
+      {
+        "name": "RCTI HD",
+        "logo": "http://alkhalifitv.github.io/TV/big/rcti.png",
+        "group": "LOKAL",
+        "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
+        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd"
       },
       {
         "name": "SCTV HD",
@@ -15743,7 +15743,7 @@
         "logo": "https://alkhalifitv.github.io/TV/big/gtv.png",
         "group": "LOKAL",
         "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
-        "url": "http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd"
+        "url": "https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd"
       },
       {
         "name": "GTV",
@@ -19451,13 +19451,6 @@
       }
     ],
     "NasioNaL DiGitaL 📡": [
-      {
-        "name": "GtV",
-        "logo": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GTV.png",
-        "group": "NasioNaL DiGitaL 📡",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd"
-      },
       {
         "name": "TRANS 7",
         "logo": "http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png",
