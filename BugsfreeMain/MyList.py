@@ -1,71 +1,70 @@
 #!/usr/bin/env python3
 """
-MyList.py – genera una playlist con soli canali italiani
-(riconosciuti da 'IT|' o '.it' nel tag #EXTINF)
-
-• Usa l'URL sorgente memorizzato nel secret M3U_SOURCE
-• Scrive il risultato in LiveTV/MyList/LiveTV.m3u
+MyList.py – estrai solo i canali italiani da playlist molto grandi (>300 MB)
+Il download avviene a streaming, senza caricare tutto in RAM.
 """
 
-import os, re, requests, pathlib, itertools
+import os, re, pathlib, requests, sys
+from contextlib import suppress
 
-SOURCE_URLS = [os.environ["M3U_SOURCE"]]           # preso dal secret
-TARGET_DIR   = pathlib.Path("LiveTV/MyList")
-TARGET_FILE  = TARGET_DIR / "LiveTV.m3u"
+URL       = os.environ["M3U_SOURCE"]            # segreto GitHub
+TARGET    = pathlib.Path("LiveTV/MyList/LiveTV.m3u")
+TARGET.parent.mkdir(parents=True, exist_ok=True)
 
-# regex: match "IT|" (qualsiasi combinazione di maiuscole/minuscole)
-#        oppure ".it" separato da fine parola
-ITA_PATTERN = re.compile(r"(it\|)|(\.it\b)", re.IGNORECASE)
+# pattern che identifica la lingua italiana
+ITA_RE = re.compile(r"(it\|)|(\.it\b)", re.IGNORECASE)
 
+def iter_ita_lines(resp):
+    """Restituisce SOLO le righe (#EXTINF + URL) con lingua ITA."""
+    keep_next = False
+    header_emitted = False
 
-def fetch_lines(url: str) -> list[str]:
-    resp = requests.get(url, timeout=45)
-    resp.raise_for_status()
-    return resp.text.splitlines(keepends=True)
+    for raw in resp.iter_lines(decode_unicode=True):
+        if raw is None:
+            continue
+        line = raw + "\n"
 
-
-def keep_only_ita(lines: list[str]) -> list[str]:
-    """Restituisce solo le coppie EXTINF+URL che contengono la lingua ITA."""
-    result = []
-    it_lines = iter(enumerate(lines))
-    header_done = False
-
-    for idx, line in it_lines:
-        if not header_done and line.strip().startswith("#EXTM3U"):
-            result.append(line)
-            header_done = True
+        # rilascio header una sola volta
+        if not header_emitted and line.startswith("#EXTM3U"):
+            header_emitted = True
+            yield line
             continue
 
         if line.startswith("#EXTINF"):
-            if ITA_PATTERN.search(line):
-                # mantieni #EXTINF e URL successiva
-                result.append(line)
-                try:
-                    _, url_line = next(it_lines)
-                    result.append(url_line)
-                except StopIteration:
-                    break
-            else:
-                # scarta anche la URL
-                next(it_lines, None)
+            keep_next = bool(ITA_RE.search(line))
+            if keep_next:
+                yield line
+            continue
 
-    return result
+        # questa è la riga-URL
+        if keep_next:
+            yield line
+            keep_next = False
 
+def main():
+    try:
+        print(f"[INFO] Scarico {URL[:80]}...")
+        with requests.get(
+            URL,
+            stream=True,
+            timeout=(15, 600),          # 15 s handshake, 10 min senza limiti di read
+            headers={"User-Agent": "Mozilla/5.0 GithubRunner"},
+        ) as r:
+            r.raise_for_status()
 
-def main() -> None:
-    TARGET_DIR.mkdir(parents=True, exist_ok=True)
-
-    all_out = []
-    for url in SOURCE_URLS:
-        try:
-            lines = fetch_lines(url)
-            all_out.extend(keep_only_ita(lines))
-        except Exception as exc:
-            print(f"[WARN] Problema con {url}: {exc}")
-
-    TARGET_FILE.write_text("".join(all_out), encoding="utf-8")
-    print(f"[INFO] Salvati {len(all_out)//2} canali ITA in {TARGET_FILE}")
-
+            with TARGET.open("w", encoding="utf-8") as out:
+                count = 0
+                for chunk in iter_ita_lines(r):
+                    out.write(chunk)
+                    if chunk.startswith("#EXTINF"):
+                        count += 1
+                print(f"[INFO] Salvati {count} canali ITA in {TARGET}")
+    except Exception as exc:
+        print(f"[ERROR] {exc}", file=sys.stderr)
+        # scrivo file vuoto per far fallire il job se serve
+        with suppress(Exception):
+            TARGET.unlink()
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
