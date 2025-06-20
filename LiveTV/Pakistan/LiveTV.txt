@@ -324,6 +324,11 @@ URL: https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/pl
 Logo: https://i.imgur.com/I3lTIeN.png
 Source: https://iptv-org.github.io/iptv/countries/pk.m3u
 --------------------------------------------------
+Name: Sindh TV
+URL: https://stream717.duckdns.org/hls/stream1.m3u8
+Logo: https://i.imgur.com/izpeOsx.png
+Source: https://iptv-org.github.io/iptv/countries/pk.m3u
+--------------------------------------------------
 Name: TV5Monde Pacifique (1080p) [Geo-blocked]
 URL: https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 Logo: https://i.imgur.com/mfZOYZI.png
