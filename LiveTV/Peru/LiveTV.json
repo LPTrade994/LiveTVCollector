@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-20 14:01:58",
+  "date": "2025-06-20 22:00:00",
   "channels": {
     "News": [
       {
@@ -3210,6 +3210,13 @@
         "group": "TV NOTICIAS",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12n12wad/profile/1/hdntl=exp=1730902906~acl=%2f*~data=hdntl~hmac=6534bdf1e08c1673127ba9e4d8b0a3d33c2fc1ed2b68dec5c45b3973ed60739b/profileManifest.m3u8?_uid=d10212bc-f9f3-4da2-a6d6-2adad1603799&rK=a5&_did=9656a53ede983aa2ba78870cdfc3753af7767f9a"
+      },
+      {
+        "name": "50.1 | CANAL 14 ISRAEL",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "TV NOTICIAS",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://n-121-6.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
       },
       {
         "name": "51 | TV5 MONDE INFO ᴴᴰ",
