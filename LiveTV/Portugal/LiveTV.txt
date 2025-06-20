@@ -799,6 +799,11 @@ Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
 
 Group: Eixo do Mal
+Name: Eixo do Mal - 19/6/2025
+URL: https://videos.impresa.pt/videos/hls/sicnot/2025/06/19/8ca92e3c-68f7-4daf-8881-8e632f1a19ba/video.m3u8
+Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg
+Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
+--------------------------------------------------
 Name: Eixo do Mal - 12/6/2025
 URL: https://videos.impresa.pt/videos/hls/sicnot/2025/06/12/f30f9851-dda2-47e3-aab5-5e9ee466cdd1/video.m3u8
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg
@@ -4140,7 +4145,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDI1IDg6OTozOSBBTSZoYXNoX3ZhbHVlPTVPN09DNHo5TDlUVVcvdnlEY2t3a2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kOTEyNmEzMC01OTQxLTQ3NTYtODFkNi1mYjRlMDFlNGM5ZjY=/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDI1IDQ6Nzo1OCBQTSZoYXNoX3ZhbHVlPXlyOS9xK0JtT0pKbERQdW5HRm85Zmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05NGU1ZGY3NC0yZGMyLTRmOTItYjI1Yi0yMDA5ZjIzODcwZjQ=/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4155,7 +4160,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: CNN Portugal
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDI1IDg6OTo0MCBBTSZoYXNoX3ZhbHVlPUxaNVNKOEdWdys4a0lmME4ycnpZR2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD02MmM0ODUyOS01YTkyLTQ1ZmItYjE4My0wOTFlMThjYmQ1YTk=/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDI1IDQ6Nzo1OCBQTSZoYXNoX3ZhbHVlPVIySE5UODc0OTgrMUxiUWc4Y24vM0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lNTA3NzU2OC0wYTI0LTRlZTYtOGNiYi02MWM2NmU5ZjY3NjA=/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4200,7 +4205,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacio
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI Internacional
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDI1IDg6OTo0MSBBTSZoYXNoX3ZhbHVlPVpOSm1SeHpOM3FHZmdQVlRDdzlXVlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD02YmYxOGMyMC1mNGMwLTRmNDYtODVlNi1hMTIxODI2NjVhMDg=/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMC8yMDI1IDQ6Nzo1OSBQTSZoYXNoX3ZhbHVlPTdNY3RsSExSckltRWVrSWZYTURnQVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04MWUzY2YyMS1kZmUyLTRkYWUtYmI0NS1mNDU1NGY5OGZjMjg=/
 Logo: https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
