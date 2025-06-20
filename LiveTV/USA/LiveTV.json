@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-20 07:16:45",
+  "date": "2025-06-20 13:58:33",
   "channels": {
     "Religious": [
       {
@@ -18236,7 +18236,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71609"
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120857"
       },
       {
         "name": "KCAL-TV CBS/Ind. 9 (Los Angeles CA)",
@@ -18390,7 +18390,7 @@
         "logo": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png",
         "group": "Local Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71772"
+        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/9808"
       },
       {
         "name": "KMSP-TV FOX 9 (Minneapolis/St. Paul MN)",
@@ -29885,6 +29885,13 @@
         "group": "UK Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/13755"
+      },
+      {
+        "name": "BET (UK)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "UK Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/12196"
       },
       {
         "name": "Comedy Central (UK)",
