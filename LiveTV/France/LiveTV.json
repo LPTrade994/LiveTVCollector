@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-20 07:18:09",
+  "date": "2025-06-20 13:59:02",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -3586,14 +3586,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Wsbx-KU-auY_33N048vHaw&e=1750396795"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=XYLKHnlMpQfXVfagj5-Ocg&e=1750415167"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Wsbx-KU-auY_33N048vHaw&e=1750396795"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=XYLKHnlMpQfXVfagj5-Ocg&e=1750415167"
       },
       {
         "name": "TV8",
@@ -4574,6 +4574,69 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://trt.daioncdn.net/trtspor/master.m3u8?app=9b65474e-8197-4899-aabb-321fcf6dd9eb"
+      },
+      {
+        "name": "TRT SPOR",
+        "logo": "https://i.ibb.co/3WmLjwG/trtspor22c.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "http://162.212.179.33:80/dvrfl05/gin-trtspor/playlist.m3u8"
+      },
+      {
+        "name": "TRT SPOR",
+        "logo": "https://i.ibb.co/3WmLjwG/trtspor22c.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://trn03.tulix.tv/gt-trtspor-1/playlist.m3u8"
+      },
+      {
+        "name": "TRT SPOR",
+        "logo": "https://i.ibb.co/3WmLjwG/trtspor22c.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://test.dreamboxserver.net/trtspor/index.m3u8"
+      },
+      {
+        "name": "TRT SPOR",
+        "logo": "https://i.ibb.co/3WmLjwG/trtspor22c.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "http://live.artofknot.com:5080/proxy/channel?url=https://tv-trtspor-esdai.medya.trt.com.tr/master.m3u8"
+      },
+      {
+        "name": "TRT SPOR",
+        "logo": "https://i.ibb.co/3WmLjwG/trtspor22c.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "http://live.artofknot.com:5080/proxy/channel?url=https://tv-trtspor1.medya.trt.com.tr/master.m3u8"
+      },
+      {
+        "name": "TRT SPOR2 YILDIZ",
+        "logo": "https://i.ibb.co/ky3qVPc/trtspory2.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "http://live.artofknot.com:5080/proxy/channel?url=https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
+      },
+      {
+        "name": "TRT SPOR2 YILDIZ",
+        "logo": "https://i.ibb.co/ky3qVPc/trtspory2.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://test.dreamboxserver.net/trtsporyildiz/index.m3u8"
+      },
+      {
+        "name": "TRT SPOR2 YILDIZ",
+        "logo": "https://i.ibb.co/ky3qVPc/trtspory2.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "http://162.212.179.33:80/dvrfl05/gin-trtspor2/playlist.m3u8"
+      },
+      {
+        "name": "TRT SPOR2 YILDIZ",
+        "logo": "https://i.ibb.co/ky3qVPc/trtspory2.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://trn03.tulix.tv/gt-trtspor2/playlist.m3u8"
       },
       {
         "name": "TRT SPOR2 YILDIZ [geo-blocked]",
@@ -15076,6 +15139,13 @@
         "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8"
       },
       {
+        "name": "A2NEWS ALB",
+        "logo": "https://i.ibb.co/C59CjSZM/a2nws.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8"
+      },
+      {
         "name": "ARBRERIA 1",
         "logo": "https://i.ibb.co/vC4C1F1f/rtvalb.jpg",
         "group": "Uncategorized",
@@ -17335,6 +17405,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8"
+      },
+      {
+        "name": "NHK WORLD",
+        "logo": "https://i.ibb.co/JCjsXZm/nhk.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index.m3u8"
       },
       {
         "name": "NHK WORLD",

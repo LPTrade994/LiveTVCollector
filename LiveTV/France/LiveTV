@@ -3068,13 +3068,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Wsbx-KU-auY_33N048vHaw&e=1750396795",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=XYLKHnlMpQfXVfagj5-Ocg&e=1750415167",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Wsbx-KU-auY_33N048vHaw&e=1750396795",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=XYLKHnlMpQfXVfagj5-Ocg&e=1750415167",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -3916,6 +3916,60 @@
     "type": "Uncategorized",
     "url": "https://trt.daioncdn.net/trtspor/master.m3u8?app=9b65474e-8197-4899-aabb-321fcf6dd9eb",
     "img": "https://i.ibb.co/3WmLjwG/trtspor22c.png"
+  },
+  {
+    "name": "TRT SPOR",
+    "type": "Uncategorized",
+    "url": "http://162.212.179.33:80/dvrfl05/gin-trtspor/playlist.m3u8",
+    "img": "https://i.ibb.co/3WmLjwG/trtspor22c.png"
+  },
+  {
+    "name": "TRT SPOR",
+    "type": "Uncategorized",
+    "url": "https://trn03.tulix.tv/gt-trtspor-1/playlist.m3u8",
+    "img": "https://i.ibb.co/3WmLjwG/trtspor22c.png"
+  },
+  {
+    "name": "TRT SPOR",
+    "type": "Uncategorized",
+    "url": "https://test.dreamboxserver.net/trtspor/index.m3u8",
+    "img": "https://i.ibb.co/3WmLjwG/trtspor22c.png"
+  },
+  {
+    "name": "TRT SPOR",
+    "type": "Uncategorized",
+    "url": "http://live.artofknot.com:5080/proxy/channel?url=https://tv-trtspor-esdai.medya.trt.com.tr/master.m3u8",
+    "img": "https://i.ibb.co/3WmLjwG/trtspor22c.png"
+  },
+  {
+    "name": "TRT SPOR",
+    "type": "Uncategorized",
+    "url": "http://live.artofknot.com:5080/proxy/channel?url=https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+    "img": "https://i.ibb.co/3WmLjwG/trtspor22c.png"
+  },
+  {
+    "name": "TRT SPOR2 YILDIZ",
+    "type": "Uncategorized",
+    "url": "http://live.artofknot.com:5080/proxy/channel?url=https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+    "img": "https://i.ibb.co/ky3qVPc/trtspory2.png"
+  },
+  {
+    "name": "TRT SPOR2 YILDIZ",
+    "type": "Uncategorized",
+    "url": "https://test.dreamboxserver.net/trtsporyildiz/index.m3u8",
+    "img": "https://i.ibb.co/ky3qVPc/trtspory2.png"
+  },
+  {
+    "name": "TRT SPOR2 YILDIZ",
+    "type": "Uncategorized",
+    "url": "http://162.212.179.33:80/dvrfl05/gin-trtspor2/playlist.m3u8",
+    "img": "https://i.ibb.co/ky3qVPc/trtspory2.png"
+  },
+  {
+    "name": "TRT SPOR2 YILDIZ",
+    "type": "Uncategorized",
+    "url": "https://trn03.tulix.tv/gt-trtspor2/playlist.m3u8",
+    "img": "https://i.ibb.co/ky3qVPc/trtspory2.png"
   },
   {
     "name": "TRT SPOR2 YILDIZ [geo-blocked]",
@@ -12918,6 +12972,12 @@
     "img": "https://i.ibb.co/7N8KPCBZ/alb7.jpg"
   },
   {
+    "name": "A2NEWS ALB",
+    "type": "Uncategorized",
+    "url": "https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8",
+    "img": "https://i.ibb.co/C59CjSZM/a2nws.png"
+  },
+  {
     "name": "ARBRERIA 1",
     "type": "Uncategorized",
     "url": "https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8",
@@ -14853,6 +14913,12 @@
     "name": "NHK WORLD",
     "type": "Uncategorized",
     "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8",
+    "img": "https://i.ibb.co/JCjsXZm/nhk.png"
+  },
+  {
+    "name": "NHK WORLD",
+    "type": "Uncategorized",
+    "url": "https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index.m3u8",
     "img": "https://i.ibb.co/JCjsXZm/nhk.png"
   },
   {

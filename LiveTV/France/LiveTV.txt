@@ -4241,12 +4241,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Wsbx-KU-auY_33N048vHaw&e=1750396795
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=XYLKHnlMpQfXVfagj5-Ocg&e=1750415167
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Wsbx-KU-auY_33N048vHaw&e=1750396795
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=XYLKHnlMpQfXVfagj5-Ocg&e=1750415167
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -4948,6 +4948,51 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 Name: TRT SPOR [geo-blocked]
 URL: https://trt.daioncdn.net/trtspor/master.m3u8?app=9b65474e-8197-4899-aabb-321fcf6dd9eb
 Logo: https://i.ibb.co/3WmLjwG/trtspor22c.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TRT SPOR
+URL: http://162.212.179.33:80/dvrfl05/gin-trtspor/playlist.m3u8
+Logo: https://i.ibb.co/3WmLjwG/trtspor22c.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TRT SPOR
+URL: https://trn03.tulix.tv/gt-trtspor-1/playlist.m3u8
+Logo: https://i.ibb.co/3WmLjwG/trtspor22c.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TRT SPOR
+URL: https://test.dreamboxserver.net/trtspor/index.m3u8
+Logo: https://i.ibb.co/3WmLjwG/trtspor22c.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TRT SPOR
+URL: http://live.artofknot.com:5080/proxy/channel?url=https://tv-trtspor-esdai.medya.trt.com.tr/master.m3u8
+Logo: https://i.ibb.co/3WmLjwG/trtspor22c.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TRT SPOR
+URL: http://live.artofknot.com:5080/proxy/channel?url=https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+Logo: https://i.ibb.co/3WmLjwG/trtspor22c.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TRT SPOR2 YILDIZ
+URL: http://live.artofknot.com:5080/proxy/channel?url=https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+Logo: https://i.ibb.co/ky3qVPc/trtspory2.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TRT SPOR2 YILDIZ
+URL: https://test.dreamboxserver.net/trtsporyildiz/index.m3u8
+Logo: https://i.ibb.co/ky3qVPc/trtspory2.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TRT SPOR2 YILDIZ
+URL: http://162.212.179.33:80/dvrfl05/gin-trtspor2/playlist.m3u8
+Logo: https://i.ibb.co/ky3qVPc/trtspory2.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: TRT SPOR2 YILDIZ
+URL: https://trn03.tulix.tv/gt-trtspor2/playlist.m3u8
+Logo: https://i.ibb.co/ky3qVPc/trtspory2.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TRT SPOR2 YILDIZ [geo-blocked]
@@ -12450,6 +12495,11 @@ URL: https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-
 Logo: https://i.ibb.co/7N8KPCBZ/alb7.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: A2NEWS ALB
+URL: https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+Logo: https://i.ibb.co/C59CjSZM/a2nws.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: ARBRERIA 1
 URL: https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
 Logo: https://i.ibb.co/vC4C1F1f/rtvalb.jpg
@@ -14062,6 +14112,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: NHK WORLD
 URL: https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
+Logo: https://i.ibb.co/JCjsXZm/nhk.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: NHK WORLD
+URL: https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index.m3u8
 Logo: https://i.ibb.co/JCjsXZm/nhk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
