@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
+https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
