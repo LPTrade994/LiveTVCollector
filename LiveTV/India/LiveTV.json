@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-20 21:52:35",
+  "date": "2025-06-21 06:56:14",
   "channels": {
     "Music": [
       {
@@ -1201,11 +1201,11 @@
         "url": "http://103.124.251.164:28015/play/a02m/index.m3u8"
       },
       {
-        "name": "Nick HD+ (1080p)",
+        "name": "Nick HD+",
         "logo": "https://i.imgur.com/nJPbTet.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8"
+        "url": "http://103.68.28.58:5001/live/1226.m3u8"
       },
       {
         "name": "Nick Jr India (1080p)",

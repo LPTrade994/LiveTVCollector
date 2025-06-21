@@ -1020,9 +1020,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png"
   },
   {
-    "name": "Nick HD+ (1080p)",
+    "name": "Nick HD+",
     "type": "Kids",
-    "url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8",
+    "url": "http://103.68.28.58:5001/live/1226.m3u8",
     "img": "https://i.imgur.com/nJPbTet.png"
   },
   {
