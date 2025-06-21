@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-20 21:40:15",
+  "date": "2025-06-21 06:11:58",
   "channels": {
     ".🇹🇷 ULUSAL 🇹🇷 .COM/1.M3U ESKİ USUL": [
       {
@@ -36634,13 +36634,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "http://185.234.111.229:8000/play/a00c"
-      },
-      {
-        "name": "TRT 2",
-        "logo": "https://i.imgur.com/iOCQdyD.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://trt2.blutv.com/blutv_trt2/live.m3u8"
       },
       {
         "name": "TRT 3",
