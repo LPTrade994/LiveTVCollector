@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-21 07:16:18",
+  "date": "2025-06-21 13:56:25",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -731,6 +731,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8"
+      },
+      {
+        "name": "NOVO 19",
+        "logo": "https://i.ibb.co/1t2g7bBq/novo19.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/novo19.ts"
       },
       {
         "name": "TV5MONDE EUROPE [geo-area]",
@@ -3586,14 +3593,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=tXGeZSoym6RJjZt_eg2Skw&e=1750483347"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=SNyI6GOnx_k0nKYj5JUOCw&e=1750501213"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=tXGeZSoym6RJjZt_eg2Skw&e=1750483347"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=SNyI6GOnx_k0nKYj5JUOCw&e=1750501213"
       },
       {
         "name": "TV8",
@@ -3663,13 +3670,6 @@
         "logo": "https://i.ibb.co/d6c87Km/trt122.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "http://89.187.191.41/TRT-1-HD-TR/video.m3u8"
-      },
-      {
-        "name": "TRT 1 (backup)",
-        "logo": "https://i.ibb.co/d6c87Km/trt122.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2"
       },
       {
@@ -3684,14 +3684,14 @@
         "logo": "https://i.ibb.co/d6c87Km/trt122.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://d1u68oyra9spme.cloudfront.net/master.m3u8"
+        "url": "http://89.187.191.41/TRT-1-HD-TR/playlist.m3u8"
       },
       {
         "name": "TRT 1 (backup)",
         "logo": "https://i.ibb.co/d6c87Km/trt122.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8"
+        "url": "http://116.202.238.88/TRT1_TR/index.m3u8"
       },
       {
         "name": "TRT 1 (backup)",
@@ -3705,35 +3705,21 @@
         "logo": "https://i.ibb.co/d6c87Km/trt122.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://c.fulltvizle.com/trt1/index.m3u8"
+        "url": "https://b.fulltvizle.com/trt1/playlist.m3u8"
       },
       {
         "name": "TRT 1 (backup)",
         "logo": "https://i.ibb.co/d6c87Km/trt122.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://rpn3.bozztv.com/dvrfl05/gin-trt1tv/index.m3u8"
+        "url": "https://trn03.tulix.tv/gt-trt1tveu/playlist.m3u8"
       },
       {
         "name": "TRT 1 (backup)",
         "logo": "https://i.ibb.co/d6c87Km/trt122.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://yayin2.canlitv.fun/livetv/trt1.stream/playlist.m3u8"
-      },
-      {
-        "name": "TRT 1 (backup)",
-        "logo": "https://i.ibb.co/d6c87Km/trt122.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://dvrfl05.tulix.tv/gin-trt1eu/index.m3u8"
-      },
-      {
-        "name": "TRT 1 (backup)",
-        "logo": "https://i.ibb.co/d6c87Km/trt122.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://tgn.bozztv.com/dvrfl05/gin-trt1eu/index.m3u8"
+        "url": "https://tgn.bozztv.com/dvrfl05/gin-trt1tveu/playlist.m3u8"
       },
       {
         "name": "KANAL D (backup)",
@@ -11643,14 +11629,14 @@
         "logo": "https://i.ibb.co/rG6KzwsJ/hayah.jpg",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://live20.bozztv.com/gin-36bay4/ga-alhayah/index.m3u8"
+        "url": "https://fl1002.bozztv.com/ga-alhayah/index.m3u8"
       },
       {
         "name": "AL HAYAH SERIES",
         "logo": "https://i.ibb.co/xqPsDy1j/hayahseries.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://live20.bozztv.com/gin-36bay4/ga-alhayahseries/index.m3u8"
+        "url": "https://fl1002.bozztv.com/ga-alhayahseries/index.m3u8"
       },
       {
         "name": "EL MEHWAR TV",
@@ -15480,6 +15466,62 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://s1.ettehadlive.com/live/41/chunklist.m3u8"
+      },
+      {
+        "name": "IRIB 1",
+        "logo": "https://i.ibb.co/tMV7LBL/irib1.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8"
+      },
+      {
+        "name": "IRIB 2",
+        "logo": "https://i.ibb.co/6ndKkPM/irib2.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live-bshto1207.telewebion.com/ek/tv2/live/playlist.m3u8"
+      },
+      {
+        "name": "IRIB 3",
+        "logo": "https://i.ibb.co/4YQsfv9/irib3.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live-bshto1203.telewebion.com/ek/tv3/live/playlist.m3u8"
+      },
+      {
+        "name": "IRIB 4",
+        "logo": "https://i.ibb.co/D5S2Q2z/irib4.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live-bshto1202.telewebion.com/ek/tv4/live/playlist.m3u8"
+      },
+      {
+        "name": "IRIB 5 TEHRAN",
+        "logo": "https://i.ibb.co/Kzb8VkY/irib5.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live-bshto1208.telewebion.com/ek/tehran/live/playlist.m3u8"
+      },
+      {
+        "name": "IRIB IRINN",
+        "logo": "https://i.ibb.co/hVkbvpQ/irinn.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live-bshto1206.telewebion.com/ek/irinn2/live/playlist.m3u8"
+      },
+      {
+        "name": "IRIB IRINN 2",
+        "logo": "https://i.ibb.co/hVkbvpQ/irinn.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live-bshto1206.telewebion.com/ek/irinn/live/playlist.m3u8"
+      },
+      {
+        "name": "SEPEHR",
+        "logo": "https://i.ibb.co/tqkV2sn/irflag.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://live-bshto1204.telewebion.com/ek/sepehr/live/playlist.m3u8"
       },
       {
         "name": "IRIB 1",

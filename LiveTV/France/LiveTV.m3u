@@ -207,6 +207,8 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="Uncategorized",TMC
 https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1t2g7bBq/novo19.png" group-title="Uncategorized",NOVO 19
+https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/novo19.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png" group-title="Uncategorized",TV5MONDE EUROPE [geo-area]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png" group-title="Uncategorized",TV5MONDE MOYEN-ORIENT [geo-area]
@@ -1022,9 +1024,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Uncategorized",SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Uncategorized",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=tXGeZSoym6RJjZt_eg2Skw&e=1750483347
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=SNyI6GOnx_k0nKYj5JUOCw&e=1750501213
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Uncategorized",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=tXGeZSoym6RJjZt_eg2Skw&e=1750483347
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=SNyI6GOnx_k0nKYj5JUOCw&e=1750501213
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Uncategorized",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Uncategorized",TV8
@@ -1044,27 +1046,21 @@ https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Uncategorized",TRT 1 (backup)
 https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Uncategorized",TRT 1 (backup)
-http://89.187.191.41/TRT-1-HD-TR/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Uncategorized",TRT 1 (backup)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Uncategorized",TRT 1 (backup)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Uncategorized",TRT 1 (backup)
-https://d1u68oyra9spme.cloudfront.net/master.m3u8
+http://89.187.191.41/TRT-1-HD-TR/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Uncategorized",TRT 1 (backup)
-https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+http://116.202.238.88/TRT1_TR/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Uncategorized",TRT 1 (backup)
 https://helga.iptv2022.com/sh/trt_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Uncategorized",TRT 1 (backup)
-https://c.fulltvizle.com/trt1/index.m3u8
+https://b.fulltvizle.com/trt1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Uncategorized",TRT 1 (backup)
-https://rpn3.bozztv.com/dvrfl05/gin-trt1tv/index.m3u8
+https://trn03.tulix.tv/gt-trt1tveu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Uncategorized",TRT 1 (backup)
-https://yayin2.canlitv.fun/livetv/trt1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Uncategorized",TRT 1 (backup)
-https://dvrfl05.tulix.tv/gin-trt1eu/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="Uncategorized",TRT 1 (backup)
-https://tgn.bozztv.com/dvrfl05/gin-trt1eu/index.m3u8
+https://tgn.bozztv.com/dvrfl05/gin-trt1tveu/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Uncategorized",KANAL D (backup)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="Uncategorized",KANAL D (backup)
@@ -3324,9 +3320,9 @@ https://media2.livaat.com/AL-Jaleyah/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N2H1qy00/kahera.jpg" group-title="Uncategorized",KAHERA EG
 https://live20.bozztv.com/gin-36bay3/ga-alkahera/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rG6KzwsJ/hayah.jpg" group-title="Uncategorized",AL HAYAH TV
-https://live20.bozztv.com/gin-36bay4/ga-alhayah/index.m3u8
+https://fl1002.bozztv.com/ga-alhayah/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqPsDy1j/hayahseries.png" group-title="Uncategorized",AL HAYAH SERIES
-https://live20.bozztv.com/gin-36bay4/ga-alhayahseries/index.m3u8
+https://fl1002.bozztv.com/ga-alhayahseries/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFjyLpxc/mehwar.jpg" group-title="Uncategorized",EL MEHWAR TV
 https://live20.bozztv.com/gin-36bay4/ga-elmehwar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/21jT7ywt/nahar.jpg" group-title="Uncategorized",AL NAHAR TV
@@ -4421,6 +4417,22 @@ https://s1.ettehadlive.com/live/40/chunklist.m3u8
 https://s1.ettehadlive.com/live/114/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png" group-title="Uncategorized",IRIB 4
 https://s1.ettehadlive.com/live/41/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="Uncategorized",IRIB 1
+https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png" group-title="Uncategorized",IRIB 2
+https://live-bshto1207.telewebion.com/ek/tv2/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png" group-title="Uncategorized",IRIB 3
+https://live-bshto1203.telewebion.com/ek/tv3/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png" group-title="Uncategorized",IRIB 4
+https://live-bshto1202.telewebion.com/ek/tv4/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kzb8VkY/irib5.png" group-title="Uncategorized",IRIB 5 TEHRAN
+https://live-bshto1208.telewebion.com/ek/tehran/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="Uncategorized",IRIB IRINN
+https://live-bshto1206.telewebion.com/ek/irinn2/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="Uncategorized",IRIB IRINN 2
+https://live-bshto1206.telewebion.com/ek/irinn/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tqkV2sn/irflag.png" group-title="Uncategorized",SEPEHR
+https://live-bshto1204.telewebion.com/ek/sepehr/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="Uncategorized",IRIB 1
 https://ncdn.telewebion.com/tv1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png" group-title="Uncategorized",IRIB 2
