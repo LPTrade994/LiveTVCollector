@@ -278,7 +278,7 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/889479
 #EXTINF:-1 tvg-id="SkySport10.de" tvg-name="DE| SKY SPORT 10 HEVC" tvg-logo="http://picons.cmshulk.com/picons/889478.png" group-title="DE| GERMANY HEVC",DE| SKY SPORT 10 HEVC
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/889478
 #EXTINF:-1 tvg-id="SkySportAustria1.at" tvg-name="DE| SKY SPORT AUSTRIA 1 HEVC" tvg-logo="http://picons.cmshulk.com/picons/889477.png" group-title="DE| GERMANY HEVC",DE| SKY SPORT AUSTRIA 1 HEVC
-http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/889477
+
 #EXTINF:-1 tvg-id="SkySportAustria2.at" tvg-name="DE| SKY SPORT AUSTRIA 2 HEVC" tvg-logo="http://picons.cmshulk.com/picons/889476.png" group-title="DE| GERMANY HEVC",DE| SKY SPORT AUSTRIA 2 HEVC
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/889476
 #EXTINF:-1 tvg-id="SkySportAustria3.at" tvg-name="DE| SKY SPORT AUSTRIA 3 HEVC" tvg-logo="http://picons.cmshulk.com/picons/889475.png" group-title="DE| GERMANY HEVC",DE| SKY SPORT AUSTRIA 3 HEVC
@@ -373,29 +373,29 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1836122
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/f67c7d68-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="" tvg-name="###### DISCOVERY+ PPV  ######" tvg-logo="" group-title="DE| DISCOVERY+ PPV",###### DISCOVERY+ PPV  ######
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1633409
-#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 1 - UCI XCC WELTCUP | VAL DI SOLE | FRAUEN ELITE | Fri 20 Jun 17:15 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 1 - UCI XCC WELTCUP | VAL DI SOLE | FRAUEN ELITE | Fri 20 Jun 17:15 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 1 - JAKARTA | 2. FREIES TRAINING | Sat 21 Jun 02:55 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 1 - JAKARTA | 2. FREIES TRAINING | Sat 21 Jun 02:55 | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1633408
 #EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1633407
-#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 3 - BELGIUM TOUR | 3. ETAPPE | Fri 20 Jun 15:29 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 3 - BELGIUM TOUR | 3. ETAPPE | Fri 20 Jun 15:29 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1633406
-#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 4 - WTA BERLIN | VIERTELFINALE | Fri 20 Jun 15:56 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 4 - WTA BERLIN | VIERTELFINALE | Fri 20 Jun 15:56 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1633405
 #EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1633404
 #EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 6 - VUELTA A ESPAÑA | 17. ETAPPE MIT "THE BREAKAWAY" | Wed 04 Sep 14:29" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 6 - VUELTA A ESPAÑA | 17. ETAPPE MIT "THE BREAKAWAY" | Wed 04 Sep 14:29
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1633403
-#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 7 - S. DOUMBIA / F. REBOUL - F. CABRAL / L. MIEDLER | Fri 20 Jun 15:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 7 - S. DOUMBIA / F. REBOUL - F. CABRAL / L. MIEDLER | Fri 20 Jun 15:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1633402
-#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 8 - ALEXANDER BUBLIK - TOMÁŠ MACHÁC | Fri 20 Jun 15:17 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 8 - ALEXANDER BUBLIK - TOMÁŠ MACHÁC | Fri 20 Jun 15:17 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1633401
-#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 9 - ARYNA SABALENKA - ELENA RYBAKINA | Fri 20 Jun 16:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 9 - ARYNA SABALENKA - ELENA RYBAKINA | Fri 20 Jun 16:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1633400
-#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 10 - GLOBAL CHAMPIONS LEAGUE | PARIS   | Fri 20 Jun 16:02 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 10 - GLOBAL CHAMPIONS LEAGUE | PARIS   | Fri 20 Jun 16:02 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1633399
-#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 11 - TOMÁS MARTIN ETCHEVERRY - KAREN KHACHANOV | Fri 20 Jun 16:51 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 11 - TOMÁS MARTIN ETCHEVERRY - KAREN KHACHANOV | Fri 20 Jun 16:51 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1633398
-#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 12 - UCI XCC WELTCUP | VAL DI SOLE | MÄNNER ELITE | Fri 20 Jun 18:03 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 12 - UCI XCC WELTCUP | VAL DI SOLE | MÄNNER ELITE | Fri 20 Jun 18:03 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1633397
 #EXTINF:-1 tvg-id="" tvg-name="DE: D+ PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="DE| DISCOVERY+ PPV",DE: D+ PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1633396
@@ -618,7 +618,7 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/871496
 #EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 15 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-GO-KINDER-3.png" group-title="DE| SKY GO FILME",DE| SKY GO FILME 15 FHD
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/871495
 #EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 16 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-GO-KINDER-3.png" group-title="DE| SKY GO FILME",DE| SKY GO FILME 16 FHD
-http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/871494
+
 #EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 17 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-GO-KINDER-3.png" group-title="DE| SKY GO FILME",DE| SKY GO FILME 17 FHD
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/871493
 #EXTINF:-1 tvg-id="" tvg-name="DE| SKY GO FILME 18 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SKY-GO-KINDER-3.png" group-title="DE| SKY GO FILME",DE| SKY GO FILME 18 FHD
@@ -1350,7 +1350,7 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1236527
 #EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="DE| SKY CINEMA FAMILY HD" tvg-logo="http://103.176.90.118/picons/logos/SKY-CINEMA-FAMILY.png" group-title="DE| SKY GO KINO",DE| SKY CINEMA FAMILY HD
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1236520
 #EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="DE| SKY CINEMA PREMIEREN FHD" tvg-logo="http://picons.cmshulk.com/picons/1236499.png" group-title="DE| SKY GO KINO",DE| SKY CINEMA PREMIEREN FHD
-
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1236499
 #EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="DE| SKY CINEMA PREMIEREN HD" tvg-logo="http://picons.cmshulk.com/picons/1236492.png" group-title="DE| SKY GO KINO",DE| SKY CINEMA PREMIEREN HD
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1236492
 #EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="DE| SKY CINEMA SPECIAL FHD" tvg-logo="http://picons.cmshulk.com/picons/1236485.png" group-title="DE| SKY GO KINO",DE| SKY CINEMA SPECIAL FHD
@@ -2074,7 +2074,7 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/692550
 #EXTINF:-1 tvg-id="" tvg-name="IT| CANALE EUROPA" tvg-logo="http://picons.cmshulk.com/picons/692549.png" group-title="IT| GENERALE",IT| CANALE EUROPA
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/692549
 #EXTINF:-1 tvg-id="" tvg-name="IT| FASHION TV" tvg-logo="http://picons.cmshulk.com/picons/692548.png" group-title="IT| GENERALE",IT| FASHION TV
-http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/692548
+
 #EXTINF:-1 tvg-id="" tvg-name="IT| SOFY.TV" tvg-logo="http://picons.cmshulk.com/picons/692545.png" group-title="IT| GENERALE",IT| SOFY.TV
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/692545
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="IT| RAI PREMIUM SD" tvg-logo="http://picons.cmshulk.com/picons/692544.png" group-title="IT| GENERALE",IT| RAI PREMIUM SD
@@ -2426,7 +2426,7 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/691983
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEMA FILM IN SALA  4K (QUALITA CAMERA)" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CINEMA-DRAMMATICO.png" group-title="IT| CINEMA",IT| CINEMA FILM IN SALA  4K (QUALITA CAMERA)
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/691982
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEMA HORROR 4K" tvg-logo="http://picons.cmshulk.com/picons/691981.png" group-title="IT| CINEMA",IT| CINEMA HORROR 4K
-
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/691981
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEMA MITOLOGIA HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/CINEMA-DRAMMATICO.png" group-title="IT| CINEMA",IT| CINEMA MITOLOGIA HD
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/691980
 #EXTINF:-1 tvg-id="" tvg-name="IT| CINEMA PASSIONE 4K" tvg-logo="http://picons.cmshulk.com/picons/691979.png" group-title="IT| CINEMA",IT| CINEMA PASSIONE 4K
@@ -2869,9 +2869,9 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1630324
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1630323
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN EUROSPORT 1 HD" tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN EUROSPORT 1 HD
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1630322
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 1 - PARIS : ROUND 1 | Fri 20 Jun 14:52 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 1 - PARIS : ROUND 1 | Fri 20 Jun 14:52 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1630321
-#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 2 - SL BENFICA VS. AUCKLAND CITY FC | Fri 20 Jun 16:50 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 2 - SL BENFICA VS. AUCKLAND CITY FC | Fri 20 Jun 16:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 2 - BAYERN MÜNCHEN VS. CA BOCA JUNIORS | Sat 21 Jun 01:50 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 2 - BAYERN MÜNCHEN VS. CA BOCA JUNIORS | Sat 21 Jun 01:50 | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1630320
 #EXTINF:-1 tvg-id="" tvg-name="IT: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/daznppv.png" group-title="IT| DAZN PPV",IT: DAZN PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1630319
@@ -3073,25 +3073,25 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1637125
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1637124
 #EXTINF:-1 tvg-id="" tvg-name="####### PRIME PPV #######" tvg-logo="" group-title="IT| PRIME PPV",####### PRIME PPV #######
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1793365
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 1 - TRAVELERS CHAMPIONSHIP | MARQUEE GROUP 1A PARTE | 2A GIORNATA | Fri 20 Jun 16:25 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 1 - TRAVELERS CHAMPIONSHIP | MARQUEE GROUP 1A PARTE | 2A GIORNATA | Fri 20 Jun 16:25 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 1 - WWE - FRIDAY NIGHT SMACKDOWN IN DIRETTA | Sat 21 Jun 01:55 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 1 - WWE - FRIDAY NIGHT SMACKDOWN IN DIRETTA | Sat 21 Jun 01:55 | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1793364
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 2 - TRAVELERS CHAMPIONSHIP | MAIN FEED 1A PARTE | 2A GIORNATA | Fri 20 Jun 13:55 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 2 - TRAVELERS CHAMPIONSHIP | MAIN FEED 1A PARTE | 2A GIORNATA | Fri 20 Jun 13:55 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 2 - METS AT PHILLIES | Sat 21 Jun 00:30 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 2 - METS AT PHILLIES | Sat 21 Jun 00:30 | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1793363
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 3 - MOUNTAIN BIKE: COPPA DEL MONDO: MOUNTAIN BIKE: VAL DI SOLE : XCC ELITE UOMINI | Fri 20 Jun 17:53 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 3 - MOUNTAIN BIKE: COPPA DEL MONDO: MOUNTAIN BIKE: VAL DI SOLE : XCC ELITE UOMINI | Fri 20 Jun 17:53 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 3 - JAKARTA | PROVE LIBERE 2 MONDIALE | Sat 21 Jun 02:50 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 3 - JAKARTA | PROVE LIBERE 2 MONDIALE | Sat 21 Jun 02:50 | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1793362
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 4 - VAL DI SOLE | XCC ELITE UOMINI WHOOP UCI MOUNTAIN BIKE WORLD SERIES | Fri 20 Jun 17:55 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 4 - VAL DI SOLE | XCC ELITE UOMINI WHOOP UCI MOUNTAIN BIKE WORLD SERIES | Fri 20 Jun 17:55 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 4 - PFL WORLD TOURNAMENT: | Fri 20 Jun 22:57 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 4 - PFL WORLD TOURNAMENT: | Fri 20 Jun 22:57 | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1793361
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 5 - KAULIG COMPANIES CHAMPIONSHIP 3A GIORNATA | Sat 21 Jun 02:55 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 5 - KAULIG COMPANIES CHAMPIONSHIP 3A GIORNATA | Sat 21 Jun 02:55 | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1793360
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 6 - ROYALS AT PADRES | Sat 21 Jun 03:00 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 6 - ROYALS AT PADRES | Sat 21 Jun 03:00 | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1793359
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 7 - PARIGI | GLOBAL CHAMPIONS LEAGUE ROUND 1 | SALTO OSTACOLI | Fri 20 Jun 15:57 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 7 - PARIGI | GLOBAL CHAMPIONS LEAGUE ROUND 1 | SALTO OSTACOLI | Fri 20 Jun 15:57 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1793358
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 8 - TRAVELERS CHAMPIONSHIP | FEATURED GROUPS 1A PARTE | 2A GIORNATA | Fri 20 Jun 16:10 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 8 - TRAVELERS CHAMPIONSHIP | FEATURED GROUPS 1A PARTE | 2A GIORNATA | Fri 20 Jun 16:10 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1793357
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 9 - MOUNTAIN BIKE: COPPA DEL MONDO: MOUNTAIN BIKE: VAL DI SOLE : XCC ELITE DONNE | Fri 20 Jun 17:05 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 9 - MOUNTAIN BIKE: COPPA DEL MONDO: MOUNTAIN BIKE: VAL DI SOLE : XCC ELITE DONNE | Fri 20 Jun 17:05 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1793356
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 10 - VAL DI SOLE | XCC ELITE DONNE WHOOP UCI MOUNTAIN BIKE WORLD SERIES | Fri 20 Jun 17:10 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 10 - VAL DI SOLE | XCC ELITE DONNE WHOOP UCI MOUNTAIN BIKE WORLD SERIES | Fri 20 Jun 17:10 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1793355
 #EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV",IT: PRIME PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1793354
@@ -3175,29 +3175,29 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1793316
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1793315
 #EXTINF:-1 tvg-id="" tvg-name="####### PRIME PPV ᴿᴬᵂ #######" tvg-logo="" group-title="IT| PRIME PPV ᴿᴬᵂ",####### PRIME PPV ᴿᴬᵂ #######
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1791209
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 1 - GIRO DEL BELGIO | 3A TAPPA TESSENDERLO - HAM (CRONOMETRO, 9,7 KM) | Fri 20 Jun 15:15 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 1 - GIRO DEL BELGIO | 3A TAPPA TESSENDERLO - HAM (CRONOMETRO, 9,7 KM) | Fri 20 Jun 15:15 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 1 - WWE - FRIDAY NIGHT SMACKDOWN IN DIRETTA | Sat 21 Jun 01:45 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 1 - WWE - FRIDAY NIGHT SMACKDOWN IN DIRETTA | Sat 21 Jun 01:45 | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1791208
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 2 - TRAVELERS CHAMPIONSHIP | MAIN FEED 1A PARTE | 2A GIORNATA | Fri 20 Jun 13:45 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 2 - TRAVELERS CHAMPIONSHIP | MAIN FEED 1A PARTE | 2A GIORNATA | Fri 20 Jun 13:45 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 2 - JAKARTA | PROVE LIBERE 2 MONDIALE | Sat 21 Jun 02:40 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 2 - JAKARTA | PROVE LIBERE 2 MONDIALE | Sat 21 Jun 02:40 | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1791207
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 3 - MOUNTAIN BIKE: COPPA DEL MONDO: MOUNTAIN BIKE: VAL DI SOLE : XCC ELITE UOMINI | Fri 20 Jun 17:53 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV 3 - MOUNTAIN BIKE: COPPA DEL MONDO: MOUNTAIN BIKE: VAL DI SOLE : XCC ELITE UOMINI | Fri 20 Jun 17:53 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 3 - JAKARTA | PROVE LIBERE 2 MONDIALE | Sat 21 Jun 02:50 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV 3 - JAKARTA | PROVE LIBERE 2 MONDIALE | Sat 21 Jun 02:50 | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1791206
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 4 - VAL DI SOLE | XCC ELITE UOMINI WHOOP UCI MOUNTAIN BIKE WORLD SERIES | Fri 20 Jun 17:55 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV 4 - VAL DI SOLE | XCC ELITE UOMINI WHOOP UCI MOUNTAIN BIKE WORLD SERIES | Fri 20 Jun 17:55 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 4 - PFL WORLD TOURNAMENT: | Fri 20 Jun 22:57 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV 4 - PFL WORLD TOURNAMENT: | Fri 20 Jun 22:57 | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1791205
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV 5 - KAULIG COMPANIES CHAMPIONSHIP 3A GIORNATA | Sat 21 Jun 02:55 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV 5 - KAULIG COMPANIES CHAMPIONSHIP 3A GIORNATA | Sat 21 Jun 02:55 | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1791204
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 6 - GIRO DI SVIZZERA | 6A TAPPA COIRA - NEUHAUSEN AM RHEINFALL (186,7 KM) | Fri 20 Jun 14:35 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 6 - GIRO DI SVIZZERA | 6A TAPPA COIRA - NEUHAUSEN AM RHEINFALL (186,7 KM) | Fri 20 Jun 14:35 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 6 - PFL WORLD TOURNAMENT: | Fri 20 Jun 22:47 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 6 - PFL WORLD TOURNAMENT: | Fri 20 Jun 22:47 | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1791203
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 7 - PARIGI | GLOBAL CHAMPIONS LEAGUE ROUND 1 | SALTO OSTACOLI | Fri 20 Jun 15:47 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 7 - PARIGI | GLOBAL CHAMPIONS LEAGUE ROUND 1 | SALTO OSTACOLI | Fri 20 Jun 15:47 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1791202
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 8 - TRAVELERS CHAMPIONSHIP | FEATURED GROUPS 1A PARTE | 2A GIORNATA | Fri 20 Jun 16:00 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 8 - TRAVELERS CHAMPIONSHIP | FEATURED GROUPS 1A PARTE | 2A GIORNATA | Fri 20 Jun 16:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1791201
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 9 - TRAVELERS CHAMPIONSHIP | MARQUEE GROUP 1A PARTE | 2A GIORNATA | Fri 20 Jun 16:15 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 9 - TRAVELERS CHAMPIONSHIP | MARQUEE GROUP 1A PARTE | 2A GIORNATA | Fri 20 Jun 16:15 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1791200
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 10 - MOUNTAIN BIKE: COPPA DEL MONDO: MOUNTAIN BIKE: VAL DI SOLE : XCC ELITE DONNE | Fri 20 Jun 16:55 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 10 - MOUNTAIN BIKE: COPPA DEL MONDO: MOUNTAIN BIKE: VAL DI SOLE : XCC ELITE DONNE | Fri 20 Jun 16:55 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 10 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 10 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1791199
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 11 - VAL DI SOLE | XCC ELITE DONNE WHOOP UCI MOUNTAIN BIKE WORLD SERIES | Fri 20 Jun 17:00 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 11 - VAL DI SOLE | XCC ELITE DONNE WHOOP UCI MOUNTAIN BIKE WORLD SERIES | Fri 20 Jun 17:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 11 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 11 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1791198
-#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 12 - VAL DI SOLE | XCC ELITE UOMINI WHOOP UCI MOUNTAIN BIKE WORLD SERIES | Fri 20 Jun 17:45 | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 12 - VAL DI SOLE | XCC ELITE UOMINI WHOOP UCI MOUNTAIN BIKE WORLD SERIES | Fri 20 Jun 17:45 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 12 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 12 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1791197
 #EXTINF:-1 tvg-id="" tvg-name="IT: PRIME PPV ᴿᴬᵂ 13 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://picons.cmshulk.com/picons/prime.png" group-title="IT| PRIME PPV ᴿᴬᵂ",IT: PRIME PPV ᴿᴬᵂ 13 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1791196
@@ -4676,7 +4676,7 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/230683
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK| SKY SPORTS MAIN EVENT" tvg-logo="http://picons.cmshulk.com/picons/79476.png" group-title="UK| SPORTS",UK| SKY SPORTS MAIN EVENT
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/79476
 #EXTINF:-1 tvg-id="uk.Sky Sports Premier League" tvg-name="UK| SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="http://picons.cmshulk.com/picons/79473.png" group-title="UK| SPORTS",UK| SKY SPORTS PREMIER LEAGUE FHD
-http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/79473
+
 #EXTINF:-1 tvg-id="SkySportsAction.uk" tvg-name="UK| SKY SPORTS ACTION" tvg-logo="http://picons.cmshulk.com/picons/79482.png" group-title="UK| SPORTS",UK| SKY SPORTS ACTION
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/79482
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK| SKY SPORTS +" tvg-logo="http://picons.cmshulk.com/picons/79481.png" group-title="UK| SPORTS",UK| SKY SPORTS +
@@ -4827,21 +4827,21 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/549409
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/549404
 #EXTINF:-1 tvg-id="" tvg-name="####### DISCOVERY+ PPV #######" tvg-logo="" group-title="UK| DISCOVERY + PPV",####### DISCOVERY+ PPV #######
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1602185
-#EXTINF:-1 tvg-id="" tvg-name="UK: D+ PPV 1 - UCI CROSS-COUNTRY SHORT TRACK WORLD CUP | WOMEN ELITE | VAL DI SOLE | Fri 20 Jun 15:45 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 1 - UCI CROSS-COUNTRY SHORT TRACK WORLD CUP | WOMEN ELITE | VAL DI SOLE | Fri 20 Jun 15:45 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="UK: D+ PPV 1 - KANSAS CITY CURRENT - ANGEL CITY FC | Sat 21 Jun 01:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 1 - KANSAS CITY CURRENT - ANGEL CITY FC | Sat 21 Jun 01:00 | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1602186
-#EXTINF:-1 tvg-id="" tvg-name="UK: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="UK: D+ PPV 2 - JAKARTA | FREE PRACTICE 2 | Sat 21 Jun 01:55 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 2 - JAKARTA | FREE PRACTICE 2 | Sat 21 Jun 01:55 | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1602187
 #EXTINF:-1 tvg-id="" tvg-name="UK: D+ PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1602188
-#EXTINF:-1 tvg-id="" tvg-name="UK: D+ PPV 4 - UCI CROSS-COUNTRY SHORT TRACK WORLD CUP | MEN ELITE | VAL DI SOLE | Fri 20 Jun 17:00 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 4 - UCI CROSS-COUNTRY SHORT TRACK WORLD CUP | MEN ELITE | VAL DI SOLE | Fri 20 Jun 17:00 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="UK: D+ PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1602189
 #EXTINF:-1 tvg-id="" tvg-name="UK: D+ PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1602190
-#EXTINF:-1 tvg-id="" tvg-name="UK: D+ PPV 6 - TOUR OF SWITZERLAND | STAGE 6 | Fri 20 Jun 13:50 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 6 - TOUR OF SWITZERLAND | STAGE 6 | Fri 20 Jun 13:50 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="UK: D+ PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1602191
-#EXTINF:-1 tvg-id="" tvg-name="UK: D+ PPV 7 - TOUR OF BELGIUM | STAGE 3 | Fri 20 Jun 14:30 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 7 - TOUR OF BELGIUM | STAGE 3 | Fri 20 Jun 14:30 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="UK: D+ PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1602192
-#EXTINF:-1 tvg-id="" tvg-name="UK: D+ PPV 8 - JUMPING | PARIS | Fri 20 Jun 15:02 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 8 - JUMPING | PARIS | Fri 20 Jun 15:02 | 8K EXCLUSIVE
+#EXTINF:-1 tvg-id="" tvg-name="UK: D+ PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1602193
 #EXTINF:-1 tvg-id="" tvg-name="UK: D+ PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/USA/DISCOVERY.png" group-title="UK| DISCOVERY + PPV",UK: D+ PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1602194
@@ -5404,11 +5404,9 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1033903
 #EXTINF:-1 tvg-id="" tvg-name="NOR| DISCOVERY HD" tvg-logo="http://picons.cmshulk.com/picons/247407.png" group-title="NORWAY HD & HEVC",NOR| DISCOVERY HD
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/247407
 #EXTINF:-1 tvg-id="DiscoveryScience.no" tvg-name="NOR| DISCOVERY SCIENCE" tvg-logo="http://picons.cmshulk.com/picons/247527.png" group-title="NORWAY HD & HEVC",NOR| DISCOVERY SCIENCE
-
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/247527
 #EXTINF:-1 tvg-id="" tvg-name="NOR| ID INVESTIGATION DISCOVERY" tvg-logo="http://picons.cmshulk.com/picons/247529.png" group-title="NORWAY HD & HEVC",NOR| ID INVESTIGATION DISCOVERY
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/247529
-#EXTINF:-1 tvg-id="" tvg-name="NO: VIAPLAY PPV 6 - MOTOGP ITALIA GRAND PRIX | Fri 20 Jun 14:55 | 8K EXCLUSIVE" tvg-logo="http://103.176.90.118/picons/logos/logos/VIAPLAY.png" group-title="NORWAY VIAPLAY PPV",NO: VIAPLAY PPV 6 - MOTOGP ITALIA GRAND PRIX | Fri 20 Jun 14:55 | 8K EXCLUSIVE
-http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1735572
 #EXTINF:-1 tvg-id="DiscoveryChannel.fi" tvg-name="FIN| DISCOVERY CHANNEL" tvg-logo="http://picons.cmshulk.com/picons/444231.png" group-title="FINLAND HD & HEVC",FIN| DISCOVERY CHANNEL
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/444231
 #EXTINF:-1 tvg-id="" tvg-name="FIN| DISCOVERY SCIENCE" tvg-logo="http://picons.cmshulk.com/picons/444230.png" group-title="FINLAND HD & HEVC",FIN| DISCOVERY SCIENCE
@@ -5536,7 +5534,7 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1599477
 #EXTINF:-1 tvg-id="" tvg-name="BS| DRAMA" tvg-logo="http://103.176.90.118/picons/logos/logos/drama.png" group-title="EXYU| BALKAN SKY 24/7",BS| DRAMA
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1599478
 #EXTINF:-1 tvg-id="" tvg-name="BS| HOROR" tvg-logo="http://picons.cmshulk.com/picons/1599480.png" group-title="EXYU| BALKAN SKY 24/7",BS| HOROR
-
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1599480
 #EXTINF:-1 tvg-id="" tvg-name="BS| KOMEDIJA" tvg-logo="http://picons.cmshulk.com/picons/1599483.png" group-title="EXYU| BALKAN SKY 24/7",BS| KOMEDIJA
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1599483
 #EXTINF:-1 tvg-id="" tvg-name="BS| SCI-FI" tvg-logo="http://picons.cmshulk.com/picons/1599487.png" group-title="EXYU| BALKAN SKY 24/7",BS| SCI-FI
@@ -5612,7 +5610,7 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1846987
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| SPONJE BOB" tvg-logo="http://51.158.145.100/picons/logos/logos/SPONJE-BOB.png" group-title="EXYU| SKY KIDS",EXYU| SPONJE BOB
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1846986
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| TANGLED THE SERIE" tvg-logo="http://51.158.145.100/picons/logos/logos/TANGLED-THE-SERIE.png" group-title="EXYU| SKY KIDS",EXYU| TANGLED THE SERIE
-http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1846985
+
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| THE BATMAN" tvg-logo="http://51.158.145.100/picons/logos/logos/THE-BATMAN.png" group-title="EXYU| SKY KIDS",EXYU| THE BATMAN
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1846984
 #EXTINF:-1 tvg-id="" tvg-name="EXYU| THE FLINTSTONES" tvg-logo="http://51.158.145.100/picons/logos/logos/THE-FLINTSTONES.png" group-title="EXYU| SKY KIDS",EXYU| THE FLINTSTONES
@@ -5848,7 +5846,7 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1741000
 #EXTINF:-1 tvg-id="" tvg-name="RO| TV5 MONDE ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1740999.png" group-title="RO| FOCUS SAT VIP",RO| TV5 MONDE ᴿᴬᵂ
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1740999
 #EXTINF:-1 tvg-id="TVR1.ro" tvg-name="RO| TVR 1 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1740998.png" group-title="RO| FOCUS SAT VIP",RO| TVR 1 ᴿᴬᵂ
-
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1740998
 #EXTINF:-1 tvg-id="TVR2.ro" tvg-name="RO| TVR 2 ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1740997.png" group-title="RO| FOCUS SAT VIP",RO| TVR 2 ᴿᴬᵂ
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1740997
 #EXTINF:-1 tvg-id="" tvg-name="RO| TVR SPORT ᴿᴬᵂ" tvg-logo="http://picons.cmshulk.com/picons/1740996.png" group-title="RO| FOCUS SAT VIP",RO| TVR SPORT ᴿᴬᵂ
@@ -6115,6 +6113,56 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/552832
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/552914
 #EXTINF:-1 tvg-id="MXC| NICKELODEON HD" tvg-name="MXC| NICKELODEON HD" tvg-logo="http://picons.cmshulk.com/picons/552948.png" group-title="LAT| MEXICO",MXC| NICKELODEON HD
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/552948
+#EXTINF:-1 tvg-id="" tvg-name="MXC| CARTOONITO" tvg-logo="http://51.158.145.100/picons/logos/LATINO/CARTOONITO.png" group-title="LAT| MEXICO VIP",MXC| CARTOONITO
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870430
+#EXTINF:-1 tvg-id="" tvg-name="MXC| DISCOVERY CHANNEL" tvg-logo="http://51.158.145.100/picons/logos/LATINO/DISCOVERY-CHANNEL.png" group-title="LAT| MEXICO VIP",MXC| DISCOVERY CHANNEL
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870617
+#EXTINF:-1 tvg-id="" tvg-name="MXC| DISCOVERY CHANNEL HD" tvg-logo="http://51.158.145.100/picons/logos/LATINO/DISCOVERY-CHANNEL.png" group-title="LAT| MEXICO VIP",MXC| DISCOVERY CHANNEL HD
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870618
+#EXTINF:-1 tvg-id="" tvg-name="MXC| DISCOVERY HOME & HEALTH" tvg-logo="http://51.158.145.100/picons/logos/LATINO/DISCOVERY-HOME.png" group-title="LAT| MEXICO VIP",MXC| DISCOVERY HOME & HEALTH
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870285
+#EXTINF:-1 tvg-id="" tvg-name="MXC| DISCOVERY HOME & HEALTH HD" tvg-logo="http://51.158.145.100/picons/logos/LATINO/DISCOVERY-HOME.png" group-title="LAT| MEXICO VIP",MXC| DISCOVERY HOME & HEALTH HD
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1869734
+#EXTINF:-1 tvg-id="" tvg-name="MXC| DISCOVERY KIDS" tvg-logo="http://51.158.145.100/picons/logos/LATINO/DISCOVERY-KIDS.png" group-title="LAT| MEXICO VIP",MXC| DISCOVERY KIDS
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870304
+#EXTINF:-1 tvg-id="" tvg-name="MXC| DISCOVERY SCIENCE" tvg-logo="http://51.158.145.100/picons/logos/LATINO/DISCOVERY-SCIENCE.png" group-title="LAT| MEXICO VIP",MXC| DISCOVERY SCIENCE
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870303
+#EXTINF:-1 tvg-id="" tvg-name="MXC| DISCOVERY SCIENCE HD" tvg-logo="http://51.158.145.100/picons/logos/LATINO/DISCOVERY-SCIENCE.png" group-title="LAT| MEXICO VIP",MXC| DISCOVERY SCIENCE HD
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870302
+#EXTINF:-1 tvg-id="" tvg-name="MXC| DISCOVERY THEATER HD" tvg-logo="http://51.158.145.100/picons/logos/LATINO/DISCOVERY-THEATER.png" group-title="LAT| MEXICO VIP",MXC| DISCOVERY THEATER HD
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1869646
+#EXTINF:-1 tvg-id="" tvg-name="MXC| DISCOVERY TURBO" tvg-logo="http://51.158.145.100/picons/logos/LATINO/DISCOVERY-TURBO.png" group-title="LAT| MEXICO VIP",MXC| DISCOVERY TURBO
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870301
+#EXTINF:-1 tvg-id="" tvg-name="MXC| DISCOVERY TURBO HD" tvg-logo="http://51.158.145.100/picons/logos/LATINO/DISCOVERY-TURBO.png" group-title="LAT| MEXICO VIP",MXC| DISCOVERY TURBO HD
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870300
+#EXTINF:-1 tvg-id="" tvg-name="MXC| DISCOVERY WORLD HD" tvg-logo="http://51.158.145.100/picons/logos/LATINO/DISCOVERY-WORLD.png" group-title="LAT| MEXICO VIP",MXC| DISCOVERY WORLD HD
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1869645
+#EXTINF:-1 tvg-id="" tvg-name="MXC| NICKELODEON" tvg-logo="http://51.158.145.100/picons/logos/LATINO/NICKELODEON.png" group-title="LAT| MEXICO VIP",MXC| NICKELODEON
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870288
+#EXTINF:-1 tvg-id="" tvg-name="MXC| SKY SPORTS 1" tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png" group-title="LAT| MEXICO VIP",MXC| SKY SPORTS 1
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870521
+#EXTINF:-1 tvg-id="" tvg-name="MXC| SKY SPORTS 16" tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png" group-title="LAT| MEXICO VIP",MXC| SKY SPORTS 16
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870520
+#EXTINF:-1 tvg-id="" tvg-name="MXC| SKY SPORTS 21" tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png" group-title="LAT| MEXICO VIP",MXC| SKY SPORTS 21
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870519
+#EXTINF:-1 tvg-id="" tvg-name="MXC| SKY SPORTS 24" tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png" group-title="LAT| MEXICO VIP",MXC| SKY SPORTS 24
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870518
+#EXTINF:-1 tvg-id="" tvg-name="MXC| SKY SPORTS 80" tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png" group-title="LAT| MEXICO VIP",MXC| SKY SPORTS 80
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870949
+#EXTINF:-1 tvg-id="" tvg-name="MXC| SKY SPORTS 81" tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png" group-title="LAT| MEXICO VIP",MXC| SKY SPORTS 81
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870948
+#EXTINF:-1 tvg-id="" tvg-name="MXC| SKY SPORTS 82" tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png" group-title="LAT| MEXICO VIP",MXC| SKY SPORTS 82
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870947
+#EXTINF:-1 tvg-id="" tvg-name="MXC| SKY SPORTS 83" tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png" group-title="LAT| MEXICO VIP",MXC| SKY SPORTS 83
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870946
+#EXTINF:-1 tvg-id="" tvg-name="MXC| SKY SPORTS 84" tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png" group-title="LAT| MEXICO VIP",MXC| SKY SPORTS 84
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870944
+#EXTINF:-1 tvg-id="" tvg-name="MXC| SKY SPORTS 85" tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png" group-title="LAT| MEXICO VIP",MXC| SKY SPORTS 85
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870239
+#EXTINF:-1 tvg-id="" tvg-name="MXC| SKY SPORTS 86" tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png" group-title="LAT| MEXICO VIP",MXC| SKY SPORTS 86
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870238
+#EXTINF:-1 tvg-id="" tvg-name="MXC| SKY SPORTS 87" tvg-logo="http://51.158.145.100/picons/logos/LATINO/SKY-SPORTS.png" group-title="LAT| MEXICO VIP",MXC| SKY SPORTS 87
+http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1870237
 #EXTINF:-1 tvg-id="" tvg-name="CRB| DISCOVERY CHANNEL" tvg-logo="http://picons.cmshulk.com/picons/533652.png" group-title="CRB| CARIBBEAN",CRB| DISCOVERY CHANNEL
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/533652
 #EXTINF:-1 tvg-id="" tvg-name="CRB| DISCOVERY KIDS" tvg-logo="http://picons.cmshulk.com/picons/550743.png" group-title="CRB| CARIBBEAN",CRB| DISCOVERY KIDS
@@ -6130,7 +6178,7 @@ http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/156006
 #EXTINF:-1 tvg-id="" tvg-name="HINDI| DISCOVERY FHD" tvg-logo="http://picons.cmshulk.com/picons/280754.png" group-title="ASIA | INDIA",HINDI| DISCOVERY FHD
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/280754
 #EXTINF:-1 tvg-id="TataSkyBollywoodPremiere.in" tvg-name="HINDI| TATA SKY BOLLYWOOD HD" tvg-logo="http://103.176.90.118/picons/logos/logos/TATA-SKY-BOLLYWOOD.png" group-title="ASIA | INDIA",HINDI| TATA SKY BOLLYWOOD HD
-http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/156028
+
 #EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-name="HINDI| DISCOVERY KIDS HINDI" tvg-logo="http://103.176.90.118/picons/logos/logos/DISCOVERY-KIDS.png" group-title="ASIA | INDIA",HINDI| DISCOVERY KIDS HINDI
 http://line.trx-ott.com:80/1b46c64cd2/1cc1f821cc1f/1540017
 #EXTINF:-1 tvg-id="DiscoveryScience.in" tvg-name="HINDI| DISCOVERY SCIENCE" tvg-logo="http://picons.cmshulk.com/picons/1540018.png" group-title="ASIA | INDIA",HINDI| DISCOVERY SCIENCE
@@ -6626,7 +6674,7 @@ http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/1556478.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ES - Rally Italia Cerdeña Dia2 Stage 5 to 11 [Ingles]" tvg-logo="https://www.sardegnaturismo.it/sites/default/files/styles/evento_top/public/evento_immagine_top/rally_italia_sardegna_2024.jpg?itok=6tGmUdX0" group-title="|ES| SPORTS",ES - Rally Italia Cerdeña Dia2 Stage 5 to 11 [Ingles]
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/1556479.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ES - Rally Italia Cerdeña Dia3 Stage 12 to 16 [Ingles]" tvg-logo="https://www.sardegnaturismo.it/sites/default/files/styles/evento_top/public/evento_immagine_top/rally_italia_sardegna_2024.jpg?itok=6tGmUdX0" group-title="|ES| SPORTS",ES - Rally Italia Cerdeña Dia3 Stage 12 to 16 [Ingles]
-http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/1556480.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="ES - Sky High, una escuela de altos vuelos (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAPIziNoQcktpVZunCbyYSUU99r.jpg" group-title="|ES| DISNEY+",ES - Sky High, una escuela de altos vuelos (2005)
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/1518346.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ES - Ghost Dog, el camino del samurai (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SU8dMEWivBDG7s3LJ7085DQpbN.jpg" group-title="|ES| MAFIA",ES - Ghost Dog, el camino del samurai (1999)
@@ -7100,7 +7148,7 @@ http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/123510.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Glass Onion - Knives Out (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIyiWAJcCIRqb37sUwXvOLoChdE.jpg" group-title="|IT| PELLICOLA 2019/2024",IT - Glass Onion - Knives Out (2022)
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/1082737.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Gli infedeli  (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSArwBuLBAxntwRu66lYpS4SW6d.jpg" group-title="|IT| PELLICOLA 2019/2024",IT - Gli infedeli  (2020)
-http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/838099.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="IT - Gloria Bell" tvg-logo="http://103.176.90.118/images/movies//4dNPpu6AKqciIrZoLnJAE12DW9L.jpg" group-title="|IT| PELLICOLA 2019/2024",IT - Gloria Bell
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/123511.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Godland - Nella terra di Dio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AE7aZUIOqOI2fP5Im2K38MuiZC.jpg" group-title="|IT| PELLICOLA 2019/2024",IT - Godland - Nella terra di Dio (2022)
@@ -7630,7 +7678,7 @@ http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/1334393.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Sorry For Your Loss" tvg-logo="http://103.176.90.118/images/movies//qnzov4Gn2YU97GxwOtk2Qk7LFa4.jpg" group-title="|IT| PELLICOLA 2019/2024",IT - Sorry For Your Loss
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/123598.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Sotto il sole di Riccione  (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6l6uOlFsPtacXnf10I9c9S5ckRm.jpg" group-title="|IT| PELLICOLA 2019/2024",IT - Sotto il sole di Riccione  (2020)
-
+http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/838105.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Specchio, specchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBszLMJWbgsUU0aV2BhJsLvF8gR.jpg" group-title="|IT| PELLICOLA 2019/2024",IT - Specchio, specchio (2022)
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/1041622.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Spinning Man" tvg-logo="http://103.176.90.118/images/movies/lvIIUOoY2PQRQ6syWchzkfNaXT1.jpg" group-title="|IT| PELLICOLA 2019/2024",IT - Spinning Man
@@ -8116,7 +8164,7 @@ http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/781836.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Sono Sartana, il vostro becchino  (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uorI592cXPmZCvv5PX3f13nOyxU.jpg" group-title="|IT| 2018/OLD",IT - Sono Sartana, il vostro becchino  (1969)
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/781830.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Struggle in Italy  (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRDaeYWLeNP8NXxgisDfY4Y73qy.jpg" group-title="|IT| 2018/OLD",IT - Struggle in Italy  (1971)
-
+http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/781838.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Terminator 2 - Shocking dark  (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMbxRIUEDtiI2HDmD76zE2lTuQp.jpg" group-title="|IT| 2018/OLD",IT - Terminator 2 - Shocking dark  (1989)
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/781837.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - The Best Offer (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rHT8tek4qXyVWiqOV3XphA7lz1.jpg" group-title="|IT| 2018/OLD",IT - The Best Offer (2013)
@@ -8130,7 +8178,7 @@ http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/826725.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Una nuvola di polvere… un grido di morte… arriva Sartana  (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6V3ZXqFrOizcjnN33d8ErzWpYrH.jpg" group-title="|IT| 2018/OLD",IT - Una nuvola di polvere… un grido di morte… arriva Sartana  (1970)
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/781833.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Wrecked (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlMaBNaC7FATlWq5lq9LmWijBOe.jpg" group-title="|IT| 2018/OLD",IT - Wrecked (2010)
-
+http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/1050018.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Youth - La giovinezza  (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfJPsZDX4dbTM51X1yyPmZGEPIC.jpg" group-title="|IT| 2018/OLD",IT - Youth - La giovinezza  (2015)
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/775307.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - 2:22 - Il destino è già scritto" tvg-logo="http://103.176.90.118/images/movies//wDODE9dTAEMnGouAeMbUosMyeBB.jpg" group-title="|IT| AVVENTURA/AZIONE",IT - 2:22 - Il destino è già scritto
@@ -8896,11 +8944,11 @@ http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/1475792.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - L'oro del mondo" tvg-logo="http://103.176.90.118/images/movies//xBVIL7mzmKawf5n4x7WrBJ6lCUR.jpg" group-title="|IT| CLASSICO",IT - L'oro del mondo
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/230264.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - L.A. Confidential" tvg-logo="http://103.176.90.118/images/movies//6w1tl5bvnMVc8qenSwqUPFF4MKr.jpg" group-title="|IT| CLASSICO",IT - L.A. Confidential
-
+http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/230222.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - La casa stregata" tvg-logo="http://103.176.90.118/images/movies//47cCpcJKOjLJI4yPIcPphFmXATe.jpg" group-title="|IT| CLASSICO",IT - La casa stregata
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/230220.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Lacrime napulitane" tvg-logo="http://103.176.90.118/images/movies//bm5E3mZfeiBGbqvdK753IBFfQZQ.jpg" group-title="|IT| CLASSICO",IT - Lacrime napulitane
-
+http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/230223.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - La cugina" tvg-logo="http://103.176.90.118/images/movies//lfObCYzFBt4IlmtQgi9yTAEdJ4m.jpg" group-title="|IT| CLASSICO",IT - La cugina
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/230224.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - La Discoteca del Amor" tvg-logo="http://103.176.90.118/images/movies//r6E7UkDyJDRhONOTxp2T3COAUwV.jpg" group-title="|IT| CLASSICO",IT - La Discoteca del Amor
@@ -8938,7 +8986,7 @@ http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/230244.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - La professoressa di lingue" tvg-logo="http://103.176.90.118/images/movies//b8vRBFTBazu26Wx02U2DAHB10f7.jpg" group-title="|IT| CLASSICO",IT - La professoressa di lingue
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/230245.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT  - La resa dei conti (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syRhyeaMeW6tAVYkSK3H0ftHj0g.jpg" group-title="|IT| CLASSICO",IT  - La resa dei conti (1966)
-http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/1050032.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="IT - La ripetente fa l'occhietto al preside" tvg-logo="http://103.176.90.118/images/movies//6yO73FZAM6QXLWhso9Dkq2NK4bf.jpg" group-title="|IT| CLASSICO",IT - La ripetente fa l'occhietto al preside
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/230247.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - La soldatessa alla visita militare" tvg-logo="http://103.176.90.118/images/movies//rnaoW8s6kfdPcDGWi1nTBG8TuOK.jpg" group-title="|IT| CLASSICO",IT - La soldatessa alla visita militare
@@ -9084,7 +9132,7 @@ http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/1134721.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Confess, Fletch (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dqEk1X8rHSOWWfnVEuzgXj24Mr.jpg" group-title="|IT| COMEDIA",IT - Confess, Fletch (2022)
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/1090205.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Confess, Fletch (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYNZ25JCd6DgJYHUfUM3ejsdeU0.jpg" group-title="|IT| COMEDIA",IT - Confess, Fletch (2022)
-
+http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/1173517.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Cuban Fury" tvg-logo="http://103.176.90.118/images/movies//io0LZoCtq63hUWd6d3x5FoalgDj.jpg" group-title="|IT| COMEDIA",IT - Cuban Fury
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/230335.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Dolemite Is My Name" tvg-logo="http://103.176.90.118/images/movies//lIffBhUbhLTtAtTdb5oHHzRy3Da.jpg" group-title="|IT| COMEDIA",IT - Dolemite Is My Name
@@ -9780,7 +9828,7 @@ http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/230601.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Burn - Una notte d'inferno" tvg-logo="http://103.176.90.118/images/movies//ifSMo5x7SDXpettRt8TWY9EOquM.jpg" group-title="|IT| HORROR THRILLER",IT - Burn - Una notte d'inferno
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/230602.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Cannibal Ferox  (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHETu63a12OVKzpv9Qj6dlMu3md.jpg" group-title="|IT| HORROR THRILLER",IT - Cannibal Ferox  (1981)
-http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/784583.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="IT - Cannibal Holocaust  (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8TR9TEePfYCFNvOo85Pwcd5pO5.jpg" group-title="|IT| HORROR THRILLER",IT - Cannibal Holocaust  (1980)
 http://line.trx-ott.com:80/movie/1b46c64cd2/1cc1f821cc1f/775298.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Chokehold (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bW7NgAKpP24skkTjmJxNYWjOwdj.jpg" group-title="|IT| HORROR THRILLER",IT - Chokehold (2023)
@@ -10814,7 +10862,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/578302.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN - Starsky & Hutch (1975) S01 E19" tvg-logo="http://image.tmdb.org/t/p/w185/jJqQnOi6CGJmEG8aAymAeGac27q.jpg" group-title="|EN| ENGLISH SERIES",EN - Starsky & Hutch (1975) S01 E19
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/578313.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN - Starsky & Hutch (1975) S01 E20" tvg-logo="http://image.tmdb.org/t/p/w185/jJqQnOi6CGJmEG8aAymAeGac27q.jpg" group-title="|EN| ENGLISH SERIES",EN - Starsky & Hutch (1975) S01 E20
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/578318.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN - Starsky & Hutch (1975) S01 E21" tvg-logo="http://image.tmdb.org/t/p/w185/jJqQnOi6CGJmEG8aAymAeGac27q.jpg" group-title="|EN| ENGLISH SERIES",EN - Starsky & Hutch (1975) S01 E21
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/578323.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN - Starsky & Hutch (1975) S01 E22" tvg-logo="http://image.tmdb.org/t/p/w185/jJqQnOi6CGJmEG8aAymAeGac27q.jpg" group-title="|EN| ENGLISH SERIES",EN - Starsky & Hutch (1975) S01 E22
@@ -10974,7 +11022,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/681439.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN - Sky Rojo (2021) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="|EN| NETFLIX",EN - Sky Rojo (2021) S01 E01
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/681456.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN - Sky Rojo (2021) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="|EN| NETFLIX",EN - Sky Rojo (2021) S01 E02
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/681441.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="EN - Sky Rojo (2021) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="|EN| NETFLIX",EN - Sky Rojo (2021) S01 E02
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/681458.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN - Sky Rojo (2021) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTFX9V2dct1nKjG6zhNiThPm8Tp.jpg" group-title="|EN| NETFLIX",EN - Sky Rojo (2021) S01 E03
@@ -11234,7 +11282,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/35330.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN - Star Trek: Discovery (2017) S01 E11" tvg-logo="http://103.176.90.118/images/1X9JdQsnwnd7RefnVbx96gnwRXA_small.jpg" group-title="|EN| CBS/PARAMOUNT+",EN - Star Trek: Discovery (2017) S01 E11
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/35331.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN - Star Trek: Discovery (2017) S01 E12" tvg-logo="http://103.176.90.118/images/v4tXsJGFwSNvhOREae72nfeansU_small.jpg" group-title="|EN| CBS/PARAMOUNT+",EN - Star Trek: Discovery (2017) S01 E12
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/35332.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN - Star Trek: Discovery (2017) S01 E13" tvg-logo="http://103.176.90.118/images/tRjmkbbkfMueboO4g72FVuySqxq_small.jpg" group-title="|EN| CBS/PARAMOUNT+",EN - Star Trek: Discovery (2017) S01 E13
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/35333.mkv
 #EXTINF:-1 tvg-id="" tvg-name="EN - Star Trek: Discovery (2017) S01 E14" tvg-logo="http://103.176.90.118/images/4IQLqwohAzzdhCFPn2h7tYaqUmz_small.jpg" group-title="|EN| CBS/PARAMOUNT+",EN - Star Trek: Discovery (2017) S01 E14
@@ -11408,7 +11456,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1847125.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NL - MOBLAND (2025) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/22kcWCxB4bf4ZlKx1UiE1zArFr2.jpg" group-title="|NL| SKY SHOWTIME",NL - MOBLAND (2025) S01 E02
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1847126.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NL - MOBLAND (2025) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/jKXqCG2lyCgWHSRyukpriRzoI14.jpg" group-title="|NL| SKY SHOWTIME",NL - MOBLAND (2025) S01 E03
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1847127.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="NL - MOBLAND (2025) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/vZFTF8722Rb2ERHLzy59kZLCNcO.jpg" group-title="|NL| SKY SHOWTIME",NL - MOBLAND (2025) S01 E04
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1851028.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NL - MOBLAND (2025) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/5qmnYYdQeeDpfo0Y5OxydemNdJl.jpg" group-title="|NL| SKY SHOWTIME",NL - MOBLAND (2025) S01 E05
@@ -11960,7 +12008,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1674738.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - PAW PATROL (2013) S07 E20" tvg-logo="https://image.tmdb.org/t/p/w185/cpe4usu5tQnKFqFY2S437AIsWVP.jpg" group-title="|NL| SKY SHOWTIME",NL - PAW PATROL (2013) S07 E20
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1674739.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - PAW PATROL (2013) S07 E21" tvg-logo="https://image.tmdb.org/t/p/w185/jymKVTLoamW3P4Mel2boEyX2iBf.jpg" group-title="|NL| SKY SHOWTIME",NL - PAW PATROL (2013) S07 E21
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1674740.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="NL - PAW PATROL (2013) S07 E22" tvg-logo="https://image.tmdb.org/t/p/w185/jTRX4MCRo0ywzmyHgkcp6y3pjw7.jpg" group-title="|NL| SKY SHOWTIME",NL - PAW PATROL (2013) S07 E22
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1674741.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - PAW PATROL (2013) S07 E23" tvg-logo="https://image.tmdb.org/t/p/w185/aWcu27HBjhJ4TVjSPtd3svMpwRe.jpg" group-title="|NL| SKY SHOWTIME",NL - PAW PATROL (2013) S07 E23
@@ -12146,7 +12194,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/819584.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - SKY ROJO S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vu2uJEdX3UPcF8NC6wvBXGcsDJ4.jpg" group-title="|NL| NETFLIX",NL - SKY ROJO S02 E08
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/819585.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - FAUDA S04 E09" tvg-logo="https://image.tmdb.org/t/p/w185/z3guEyzD77cjqVZ9S8GuLp1ugkq.jpg" group-title="|NL| NETFLIX",NL - FAUDA S04 E09
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1129458.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="NL - SKY HIGH THE SERIE S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/4QxmchkYq8a9OzksDaFcnPWF80P.jpg" group-title="|NL| NETFLIX",NL - SKY HIGH THE SERIE S01 E01
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1146904.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - SKY HIGH THE SERIE S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/sox4gTEa6nAmy5MxQMktlJqZGHB.jpg" group-title="|NL| NETFLIX",NL - SKY HIGH THE SERIE S01 E02
@@ -12160,7 +12208,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1146908.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - SKY HIGH THE SERIE S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/2RA3XvDF0mWUEr8HSRSaC9i8bqb.jpg" group-title="|NL| NETFLIX",NL - SKY HIGH THE SERIE S01 E06
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1146909.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - SKY HIGH THE SERIE S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/fqdAXYI1RKgnH3Tk9lrwd7gXV31.jpg" group-title="|NL| NETFLIX",NL - SKY HIGH THE SERIE S01 E07
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1146910.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="NL - UNEXPLAINED AND UNEXPLORED S01 E01" tvg-logo="http://103.176.90.118/images/series/ns0ZMNcPlPvjEG8rCxszXnIBQUV.jpg" group-title="|NL| DISCOVERY PLUS",NL - UNEXPLAINED AND UNEXPLORED S01 E01
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/284157.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - UNEXPLAINED AND UNEXPLORED S01 E02" tvg-logo="http://103.176.90.118/images/series/ns0ZMNcPlPvjEG8rCxszXnIBQUV.jpg" group-title="|NL| DISCOVERY PLUS",NL - UNEXPLAINED AND UNEXPLORED S01 E02
@@ -12190,7 +12238,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/650052.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - WE CHILDEREN FROM BAHNHOF ZOO S01 E06" tvg-logo="http://image.tmdb.org/t/p/w154/i599uegofUJNvr8Ky5aNguPOhvq.jpg" group-title="|NL| DISCOVERY PLUS",NL - WE CHILDEREN FROM BAHNHOF ZOO S01 E06
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/650053.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - WE CHILDEREN FROM BAHNHOF ZOO S01 E07" tvg-logo="http://image.tmdb.org/t/p/w154/i599uegofUJNvr8Ky5aNguPOhvq.jpg" group-title="|NL| DISCOVERY PLUS",NL - WE CHILDEREN FROM BAHNHOF ZOO S01 E07
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/650054.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - WE CHILDEREN FROM BAHNHOF ZOO S01 E08" tvg-logo="http://image.tmdb.org/t/p/w154/i599uegofUJNvr8Ky5aNguPOhvq.jpg" group-title="|NL| DISCOVERY PLUS",NL - WE CHILDEREN FROM BAHNHOF ZOO S01 E08
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/650055.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - ANIMAL KINGDOM S01 E01" tvg-logo="http://image.tmdb.org/t/p/w185/wOPVaXMZ61Z0t2QezdQWvZbPCLi.jpg" group-title="|NL| DISCOVERY PLUS",NL - ANIMAL KINGDOM S01 E01
@@ -12596,7 +12644,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1206286.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - 90 DAY FIANCE S02 E02" tvg-logo="https://image.tmdb.org/t/p/w185/vUZ6thqz3XER0ARBjNWfqe1opdK.jpg" group-title="|NL| DISCOVERY PLUS",NL - 90 DAY FIANCE S02 E02
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1206287.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - 90 DAY FIANCE S02 E03" tvg-logo="https://image.tmdb.org/t/p/w185/ipmbgZ0kWzWjgkzFnzdeUgOwLw8.jpg" group-title="|NL| DISCOVERY PLUS",NL - 90 DAY FIANCE S02 E03
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1206288.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - 90 DAY FIANCE S02 E04" tvg-logo="https://image.tmdb.org/t/p/w185/47vXoFpZzA4IQn2oO44h8g7Qbuq.jpg" group-title="|NL| DISCOVERY PLUS",NL - 90 DAY FIANCE S02 E04
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1206289.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - 90 DAY FIANCE S02 E05" tvg-logo="https://image.tmdb.org/t/p/w185/sSa7pLpv03bdV139O9NMryUik32.jpg" group-title="|NL| DISCOVERY PLUS",NL - 90 DAY FIANCE S02 E05
@@ -12930,7 +12978,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1207223.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - RICHARD HAMMONDS WORKSHOP S02 E02" tvg-logo="https://image.tmdb.org/t/p/w185/ommXRriINxkfTepxngcaBA2Yqw4.jpg" group-title="|NL| DISCOVERY PLUS",NL - RICHARD HAMMONDS WORKSHOP S02 E02
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1207224.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - 90DAY THE SINGLE LIFE S01 E01" tvg-logo="https://image.tmdb.org/t/p/w500/rjfFbzDTGxwFszGAb3wEGkVgq3W.jpg" group-title="|NL| DISCOVERY PLUS",NL - 90DAY THE SINGLE LIFE S01 E01
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1208208.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="NL - 90DAY THE SINGLE LIFE S01 E02" tvg-logo="https://image.tmdb.org/t/p/w500/rjfFbzDTGxwFszGAb3wEGkVgq3W.jpg" group-title="|NL| DISCOVERY PLUS",NL - 90DAY THE SINGLE LIFE S01 E02
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1208209.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - 90DAY THE SINGLE LIFE S01 E03" tvg-logo="https://image.tmdb.org/t/p/w500/rjfFbzDTGxwFszGAb3wEGkVgq3W.jpg" group-title="|NL| DISCOVERY PLUS",NL - 90DAY THE SINGLE LIFE S01 E03
@@ -13024,7 +13072,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1236690.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - 90 DAY JOURNEY KENNY AND ARMANDO S01 E06" tvg-logo="https://us1-prod-images.disco-api.com/2021/05/26/87fa605e-ca11-3187-a103-62ba03215c91.jpeg?bf=0&f=jpg&p=true&q=70&w=1920" group-title="|NL| DISCOVERY PLUS",NL - 90 DAY JOURNEY KENNY AND ARMANDO S01 E06
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1236697.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - 90 DAY JOURNEY KENNY AND ARMANDO S01 E07" tvg-logo="https://us1-prod-images.disco-api.com/2021/05/26/87fa605e-ca11-3187-a103-62ba03215c91.jpeg?bf=0&f=jpg&p=true&q=70&w=1920" group-title="|NL| DISCOVERY PLUS",NL - 90 DAY JOURNEY KENNY AND ARMANDO S01 E07
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1236704.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - 90 DAY JOURNEY KENNY AND ARMANDO S01 E08" tvg-logo="https://us1-prod-images.disco-api.com/2021/05/26/87fa605e-ca11-3187-a103-62ba03215c91.jpeg?bf=0&f=jpg&p=true&q=70&w=1920" group-title="|NL| DISCOVERY PLUS",NL - 90 DAY JOURNEY KENNY AND ARMANDO S01 E08
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1236711.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - 90 DAY JOURNEY KENNY AND ARMANDO S01 E09" tvg-logo="https://us1-prod-images.disco-api.com/2021/05/26/87fa605e-ca11-3187-a103-62ba03215c91.jpeg?bf=0&f=jpg&p=true&q=70&w=1920" group-title="|NL| DISCOVERY PLUS",NL - 90 DAY JOURNEY KENNY AND ARMANDO S01 E09
@@ -13210,11 +13258,11 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1318453.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NL - DAS BOOT (2018) S01 E02" tvg-logo="https://fr.web.img6.acsta.net/pictures/22/08/11/10/37/2174048.jpg" group-title="|NL| SKY SHOWTIME",NL - DAS BOOT (2018) S01 E02
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1318454.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NL - DAS BOOT (2018) S01 E03" tvg-logo="https://fr.web.img6.acsta.net/pictures/22/08/11/10/37/2174048.jpg" group-title="|NL| SKY SHOWTIME",NL - DAS BOOT (2018) S01 E03
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1318455.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="NL - DAS BOOT (2018) S01 E04" tvg-logo="https://fr.web.img6.acsta.net/pictures/22/08/11/10/37/2174048.jpg" group-title="|NL| SKY SHOWTIME",NL - DAS BOOT (2018) S01 E04
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1318456.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NL - DAS BOOT (2018) S01 E05" tvg-logo="https://fr.web.img6.acsta.net/pictures/22/08/11/10/37/2174048.jpg" group-title="|NL| SKY SHOWTIME",NL - DAS BOOT (2018) S01 E05
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1318457.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NL - DAS BOOT (2018) S01 E06" tvg-logo="https://fr.web.img6.acsta.net/pictures/22/08/11/10/37/2174048.jpg" group-title="|NL| SKY SHOWTIME",NL - DAS BOOT (2018) S01 E06
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1318458.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NL - DAS BOOT (2018) S01 E07" tvg-logo="https://fr.web.img6.acsta.net/pictures/22/08/11/10/37/2174048.jpg" group-title="|NL| SKY SHOWTIME",NL - DAS BOOT (2018) S01 E07
@@ -13768,7 +13816,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1183407.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - YOUR HONOR S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/qlTcA9mW8wvMlE8DtX6BSkDhP4A.jpg" group-title="|NL| SKY SHOWTIME",NL - YOUR HONOR S01 E07
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1183408.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - YOUR HONOR S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/wws8e2upfRBUSYJOiqEYdynbm5W.jpg" group-title="|NL| SKY SHOWTIME",NL - YOUR HONOR S01 E08
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1183409.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - YOUR HONOR S01 E09" tvg-logo="https://image.tmdb.org/t/p/w185/2k0frC58HRpqhU0HTrS4ZD0Ftro.jpg" group-title="|NL| SKY SHOWTIME",NL - YOUR HONOR S01 E09
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1183410.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - YOUR HONOR S01 E10" tvg-logo="https://image.tmdb.org/t/p/w185/jKJnlAJjwdZexiOdQWg1BH3WNe6.jpg" group-title="|NL| SKY SHOWTIME",NL - YOUR HONOR S01 E10
@@ -13864,7 +13912,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1319302.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NL - YELLOWSTONE (2018) S03 E01" tvg-logo="https://image.tmdb.org/t/p/w185/5wjIsTMk2pl9a0gIVapO7eXNzZL.jpg" group-title="|NL| SKY SHOWTIME",NL - YELLOWSTONE (2018) S03 E01
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1319334.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NL - YELLOWSTONE (2018) S03 E02" tvg-logo="https://image.tmdb.org/t/p/w185/6E2F8x51HSTVDLOmyHaGDLmUkAi.jpg" group-title="|NL| SKY SHOWTIME",NL - YELLOWSTONE (2018) S03 E02
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1319335.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="NL - YELLOWSTONE (2018) S03 E03" tvg-logo="https://image.tmdb.org/t/p/w185/zdzfEoNcZqjlqK5wr1pgZa2ygLl.jpg" group-title="|NL| SKY SHOWTIME",NL - YELLOWSTONE (2018) S03 E03
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1319336.mkv
 #EXTINF:-1 tvg-id="" tvg-name="NL - YELLOWSTONE (2018) S03 E04" tvg-logo="https://image.tmdb.org/t/p/w185/4npiWYsNkRmIZPH2ZBs1WW69I6V.jpg" group-title="|NL| SKY SHOWTIME",NL - YELLOWSTONE (2018) S03 E04
@@ -14978,11 +15026,11 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1684220.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - REASONABLE DOUBT S02 E01" tvg-logo="https://image.tmdb.org/t/p/w185/iwd5CQq4j2cA7ItUbJRyf1kwdIR.jpg" group-title="|NL| SKY SHOWTIME",NL - REASONABLE DOUBT S02 E01
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1684221.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - REASONABLE DOUBT S02 E02" tvg-logo="https://image.tmdb.org/t/p/w185/4KtubgGrYRhtHkSatTyP8peq9e.jpg" group-title="|NL| SKY SHOWTIME",NL - REASONABLE DOUBT S02 E02
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1684222.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="NL - REASONABLE DOUBT S02 E03" tvg-logo="https://image.tmdb.org/t/p/w185/uS2RQN6lRvb7nGLtDz1xNaoVcri.jpg" group-title="|NL| SKY SHOWTIME",NL - REASONABLE DOUBT S02 E03
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1684223.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - REASONABLE DOUBT S02 E04" tvg-logo="https://image.tmdb.org/t/p/w185/dTKYGuMVr1LyZ82M6S7HaLUjOS7.jpg" group-title="|NL| SKY SHOWTIME",NL - REASONABLE DOUBT S02 E04
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1684224.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - REASONABLE DOUBT S02 E05" tvg-logo="https://image.tmdb.org/t/p/w185/mzMqYeFvFE9lfbQRQ28Bp2syudg.jpg" group-title="|NL| SKY SHOWTIME",NL - REASONABLE DOUBT S02 E05
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1684225.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NL - REASONABLE DOUBT S02 E06" tvg-logo="https://image.tmdb.org/t/p/w185/ps8pYvPaN189RYO0kFEAdDj6Go4.jpg" group-title="|NL| SKY SHOWTIME",NL - REASONABLE DOUBT S02 E06
@@ -16220,7 +16268,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/674685.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FR - Sky Rojo S03 E01" tvg-logo="https://image.tmdb.org/t/p/w185/vYPbSsnEenh5n23B4vj9bA01GAn.jpg" group-title="|FR| NETFLIX ACTION",FR - Sky Rojo S03 E01
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1103957.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FR - Sky Rojo S03 E02" tvg-logo="https://image.tmdb.org/t/p/w185/cu6rfyoDz8xXw7uOafEDDsR9FnL.jpg" group-title="|FR| NETFLIX ACTION",FR - Sky Rojo S03 E02
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1103958.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="FR - Sky Rojo S03 E03" tvg-logo="https://image.tmdb.org/t/p/w185/zBN7XzZ98sVFpGUbZHLEwSAh8Rf.jpg" group-title="|FR| NETFLIX ACTION",FR - Sky Rojo S03 E03
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1103959.mkv
 #EXTINF:-1 tvg-id="" tvg-name="FR - Sky Rojo S03 E04" tvg-logo="https://image.tmdb.org/t/p/w185/oPSByp6dvlTszpRJogNhPajXKKI.jpg" group-title="|FR| NETFLIX ACTION",FR - Sky Rojo S03 E04
@@ -16414,7 +16462,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1396404.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ES - Star Trek: Discovery S02 E06" tvg-logo="https://image.tmdb.org/t/p/w185/p7LJCMh8HSHBTdNZpDOecjQYZcL.jpg" group-title="|ES| PARAMOUNT/SKYSHOW",ES - Star Trek: Discovery S02 E06
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1396405.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ES - Star Trek: Discovery S02 E07" tvg-logo="https://image.tmdb.org/t/p/w185/7r3lfBzO8qzrx5hn8NIolNQMGlO.jpg" group-title="|ES| PARAMOUNT/SKYSHOW",ES - Star Trek: Discovery S02 E07
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1396406.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ES - Star Trek: Discovery S02 E08" tvg-logo="https://image.tmdb.org/t/p/w185/lIENcSDSG0O663pPRgwQ3VvqJxT.jpg" group-title="|ES| PARAMOUNT/SKYSHOW",ES - Star Trek: Discovery S02 E08
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1396407.mkv
 #EXTINF:-1 tvg-id="" tvg-name="ES - Star Trek: Discovery S02 E09" tvg-logo="https://image.tmdb.org/t/p/w185/xUkQYXYUk0EZyVIsyh48kWAHylX.jpg" group-title="|ES| PARAMOUNT/SKYSHOW",ES - Star Trek: Discovery S02 E09
@@ -17142,7 +17190,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1085136.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DE - At The Mercy of The Sky (2009) (Ger Sub) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w154/yhgPgwRYRIgyZ1zX7c29hDS9ZZf.jpg" group-title="|DE| ANIME SERIEN (SUB)",DE - At The Mercy of The Sky (2009) (Ger Sub) S01 E03
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1085137.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DE - At The Mercy of The Sky (2009) (Ger Sub) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w154/yhgPgwRYRIgyZ1zX7c29hDS9ZZf.jpg" group-title="|DE| ANIME SERIEN (SUB)",DE - At The Mercy of The Sky (2009) (Ger Sub) S01 E04
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1085138.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DE - At The Mercy of The Sky (2009) (Ger Sub) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w154/yhgPgwRYRIgyZ1zX7c29hDS9ZZf.jpg" group-title="|DE| ANIME SERIEN (SUB)",DE - At The Mercy of The Sky (2009) (Ger Sub) S01 E05
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1085139.mkv
 #EXTINF:-1 tvg-id="" tvg-name="DE - At The Mercy of The Sky (2009) (Ger Sub) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w154/yhgPgwRYRIgyZ1zX7c29hDS9ZZf.jpg" group-title="|DE| ANIME SERIEN (SUB)",DE - At The Mercy of The Sky (2009) (Ger Sub) S01 E06
@@ -17764,7 +17812,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1824172.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Pretty Little Liars (2010) S03 E18" tvg-logo="https://image.tmdb.org/t/p/w185/AkDrLo54HVLOjMhmOmeymK7ndKX.jpg" group-title="|IT| ITALIAN SERIES",IT - Pretty Little Liars (2010) S03 E18
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1824164.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Pretty Little Liars (2010) S03 E19" tvg-logo="https://image.tmdb.org/t/p/w185/l7PbehmA8NH8hJPIXnudeZPs2c9.jpg" group-title="|IT| ITALIAN SERIES",IT - Pretty Little Liars (2010) S03 E19
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1824161.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="IT - Pretty Little Liars (2010) S03 E20" tvg-logo="https://image.tmdb.org/t/p/w185/oW7ou5MjVrN7F8wJAim4tUocD.jpg" group-title="|IT| ITALIAN SERIES",IT - Pretty Little Liars (2010) S03 E20
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1824130.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Pretty Little Liars (2010) S03 E21" tvg-logo="https://image.tmdb.org/t/p/w185/pLPcvvZmzLvFvxtdQJezLfOpsZe.jpg" group-title="|IT| ITALIAN SERIES",IT - Pretty Little Liars (2010) S03 E21
@@ -17868,7 +17916,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1824225.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Pretty Little Liars (2010) S05 E22" tvg-logo="https://image.tmdb.org/t/p/w185/jntEyA08eTYO5vJdbS0mETiDJmx.jpg" group-title="|IT| ITALIAN SERIES",IT - Pretty Little Liars (2010) S05 E22
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1824148.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Pretty Little Liars (2010) S05 E23" tvg-logo="https://image.tmdb.org/t/p/w185/6zizAOdlkqsjzpnI70JXQx2HLe6.jpg" group-title="|IT| ITALIAN SERIES",IT - Pretty Little Liars (2010) S05 E23
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1824181.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Pretty Little Liars (2010) S05 E24" tvg-logo="https://image.tmdb.org/t/p/w185/nKW3BDkCZd3CdRI8CxUf8SSv7YS.jpg" group-title="|IT| ITALIAN SERIES",IT - Pretty Little Liars (2010) S05 E24
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1824178.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Pretty Little Liars (2010) S05 E25" tvg-logo="https://image.tmdb.org/t/p/w185/exs5CCLBQP6Xj3tGkqDOCYm68V1.jpg" group-title="|IT| ITALIAN SERIES",IT - Pretty Little Liars (2010) S05 E25
@@ -18182,7 +18230,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1824016.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Perry Mason (2020) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/6RlZh65p6b0SmoO1NgAWmVaFEAb.jpg" group-title="|IT| ITALIAN SERIES",IT - Perry Mason (2020) S01 E08
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1824017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Penny Dreadful (2014) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/bzbNmRQQybjC7STl2sQcnVebqJB.jpg" group-title="|IT| ITALIAN SERIES",IT - Penny Dreadful (2014) S01 E01
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1823992.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="IT - Penny Dreadful (2014) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/v6uaIuTY3O5skGfws63sYNnEdAi.jpg" group-title="|IT| ITALIAN SERIES",IT - Penny Dreadful (2014) S01 E02
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1824004.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Penny Dreadful (2014) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/p8V1P7oAym6VqS7XdhGxKQTfQ72.jpg" group-title="|IT| ITALIAN SERIES",IT - Penny Dreadful (2014) S01 E03
@@ -18874,7 +18922,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1823715.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Love Bugs (2004) S02 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ug2RTZtpcgiQinA8cJblMPWeH3h.jpg" group-title="|IT| ITALIAN SERIES",IT - Love Bugs (2004) S02 E95
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1823716.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Love Bugs (2004) S02 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ug2RTZtpcgiQinA8cJblMPWeH3h.jpg" group-title="|IT| ITALIAN SERIES",IT - Love Bugs (2004) S02 E96
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1823717.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Love Bugs (2004) S02 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ug2RTZtpcgiQinA8cJblMPWeH3h.jpg" group-title="|IT| ITALIAN SERIES",IT - Love Bugs (2004) S02 E97
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1823718.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Love Bugs (2004) S02 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ug2RTZtpcgiQinA8cJblMPWeH3h.jpg" group-title="|IT| ITALIAN SERIES",IT - Love Bugs (2004) S02 E98
@@ -19350,7 +19398,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1823058.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - La tata (1993) S03 E26" tvg-logo="https://image.tmdb.org/t/p/w185/4tpTpTZbaxXu6Qs5kLPx0DIkev7.jpg" group-title="|IT| ITALIAN SERIES",IT - La tata (1993) S03 E26
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1823134.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - La tata (1993) S04 E01" tvg-logo="https://image.tmdb.org/t/p/w185/nMNwKjxlXw3mukH1rNIaxVdM9Es.jpg" group-title="|IT| ITALIAN SERIES",IT - La tata (1993) S04 E01
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1823148.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="IT - La tata (1993) S04 E02" tvg-logo="https://image.tmdb.org/t/p/w185/iHrbKnJlLGjdn5mahlg7I9iMJ0F.jpg" group-title="|IT| ITALIAN SERIES",IT - La tata (1993) S04 E02
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1823172.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - La tata (1993) S04 E03" tvg-logo="https://image.tmdb.org/t/p/w185/1A7YMX9p3p7RoEG4DIcRGSpbnXw.jpg" group-title="|IT| ITALIAN SERIES",IT - La tata (1993) S04 E03
@@ -19790,7 +19838,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1822900.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - I racconti delle Tartarughe Ninja (2024) S01 E12" tvg-logo="https://image.tmdb.org/t/p/w185/7Futuh0eBSiZd97r6vEJvMyyEV9.jpg" group-title="|IT| ITALIAN SERIES",IT - I racconti delle Tartarughe Ninja (2024) S01 E12
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1822901.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - I grandi sognatori (2021) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/vRghcNb3rxMEF9Li8ZwHvPT4NmW.jpg" group-title="|IT| ITALIAN SERIES",IT - I grandi sognatori (2021) S01 E01
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1822884.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="IT - I grandi sognatori (2021) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/nS56GPw5RmDUHVkRB80UNDzPNxf.jpg" group-title="|IT| ITALIAN SERIES",IT - I grandi sognatori (2021) S01 E02
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1822885.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - I grandi sognatori (2021) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/228RrcAgM984EdNFZbKV2YPEpNO.jpg" group-title="|IT| ITALIAN SERIES",IT - I grandi sognatori (2021) S01 E03
@@ -20180,7 +20228,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1822709.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Hell on Wheels (2011) S03 E10" tvg-logo="https://image.tmdb.org/t/p/w185/91TSnuCFkry7N9gQM0TW2y8I4hk.jpg" group-title="|IT| ITALIAN SERIES",IT - Hell on Wheels (2011) S03 E10
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1822697.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Hell on Wheels (2011) S04 E01" tvg-logo="https://image.tmdb.org/t/p/w185/yRfRjcafBY0gGFSgDFEKH7cOxv5.jpg" group-title="|IT| ITALIAN SERIES",IT - Hell on Wheels (2011) S04 E01
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1822680.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Hell on Wheels (2011) S04 E02" tvg-logo="https://image.tmdb.org/t/p/w185/kh21KGmBpa9L3HDDN2YJQSTMX0p.jpg" group-title="|IT| ITALIAN SERIES",IT - Hell on Wheels (2011) S04 E02
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1822706.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Hell on Wheels (2011) S04 E03" tvg-logo="https://image.tmdb.org/t/p/w185/ye3QybGNKnLClurQNlCt3FH5dbK.jpg" group-title="|IT| ITALIAN SERIES",IT - Hell on Wheels (2011) S04 E03
@@ -20438,7 +20486,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1822611.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Grey's Anatomy (2005) S05 E18" tvg-logo="https://image.tmdb.org/t/p/w185/gEY0ZFmu9bYzPvQU9baxnDlXNYw.jpg" group-title="|IT| ITALIAN SERIES",IT - Grey's Anatomy (2005) S05 E18
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1822602.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Grey's Anatomy (2005) S05 E19" tvg-logo="https://image.tmdb.org/t/p/w185/jMzfmT3lBVCM7YirhslYzhQZBHI.jpg" group-title="|IT| ITALIAN SERIES",IT - Grey's Anatomy (2005) S05 E19
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1822478.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="IT - Grey's Anatomy (2005) S05 E20" tvg-logo="https://image.tmdb.org/t/p/w185/jsqPbMQOCbxleMYdSYrJxo2UNu3.jpg" group-title="|IT| ITALIAN SERIES",IT - Grey's Anatomy (2005) S05 E20
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1822375.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Grey's Anatomy (2005) S05 E21" tvg-logo="https://image.tmdb.org/t/p/w185/9dd1yZpet5Ro4NUAx71Ub90g3C0.jpg" group-title="|IT| ITALIAN SERIES",IT - Grey's Anatomy (2005) S05 E21
@@ -21200,7 +21248,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1822182.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Grace and Frankie (2015) S06 E13" tvg-logo="https://image.tmdb.org/t/p/w185/bybHikKtVysGwDaNUWk26ZQ0ryq.jpg" group-title="|IT| ITALIAN SERIES",IT - Grace and Frankie (2015) S06 E13
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1822192.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Gotham (2014) S01 E00" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wt3uwxSKbMg5ZNJBUOrsJoDnNWX.jpg" group-title="|IT| ITALIAN SERIES",IT - Gotham (2014) S01 E00
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1822168.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Gotham (2014) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/yQKuW0jqdVy5ENGlvcKsB82IWwY.jpg" group-title="|IT| ITALIAN SERIES",IT - Gotham (2014) S01 E01
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1822129.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Gotham (2014) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/aNr0SSWvVYOsZWfkgB8XGKjzlJv.jpg" group-title="|IT| ITALIAN SERIES",IT - Gotham (2014) S01 E02
@@ -21582,7 +21630,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821969.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Fringe (2008) S03 E02" tvg-logo="https://image.tmdb.org/t/p/w185/6RNvFFtpR4jtYHXapqriKtpes72.jpg" group-title="|IT| ITALIAN SERIES",IT - Fringe (2008) S03 E02
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821955.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Fringe (2008) S03 E03" tvg-logo="https://image.tmdb.org/t/p/w185/zMUtUSYtTNgjNuOaESJmm9ANZN9.jpg" group-title="|IT| ITALIAN SERIES",IT - Fringe (2008) S03 E03
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821981.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Fringe (2008) S03 E04" tvg-logo="https://image.tmdb.org/t/p/w185/3jqrp5P5uK6BRHfJh2ph3ZjSav3.jpg" group-title="|IT| ITALIAN SERIES",IT - Fringe (2008) S03 E04
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821992.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Fringe (2008) S03 E05" tvg-logo="https://image.tmdb.org/t/p/w185/7rFeOliIvS9Oc7ukQsfj9mm9XDB.jpg" group-title="|IT| ITALIAN SERIES",IT - Fringe (2008) S03 E05
@@ -21652,7 +21700,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821950.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Fringe (2008) S04 E15" tvg-logo="https://image.tmdb.org/t/p/w185/h0GLB47bCLoXAjVvNOdCA1cAN60.jpg" group-title="|IT| ITALIAN SERIES",IT - Fringe (2008) S04 E15
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821916.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Fringe (2008) S04 E16" tvg-logo="https://image.tmdb.org/t/p/w185/kaP40cSRdzH3btRpCDYQWiKFFSE.jpg" group-title="|IT| ITALIAN SERIES",IT - Fringe (2008) S04 E16
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821966.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="IT - Fringe (2008) S04 E17" tvg-logo="https://image.tmdb.org/t/p/w185/noPYjbUAXURqE7fXjOkAGiX2vG1.jpg" group-title="|IT| ITALIAN SERIES",IT - Fringe (2008) S04 E17
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821968.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Fringe (2008) S04 E18" tvg-logo="https://image.tmdb.org/t/p/w185/3iIbjQi2EZC06RAfr5PijQyG0aq.jpg" group-title="|IT| ITALIAN SERIES",IT - Fringe (2008) S04 E18
@@ -22056,7 +22104,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821614.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Disincanto (2018) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/lj2NhGoCwevrGchPqPRohQNZq4a.jpg" group-title="|IT| ITALIAN SERIES",IT - Disincanto (2018) S01 E06
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821606.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Disincanto (2018) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/oANmmxY2oxRXSux9smrOxAva1OW.jpg" group-title="|IT| ITALIAN SERIES",IT - Disincanto (2018) S01 E07
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821602.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="IT - Disincanto (2018) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/6QoLruXaiPYBtAq0gTII9EityFl.jpg" group-title="|IT| ITALIAN SERIES",IT - Disincanto (2018) S01 E08
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821597.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Disincanto (2018) S01 E09" tvg-logo="https://image.tmdb.org/t/p/w185/dNBGxA5uJpbbaUuH3EOUPzKYpVA.jpg" group-title="|IT| ITALIAN SERIES",IT - Disincanto (2018) S01 E09
@@ -22744,7 +22792,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821276.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Ash vs Evil Dead (2015) S03 E01" tvg-logo="https://image.tmdb.org/t/p/w185/oNV1srvQs4MO9CSwJkYcVgVDhNo.jpg" group-title="|IT| ITALIAN SERIES",IT - Ash vs Evil Dead (2015) S03 E01
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821269.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Ash vs Evil Dead (2015) S03 E02" tvg-logo="https://image.tmdb.org/t/p/w185/zZtRskxwOeNF50C84o0eQHb6o16.jpg" group-title="|IT| ITALIAN SERIES",IT - Ash vs Evil Dead (2015) S03 E02
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821252.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Ash vs Evil Dead (2015) S03 E03" tvg-logo="https://image.tmdb.org/t/p/w185/wrGvPDO1VHWhVyk3o72awYYE0PN.jpg" group-title="|IT| ITALIAN SERIES",IT - Ash vs Evil Dead (2015) S03 E03
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821271.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Ash vs Evil Dead (2015) S03 E04" tvg-logo="https://image.tmdb.org/t/p/w185/j0o40WDJHGU8oHHHApooqMAHezA.jpg" group-title="|IT| ITALIAN SERIES",IT - Ash vs Evil Dead (2015) S03 E04
@@ -22786,7 +22834,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821219.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - American Vandal (2017) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/o4Rd1N7Ds5O9ljnetcS1g7iXeuk.jpg" group-title="|IT| ITALIAN SERIES",IT - American Vandal (2017) S01 E04
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821232.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - American Vandal (2017) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/s9U9I1B8qS1l34e7yJYAXHDdcW.jpg" group-title="|IT| ITALIAN SERIES",IT - American Vandal (2017) S01 E05
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821229.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="IT - American Vandal (2017) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/9c0R20Y1fmPo4ch4uAvpIgdddc7.jpg" group-title="|IT| ITALIAN SERIES",IT - American Vandal (2017) S01 E06
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821225.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - American Vandal (2017) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/pvJKMyhZR7H1HIrg8UsOL22cfHe.jpg" group-title="|IT| ITALIAN SERIES",IT - American Vandal (2017) S01 E07
@@ -22900,7 +22948,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821120.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - All American (2018) S02 E14" tvg-logo="https://image.tmdb.org/t/p/w185/rLbReuL9JUlyV2pj29PpkFxyOUG.jpg" group-title="|IT| ITALIAN SERIES",IT - All American (2018) S02 E14
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821148.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - All American (2018) S02 E15" tvg-logo="https://image.tmdb.org/t/p/w185/ecIDcXacwRiWPdjMd99FI4CBeKJ.jpg" group-title="|IT| ITALIAN SERIES",IT - All American (2018) S02 E15
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821124.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="IT - All American (2018) S02 E16" tvg-logo="https://image.tmdb.org/t/p/w185/ymgu9C7RHIFPW5WJ9cCkWqcH1ek.jpg" group-title="|IT| ITALIAN SERIES",IT - All American (2018) S02 E16
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1821110.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - All American (2018) S03 E01" tvg-logo="https://image.tmdb.org/t/p/w185/kOC4qxGNCzmy3X6YAmCt2KLwOxw.jpg" group-title="|IT| ITALIAN SERIES",IT - All American (2018) S03 E01
@@ -23398,7 +23446,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1641267.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - I Griffin (1999) S09 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IwwpmNmOta9UDz5gfvSokPFELL.jpg" group-title="|IT| ITALIAN SERIES",IT - I Griffin (1999) S09 E21
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1641268.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - I Griffin (1999) S10 E01" tvg-logo="https://image.tmdb.org/t/p/w185/8tQpqmgCU3vTbIB2tBrj9FzmsBt.jpg" group-title="|IT| ITALIAN SERIES",IT - I Griffin (1999) S10 E01
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1641057.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - I Griffin (1999) S10 E02" tvg-logo="https://image.tmdb.org/t/p/w185/mtuUAvTsaXHTMrYTmFEBdm0u5RD.jpg" group-title="|IT| ITALIAN SERIES",IT - I Griffin (1999) S10 E02
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1641068.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - I Griffin (1999) S10 E03" tvg-logo="https://image.tmdb.org/t/p/w185/4XTYPhqPjHLejdeW3PaRwBw2z9f.jpg" group-title="|IT| ITALIAN SERIES",IT - I Griffin (1999) S10 E03
@@ -24154,7 +24202,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1049698.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Inside Man S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/4MBqIv56XBT0oVvkxI2B0iwnIzy.jpg" group-title="|IT| ITALIAN SERIES",IT - Inside Man S01 E02
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1049699.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Inside Man S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/cMnuJL9UY22zb97ERvcmXdCVpQD.jpg" group-title="|IT| ITALIAN SERIES",IT - Inside Man S01 E03
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1049700.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Inside Man S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/raVbhLScPKqH3seFu4H1RkIZ46y.jpg" group-title="|IT| ITALIAN SERIES",IT - Inside Man S01 E04
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1049701.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Il nome della rosa S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/1PuffXgE5ju5OFAmzN3oDwtHGIa.jpg" group-title="|IT| ITALIAN SERIES",IT - Il nome della rosa S01 E01
@@ -24534,7 +24582,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1067724.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Game of thrones - Il Trono di Spade S08 E02" tvg-logo="https://image.tmdb.org/t/p/w185/vJ8H9WtzbJGfArfdycc4nagQVRU.jpg" group-title="|IT| ITALIAN SERIES",IT - Game of thrones - Il Trono di Spade S08 E02
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1067725.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Game of thrones - Il Trono di Spade S08 E03" tvg-logo="https://image.tmdb.org/t/p/w185/k69MmmwXIy1ywEQDZME4des9aRJ.jpg" group-title="|IT| ITALIAN SERIES",IT - Game of thrones - Il Trono di Spade S08 E03
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1067726.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="IT - Game of thrones - Il Trono di Spade S08 E04" tvg-logo="https://image.tmdb.org/t/p/w185/qe508xwVVO7cF2oWzfJp52StkTk.jpg" group-title="|IT| ITALIAN SERIES",IT - Game of thrones - Il Trono di Spade S08 E04
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1067727.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Game of thrones - Il Trono di Spade S08 E05" tvg-logo="https://image.tmdb.org/t/p/w185/uywdij22Ts375EtYOB6TB4JVJKf.jpg" group-title="|IT| ITALIAN SERIES",IT - Game of thrones - Il Trono di Spade S08 E05
@@ -24598,7 +24646,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1067783.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Strada senza uscita S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/7R5D86VqddJlhIxRoAn3JU680nC.jpg" group-title="|IT| ITALIAN SERIES",IT - Strada senza uscita S01 E06
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1067784.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Limbo S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/hZJ0pLgATFn33IZQ8pELpt3TdBR.jpg" group-title="|IT| ITALIAN SERIES",IT - Limbo S01 E01
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1067791.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="IT - Limbo S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/f6Qw31BJZejG5kb1Fcwy8txkdAT.jpg" group-title="|IT| ITALIAN SERIES",IT - Limbo S01 E02
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1067792.mkv
 #EXTINF:-1 tvg-id="" tvg-name="IT - Limbo S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/bw5sqeTqnN2mHhpbVrY69w2UxpH.jpg" group-title="|IT| ITALIAN SERIES",IT - Limbo S01 E03
@@ -25110,7 +25158,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1079094.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Cowboy Bebop S01 E21" tvg-logo="https://image.tmdb.org/t/p/w185/7CUd3Ms1vkn3SnFc2rMulthyjCK.jpg" group-title="|IT| ITALIAN SERIES",IT - Cowboy Bebop S01 E21
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1079095.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Cowboy Bebop S01 E22" tvg-logo="https://image.tmdb.org/t/p/w185/fiyMaj6lodCwnfvQUZ3cXK5aIwV.jpg" group-title="|IT| ITALIAN SERIES",IT - Cowboy Bebop S01 E22
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1079096.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Cowboy Bebop S01 E23" tvg-logo="https://image.tmdb.org/t/p/w185/hpeITuE5yHvv46ZAuVu9kXVSQn1.jpg" group-title="|IT| ITALIAN SERIES",IT - Cowboy Bebop S01 E23
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1079097.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Cowboy Bebop S01 E24" tvg-logo="https://image.tmdb.org/t/p/w185/wsNWFPXs5rLRY4tuxluSCnMSrZa.jpg" group-title="|IT| ITALIAN SERIES",IT - Cowboy Bebop S01 E24
@@ -25530,7 +25578,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1482877.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Mare Fuori S04 E02" tvg-logo="https://image.tmdb.org/t/p/w185/aFOtq5MWhS8zVUohHerTGMAxGFF.jpg" group-title="|IT| ITALIAN SERIES",IT - Mare Fuori S04 E02
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1482878.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Mare Fuori S04 E03" tvg-logo="https://image.tmdb.org/t/p/w185/8kquyja1wq6xVEx45Yt243OJPQI.jpg" group-title="|IT| ITALIAN SERIES",IT - Mare Fuori S04 E03
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1482879.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Mare Fuori S04 E04" tvg-logo="https://image.tmdb.org/t/p/w185/1LdmloEwZ3o7H9yS2w5LgY3o08u.jpg" group-title="|IT| ITALIAN SERIES",IT - Mare Fuori S04 E04
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1482880.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Mare Fuori S04 E05" tvg-logo="https://image.tmdb.org/t/p/w185/1k2baVdAegaBlwD96WOHRePc0AW.jpg" group-title="|IT| ITALIAN SERIES",IT - Mare Fuori S04 E05
@@ -25808,7 +25856,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1143637.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Breaking Bad - Reazioni collaterali S04 E08" tvg-logo="https://image.tmdb.org/t/p/w185/kWtsoaPAdfPXEfqufwA44tr9bp6.jpg" group-title="|IT| ITALIAN SERIES",IT - Breaking Bad - Reazioni collaterali S04 E08
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1143638.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Breaking Bad - Reazioni collaterali S04 E09" tvg-logo="https://image.tmdb.org/t/p/w185/qvwD4XVrL1nQO1CjWAFEuF6Dv8V.jpg" group-title="|IT| ITALIAN SERIES",IT - Breaking Bad - Reazioni collaterali S04 E09
-
+http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1143639.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Breaking Bad - Reazioni collaterali S04 E10" tvg-logo="https://image.tmdb.org/t/p/w185/bo5DfMtWPaNYhw7OIUkk9MLal7S.jpg" group-title="|IT| ITALIAN SERIES",IT - Breaking Bad - Reazioni collaterali S04 E10
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1143640.mp4
 #EXTINF:-1 tvg-id="" tvg-name="IT - Breaking Bad - Reazioni collaterali S04 E11" tvg-logo="https://image.tmdb.org/t/p/w185/xMR8o7N4ZBacim1druJ6PanTlPQ.jpg" group-title="|IT| ITALIAN SERIES",IT - Breaking Bad - Reazioni collaterali S04 E11
@@ -26540,7 +26588,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1182855.avi
 #EXTINF:-1 tvg-id="" tvg-name="IT - La casa nella prateria S09 E15" tvg-logo="https://image.tmdb.org/t/p/w185/2MISEwggaMeBdzlfQtXYgbx1ob7.jpg" group-title="|IT| ITALIAN SERIES",IT - La casa nella prateria S09 E15
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1182856.avi
 #EXTINF:-1 tvg-id="" tvg-name="IT - La casa nella prateria S09 E16" tvg-logo="https://image.tmdb.org/t/p/w185/kjbLAYmvMAEdnHEkKhtU9pC7cfk.jpg" group-title="|IT| ITALIAN SERIES",IT - La casa nella prateria S09 E16
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1182857.avi
+
 #EXTINF:-1 tvg-id="" tvg-name="IT - La casa nella prateria S09 E17" tvg-logo="https://image.tmdb.org/t/p/w185/4m8i5fYT1wJmB2EinY2QSdwjDo0.jpg" group-title="|IT| ITALIAN SERIES",IT - La casa nella prateria S09 E17
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/1182858.avi
 #EXTINF:-1 tvg-id="" tvg-name="IT - La casa nella prateria S09 E18" tvg-logo="https://image.tmdb.org/t/p/w185/1fRfdHjGzR98gQ5sTJFdCQ6c88u.jpg" group-title="|IT| ITALIAN SERIES",IT - La casa nella prateria S09 E18
@@ -27674,7 +27722,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/175397.mp4
 #EXTINF:-1 tvg-id="" tvg-name="[SE] Star Trek: Discovery S02 E08" tvg-logo="http://103.176.90.118:80/images/series/lIENcSDSG0O663pPRgwQ3VvqJxT.jpg" group-title="|SE| SWEDISH SERIES",[SE] Star Trek: Discovery S02 E08
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/175398.mp4
 #EXTINF:-1 tvg-id="" tvg-name="[SE] Star Trek: Discovery S02 E09" tvg-logo="http://103.176.90.118:80/images/series/xUkQYXYUk0EZyVIsyh48kWAHylX.jpg" group-title="|SE| SWEDISH SERIES",[SE] Star Trek: Discovery S02 E09
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/175399.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="[SE] Star Trek: Discovery S02 E10" tvg-logo="http://103.176.90.118:80/images/series/v4qsjzl7EMsVKBxa87oImMu0dGz.jpg" group-title="|SE| SWEDISH SERIES",[SE] Star Trek: Discovery S02 E10
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/175400.mp4
 #EXTINF:-1 tvg-id="" tvg-name="[SE] Star Trek: Discovery S02 E11" tvg-logo="http://103.176.90.118:80/images/series/bs6MVPyHp5vddM2d1TsscqPkvK7.jpg" group-title="|SE| SWEDISH SERIES",[SE] Star Trek: Discovery S02 E11
@@ -28388,7 +28436,7 @@ http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/591286.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR - Sky Rojo (2021) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w185/p5vo6T9YgULj0J57X6MWAyw5Cfr.jpg" group-title="|AR| مسلسلات نتفليكس",AR - Sky Rojo (2021) S01 E03
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/591287.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR - Sky Rojo (2021) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/keIJO5cbMfO7Z9C6tbdPCHAxr92.jpg" group-title="|AR| مسلسلات نتفليكس",AR - Sky Rojo (2021) S01 E04
-http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/591288.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="AR - Sky Rojo (2021) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/lIKZpW8EWszcleaqHYn85FL80A3.jpg" group-title="|AR| مسلسلات نتفليكس",AR - Sky Rojo (2021) S01 E05
 http://line.trx-ott.com:80/series/1b46c64cd2/1cc1f821cc1f/591289.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AR - Sky Rojo (2021) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/94RsW5WIWuRCk5tAEaMhtwIRG52.jpg" group-title="|AR| مسلسلات نتفليكس",AR - Sky Rojo (2021) S01 E06
