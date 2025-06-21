@@ -6654,6 +6654,12 @@
     "img": "https://i.imgur.com/VEXEzSx.png"
   },
   {
+    "name": "TV Modelo (720p)",
+    "type": "Entertainment;General;News",
+    "url": "https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u",
+    "img": "https://play-lh.googleusercontent.com/7kD2A0jUqWrVMxd_15RAPt9S0P9pxPMpNEc9dHOSl8Bi0DOMVlQHijXaL7ppUC5F46g"
+  },
+  {
     "name": "TV Paraense (720p)",
     "type": "Entertainment;Family;General;News",
     "url": "https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u",

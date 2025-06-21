@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-20 21:47:46",
+  "date": "2025-06-21 06:39:25",
   "channels": {
     "": [
       {
@@ -7882,6 +7882,15 @@
         "group": "Legislative",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8"
+      }
+    ],
+    "Entertainment;General;News": [
+      {
+        "name": "TV Modelo (720p)",
+        "logo": "https://play-lh.googleusercontent.com/7kD2A0jUqWrVMxd_15RAPt9S0P9pxPMpNEc9dHOSl8Bi0DOMVlQHijXaL7ppUC5F46g",
+        "group": "Entertainment;General;News",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u"
       }
     ],
     "Entertainment;Family;General;News": [

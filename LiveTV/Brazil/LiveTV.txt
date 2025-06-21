@@ -493,6 +493,13 @@ Logo: https://duckduckgo.com/i/e408ea02.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
+Group: Entertainment;General;News
+Name: TV Modelo (720p)
+URL: https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u
+Logo: https://play-lh.googleusercontent.com/7kD2A0jUqWrVMxd_15RAPt9S0P9pxPMpNEc9dHOSl8Bi0DOMVlQHijXaL7ppUC5F46g
+Source: https://iptv-org.github.io/iptv/countries/br.m3u
+--------------------------------------------------
+
 Group: Entertainment;Lifestyle;Music
 Name: PRIDEtv LATAM (720p)
 URL: https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
