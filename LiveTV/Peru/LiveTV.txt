@@ -2299,7 +2299,7 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 50.1 | CANAL 14 ISRAEL
 URL: https://n-121-6.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
+Logo: https://i.imgur.com/Q8xQecP.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 51 | TV5 MONDE INFO ᴴᴰ

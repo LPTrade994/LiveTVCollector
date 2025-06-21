@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-20 22:00:00",
+  "date": "2025-06-21 07:26:54",
   "channels": {
     "News": [
       {
@@ -3213,7 +3213,7 @@
       },
       {
         "name": "50.1 | CANAL 14 ISRAEL",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "logo": "https://i.imgur.com/Q8xQecP.jpeg",
         "group": "TV NOTICIAS",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://n-121-6.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
