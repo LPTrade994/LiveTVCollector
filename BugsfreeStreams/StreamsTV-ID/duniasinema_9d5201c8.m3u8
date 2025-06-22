@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
+https://wahyu1ptv.pages.dev/DuniaSinema-HD.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000,RESOLUTION=Variant_1
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-720H.m3u8
