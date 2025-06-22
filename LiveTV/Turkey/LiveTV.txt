@@ -12438,11 +12438,6 @@ URL: http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
 Logo: https://i.imgur.com/bUwarR0.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: Cay TV (720p) [Not 24/7]
-URL: http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-Logo: https://i.imgur.com/ndupxwu.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
 Name: Cekmeköy TV (1080p)
 URL: https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
 Logo: https://i.imgur.com/sjAGFWu.png
@@ -13118,18 +13113,13 @@ Logo: https://i.imgur.com/QWo0x7S.jpg
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: FB TV
-URL: https://live20.bozztv.com/trn03/gin-fbtv1/index.m3u8
+URL: http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 Logo: https://i.imgur.com/qBVqtYd.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: FIFA+ (720p)
 URL: https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 Logo: https://i.imgur.com/l5iax42.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-Name: GSTV [Geo-blocked]
-URL: https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8
-Logo: https://i.imgur.com/fC3KuwT.jpg
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: HTSpor TV (1080p)

@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-21 21:38:50",
+  "date": "2025-06-22 06:17:42",
   "channels": {
     ".🇹🇷 ULUSAL 🇹🇷 .COM/1.M3U ESKİ USUL": [
       {
@@ -35818,13 +35818,6 @@
         "url": "http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8"
       },
       {
-        "name": "Cay TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/ndupxwu.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8"
-      },
-      {
         "name": "Cekmeköy TV (1080p)",
         "logo": "https://i.imgur.com/sjAGFWu.png",
         "group": "General",
@@ -36938,7 +36931,7 @@
         "logo": "https://i.imgur.com/qBVqtYd.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://live20.bozztv.com/trn03/gin-fbtv1/index.m3u8"
+        "url": "http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
       },
       {
         "name": "FIFA+ (720p)",
@@ -36946,13 +36939,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
-      },
-      {
-        "name": "GSTV [Geo-blocked]",
-        "logo": "https://i.imgur.com/fC3KuwT.jpg",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/playlist.m3u8"
       },
       {
         "name": "HTSpor TV (1080p)",
