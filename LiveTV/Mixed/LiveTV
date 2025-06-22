@@ -1694,25 +1694,25 @@
   {
     "name": "CANAL 13",
     "type": "NACIONAL",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "https://cdn-live.mundogo.cl/canal13/canal13.mpd",
     "img": "https://i.ibb.co/hsPWxXx/canal-13.png"
   },
   {
     "name": "CHILEVISION",
     "type": "NACIONAL",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/chvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd",
     "img": "https://i.ibb.co/60YtW1H/chv.png"
   },
   {
     "name": "MEGA",
     "type": "NACIONAL",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "https://cdn-live.mundogo.cl/megahd/megahd.mpd",
     "img": "https://i.ibb.co/KVwyHBQ/mega.png"
   },
   {
     "name": "TVN",
     "type": "NACIONAL",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "https://cdn-live.mundogo.cl/tvn/tvn.mpd",
     "img": "https://i.ibb.co/3NmJZNb/tvn.png"
   },
   {
@@ -1724,13 +1724,13 @@
   {
     "name": "LA RED",
     "type": "NACIONAL",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "https://cdn-live.mundogo.cl/lared/lared.mpd",
     "img": "https://i.ibb.co/VNdDky3/la-red.png"
   },
   {
     "name": "CNN CHILE",
     "type": "NACIONAL",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/cnnchilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/34.m3u8",
     "img": "https://i.ibb.co/YWf6xcv/cnn-chile.png"
   },
   {
@@ -1740,33 +1740,33 @@
     "img": "https://i.ibb.co/dMGyMM0/24-horas.png"
   },
   {
+    "name": "CAMARA DIPUTADOS",
+    "type": "NACIONAL",
+    "url": "https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png"
+  },
+  {
+    "name": "TV SENADO",
+    "type": "NACIONAL",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/444_TV_Senado.png"
+  },
+  {
     "name": "ZONA LATINA",
     "type": "NACIONAL",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/56873.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/e/e9/Zona_Latina_2021.svg/revision/latest/scale-to-width-down/150?cb=20210805180712&path-prefix=es"
   },
   {
     "name": "VIA X",
     "type": "NACIONAL",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://200.60.124.19:29000/play/a01c/index.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/2/29/V%C3%ADa_X_2005.jpg/revision/latest?cb=20190809004317&path-prefix=es"
-  },
-  {
-    "name": "MEGA2",
-    "type": "NACIONAL",
-    "url": "http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/318624.m3u8",
-    "img": "https://static.wikia.nocookie.net/tvcable/images/c/c4/Logomega2.png/revision/latest?cb=20240327172424&path-prefix=es"
-  },
-  {
-    "name": "MEGA FICCION",
-    "type": "NACIONAL",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUzeQQ5ECFu1wXBuR86ROcK09Vb2hZOPeq1Q&s"
   },
   {
     "name": "CANAL 13C",
     "type": "NACIONAL",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "https://redirector.dps.live/hls/13cultura/playlist.m3u8",
     "img": "https://e7.pngegg.com/pngimages/264/658/png-clipart-canal-13-logo-13c-television-chilevision-others-television-text.png"
   },
   {
@@ -1774,12 +1774,6 @@
     "type": "NACIONAL",
     "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54386.m3u8",
     "img": "https://thafd.bing.com/th/id/OIP.zggfmuEBI2GXLuMYBIcMpQAAAA?rs=1&pid=ImgDetMain"
-  },
-  {
-    "name": "VIVE",
-    "type": "NACIONAL",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-    "img": "https://www.pudahuel.cl/wp-content/uploads/2023/10/canal-vive--1024x576.webp"
   },
   {
     "name": "TVMAS 2",
@@ -1794,6 +1788,42 @@
     "img": "https://i.imgur.com/pjs5csg.png"
   },
   {
+    "name": "TVR",
+    "type": "NACIONAL",
+    "url": "https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/77_TVR.png"
+  },
+  {
+    "name": "Retro Plus TV",
+    "type": "NACIONAL",
+    "url": "https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png"
+  },
+  {
+    "name": "Retro Plus TV 2",
+    "type": "NACIONAL",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/retroplustv2/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png"
+  },
+  {
+    "name": "Retro Plus TV 3",
+    "type": "NACIONAL",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png"
+  },
+  {
+    "name": "VClassicTV",
+    "type": "NACIONAL",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/1160_VClassicTV.png"
+  },
+  {
+    "name": "VClassicTV Tropical",
+    "type": "NACIONAL",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png"
+  },
+  {
     "name": "PLANETA TV",
     "type": "NACIONAL",
     "url": "https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL",
@@ -1804,6 +1834,36 @@
     "type": "NACIONAL",
     "url": "https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL",
     "img": "https://cdn.m3u.cl/logo/1249_Molina_TV.png"
+  },
+  {
+    "name": "Nova TV Canal 7",
+    "type": "NACIONAL",
+    "url": "https://freya.mivideo.pro/novatv/index.fmp4.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/1497_Nova_TV_Canal_7.png"
+  },
+  {
+    "name": "TVR Canal 11",
+    "type": "NACIONAL",
+    "url": "https://cloudpro.servidoresdestream.com:8081/8006/index.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/78_TVR_Canal_11.png"
+  },
+  {
+    "name": "13 Internacional",
+    "type": "NACIONAL",
+    "url": "https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/1685_13_Internacional.png"
+  },
+  {
+    "name": "13 Cocina",
+    "type": "NACIONAL",
+    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/1683_13_Cocina.png"
+  },
+  {
+    "name": "13 Pop",
+    "type": "NACIONAL",
+    "url": "https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UC",
+    "img": "https://cdn.m3u.cl/logo/1033_13_Pop.png"
   },
   {
     "name": "CANAL 13 FESTIVALES",
@@ -1904,31 +1964,31 @@
   {
     "name": "ESPN PREMIUM",
     "type": "DEPORTES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/foxsports1hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54410.m3u8",
     "img": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG"
   },
   {
     "name": "ESPN",
     "type": "DEPORTES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "https://cdn-live.mundogo.cl/espn/espn.mpd",
     "img": "https://i.ibb.co/k5WgfJ1/espn.png"
   },
   {
     "name": "ESPN 2",
     "type": "DEPORTES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "https://cdn-live.mundogo.cl/espn2/espn2.mpd",
     "img": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG"
   },
   {
     "name": "ESPN 3",
     "type": "DEPORTES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "https://cdn-live.mundogo.cl/espn3/espn3.mpd",
     "img": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG"
   },
   {
     "name": "ESPN 4",
     "type": "DEPORTES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/espnplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "https://cdn-live.mundogo.cl/espn4/espn4.mpd",
     "img": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea10%2FIMAGES%2F00%2F10%2F11%2F10113696_046392A4A17B42D1.png&height=60&resize=RATIO&format=PNG"
   },
   {
@@ -1948,12 +2008,6 @@
     "type": "DEPORTES",
     "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54411.m3u8",
     "img": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120542_D5E98ACC166EE489.png&height=60&resize=RATIO&format=PNG"
-  },
-  {
-    "name": "CDO 2",
-    "type": "DEPORTES",
-    "url": "http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9896",
-    "img": "https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png"
   },
   {
     "name": "TYC SPORTS",
@@ -1988,20 +2042,8 @@
   {
     "name": "L1MAX",
     "type": "DEPORTES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/l1maxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/63061.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png"
-  },
-  {
-    "name": "CDO",
-    "type": "DEPORTES",
-    "url": "http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314874.m3u8",
-    "img": "https://i.ibb.co/W0mWyNr/cdo.png"
-  },
-  {
-    "name": "CDO 2",
-    "type": "DEPORTES",
-    "url": "http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314876.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6nCtntodGtEuHAFGKijSDu2cC4L9sHuMmw&s"
   },
   {
     "name": "MOVISTAR DEPORTES",
@@ -2034,12 +2076,6 @@
     "img": "http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzffIRKJOONPgvze0v23iC63f1PKT3TPJublQWXeZZEQ.png"
   },
   {
-    "name": "TELETRACK",
-    "type": "DEPORTES",
-    "url": "http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314877.m3u8",
-    "img": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f665a567a9739a970cc5_teletrak.jpeg"
-  },
-  {
     "name": "DIRECTV SPORTS",
     "type": "DEPORTES",
     "url": "http://200.60.124.19:29000/play/a081/index.m3u8",
@@ -2066,13 +2102,13 @@
   {
     "name": "A3SERIES",
     "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://179.49.163.34:45000/play/a038/index.m3u8",
     "img": "https://mma.prnewswire.com/media/323322/1498622_logo_atreseries_Logo.jpg?p=facebook"
   },
   {
     "name": "A3CINE",
     "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://179.49.163.34:45000/play/a005/index.m3u8",
     "img": "https://assets.iprofesional.com/assets/jpg/2020/06/497527.jpg?5.6.0.5"
   },
   {
@@ -2090,44 +2126,32 @@
   {
     "name": "AMC",
     "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54469.m3u8",
     "img": "https://i.ibb.co/ncDh80L/amc.png"
-  },
-  {
-    "name": "AZCINEMA",
-    "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD",
-    "img": "https://americancable.ec/wp-content/uploads/2021/09/40-logo-azcinema.png"
   },
   {
     "name": "CINECANAL",
     "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://181.78.27.128:8000/play/a025/index.m3u8",
     "img": "https://i.ibb.co/tYK9Prg/cinecanal.png"
   },
   {
     "name": "CINEMAX",
     "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54366.m3u8",
     "img": "https://i.ibb.co/72RBXLk/cinemax.png"
-  },
-  {
-    "name": "CINE PREMIUM",
-    "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/cinepremiumhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-    "img": "https://static.wikia.nocookie.net/rarter/images/f/fc/Skskskksks.png/revision/latest?cb=20240430152411"
   },
   {
     "name": "CLARO CINEMA",
     "type": "CINE Y SERIES",
-    "url": "http://200.60.124.19:29000/play/a02b/index.m3u8",
+    "url": "http://38.41.8.1:8000/play/a066",
     "img": "https://th.bing.com/th/id/R.7446f227527b5082427fc9e32ba65a8e?rik=10qKysXSMsYRKQ&pid=ImgRaw&r=0"
   },
   {
-    "name": "CINE LATINO",
+    "name": "PRIDE TV",
     "type": "CINE Y SERIES",
-    "url": "http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9626",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "url": "https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png"
   },
   {
     "name": "STAR CHANNEL",
@@ -2144,7 +2168,7 @@
   {
     "name": "HBO PLUS",
     "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/hboplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54454.m3u8",
     "img": "https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png"
   },
   {
@@ -2174,14 +2198,8 @@
   {
     "name": "HBO XTREME",
     "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54459.m3u8",
     "img": "https://i.ibb.co/LNfZmpK/hbo-extreme.png"
-  },
-  {
-    "name": "HBO MUNDI",
-    "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-    "img": "https://thafd.bing.com/th/id/OIP.UEUHM-WrgjmtmZgcZU84ywHaFC?rs=1&pid=ImgDetMain"
   },
   {
     "name": "DE PELICULA",
@@ -2198,7 +2216,7 @@
   {
     "name": "FX",
     "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54444.m3u8",
     "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png"
   },
   {
@@ -2282,13 +2300,13 @@
   {
     "name": "TNT",
     "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "https://cdn-live.mundogo.cl/tnthd/tnthd.mpd",
     "img": "https://i.ibb.co/WcnmY6M/tnt.png"
   },
   {
     "name": "TNT SERIES",
     "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://181.78.27.128:8000/play/a04c/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"
   },
   {
@@ -2300,7 +2318,7 @@
   {
     "name": "TCM",
     "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD",
+    "url": "http://200.60.124.19:29000/play/a01s/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"
   },
   {
@@ -2312,13 +2330,13 @@
   {
     "name": "STUDIO UNIVERSAL",
     "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://179.49.163.34:45000/play/a007/index.m3u8",
     "img": "https://i.pinimg.com/736x/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg"
   },
   {
     "name": "UNIVERSAL TV",
     "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://181.78.27.128:8000/play/a04q/index.m3u8",
     "img": "https://i.pinimg.com/564x/b9/e1/b5/b9e1b5ed78238f8700fdc1704287ba37.jpg"
   },
   {
@@ -2330,13 +2348,13 @@
   {
     "name": "UNIVERSAL CINEMA",
     "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/universalcinemahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54464.m3u8",
     "img": "https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg"
   },
   {
     "name": "UNIVERSAL COMEDY",
     "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/universalcomedyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54465.m3u8",
     "img": "https://thafd.bing.com/th/id/OIP.tQO5QH8KZO3CGvXhdxj63QHaEE?rs=1&pid=ImgDetMain"
   },
   {
@@ -2348,7 +2366,7 @@
   {
     "name": "UNIVERSAL REALITIE",
     "type": "CINE Y SERIES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/universalrealityhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54467.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s"
   },
   {
@@ -2372,37 +2390,37 @@
   {
     "name": "DREAMWORKS",
     "type": "INFANTILES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://179.49.163.34:45000/play/a011/index.m3u8",
     "img": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e573e3704612374867e59_dreamworks.jpg"
   },
   {
     "name": "CARTOON NETWORK",
     "type": "INFANTILES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://181.78.27.128:8000/play/a024/index.m3u8",
     "img": "https://i.ibb.co/Y333Xbq/cartoon-network.png"
   },
   {
     "name": "CARTOONITO",
     "type": "INFANTILES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://181.78.27.128:8000/play/a003/index.m3u8",
     "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e565f63c36e257bfbef92_cartoonito.png"
   },
   {
     "name": "DISCOVERY KIDS",
     "type": "INFANTILES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://181.78.27.128:8000/play/a02k/index.m3u8",
     "img": "https://i.ibb.co/PtKd97J/discovery-kids.png"
   },
   {
     "name": "DISNEY CHANNEL",
     "type": "INFANTILES",
-    "url": "http://179.49.163.34:45000/play/a00b/index.m3u8",
+    "url": "http://181.78.27.128:8000/play/a02o/index.m3u8",
     "img": "https://i.ibb.co/Lk9TH8f/disney-channel.png"
   },
   {
     "name": "DISNEY JR",
     "type": "INFANTILES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://181.78.27.128:8000/play/a02p/index.m3u8",
     "img": "https://i.ibb.co/MSXFY3T/disney-jr.png"
   },
   {
@@ -2410,12 +2428,6 @@
     "type": "INFANTILES",
     "url": "http://179.49.163.34:45000/play/a03i/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "EDYE",
-    "type": "INFANTILES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/edyehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS53RWf-EsAx2vqSe6HzPWhvt38WcwgM4Fb7g&s"
   },
   {
     "name": "NICKELODEON",
@@ -2436,21 +2448,33 @@
     "img": "https://i.ibb.co/BfmgWb6/tooncast.png"
   },
   {
-    "name": "SENPAI TV",
-    "type": "INFANTILES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-    "img": "https://cdn-w.tvdaldia.cl/img/logos/senpaitv.png"
-  },
-  {
     "name": "ZTV ANIME",
     "type": "INFANTILES",
     "url": "https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL",
     "img": "https://cdn.m3u.cl/logo/1604_ZTV_Anime.png"
   },
   {
-    "name": "ANIMAL PLANET",
+    "name": "KANADE TV",
+    "type": "INFANTILES",
+    "url": "https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/1466_Kanade_TV.png"
+  },
+  {
+    "name": "ENERGEEK FAN",
+    "type": "INFANTILES",
+    "url": "https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png"
+  },
+  {
+    "name": "ENERGEEK RETRO",
+    "type": "INFANTILES",
+    "url": "https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png"
+  },
+  {
+    "name": "ANIMAL PLANE",
     "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://179.49.163.34:45000/play/a01e/index.m3u8",
     "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b658a4480033f155a0_animalplanet.png"
   },
   {
@@ -2472,6 +2496,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png"
   },
   {
+    "name": "DISCOVERY",
+    "type": "CULTURA Y ENTRETENIMIENTO",
+    "url": "http://181.78.27.128:8000/play/a02i/index.m3u8",
+    "img": "https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png"
+  },
+  {
     "name": "DISCOVERY H&H",
     "type": "CULTURA Y ENTRETENIMIENTO",
     "url": "http://181.78.27.128:8000/play/a02j/index.m3u8",
@@ -2484,15 +2514,9 @@
     "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b54c6c7c38bc2c1c5f_investigation.png"
   },
   {
-    "name": "KOSMOS",
-    "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://179.49.163.34:45000/play/a03l/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "DISCOVERY THEATER",
     "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://181.78.27.128:8000/play/a02l/index.m3u8",
     "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d5f9d1a5dbc14cfc5e_d-theater.png"
   },
   {
@@ -2504,26 +2528,20 @@
   {
     "name": "DISCOVERY WORLD",
     "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/discworldhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://181.78.27.128:8000/play/a02n/index.m3u8",
     "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d241ede080ce187953_d-world1.png"
   },
   {
     "name": "DISCOVERY SCI",
     "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/discscihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://179.49.163.34:45000/play/a01c/index.m3u8",
     "img": "https://cdn.imgbin.com/22/8/14/imgbin-science-channel-logo-discovery-channel-brand-discovery-of-achilles-on-skyros-JWTPWAGmYmMau2PDtzcFEc6PS.jpg"
   },
   {
-    "name": "EL GOURMET",
+    "name": "KOSMOS",
     "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9647",
-    "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png"
-  },
-  {
-    "name": "FOOD NETWORK",
-    "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-    "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f69af8210c7c02966209_food.png"
+    "url": "http://179.49.163.34:45000/play/a03l/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/COSMOS_logo2K24-100.jpg/640px-COSMOS_logo2K24-100.jpg"
   },
   {
     "name": "HOLA TV",
@@ -2550,21 +2568,9 @@
     "img": "https://1000marcas.net/wp-content/uploads/2021/04/Las-Estrellas-Logo.png?raw=true"
   },
   {
-    "name": "LOVE NATURE",
-    "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-    "img": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F10%2F72%2F10720073_2BE1E7E58BC07C71.png&height=60&resize=RATIO&format=PNG"
-  },
-  {
-    "name": "MAS CHIC",
-    "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
-    "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68c41ede02cb91875fe_maschic.png"
-  },
-  {
     "name": "TLC",
     "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34824",
+    "url": "http://179.49.163.34:45000/play/a019/index.m3u8",
     "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f693d4f95adf0c078506_tlc.png"
   },
   {
@@ -2576,7 +2582,7 @@
   {
     "name": "NATGEO",
     "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://179.49.163.34:45000/play/a017/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png"
   },
   {

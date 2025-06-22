@@ -754,12 +754,12 @@ Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/ip
 
 Group: CINE Y SERIES
 Name: A3SERIES
-URL: http://live1.cl.cdn.lla.vtrplay.com/a3serieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://179.49.163.34:45000/play/a038/index.m3u8
 Logo: https://mma.prnewswire.com/media/323322/1498622_logo_atreseries_Logo.jpg?p=facebook
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: A3CINE
-URL: http://live1.cl.cdn.lla.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://179.49.163.34:45000/play/a005/index.m3u8
 Logo: https://assets.iprofesional.com/assets/jpg/2020/06/497527.jpg?5.6.0.5
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -774,38 +774,28 @@ Logo: https://i.ibb.co/5jBfMj7/axn.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: AMC
-URL: http://live1.cl.cdn.lla.vtrplay.com/amchdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/54469.m3u8
 Logo: https://i.ibb.co/ncDh80L/amc.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
-Name: AZCINEMA
-URL: http://live1.cl.cdn.lla.vtrplay.com/azcinemasdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
-Logo: https://americancable.ec/wp-content/uploads/2021/09/40-logo-azcinema.png
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
 Name: CINECANAL
-URL: http://live1.cl.cdn.lla.vtrplay.com/cinecanalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://181.78.27.128:8000/play/a025/index.m3u8
 Logo: https://i.ibb.co/tYK9Prg/cinecanal.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: CINEMAX
-URL: http://live1.cl.cdn.lla.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/54366.m3u8
 Logo: https://i.ibb.co/72RBXLk/cinemax.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
-Name: CINE PREMIUM
-URL: http://live1.cl.cdn.lla.vtrplay.com/cinepremiumhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-Logo: https://static.wikia.nocookie.net/rarter/images/f/fc/Skskskksks.png/revision/latest?cb=20240430152411
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
 Name: CLARO CINEMA
-URL: http://200.60.124.19:29000/play/a02b/index.m3u8
+URL: http://38.41.8.1:8000/play/a066
 Logo: https://th.bing.com/th/id/R.7446f227527b5082427fc9e32ba65a8e?rik=10qKysXSMsYRKQ&pid=ImgRaw&r=0
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
-Name: CINE LATINO
-URL: http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9626
-Logo: https://buddytv.netlify.app/img/no-logo.png
+Name: PRIDE TV
+URL: https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8?PlaylistM3UCL
+Logo: https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: STAR CHANNEL
@@ -819,7 +809,7 @@ Logo: https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transpare
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: HBO PLUS
-URL: http://live1.cl.cdn.lla.vtrplay.com/hboplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/54454.m3u8
 Logo: https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -844,13 +834,8 @@ Logo: https://i.ibb.co/Lk0vJ32/hbo-pop.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: HBO XTREME
-URL: http://live1.cl.cdn.lla.vtrplay.com/hboxtremehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/54459.m3u8
 Logo: https://i.ibb.co/LNfZmpK/hbo-extreme.png
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
-Name: HBO MUNDI
-URL: http://live1.cl.cdn.lla.vtrplay.com/hbomundihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-Logo: https://thafd.bing.com/th/id/OIP.UEUHM-WrgjmtmZgcZU84ywHaFC?rs=1&pid=ImgDetMain
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: DE PELICULA
@@ -864,7 +849,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: FX
-URL: http://live1.cl.cdn.lla.vtrplay.com/fxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/54444.m3u8
 Logo: https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -934,12 +919,12 @@ Logo: https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a17d
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: TNT
-URL: http://live1.cl.cdn.lla.vtrplay.com/tnthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: https://cdn-live.mundogo.cl/tnthd/tnthd.mpd
 Logo: https://i.ibb.co/WcnmY6M/tnt.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: TNT SERIES
-URL: http://live1.cl.cdn.lla.vtrplay.com/tntserieshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://181.78.27.128:8000/play/a04c/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -949,7 +934,7 @@ Logo: https://pbs.twimg.com/media/Fo4or_BXsAAsJIL.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: TCM
-URL: http://live1.cl.cdn.lla.vtrplay.com/tcmsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_SD
+URL: http://200.60.124.19:29000/play/a01s/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -959,12 +944,12 @@ Logo: https://th.bing.com/th/id/R.a6d6190c1d3fa0a6809e31a7abc4c61a?rik=hRLC4SrNY
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: STUDIO UNIVERSAL
-URL: http://live1.cl.cdn.lla.vtrplay.com/studiouniversalhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://179.49.163.34:45000/play/a007/index.m3u8
 Logo: https://i.pinimg.com/736x/dd/99/fc/dd99fc82de9c63d52da2d07dfff34dd7.jpg
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: UNIVERSAL TV
-URL: http://live1.cl.cdn.lla.vtrplay.com/universaltvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://181.78.27.128:8000/play/a04q/index.m3u8
 Logo: https://i.pinimg.com/564x/b9/e1/b5/b9e1b5ed78238f8700fdc1704287ba37.jpg
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -974,12 +959,12 @@ Logo: http://puntoz.xyz/LOGOS/universalcrimeB.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: UNIVERSAL CINEMA
-URL: http://live1.cl.cdn.lla.vtrplay.com/universalcinemahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/54464.m3u8
 Logo: https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: UNIVERSAL COMEDY
-URL: http://live1.cl.cdn.lla.vtrplay.com/universalcomedyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/54465.m3u8
 Logo: https://thafd.bing.com/th/id/OIP.tQO5QH8KZO3CGvXhdxj63QHaEE?rs=1&pid=ImgDetMain
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -989,7 +974,7 @@ Logo: https://www.universalplus.com/assets/logo_premiere_hero.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: UNIVERSAL REALITIE
-URL: http://live1.cl.cdn.lla.vtrplay.com/universalrealityhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/54467.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -1000,8 +985,8 @@ Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 
 Group: CULTURA Y ENTRETENIMIENTO
-Name: ANIMAL PLANET
-URL: http://live1.cl.cdn.lla.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+Name: ANIMAL PLANE
+URL: http://179.49.163.34:45000/play/a01e/index.m3u8
 Logo: https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b658a4480033f155a0_animalplanet.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -1020,6 +1005,11 @@ URL: http://179.49.163.34:45000/play/a00f/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/2560px-Pasiones_Tv_logo.svg.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
+Name: DISCOVERY
+URL: http://181.78.27.128:8000/play/a02i/index.m3u8
+Logo: https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
 Name: DISCOVERY H&H
 URL: http://181.78.27.128:8000/play/a02j/index.m3u8
 Logo: https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6924cdade706debff8d_homeandhealth.png
@@ -1030,13 +1020,8 @@ URL: http://179.49.163.34:45000/play/a01d/index.m3u8
 Logo: https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b54c6c7c38bc2c1c5f_investigation.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
-Name: KOSMOS
-URL: http://179.49.163.34:45000/play/a03l/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
 Name: DISCOVERY THEATER
-URL: http://live1.cl.cdn.lla.vtrplay.com/disctheaterhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://181.78.27.128:8000/play/a02l/index.m3u8
 Logo: https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d5f9d1a5dbc14cfc5e_d-theater.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -1046,23 +1031,18 @@ Logo: https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6949
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: DISCOVERY WORLD
-URL: http://live1.cl.cdn.lla.vtrplay.com/discworldhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://181.78.27.128:8000/play/a02n/index.m3u8
 Logo: https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6d241ede080ce187953_d-world1.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: DISCOVERY SCI
-URL: http://live1.cl.cdn.lla.vtrplay.com/discscihdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://179.49.163.34:45000/play/a01c/index.m3u8
 Logo: https://cdn.imgbin.com/22/8/14/imgbin-science-channel-logo-discovery-channel-brand-discovery-of-achilles-on-skyros-JWTPWAGmYmMau2PDtzcFEc6PS.jpg
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
-Name: EL GOURMET
-URL: http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9647
-Logo: https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
-Name: FOOD NETWORK
-URL: http://live1.cl.cdn.lla.vtrplay.com/foodnetworkhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-Logo: https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f69af8210c7c02966209_food.png
+Name: KOSMOS
+URL: http://179.49.163.34:45000/play/a03l/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/COSMOS_logo2K24-100.jpg/640px-COSMOS_logo2K24-100.jpg
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: HOLA TV
@@ -1085,18 +1065,8 @@ URL: https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_6.m3
 Logo: https://1000marcas.net/wp-content/uploads/2021/04/Las-Estrellas-Logo.png?raw=true
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
-Name: LOVE NATURE
-URL: http://live1.cl.cdn.lla.vtrplay.com/lovenaturehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-Logo: https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F10%2F72%2F10720073_2BE1E7E58BC07C71.png&height=60&resize=RATIO&format=PNG
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
-Name: MAS CHIC
-URL: http://live1.cl.cdn.lla.vtrplay.com/maschichdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-Logo: https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f68c41ede02cb91875fe_maschic.png
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
 Name: TLC
-URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34824
+URL: http://179.49.163.34:45000/play/a019/index.m3u8
 Logo: https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f693d4f95adf0c078506_tlc.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -1106,7 +1076,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: NATGEO
-URL: http://live1.cl.cdn.lla.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://179.49.163.34:45000/play/a017/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -1207,27 +1177,27 @@ Logo: https://img.hidra.app/deportes/tntsport.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: ESPN PREMIUM
-URL: http://live1.cl.cdn.lla.vtrplay.com/foxsports1hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/54410.m3u8
 Logo: https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: ESPN
-URL: http://live1.cl.cdn.lla.vtrplay.com/espn2hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: https://cdn-live.mundogo.cl/espn/espn.mpd
 Logo: https://i.ibb.co/k5WgfJ1/espn.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: ESPN 2
-URL: http://live1.cl.cdn.lla.vtrplay.com/espnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: https://cdn-live.mundogo.cl/espn2/espn2.mpd
 Logo: https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: ESPN 3
-URL: http://live1.cl.cdn.lla.vtrplay.com/espn3hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: https://cdn-live.mundogo.cl/espn3/espn3.mpd
 Logo: https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: ESPN 4
-URL: http://live1.cl.cdn.lla.vtrplay.com/espnplushdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: https://cdn-live.mundogo.cl/espn4/espn4.mpd
 Logo: https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea10%2FIMAGES%2F00%2F10%2F11%2F10113696_046392A4A17B42D1.png&height=60&resize=RATIO&format=PNG
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -1244,11 +1214,6 @@ Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 Name: ESPN 7
 URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/54411.m3u8
 Logo: https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120542_D5E98ACC166EE489.png&height=60&resize=RATIO&format=PNG
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
-Name: CDO 2
-URL: http://tv.masterplaytv.club:8080/Roxygaby20/06b41b2e4f9e/9896
-Logo: https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: TYC SPORTS
@@ -1277,18 +1242,8 @@ Logo: https://logowik.com/content/uploads/images/goltv2532.jpg
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: L1MAX
-URL: http://live1.cl.cdn.lla.vtrplay.com/l1maxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/63061.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
-Name: CDO
-URL: http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314874.m3u8
-Logo: https://i.ibb.co/W0mWyNr/cdo.png
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
-Name: CDO 2
-URL: http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314876.m3u8
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6nCtntodGtEuHAFGKijSDu2cC4L9sHuMmw&s
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: MOVISTAR DEPORTES
@@ -1314,11 +1269,6 @@ Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 Name: DAZN 4
 URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335438
 Logo: http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzffIRKJOONPgvze0v23iC63f1PKT3TPJublQWXeZZEQ.png
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
-Name: TELETRACK
-URL: http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314877.m3u8
-Logo: https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f665a567a9739a970cc5_teletrak.jpeg
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: DIRECTV SPORTS
@@ -2830,43 +2780,38 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: DREAMWORKS
-URL: http://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://179.49.163.34:45000/play/a011/index.m3u8
 Logo: https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/638e573e3704612374867e59_dreamworks.jpg
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: CARTOON NETWORK
-URL: http://live1.cl.cdn.lla.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://181.78.27.128:8000/play/a024/index.m3u8
 Logo: https://i.ibb.co/Y333Xbq/cartoon-network.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: CARTOONITO
-URL: http://live1.cl.cdn.lla.vtrplay.com/boomeranghdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://181.78.27.128:8000/play/a003/index.m3u8
 Logo: https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e565f63c36e257bfbef92_cartoonito.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: DISCOVERY KIDS
-URL: http://live1.cl.cdn.lla.vtrplay.com/disckidshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://181.78.27.128:8000/play/a02k/index.m3u8
 Logo: https://i.ibb.co/PtKd97J/discovery-kids.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: DISNEY CHANNEL
-URL: http://179.49.163.34:45000/play/a00b/index.m3u8
+URL: http://181.78.27.128:8000/play/a02o/index.m3u8
 Logo: https://i.ibb.co/Lk9TH8f/disney-channel.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: DISNEY JR
-URL: http://live1.cl.cdn.lla.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://181.78.27.128:8000/play/a02p/index.m3u8
 Logo: https://i.ibb.co/MSXFY3T/disney-jr.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: FMH KIDS
 URL: http://179.49.163.34:45000/play/a03i/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
-Name: EDYE
-URL: http://live1.cl.cdn.lla.vtrplay.com/edyehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS53RWf-EsAx2vqSe6HzPWhvt38WcwgM4Fb7g&s
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: NICKELODEON
@@ -2884,14 +2829,24 @@ URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/54425.m3u8
 Logo: https://i.ibb.co/BfmgWb6/tooncast.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
-Name: SENPAI TV
-URL: http://live1.cl.cdn.lla.vtrplay.com/senpaitvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-Logo: https://cdn-w.tvdaldia.cl/img/logos/senpaitv.png
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
 Name: ZTV ANIME
 URL: https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 Logo: https://cdn.m3u.cl/logo/1604_ZTV_Anime.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: KANADE TV
+URL: https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
+Logo: https://cdn.m3u.cl/logo/1466_Kanade_TV.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: ENERGEEK FAN
+URL: https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
+Logo: https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: ENERGEEK RETRO
+URL: https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
+Logo: https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 
@@ -4440,22 +4395,22 @@ Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/ip
 
 Group: NACIONAL
 Name: CANAL 13
-URL: http://live1.cl.cdn.lla.vtrplay.com/canal13hdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: https://cdn-live.mundogo.cl/canal13/canal13.mpd
 Logo: https://i.ibb.co/hsPWxXx/canal-13.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: CHILEVISION
-URL: http://live1.cl.cdn.lla.vtrplay.com/chvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
 Logo: https://i.ibb.co/60YtW1H/chv.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: MEGA
-URL: http://live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: https://cdn-live.mundogo.cl/megahd/megahd.mpd
 Logo: https://i.ibb.co/KVwyHBQ/mega.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: TVN
-URL: http://live1.cl.cdn.lla.vtrplay.com/tvnhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: https://cdn-live.mundogo.cl/tvn/tvn.mpd
 Logo: https://i.ibb.co/3NmJZNb/tvn.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -4465,12 +4420,12 @@ Logo: https://i.ibb.co/SP9HQH8/tv.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: LA RED
-URL: http://live1.cl.cdn.lla.vtrplay.com/laredhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: https://cdn-live.mundogo.cl/lared/lared.mpd
 Logo: https://i.ibb.co/VNdDky3/la-red.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: CNN CHILE
-URL: http://live1.cl.cdn.lla.vtrplay.com/cnnchilehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/34.m3u8
 Logo: https://i.ibb.co/YWf6xcv/cnn-chile.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -4479,39 +4434,34 @@ URL: https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
 Logo: https://i.ibb.co/dMGyMM0/24-horas.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
+Name: CAMARA DIPUTADOS
+URL: https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL
+Logo: https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: TV SENADO
+URL: https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
+Logo: https://cdn.m3u.cl/logo/444_TV_Senado.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
 Name: ZONA LATINA
-URL: http://live1.cl.cdn.lla.vtrplay.com/zonalatinahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/56873.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/e/e9/Zona_Latina_2021.svg/revision/latest/scale-to-width-down/150?cb=20210805180712&path-prefix=es
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: VIA X
-URL: http://live1.cl.cdn.lla.vtrplay.com/viaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: http://200.60.124.19:29000/play/a01c/index.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/2/29/V%C3%ADa_X_2005.jpg/revision/latest?cb=20190809004317&path-prefix=es
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
-Name: MEGA2
-URL: http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/318624.m3u8
-Logo: https://static.wikia.nocookie.net/tvcable/images/c/c4/Logomega2.png/revision/latest?cb=20240327172424&path-prefix=es
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
-Name: MEGA FICCION
-URL: http://live1.cl.cdn.lla.vtrplay.com/megaficcionhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUzeQQ5ECFu1wXBuR86ROcK09Vb2hZOPeq1Q&s
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
 Name: CANAL 13C
-URL: http://live1.cl.cdn.lla.vtrplay.com/13chdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+URL: https://redirector.dps.live/hls/13cultura/playlist.m3u8
 Logo: https://e7.pngegg.com/pngimages/264/658/png-clipart-canal-13-logo-13c-television-chilevision-others-television-text.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: REC TV
 URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/54386.m3u8
 Logo: https://thafd.bing.com/th/id/OIP.zggfmuEBI2GXLuMYBIcMpQAAAA?rs=1&pid=ImgDetMain
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
-Name: VIVE
-URL: http://live1.cl.cdn.lla.vtrplay.com/vivehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-Logo: https://www.pudahuel.cl/wp-content/uploads/2023/10/canal-vive--1024x576.webp
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: TVMAS 2
@@ -4524,6 +4474,36 @@ URL: https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
 Logo: https://i.imgur.com/pjs5csg.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
+Name: TVR
+URL: https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
+Logo: https://cdn.m3u.cl/logo/77_TVR.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: Retro Plus TV
+URL: https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
+Logo: https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: Retro Plus TV 2
+URL: https://live20.bozztv.com/akamaissh101/ssh101/retroplustv2/playlist.m3u8?PlaylistM3UCL
+Logo: https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: Retro Plus TV 3
+URL: https://live20.bozztv.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8?PlaylistM3UCL
+Logo: https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: VClassicTV
+URL: https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+Logo: https://cdn.m3u.cl/logo/1160_VClassicTV.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: VClassicTV Tropical
+URL: https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
+Logo: https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
 Name: PLANETA TV
 URL: https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
 Logo: https://cdn.m3u.cl/logo/1014_PlanetaTV.png
@@ -4532,6 +4512,31 @@ Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 Name: Molina TV
 URL: https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL
 Logo: https://cdn.m3u.cl/logo/1249_Molina_TV.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: Nova TV Canal 7
+URL: https://freya.mivideo.pro/novatv/index.fmp4.m3u8?PlaylistM3UCL
+Logo: https://cdn.m3u.cl/logo/1497_Nova_TV_Canal_7.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: TVR Canal 11
+URL: https://cloudpro.servidoresdestream.com:8081/8006/index.m3u8?PlaylistM3UCL
+Logo: https://cdn.m3u.cl/logo/78_TVR_Canal_11.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: 13 Internacional
+URL: https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
+Logo: https://cdn.m3u.cl/logo/1685_13_Internacional.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: 13 Cocina
+URL: https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
+Logo: https://cdn.m3u.cl/logo/1683_13_Cocina.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: 13 Pop
+URL: https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UC
+Logo: https://cdn.m3u.cl/logo/1033_13_Pop.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: CANAL 13 FESTIVALES
