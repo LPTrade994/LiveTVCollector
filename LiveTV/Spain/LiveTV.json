@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-21 21:50:23",
+  "date": "2025-06-22 07:11:31",
   "channels": {
     "General": [
       {
@@ -22402,6 +22402,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://liveingesta318.cdnmedia.tv/101weblive/smil:malaga.smil/playlist.m3u8"
+      },
+      {
+        "name": "Canal Sur Noticias",
+        "logo": "https://i.imgur.com/jB1aADL.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8"
       },
       {
         "name": "France 24 Español (1080p)",
