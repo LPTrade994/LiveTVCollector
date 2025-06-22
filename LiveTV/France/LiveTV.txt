@@ -2116,7 +2116,7 @@ Logo: https://i.ibb.co/XSYtYHZ/africanews.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: AFRICANEWS FR (backup)
-URL: https://fd455e302ce44beb82997b99d4d215fc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-fr_AfricaNews/playlist.m3u8
+URL: https://2767164d5ee04887b96812a9eea74d32.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6573/44d3df93-4a3e-43e0-990f-a5d196bbe3aa/5.m3u8
 Logo: https://i.ibb.co/XSYtYHZ/africanews.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -3816,7 +3816,7 @@ Logo: https://i.ibb.co/9c7MvWX/ntv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: TV 5
-URL: https://tv5-live.ercdn.net/tv5/tv5.m3u8
+URL: https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 Logo: https://i.ibb.co/6m9Pb3t/tv5tr1.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -4251,12 +4251,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=3B2V61YBngX5wvJtmyz6pg&e=1750570647
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=2GTTvsN_ih4Y3pre1HEJLw&e=1750587765
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=3B2V61YBngX5wvJtmyz6pg&e=1750570647
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=2GTTvsN_ih4Y3pre1HEJLw&e=1750587765
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -13437,6 +13437,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: CNN INT
 URL: https://d1yx2biofua75q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-agcuky3hp0j0j/index.m3u8
+Logo: https://i.ibb.co/XbSHxd5/cnn.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: CNN INT
+URL: https://d1vnr7amzbx49s.cloudfront.net/index.m3u8
 Logo: https://i.ibb.co/XbSHxd5/cnn.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
