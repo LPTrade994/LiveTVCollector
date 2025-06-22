@@ -530,7 +530,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiM2QzZjZjMjktYWNhOC00ZGJjLWJhYzUtZDIyMzJiY2FkNzdjIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
+    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiMWJjMzk5Y2MtNDA2MS00NWVkLThiMDktZWJmNDFlZGQzZjBlIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -560,7 +560,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNzQ5MGI2OWMtNDIwZi00YmUyLTkxYjUtZjkzMWVmYWViY2E0IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
+    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNDk3ZDhmOGUtOGEyZC00NzRjLTg2YmMtZWJhYzZlMmIxMjI4IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -592,6 +592,18 @@
     "type": "Entertainment",
     "url": "https://rtvbn.tv:8080/live/index.m3u8",
     "img": "https://i.imgur.com/BKBr8Mr.png"
+  },
+  {
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RTL (HR)",
+    "type": "Entertainment",
+    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd",
+    "img": "https://i.imgur.com/5RdPcQ3.png"
+  },
+  {
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RTL 2 (HR)",
+    "type": "Entertainment",
+    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd",
+    "img": "https://i.imgur.com/a7nBbBq.png"
   },
   {
     "name": "Pink Plus",
@@ -6180,12 +6192,6 @@
     "img": "https://static.wikia.nocookie.net/logopedia/images/b/b3/Zeeclassic_new.png/revision/latest?cb=20171015192851"
   },
   {
-    "name": "CNBC (US)",
-    "type": "Market Open and Close",
-    "url": "https://v17.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8?token=puRWnKfQTizixDMTrO19rA&expires=1747925391&user_id=aTBVM1ZDZ29ZRmJ6OHMyRk1sbG5uOVQxTlhTWlFIb3RXY3VobzNRRg==",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "CNBC (Europe/World)",
     "type": "Market Open and Close",
     "url": "http://p1.cvtv.xyz:81/cnbc?token=live",
@@ -6510,10 +6516,76 @@
     "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
   },
   {
-    "name": "IRINN2",
+    "name": "IRIB Radio Iran",
     "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://ncdn.telewebion.com/irinn2/live/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "url": "https://s4.cdn3.iranseda.ir/liveedge/radio-iran/chunklist_w908611699.m3u8",
+    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
+  },
+  {
+    "name": "IRIB Radio Tehran",
+    "type": "HÓNG TIN CHIẾN SỰ",
+    "url": "https://s6.cdn3.iranseda.ir/liveedge/radio-tehran/chunklist_w1749278326.m3u8",
+    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
+  },
+  {
+    "name": "IRIB English Radio",
+    "type": "HÓNG TIN CHIẾN SỰ",
+    "url": "https://s0.cdn1.iranseda.ir/liveedge/radio-english/chunklist_w6069534.m3u8",
+    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
+  },
+  {
+    "name": "IRIB World Service",
+    "type": "HÓNG TIN CHIẾN SỰ",
+    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-boroon-studio110/chunklist_w371436720.m3u8",
+    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
+  },
+  {
+    "name": "IRIB Arabic Radio",
+    "type": "HÓNG TIN CHIẾN SỰ",
+    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-arabic/chunklist_w1996609647.m3u8",
+    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
+  },
+  {
+    "name": "IRIB Dari Radio",
+    "type": "HÓNG TIN CHIẾN SỰ",
+    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-boroon-dari/chunklist_w2108359170.m3u8",
+    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
+  },
+  {
+    "name": "IRIB Radio Varzesh",
+    "type": "HÓNG TIN CHIẾN SỰ",
+    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-varzesh/chunklist_w1664070970.m3u8",
+    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
+  },
+  {
+    "name": "IRIB Women's Sport Radio",
+    "type": "HÓNG TIN CHIẾN SỰ",
+    "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-banovan/chunklist_w9530940.m3u8",
+    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
+  },
+  {
+    "name": "IRIB Animax Kurdistan Radio",
+    "type": "HÓNG TIN CHIẾN SỰ",
+    "url": "https://s0.cdn1.iranseda.ir/liveedgeprovincial/radio-kordestan/chunklist_w870357592.m3u8",
+    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
+  },
+  {
+    "name": "IRIB Radio Nama Tehran",
+    "type": "HÓNG TIN CHIẾN SỰ",
+    "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-nama-tehran/chunklist_w1661515054.m3u8",
+    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
+  },
+  {
+    "name": "IRIB Radio Nama Iran",
+    "type": "HÓNG TIN CHIẾN SỰ",
+    "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-nama-iran/chunklist_w1868479099.m3u8",
+    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
+  },
+  {
+    "name": "IRIB Radio Nama Varzesg",
+    "type": "HÓNG TIN CHIẾN SỰ",
+    "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-nama-varzesh/chunklist_w1851252891.m3u8",
+    "img": "https://i.ibb.co/hVkbvpQ/irinn.png"
   },
   {
     "name": "Ajyal TV",
