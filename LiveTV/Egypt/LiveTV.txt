@@ -357,6 +357,11 @@ URL: https://fl1002.bozztv.com/ga-alnahardrama/index.m3u8
 Logo: https://i.imgur.com/ieckdoE.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
+Name: Alhayat Drama
+URL: https://fl1002.bozztv.com/ga-alhayahseries/tracks-v1a1/mono.m3u8
+Logo: https://i.imgur.com/vVM7I4a.png
+Source: https://iptv-org.github.io/iptv/countries/eg.m3u
+--------------------------------------------------
 Name: CBC Drama
 URL: https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
 Logo: https://i.imgur.com/I8YdakH.png

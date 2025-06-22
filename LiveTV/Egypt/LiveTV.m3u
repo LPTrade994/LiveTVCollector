@@ -453,6 +453,8 @@ https://live20.bozztv.com/dvrfl06/astv/astv-tv5mondeafrique/index.m3u8
 https://live20.bozztv.com/dvrfl06/astv/astv-zeemagicafrica/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ieckdoE.png" group-title="Series",Al-Nahar Drama
 https://fl1002.bozztv.com/ga-alnahardrama/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vVM7I4a.png" group-title="Series",Alhayat Drama
+https://fl1002.bozztv.com/ga-alhayahseries/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I8YdakH.png" group-title="Series",CBC Drama
 https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OOXylJI.png" group-title="Series",DMC Drama (720p)

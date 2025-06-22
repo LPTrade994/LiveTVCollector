@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-21 21:59:47",
+  "date": "2025-06-22 07:49:44",
   "channels": {
     "Uncategorized": [
       {
@@ -1602,6 +1602,13 @@
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://fl1002.bozztv.com/ga-alnahardrama/index.m3u8"
+      },
+      {
+        "name": "Alhayat Drama",
+        "logo": "https://i.imgur.com/vVM7I4a.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://fl1002.bozztv.com/ga-alhayahseries/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "CBC Drama",

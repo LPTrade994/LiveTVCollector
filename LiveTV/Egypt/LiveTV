@@ -1362,6 +1362,12 @@
     "img": "https://i.imgur.com/ieckdoE.png"
   },
   {
+    "name": "Alhayat Drama",
+    "type": "Series",
+    "url": "https://fl1002.bozztv.com/ga-alhayahseries/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/vVM7I4a.png"
+  },
+  {
     "name": "CBC Drama",
     "type": "Series",
     "url": "https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8",
