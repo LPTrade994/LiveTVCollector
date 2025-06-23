@@ -169,9 +169,64 @@ URL: https://ncdn.telewebion.com/irinn/live/playlist.m3u8
 Logo: https://i.ibb.co/hVkbvpQ/irinn.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
-Name: IRINN2
-URL: https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
+Name: IRIB Radio Iran
+URL: https://s4.cdn3.iranseda.ir/liveedge/radio-iran/chunklist_w908611699.m3u8
+Logo: https://i.ibb.co/hVkbvpQ/irinn.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: IRIB Radio Tehran
+URL: https://s6.cdn3.iranseda.ir/liveedge/radio-tehran/chunklist_w1749278326.m3u8
+Logo: https://i.ibb.co/hVkbvpQ/irinn.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: IRIB English Radio
+URL: https://s0.cdn1.iranseda.ir/liveedge/radio-english/chunklist_w6069534.m3u8
+Logo: https://i.ibb.co/hVkbvpQ/irinn.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: IRIB World Service
+URL: https://s3.cdn1.iranseda.ir/liveedge/radio-boroon-studio110/chunklist_w371436720.m3u8
+Logo: https://i.ibb.co/hVkbvpQ/irinn.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: IRIB Arabic Radio
+URL: https://s3.cdn1.iranseda.ir/liveedge/radio-arabic/chunklist_w1996609647.m3u8
+Logo: https://i.ibb.co/hVkbvpQ/irinn.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: IRIB Dari Radio
+URL: https://s3.cdn1.iranseda.ir/liveedge/radio-boroon-dari/chunklist_w2108359170.m3u8
+Logo: https://i.ibb.co/hVkbvpQ/irinn.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: IRIB Radio Varzesh
+URL: https://s3.cdn1.iranseda.ir/liveedge/radio-varzesh/chunklist_w1664070970.m3u8
+Logo: https://i.ibb.co/hVkbvpQ/irinn.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: IRIB Women's Sport Radio
+URL: https://s3.cdn1.iranseda.ir/liveedge/radio-banovan/chunklist_w9530940.m3u8
+Logo: https://i.ibb.co/hVkbvpQ/irinn.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: IRIB Animax Kurdistan Radio
+URL: https://s0.cdn1.iranseda.ir/liveedgeprovincial/radio-kordestan/chunklist_w870357592.m3u8
+Logo: https://i.ibb.co/hVkbvpQ/irinn.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: IRIB Radio Nama Tehran
+URL: https://s1.cdn3.iranseda.ir/liveedge/radio-nama-tehran/chunklist_w1661515054.m3u8
+Logo: https://i.ibb.co/hVkbvpQ/irinn.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: IRIB Radio Nama Iran
+URL: https://s1.cdn3.iranseda.ir/liveedge/radio-nama-iran/chunklist_w1868479099.m3u8
+Logo: https://i.ibb.co/hVkbvpQ/irinn.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: IRIB Radio Nama Varzesg
+URL: https://s1.cdn3.iranseda.ir/liveedge/radio-nama-varzesh/chunklist_w1851252891.m3u8
+Logo: https://i.ibb.co/hVkbvpQ/irinn.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: Ajyal TV
@@ -1198,11 +1253,6 @@ Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/C
 --------------------------------------------------
 
 Group: Market Open and Close
-Name: CNBC (US)
-URL: https://v17.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8?token=puRWnKfQTizixDMTrO19rA&expires=1747925391&user_id=aTBVM1ZDZ29ZRmJ6OHMyRk1sbG5uOVQxTlhTWlFIb3RXY3VobzNRRg==
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
 Name: CNBC (Europe/World)
 URL: http://p1.cvtv.xyz:81/cnbc?token=live
 Logo: https://buddytv.netlify.app/img/no-logo.png

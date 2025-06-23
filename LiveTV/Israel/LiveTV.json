@@ -1,14 +1,7 @@
 {
-  "date": "2025-06-22 13:58:30",
+  "date": "2025-06-23 07:34:00",
   "channels": {
     "Market Open and Close": [
-      {
-        "name": "CNBC (US)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Market Open and Close",
-        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
-        "url": "https://v17.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8?token=puRWnKfQTizixDMTrO19rA&expires=1747925391&user_id=aTBVM1ZDZ29ZRmJ6OHMyRk1sbG5uOVQxTlhTWlFIb3RXY3VobzNRRg=="
-      },
       {
         "name": "CNBC (Europe/World)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
@@ -392,11 +385,88 @@
         "url": "https://ncdn.telewebion.com/irinn/live/playlist.m3u8"
       },
       {
-        "name": "IRINN2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "name": "IRIB Radio Iran",
+        "logo": "https://i.ibb.co/hVkbvpQ/irinn.png",
         "group": "HÓNG TIN CHIẾN SỰ",
         "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
-        "url": "https://ncdn.telewebion.com/irinn2/live/playlist.m3u8"
+        "url": "https://s4.cdn3.iranseda.ir/liveedge/radio-iran/chunklist_w908611699.m3u8"
+      },
+      {
+        "name": "IRIB Radio Tehran",
+        "logo": "https://i.ibb.co/hVkbvpQ/irinn.png",
+        "group": "HÓNG TIN CHIẾN SỰ",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://s6.cdn3.iranseda.ir/liveedge/radio-tehran/chunklist_w1749278326.m3u8"
+      },
+      {
+        "name": "IRIB English Radio",
+        "logo": "https://i.ibb.co/hVkbvpQ/irinn.png",
+        "group": "HÓNG TIN CHIẾN SỰ",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://s0.cdn1.iranseda.ir/liveedge/radio-english/chunklist_w6069534.m3u8"
+      },
+      {
+        "name": "IRIB World Service",
+        "logo": "https://i.ibb.co/hVkbvpQ/irinn.png",
+        "group": "HÓNG TIN CHIẾN SỰ",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-boroon-studio110/chunklist_w371436720.m3u8"
+      },
+      {
+        "name": "IRIB Arabic Radio",
+        "logo": "https://i.ibb.co/hVkbvpQ/irinn.png",
+        "group": "HÓNG TIN CHIẾN SỰ",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-arabic/chunklist_w1996609647.m3u8"
+      },
+      {
+        "name": "IRIB Dari Radio",
+        "logo": "https://i.ibb.co/hVkbvpQ/irinn.png",
+        "group": "HÓNG TIN CHIẾN SỰ",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-boroon-dari/chunklist_w2108359170.m3u8"
+      },
+      {
+        "name": "IRIB Radio Varzesh",
+        "logo": "https://i.ibb.co/hVkbvpQ/irinn.png",
+        "group": "HÓNG TIN CHIẾN SỰ",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-varzesh/chunklist_w1664070970.m3u8"
+      },
+      {
+        "name": "IRIB Women's Sport Radio",
+        "logo": "https://i.ibb.co/hVkbvpQ/irinn.png",
+        "group": "HÓNG TIN CHIẾN SỰ",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://s3.cdn1.iranseda.ir/liveedge/radio-banovan/chunklist_w9530940.m3u8"
+      },
+      {
+        "name": "IRIB Animax Kurdistan Radio",
+        "logo": "https://i.ibb.co/hVkbvpQ/irinn.png",
+        "group": "HÓNG TIN CHIẾN SỰ",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://s0.cdn1.iranseda.ir/liveedgeprovincial/radio-kordestan/chunklist_w870357592.m3u8"
+      },
+      {
+        "name": "IRIB Radio Nama Tehran",
+        "logo": "https://i.ibb.co/hVkbvpQ/irinn.png",
+        "group": "HÓNG TIN CHIẾN SỰ",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-nama-tehran/chunklist_w1661515054.m3u8"
+      },
+      {
+        "name": "IRIB Radio Nama Iran",
+        "logo": "https://i.ibb.co/hVkbvpQ/irinn.png",
+        "group": "HÓNG TIN CHIẾN SỰ",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-nama-iran/chunklist_w1868479099.m3u8"
+      },
+      {
+        "name": "IRIB Radio Nama Varzesg",
+        "logo": "https://i.ibb.co/hVkbvpQ/irinn.png",
+        "group": "HÓNG TIN CHIẾN SỰ",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://s1.cdn3.iranseda.ir/liveedge/radio-nama-varzesh/chunklist_w1851252891.m3u8"
       },
       {
         "name": "Ajyal TV",
