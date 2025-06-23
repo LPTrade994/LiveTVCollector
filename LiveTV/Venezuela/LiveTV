@@ -24,6 +24,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"
   },
   {
+    "name": "24 Horas HEVC",
+    "type": "News",
+    "url": "https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8",
+    "img": "https://i.imgur.com/IUVRm5L.png"
+  },
+  {
     "name": "24 Horas Internacional [Geo-blocked]",
     "type": "News",
     "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8",
@@ -814,6 +820,12 @@
     "type": "Movies",
     "url": "https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8",
     "img": "https://i.imgur.com/MMhSmDK.png"
+  },
+  {
+    "name": "Pluto TV Cine Accion (720p)",
+    "type": "Movies",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=",
+    "img": "https://i.imgur.com/PXhCzXn.png"
   },
   {
     "name": "Clan TVE Internacional (1080p)",
