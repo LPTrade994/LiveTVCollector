@@ -30972,12 +30972,6 @@
     "img": "https://i.imgur.com/9cl1MR8.png"
   },
   {
-    "name": "CGTN Documentary",
-    "type": "Undefined",
-    "url": "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png"
-  },
-  {
     "name": "ES TV (720p)",
     "type": "Undefined",
     "url": "https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8",
@@ -31176,12 +31170,6 @@
     "img": "https://i.imgur.com/q30sFms.png"
   },
   {
-    "name": "TAY TV (360p)",
-    "type": "Undefined",
-    "url": "https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8",
-    "img": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/tay_tv.png"
-  },
-  {
     "name": "TBMM TV (720p)",
     "type": "Undefined",
     "url": "https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8",
@@ -31198,12 +31186,6 @@
     "type": "Undefined",
     "url": "http://185.234.111.229:8000/play/a01y",
     "img": "https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png"
-  },
-  {
-    "name": "TJK TV (1080p)",
-    "type": "Undefined",
-    "url": "https://tjktv-live.tjk.org/tjktv.m3u8",
-    "img": "https://i.imgur.com/3zHdkYG.png"
   },
   {
     "name": "TMB",
@@ -31242,34 +31224,10 @@
     "img": "https://i.imgur.com/JrWFwBd.png"
   },
   {
-    "name": "TRT Belgesel (1080p)",
-    "type": "Undefined",
-    "url": "http://185.234.111.229:8000/play/a00f",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png"
-  },
-  {
-    "name": "TRT EBA Ilkokul (720p)",
-    "type": "Undefined",
-    "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
-    "img": "https://i.imgur.com/CRBfZi4.png"
-  },
-  {
-    "name": "TRT EBA Lise (720p)",
-    "type": "Undefined",
-    "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8",
-    "img": "https://i.imgur.com/vj2L2L2.png"
-  },
-  {
     "name": "TRT Kurdi (1080p)",
     "type": "Undefined",
     "url": "http://185.234.111.229:8000/play/a00j",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png"
-  },
-  {
-    "name": "TRT Muzik (1080p)",
-    "type": "Undefined",
-    "url": "http://185.234.111.229:8000/play/a00i",
-    "img": "https://i.imgur.com/JgUzRH8.png"
   },
   {
     "name": "TRT Turk",
@@ -31422,12 +31380,6 @@
     "img": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/77aa6871-a13f-470b-a2d5-ca5650f63323-width200-quality90.jpeg"
   },
   {
-    "name": "World Turk TV (1080p)",
-    "type": "Undefined",
-    "url": "https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8",
-    "img": "https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_151.png"
-  },
-  {
     "name": "Yildiz TV En",
     "type": "Undefined",
     "url": "https://cdn-yildiz.yayin.com.tr/yildiz/yildiz/playlist.m3u8",
@@ -31462,12 +31414,6 @@
     "type": "Kids",
     "url": "https://jmp2.uk/sam-ESBC4700001GR.m3u8",
     "img": "https://i.imgur.com/gRFQ35W.png"
-  },
-  {
-    "name": "Nickelodeon",
-    "type": "Kids",
-    "url": "http://fl1.moveonjoy.com/NICKELODEON/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png"
   },
   {
     "name": "TRT Cocuk (1080p)",
@@ -31524,6 +31470,12 @@
     "img": "https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg"
   },
   {
+    "name": "TJK TV (1080p)",
+    "type": "Sports",
+    "url": "https://tjktv-live.tjk.org/tjktv.m3u8",
+    "img": "https://i.imgur.com/3zHdkYG.png"
+  },
+  {
     "name": "TRT Spor (1080p)",
     "type": "Sports",
     "url": "http://185.234.111.229:8000/play/a00e",
@@ -31542,9 +31494,9 @@
     "img": "https://i.imgur.com/98kLMjj.png"
   },
   {
-    "name": "Bloomberg HT",
+    "name": "Bloomberg HT (720p)",
     "type": "Business",
-    "url": "https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8",
+    "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
     "img": "https://i.imgur.com/bmkXfIE.png"
   },
   {
@@ -31558,6 +31510,36 @@
     "type": "Business",
     "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
     "img": "https://i.imgur.com/OuogLHx.png"
+  },
+  {
+    "name": "CGTN Documentary",
+    "type": "Documentary",
+    "url": "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png"
+  },
+  {
+    "name": "National Geographic (1080p) [Geo-blocked]",
+    "type": "Documentary",
+    "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"
+  },
+  {
+    "name": "National Geographic Wild",
+    "type": "Documentary",
+    "url": "https://tv.arectv13.sbs/live/natgeowild.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png"
+  },
+  {
+    "name": "TRT Belgesel (1080p)",
+    "type": "Documentary",
+    "url": "http://185.234.111.229:8000/play/a00f",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png"
+  },
+  {
+    "name": "Viasat Explore",
+    "type": "Documentary",
+    "url": "https://tv.arectv29.sbs/live/viasathistory.m3u8",
+    "img": "https://i.imgur.com/DyT5pKB.png"
   },
   {
     "name": "Ciftci TV (576p)",
@@ -31686,6 +31668,12 @@
     "img": "https://i.imgur.com/a5nW3HU.png"
   },
   {
+    "name": "TRT Muzik (1080p)",
+    "type": "Music",
+    "url": "http://185.234.111.229:8000/play/a00i",
+    "img": "https://i.imgur.com/JgUzRH8.png"
+  },
+  {
     "name": "Fail Army (720p)",
     "type": "Comedy",
     "url": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8",
@@ -31740,28 +31728,22 @@
     "img": "https://i.imgur.com/pUcV46F.png"
   },
   {
-    "name": "National Geographic (1080p) [Geo-blocked]",
-    "type": "Documentary",
-    "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"
-  },
-  {
-    "name": "National Geographic Wild",
-    "type": "Documentary",
-    "url": "https://tv.arectv13.sbs/live/natgeowild.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png"
-  },
-  {
-    "name": "Viasat Explore",
-    "type": "Documentary",
-    "url": "https://tv.arectv29.sbs/live/viasathistory.m3u8",
-    "img": "https://i.imgur.com/DyT5pKB.png"
-  },
-  {
     "name": "The Pet Collective (720p)",
     "type": "Family",
     "url": "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8",
     "img": "https://i.imgur.com/yH7n2dF.png"
+  },
+  {
+    "name": "TRT EBA Ilkokul (720p)",
+    "type": "Education",
+    "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
+    "img": "https://i.imgur.com/CRBfZi4.png"
+  },
+  {
+    "name": "TRT EBA Lise (720p)",
+    "type": "Education",
+    "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8",
+    "img": "https://i.imgur.com/vj2L2L2.png"
   },
   {
     "name": "Woman TV (1080p)",

@@ -12231,8 +12231,8 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
 Group: Business
-Name: Bloomberg HT
-URL: https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
+Name: Bloomberg HT (720p)
+URL: https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 Logo: https://i.imgur.com/bmkXfIE.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
@@ -12303,6 +12303,11 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
 Group: Documentary
+Name: CGTN Documentary
+URL: https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
 Name: National Geographic (1080p) [Geo-blocked]
 URL: https://saran-live.ercdn.net/natgeohd/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png
@@ -12311,6 +12316,11 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: National Geographic Wild
 URL: https://tv.arectv13.sbs/live/natgeowild.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: TRT Belgesel (1080p)
+URL: http://185.234.111.229:8000/play/a00f
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Viasat Explore
@@ -12323,6 +12333,18 @@ Group: Documentary;Series
 Name: GZT (1080p)
 URL: https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/320px-GZT_logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+
+Group: Education
+Name: TRT EBA Ilkokul (720p)
+URL: https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+Logo: https://i.imgur.com/CRBfZi4.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: TRT EBA Lise (720p)
+URL: https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+Logo: https://i.imgur.com/vj2L2L2.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
@@ -12792,11 +12814,6 @@ URL: https://jmp2.uk/sam-ESBC4700001GR.m3u8
 Logo: https://i.imgur.com/gRFQ35W.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: Nickelodeon
-URL: http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
 Name: TRT Cocuk (1080p)
 URL: http://185.234.111.229:8000/play/a00b
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png
@@ -12909,6 +12926,11 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: Power Türk Taptaze (1080p)
 URL: https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 Logo: https://i.imgur.com/a5nW3HU.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: TRT Muzik (1080p)
+URL: http://185.234.111.229:8000/play/a00i
+Logo: https://i.imgur.com/JgUzRH8.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
@@ -13142,6 +13164,11 @@ URL: https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 Logo: https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
+Name: TJK TV (1080p)
+URL: https://tjktv-live.tjk.org/tjktv.m3u8
+Logo: https://i.imgur.com/3zHdkYG.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
 Name: TRT Spor (1080p)
 URL: http://185.234.111.229:8000/play/a00e
 Logo: https://i.imgur.com/6tv0zxh.png
@@ -13338,11 +13365,6 @@ URL: https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
 Logo: https://i.imgur.com/9cl1MR8.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: CGTN Documentary
-URL: https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
 Name: ES TV (720p)
 URL: https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
 Logo: https://i.imgur.com/epAEBrp.png
@@ -13508,11 +13530,6 @@ URL: https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 Logo: https://i.imgur.com/q30sFms.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: TAY TV (360p)
-URL: https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
-Logo: https://www.dsmart.com.tr/api/v1/public/images/kanallar/tay_tv.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
 Name: TBMM TV (720p)
 URL: https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png
@@ -13526,11 +13543,6 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: Tele 1 (1080p)
 URL: http://185.234.111.229:8000/play/a01y
 Logo: https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-Name: TJK TV (1080p)
-URL: https://tjktv-live.tjk.org/tjktv.m3u8
-Logo: https://i.imgur.com/3zHdkYG.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: TMB
@@ -13563,29 +13575,9 @@ URL: https://tv-trt3.live.trt.com.tr/master.m3u8
 Logo: https://i.imgur.com/JrWFwBd.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: TRT Belgesel (1080p)
-URL: http://185.234.111.229:8000/play/a00f
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-Name: TRT EBA Ilkokul (720p)
-URL: https://tv-e-okul00.medya.trt.com.tr/master.m3u8
-Logo: https://i.imgur.com/CRBfZi4.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-Name: TRT EBA Lise (720p)
-URL: https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-Logo: https://i.imgur.com/vj2L2L2.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
 Name: TRT Kurdi (1080p)
 URL: http://185.234.111.229:8000/play/a00j
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-Name: TRT Muzik (1080p)
-URL: http://185.234.111.229:8000/play/a00i
-Logo: https://i.imgur.com/JgUzRH8.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: TRT Turk
@@ -13711,11 +13703,6 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: World of Freesports (1080p)
 URL: https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8
 Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/77aa6871-a13f-470b-a2d5-ca5650f63323-width200-quality90.jpeg
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-Name: World Turk TV (1080p)
-URL: https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
-Logo: https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_151.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Yildiz TV En

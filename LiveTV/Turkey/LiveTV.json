@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-22 21:38:52",
+  "date": "2025-06-23 06:16:13",
   "channels": {
     ".🇹🇷 ULUSAL 🇹🇷 .COM/1.M3U ESKİ USUL": [
       {
@@ -36321,13 +36321,6 @@
         "url": "https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8"
       },
       {
-        "name": "CGTN Documentary",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8"
-      },
-      {
         "name": "ES TV (720p)",
         "logo": "https://i.imgur.com/epAEBrp.png",
         "group": "Undefined",
@@ -36559,13 +36552,6 @@
         "url": "https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8"
       },
       {
-        "name": "TAY TV (360p)",
-        "logo": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/tay_tv.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8"
-      },
-      {
         "name": "TBMM TV (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png",
         "group": "Undefined",
@@ -36585,13 +36571,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "http://185.234.111.229:8000/play/a01y"
-      },
-      {
-        "name": "TJK TV (1080p)",
-        "logo": "https://i.imgur.com/3zHdkYG.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://tjktv-live.tjk.org/tjktv.m3u8"
       },
       {
         "name": "TMB",
@@ -36636,39 +36615,11 @@
         "url": "https://tv-trt3.live.trt.com.tr/master.m3u8"
       },
       {
-        "name": "TRT Belgesel (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "http://185.234.111.229:8000/play/a00f"
-      },
-      {
-        "name": "TRT EBA Ilkokul (720p)",
-        "logo": "https://i.imgur.com/CRBfZi4.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8"
-      },
-      {
-        "name": "TRT EBA Lise (720p)",
-        "logo": "https://i.imgur.com/vj2L2L2.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8"
-      },
-      {
         "name": "TRT Kurdi (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/512px-TRT_Kurd%C3%AE_logo.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "http://185.234.111.229:8000/play/a00j"
-      },
-      {
-        "name": "TRT Muzik (1080p)",
-        "logo": "https://i.imgur.com/JgUzRH8.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "http://185.234.111.229:8000/play/a00i"
       },
       {
         "name": "TRT Turk",
@@ -36846,13 +36797,6 @@
         "url": "https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8"
       },
       {
-        "name": "World Turk TV (1080p)",
-        "logo": "https://www.artidijitalmedya.com/image/400x400/cdn/channels/v1/logo_151.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8"
-      },
-      {
         "name": "Yildiz TV En",
         "logo": "https://i.imgur.com/BaFcCP5.png",
         "group": "Undefined",
@@ -36895,13 +36839,6 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://jmp2.uk/sam-ESBC4700001GR.m3u8"
-      },
-      {
-        "name": "Nickelodeon",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "http://fl1.moveonjoy.com/NICKELODEON/index.m3u8"
       },
       {
         "name": "TRT Cocuk (1080p)",
@@ -36969,6 +36906,13 @@
         "url": "https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8"
       },
       {
+        "name": "TJK TV (1080p)",
+        "logo": "https://i.imgur.com/3zHdkYG.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://tjktv-live.tjk.org/tjktv.m3u8"
+      },
+      {
         "name": "TRT Spor (1080p)",
         "logo": "https://i.imgur.com/6tv0zxh.png",
         "group": "Sports",
@@ -36992,11 +36936,11 @@
     ],
     "Business": [
       {
-        "name": "Bloomberg HT",
+        "name": "Bloomberg HT (720p)",
         "logo": "https://i.imgur.com/bmkXfIE.png",
         "group": "Business",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8"
+        "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8"
       },
       {
         "name": "Bloomberg TV EMEA Live Event (720p)",
@@ -37011,6 +36955,43 @@
         "group": "Business",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8"
+      }
+    ],
+    "Documentary": [
+      {
+        "name": "CGTN Documentary",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8"
+      },
+      {
+        "name": "National Geographic (1080p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8"
+      },
+      {
+        "name": "National Geographic Wild",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://tv.arectv13.sbs/live/natgeowild.m3u8"
+      },
+      {
+        "name": "TRT Belgesel (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "http://185.234.111.229:8000/play/a00f"
+      },
+      {
+        "name": "Viasat Explore",
+        "logo": "https://i.imgur.com/DyT5pKB.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://tv.arectv29.sbs/live/viasathistory.m3u8"
       }
     ],
     "Culture;Education": [
@@ -37166,6 +37147,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
+      },
+      {
+        "name": "TRT Muzik (1080p)",
+        "logo": "https://i.imgur.com/JgUzRH8.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "http://185.234.111.229:8000/play/a00i"
       }
     ],
     "Comedy": [
@@ -37239,29 +37227,6 @@
         "url": "http://ott-cdn.ucom.am/s17/index.m3u8"
       }
     ],
-    "Documentary": [
-      {
-        "name": "National Geographic (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8"
-      },
-      {
-        "name": "National Geographic Wild",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://tv.arectv13.sbs/live/natgeowild.m3u8"
-      },
-      {
-        "name": "Viasat Explore",
-        "logo": "https://i.imgur.com/DyT5pKB.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://tv.arectv29.sbs/live/viasathistory.m3u8"
-      }
-    ],
     "Family": [
       {
         "name": "The Pet Collective (720p)",
@@ -37269,6 +37234,22 @@
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8"
+      }
+    ],
+    "Education": [
+      {
+        "name": "TRT EBA Ilkokul (720p)",
+        "logo": "https://i.imgur.com/CRBfZi4.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8"
+      },
+      {
+        "name": "TRT EBA Lise (720p)",
+        "logo": "https://i.imgur.com/vj2L2L2.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8"
       }
     ],
     "Culture;Education;Lifestyle": [
