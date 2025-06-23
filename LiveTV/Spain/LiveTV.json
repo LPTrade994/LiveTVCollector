@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-22 21:50:44",
+  "date": "2025-06-23 07:10:09",
   "channels": {
     "General": [
       {
@@ -16446,7 +16446,7 @@
         "url": "https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8"
       },
       {
-        "name": "Canal Sur Andalucia",
+        "name": "Canal Sur Andalucia HEVC",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cd/CanalSur_Andaluc%C3%ADa.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
@@ -16468,7 +16468,7 @@
       },
       {
         "name": "La 1 Catalunya (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/512px-Logo_TVE-1.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_La_1.svg/330px-Logo_La_1.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://ztnr.rtve.es/ztnr/3293681.m3u8"
@@ -22395,6 +22395,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8"
+      },
+      {
+        "name": "24 Horas HEVC",
+        "logo": "https://i.imgur.com/IUVRm5L.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8"
       },
       {
         "name": "101tv Malaga",
@@ -32408,6 +32415,13 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "http://185.189.225.150:85/boing/index.m3u8"
+      },
+      {
+        "name": "Clan HEVC",
+        "logo": "https://i.imgur.com/03jFV68.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8"
       },
       {
         "name": "Pluto TV Animakids (720p)",
@@ -49579,6 +49593,13 @@
         "url": "https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8"
       },
       {
+        "name": "Pluto TV Cine Acción (720p)",
+        "logo": "https://i.imgur.com/PXhCzXn.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId="
+      },
+      {
         "name": "Pluto TV Cine Estelar (720p)",
         "logo": "https://i.imgur.com/v3BO4nW.png",
         "group": "Movies",
@@ -51749,7 +51770,7 @@
       },
       {
         "name": "Esport3 (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/tkjUFzb.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/330px-Esport3.svg.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/esport3-hls/master.m3u8"
@@ -51767,6 +51788,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
+      },
+      {
+        "name": "Teledeporte HEVC",
+        "logo": "https://i.imgur.com/b0H5f62.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8"
       }
     ],
     "Business": [
@@ -61823,10 +61851,17 @@
       },
       {
         "name": "La 2 Catalunya (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/512px-Logo_TVE-2.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
         "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8"
+      },
+      {
+        "name": "La 2 HEVC",
+        "logo": "https://i.imgur.com/3NwzqoB.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8"
       },
       {
         "name": "Pluto TV Archivos Forenses (720p)",
