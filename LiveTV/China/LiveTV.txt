@@ -3659,13 +3659,13 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 
 Group: 儿童频道
-Name: 动画魂
-URL: https://www.goodiptv.club/douyu/9393242
+Name: 中二日记搞笑动画
+URL: https://www.goodiptv.club/douyu/9505575
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 喜仔的动画世界
-URL: https://www.goodiptv.club/huya/20036751
+Name: 动画魂
+URL: https://www.goodiptv.club/douyu/9393242
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -3676,6 +3676,11 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 林小二动画
 URL: https://www.goodiptv.club/douyu/11184164
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 海绵宝宝
+URL: https://live.metshop.top/douyu/3949681
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -4134,6 +4139,21 @@ Name: 山东教育
 URL: http://home.wwang.pw:35455/itv/1000000002000004097.m3u8?cdn=ystenlive
 Logo: https://live.fanmingming.cn/tv/山东教育.png
 Source: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+--------------------------------------------------
+Name: 兵团卫视
+URL: https://test5.btzx.com.cn/live/2023bt.stream/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 三沙卫视
+URL: https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 浙江卫视
+URL: https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
 Name: 山东教育
 URL: https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
@@ -5738,18 +5758,8 @@ URL: https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4de
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 任丘综合
-URL: https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 兴海综合
 URL: https://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 兵团五师双河新闻综合
-URL: https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -5760,11 +5770,6 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 凉山语
 URL: https://tvfile.scjgtv.cn/nmip-media/channellive/channel104126/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 北京影帝的分身
-URL: https://www.goodiptv.club/douyu/9805480
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -5838,11 +5843,6 @@ URL: https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 平遥新闻综合
-URL: https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 广东新闻
 URL: https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -5875,6 +5875,16 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 成县综合
 URL: https://play.kankanlive.com/live/1702454377323961.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 无锡娱乐
+URL: https://stream.thmz.com/wxtv2/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 无锡生活
+URL: https://stream.thmz.com/wxtv4/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -5958,6 +5968,11 @@ URL: https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 海宁新闻综合
+URL: https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 淮阴综合
 URL: https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -5978,8 +5993,8 @@ URL: https://play.kankanlive.com/live/1711955176432990.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 湖州文化娱乐
-URL: https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+Name: 溧水新闻综合
+URL: https://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -6110,11 +6125,6 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 鹿泉二套
 URL: https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 黄山西海大峡谷
-URL: https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -7271,13 +7281,13 @@ URL: https://0472.org/hls/cgtna.m3u8
 Logo: https://live.fanmingming.cn/tv/CGTN阿语.png
 Source: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 --------------------------------------------------
-Name: CCTV4
-URL: https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+Name: CCTV11
+URL: https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: CCTV9
-URL: https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
+Name: CCTV13
+URL: https://event.pull.hebtv.com/jishi/cp1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -7772,6 +7782,11 @@ URL: https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMD
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 1995年春晚
+URL: https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 1996年春晚
 URL: https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -7842,11 +7857,6 @@ URL: https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMD
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 1995年春晚
-URL: https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 2025年春晚
 URL: https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -7854,7 +7864,7 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 
 Group: 更新时间
-Name: 2025-06-22 18:50:15
+Name: 2025-06-23 06:49:17
 URL: https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
@@ -8797,13 +8807,18 @@ URL: https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 1905电影网
+URL: https://www.goodiptv.club/huya/17688549
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 28岁电影
 URL: https://www.goodiptv.club/douyu/8884164
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 一起看电影
-URL: https://www.goodiptv.club/huya/26989248
+Name: 三口看电影
+URL: https://www.goodiptv.club/huya/15599787
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -8812,8 +8827,23 @@ URL: https://www.goodiptv.club/douyu/8344251
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 二胖影视
+URL: https://www.goodiptv.club/douyu/10064260
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 五分钟电影汇
 URL: https://www.goodiptv.club/douyu/8443438
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 亦寒电影
+URL: https://www.goodiptv.club/huya/25368353
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 俗哥看电影
+URL: https://www.goodiptv.club/douyu/2161818
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -8822,23 +8852,13 @@ URL: https://www.goodiptv.club/douyu/2632223
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 力哥影视
-URL: https://www.goodiptv.club/huya/23419131
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 南宁影视娱乐
 URL: https://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 发条张的电影最TOP
-URL: https://www.goodiptv.club/douyu/2164691
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 古惑电影
-URL: https://www.goodiptv.club/huya/27318500
+Name: 同同电影
+URL: https://www.goodiptv.club/douyu/10155359
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -8847,18 +8867,13 @@ URL: https://www.goodiptv.club/douyu/9505584
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 周星驰的直播间
-URL: https://www.goodiptv.club/douyu/8257039
+Name: 喜剧电影笑不停
+URL: https://www.goodiptv.club/douyu/10298856
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 哈尔滨影视
-URL: https://stream.hrbtv.net/yspd/sd/live.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 喜人电影
-URL: https://www.goodiptv.club/douyu/10348735
+Name: 墨逗电影
+URL: https://www.goodiptv.club/douyu/9614847
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -8867,18 +8882,48 @@ URL: https://www.goodiptv.club/douyu/9437349
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 大幂幂电影
+URL: https://www.goodiptv.club/huya/24986575
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 大板牙电影
+URL: https://www.goodiptv.club/huya/24645498
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 大笑影院
+URL: https://www.goodiptv.club/douyu/10329300
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 大聪明和魏乐乐影院
+URL: https://www.goodiptv.club/huya/23304691
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 大荒电影
 URL: https://www.goodiptv.club/douyu/3508538
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 天堂电影1895
-URL: https://www.goodiptv.club/douyu/9573592
+Name: 大葱电影
+URL: https://www.goodiptv.club/huya/26332024
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 怪兽马提尼电影
-URL: https://www.goodiptv.club/douyu/9075333
+Name: 大趴电影院
+URL: https://www.goodiptv.club/douyu/8747638
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 怀旧电影厅
+URL: https://www.goodiptv.club/huya/25863244
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 怪味爆米花电影
+URL: https://www.goodiptv.club/douyu/9422144
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -8887,18 +8932,28 @@ URL: https://www.goodiptv.club/douyu/8978669
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 恐怖电影猪哥
-URL: https://www.goodiptv.club/huya/14015002
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 成龙历险纪
 URL: https://www.goodiptv.club/douyu/2287949
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 扁豆看电影
-URL: https://www.goodiptv.club/huya/16028551
+Name: 我是吃泡面看电影
+URL: https://www.goodiptv.club/douyu/8851063
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 指缝里看电影
+URL: https://www.goodiptv.club/douyu/9647834
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 无比看电影精选
+URL: https://www.goodiptv.club/huya/19450129
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 无际电影
+URL: https://www.goodiptv.club/douyu/9720498
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -8907,18 +8962,8 @@ URL: https://www.goodiptv.club/huya/27717388
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 楠者电影
-URL: https://www.goodiptv.club/douyu/9485398
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 止戈电影
-URL: https://www.goodiptv.club/huya/19863777
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 每日好电影V
-URL: https://www.goodiptv.club/douyu/9533302
+Name: 比尔电影
+URL: https://www.goodiptv.club/huya/17227870
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -8937,8 +8982,13 @@ URL: https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 涵哥评电影
-URL: https://www.goodiptv.club/huya/16865726
+Name: 海哥电影
+URL: https://www.goodiptv.club/huya/25789589
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 涛浪浪电影
+URL: https://www.goodiptv.club/douyu/5424258
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -8952,13 +9002,33 @@ URL: https://www.goodiptv.club/huya/23058985
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 爆米电影
+URL: https://www.goodiptv.club/huya/24936375
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 爆裂电影
 URL: https://www.goodiptv.club/huya/25013725
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 独立鱼电影
+URL: https://www.goodiptv.club/douyu/2413555
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 猫眼电影
 URL: https://www.goodiptv.club/douyu/8726221
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影七十二变
+URL: https://www.goodiptv.club/douyu/9323164
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影东北球王
+URL: https://www.goodiptv.club/huya/880286
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -8992,8 +9062,43 @@ URL: https://www.goodiptv.club/douyu/3985805
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 电影十里廊
+URL: https://www.goodiptv.club/huya/16801558
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 电影变形金刚
 URL: https://www.goodiptv.club/huya/21059596
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影吐槽汇
+URL: https://www.goodiptv.club/douyu/9447668
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影周星星
+URL: https://www.goodiptv.club/huya/11336587
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影周海媚
+URL: https://www.goodiptv.club/huya/11279247
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影喜剧
+URL: https://www.goodiptv.club/huya/11352877
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影国产悬疑
+URL: https://www.goodiptv.club/huya/11342395
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影宇宙
+URL: https://www.goodiptv.club/huya/11342428
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9007,23 +9112,63 @@ URL: https://www.goodiptv.club/douyu/8884074
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 电影怪兽
-URL: https://www.goodiptv.club/huya/21059577
+Name: 电影怪兽系列
+URL: https://www.goodiptv.club/huya/21059554
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 电影救援
-URL: https://www.goodiptv.club/huya/21059594
+Name: 电影战争
+URL: https://www.goodiptv.club/huya/21059592
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 电影沈腾
-URL: https://www.goodiptv.club/huya/11601968
+Name: 电影战争片
+URL: https://www.goodiptv.club/huya/21059574
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 电影漩涡
-URL: https://www.goodiptv.club/douyu/8706350
+Name: 电影探长
+URL: https://www.goodiptv.club/huya/27438374
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影搞笑恐怖
+URL: https://www.goodiptv.club/huya/11601960
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影斯坦森
+URL: https://www.goodiptv.club/huya/21059588
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影武侠
+URL: https://www.goodiptv.club/huya/11342427
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影死神来了
+URL: https://www.goodiptv.club/huya/11352903
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影洪金宝
+URL: https://www.goodiptv.club/huya/11279251
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影港片
+URL: https://www.goodiptv.club/huya/11602043
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影玄幻
+URL: https://www.goodiptv.club/huya/11342414
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影票妹
+URL: https://www.goodiptv.club/huya/24771023
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9032,13 +9177,28 @@ URL: https://www.goodiptv.club/douyu/9636034
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 电影间谍
-URL: https://www.goodiptv.club/huya/16149609
+Name: 电影警匪
+URL: https://www.goodiptv.club/huya/11352886
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 电影高能反转
-URL: https://www.goodiptv.club/huya/11352887
+Name: 电影谍战
+URL: https://www.goodiptv.club/huya/21059585
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影谍战片
+URL: https://www.goodiptv.club/huya/21059587
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影迷小雅
+URL: https://www.goodiptv.club/douyu/9639225
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 电影高分动作
+URL: https://www.goodiptv.club/huya/11352884
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9047,13 +9207,38 @@ URL: https://www.goodiptv.club/douyu/8706652
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 看电影了没V
+URL: https://www.goodiptv.club/douyu/9562616
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 维立方电影
+URL: https://www.goodiptv.club/douyu/8706393
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 美亚电影
 URL: https://live.tvfix.org/live/mydy/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 老电影故事
+URL: https://www.goodiptv.club/douyu/9167273
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 胶片看电影
+URL: https://www.goodiptv.club/douyu/3715426
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 腹黑电影
 URL: https://www.goodiptv.club/douyu/8867878
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 草泥泥影院
+URL: https://www.goodiptv.club/douyu/9091049
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9072,8 +9257,8 @@ URL: https://www.goodiptv.club/huya/16135154
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 贝爷求生影视
-URL: https://www.goodiptv.club/douyu/9661369
+Name: 贰哥电影
+URL: https://www.goodiptv.club/douyu/9338867
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9082,13 +9267,8 @@ URL: https://www.goodiptv.club/douyu/4058285
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 酱婶儿电影
-URL: https://www.goodiptv.club/huya/24396474
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 阿苏电影
-URL: https://www.goodiptv.club/douyu/9037784
+Name: 长河电影
+URL: https://www.goodiptv.club/huya/18986269
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9104,6 +9284,11 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 龙哥盘电影
 URL: https://www.goodiptv.club/douyu/9736161
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 龙虾电影
+URL: https://www.goodiptv.club/huya/27742234
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9708,13 +9893,8 @@ Source: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 --------------------------------------------------
 
 Group: 直播中国
-Name: 四川峨眉山远眺万佛顶
-URL: https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 黄山排云亭
-URL: https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+Name: 陕西洋县国宝朱鹮02
+URL: https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9725,18 +9905,13 @@ URL: https://www.goodiptv.club/douyu/9822277
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 3说电影
-URL: https://www.goodiptv.club/douyu/9643264
+Name: 一朵老香菇解说
+URL: https://www.goodiptv.club/douyu/10050914
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 77说电影
-URL: https://www.goodiptv.club/douyu/9444320
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: DD解说
-URL: https://www.goodiptv.club/huya/25650806
+Name: 七七讲故事
+URL: https://www.goodiptv.club/huya/27640544
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9745,13 +9920,18 @@ URL: https://www.goodiptv.club/douyu/9437283
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 乔我说游戏频道
-URL: https://www.goodiptv.club/huya/17943364
+Name: 九叔说电影v
+URL: https://www.goodiptv.club/douyu/9348282
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 九叔说电影v
-URL: https://www.goodiptv.club/douyu/9348282
+Name: 亮哥讲电影
+URL: https://www.goodiptv.club/huya/16144175
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 亮哥讲电影2
+URL: https://www.goodiptv.club/huya/21059622
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9760,8 +9940,28 @@ URL: https://vd2.bdstatic.com/mda-pj87j1bvecdrn2zi/720p/h264/1696828854844592124
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 代娱说美剧
+URL: https://www.goodiptv.club/douyu/9123570
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 伦帝电影说
+URL: https://www.goodiptv.club/douyu/9368091
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 伯乐说电影V
 URL: https://www.goodiptv.club/douyu/9386057
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 低调新说
+URL: https://www.goodiptv.club/huya/20578977
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 佑佑说电影
+URL: https://www.goodiptv.club/huya/25027809
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9772,6 +9972,11 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 侃片黑菠萝
 URL: https://www.goodiptv.club/douyu/5803764
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 兔八哥说电影
+URL: https://www.goodiptv.club/huya/25869759
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9790,8 +9995,13 @@ URL: https://www.goodiptv.club/douyu/8317926
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 北大落说大片
-URL: https://www.goodiptv.club/douyu/8828811
+Name: 十里说
+URL: https://www.goodiptv.club/douyu/9064711
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 博士说
+URL: https://www.goodiptv.club/huya/20985819
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9801,17 +10011,22 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
 Name: 可乐撩电影
-URL: https://www.goodiptv.club/douyu/9371552
+URL: https://www.goodiptv.club/huya/20045465
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 听wo姐说
-URL: https://www.goodiptv.club/douyu/8830082
+Name: 史君说剧
+URL: https://www.goodiptv.club/douyu/9419771
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 呆瓜侃电影
-URL: https://www.goodiptv.club/huya/26714197
+Name: 咆哮解说黑鑫
+URL: https://www.goodiptv.club/huya/25018873
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 哏老师撩电影
+URL: https://www.goodiptv.club/douyu/9991820
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9825,8 +10040,18 @@ URL: https://www.goodiptv.club/douyu/9312432
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 备胎说车
+URL: https://www.goodiptv.club/huya/20985836
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 大片片说小片
 URL: https://www.goodiptv.club/douyu/7489563
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 女汉子说电影
+URL: https://www.goodiptv.club/douyu/9395966
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9835,8 +10060,8 @@ URL: https://www.goodiptv.club/douyu/9439594
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 好像视说故事
-URL: https://www.goodiptv.club/douyu/8891883
+Name: 威廉说
+URL: https://www.goodiptv.club/huya/24969192
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9845,8 +10070,48 @@ URL: https://www.goodiptv.club/huya/18964209
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 安小闫说电影x
+URL: https://www.goodiptv.club/douyu/1842621
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 将军侃片
 URL: https://www.goodiptv.club/douyu/8529736
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 小丽说电影
+URL: https://www.goodiptv.club/douyu/9368016
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 小司马说剧
+URL: https://www.goodiptv.club/douyu/9660127
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 小岛讲电影
+URL: https://www.goodiptv.club/douyu/9390955
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 小邓子解说师
+URL: https://www.goodiptv.club/huya/25220145
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 左左说电影
+URL: https://www.goodiptv.club/huya/25027708
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 幕撩电影
+URL: https://www.goodiptv.club/douyu/9486015
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 强人说笑
+URL: https://www.goodiptv.club/douyu/10329713
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9855,13 +10120,13 @@ URL: https://www.goodiptv.club/douyu/10411518
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 怪兽讲电影
-URL: https://www.goodiptv.club/huya/25022961
+Name: 我不想说
+URL: https://vd2.bdstatic.com/mda-pcu854funsj9572n/sc/cae_h264/1680069595304346549/mda-pcu854funsj9572n.mp4
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 我不想说
-URL: https://vd4.bdstatic.com/mda-nhi5mxta02p1sfdk/hd/cae_h264/1660998649751007541/mda-nhi5mxta02p1sfdk.mp4
+Name: 扒点影视解说
+URL: https://www.goodiptv.club/huya/24531823
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9875,8 +10140,8 @@ URL: https://www.goodiptv.club/douyu/9351043
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 斌哥漫说2
-URL: https://www.goodiptv.club/huya/21059621
+Name: 木子李说故事
+URL: https://www.goodiptv.club/huya/24030276
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9885,8 +10150,18 @@ URL: https://www.goodiptv.club/douyu/9431125
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 楚门聊电影
-URL: https://www.goodiptv.club/huya/16507906
+Name: 松轩说电影
+URL: https://www.goodiptv.club/douyu/1524969
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 正经说电影
+URL: https://www.goodiptv.club/huya/19583776
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 歪嘴说电影
+URL: https://www.goodiptv.club/huya/25261589
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9895,18 +10170,8 @@ URL: https://www.goodiptv.club/douyu/10535867
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 漫画解说
-URL: https://www.goodiptv.club/douyu/5907076
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 火龙果讲电影本人
 URL: https://www.goodiptv.club/douyu/2039501
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 灯泡兄弟影游谈
-URL: https://www.goodiptv.club/douyu/1690081
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9915,8 +10180,8 @@ URL: https://www.goodiptv.club/douyu/9678207
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 牛叔说电影二台
-URL: https://www.goodiptv.club/douyu/10010651
+Name: 牛叔说电影
+URL: https://www.goodiptv.club/douyu/2758565
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9930,8 +10195,43 @@ URL: https://www.goodiptv.club/huya/16457533
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 猫叔说电影
+URL: https://www.goodiptv.club/douyu/9820039
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 王坑坑聊电影
+URL: https://www.goodiptv.club/douyu/9402110
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 珞珞说电影
 URL: https://www.goodiptv.club/douyu/3718888
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 疯狂解说家
+URL: https://www.goodiptv.club/huya/18366196
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 白丁说电影
+URL: https://www.goodiptv.club/huya/24396428
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 百晓生说剧
+URL: https://www.goodiptv.club/douyu/9649681
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 神之传说sh
+URL: https://www.goodiptv.club/douyu/9370168
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 神羊说电影
+URL: https://www.goodiptv.club/douyu/9443552
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9945,8 +10245,18 @@ URL: https://www.goodiptv.club/douyu/9660704
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 绘说篮球C
+URL: https://www.goodiptv.club/douyu/9401305
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 罗叔说戏
 URL: https://www.goodiptv.club/douyu/9788756
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 老吴说电影
+URL: https://www.goodiptv.club/huya/16740471
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9960,13 +10270,28 @@ URL: https://www.goodiptv.club/huya/16968572
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 老秦说秦
+URL: https://www.goodiptv.club/douyu/9650131
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 老胡说电影
 URL: https://www.goodiptv.club/douyu/8880466
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 老邪说电影
-URL: https://www.goodiptv.club/douyu/9222870
+Name: 老鱼说剧
+URL: https://www.goodiptv.club/douyu/9994377
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 船长电影解说
+URL: https://www.goodiptv.club/huya/24983280
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 芳芳说故事
+URL: https://www.goodiptv.club/douyu/9401905
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9975,8 +10300,8 @@ URL: https://www.goodiptv.club/douyu/8788687
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 菠萝说电影
-URL: https://www.goodiptv.club/douyu/3714736
+Name: 虫哥说电影
+URL: https://www.goodiptv.club/douyu/8915074
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -9990,13 +10315,38 @@ URL: https://www.goodiptv.club/douyu/7532080
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 西瓜讲电影
+URL: https://www.goodiptv.club/huya/27742216
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 西红柿讲电影
 URL: https://www.goodiptv.club/huya/24999835
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 观影说史
+URL: https://www.goodiptv.club/huya/27312822
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 讲不出告别
 URL: https://vd2.bdstatic.com/mda-pk03y449fmji5t41/cae_h264/1698809955298408352/mda-pk03y449fmji5t41.mp4
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 讲故事会唱歌的步tian
+URL: https://www.goodiptv.club/huya/23011779
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 讲故事的角马
+URL: https://www.goodiptv.club/douyu/4400816
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 说笑武林
+URL: https://www.goodiptv.club/douyu/10329706
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -10010,33 +10360,23 @@ URL: https://www.goodiptv.club/douyu/9463586
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 逗米说电影
-URL: https://www.goodiptv.club/douyu/421222
+Name: 辣条讲故事
+URL: https://www.goodiptv.club/huya/26848148
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 邦邦说
-URL: https://www.goodiptv.club/huya/27742258
+Name: 辰哥说电影
+URL: https://www.goodiptv.club/douyu/9371407
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 阿木讲电影
-URL: https://www.goodiptv.club/douyu/532050
+Name: 钱小元说电影
+URL: https://www.goodiptv.club/douyu/9368265
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 阿松撩剧
-URL: https://www.goodiptv.club/douyu/8880843
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 阿祥说电影
-URL: https://www.goodiptv.club/huya/16868935
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 露爷说漫
-URL: https://www.goodiptv.club/douyu/9542830
+Name: 雨婷讲电影
+URL: https://www.goodiptv.club/huya/21638737
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -10045,18 +10385,18 @@ URL: https://vd2.bdstatic.com/mda-nb8j3b6sz77bdvk8/sc/cae_h264_delogo/1644413904
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 飞碟说官方
+URL: https://www.goodiptv.club/douyu/1449125
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 驴哥说电影
 URL: https://www.goodiptv.club/douyu/5376478
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 鬼兄奇谈
-URL: https://www.goodiptv.club/douyu/8722254
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 鹏友说电影
-URL: https://www.goodiptv.club/douyu/9445244
+Name: 鲨说电影
+URL: https://www.goodiptv.club/douyu/9544628
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
