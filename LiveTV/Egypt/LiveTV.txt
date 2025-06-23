@@ -248,6 +248,11 @@ URL: https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 Logo: https://i.imgur.com/5UxU4zc.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
+Name: Africanews French (720p)
+URL: https://2767164d5ee04887b96812a9eea74d32.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6573/44d3df93-4a3e-43e0-990f-a5d196bbe3aa/5.m3u8
+Logo: https://i.imgur.com/5UxU4zc.png
+Source: https://iptv-org.github.io/iptv/countries/eg.m3u
+--------------------------------------------------
 Name: BBC Arabic (720p)
 URL: https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 Logo: https://i.imgur.com/ScyTG6P.png
@@ -1286,11 +1291,6 @@ Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 Name: TBN Africa (1080p)
 URL: https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
 Logo: https://i.imgur.com/6VjLFmR.png
-Source: https://iptv-org.github.io/iptv/countries/eg.m3u
---------------------------------------------------
-Name: TV5Monde Africa
-URL: https://live20.bozztv.com/dvrfl06/astv/astv-tv5mondeafrique/index.m3u8
-Logo: https://i.imgur.com/0N64Ddn.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
 Name: Zee World
