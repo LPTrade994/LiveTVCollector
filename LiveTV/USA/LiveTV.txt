@@ -2750,7 +2750,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: ZESTE French (Canada)
-URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/22033
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57502
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -8068,7 +8068,7 @@ URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/10597
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: WQHS-TV UniMás 61.2 (Cleveland OH)
+Name: WQHS-DT UniMás 61.2 (Cleveland OH)
 URL: http://hardcoremedia.xyz:80/BG992263/38692743/135406
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
@@ -8208,7 +8208,7 @@ URL: http://hidra.live:80/eufTQNgNXv/ojxBLcjY/334518
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: WUVG-TV UniMás 34.2 (Atlanta GA)
+Name: WUVG-DT UniMás 34.2 (Atlanta GA)
 URL: http://hardcoremedia.xyz:80/BG992263/38692743/135403
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
@@ -8218,7 +8218,7 @@ URL: https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/mas
 Logo: https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: WKAQ-TV Punto 2 2.2 (San Juan PR)
+Name: WKAQ-DT Punto 2 2.2 (San Juan PR)
 URL: https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 Logo: https://dishcaribbean.com/img/upload/punto2-color-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
@@ -11001,6 +11001,11 @@ URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71724
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: WHPL-TV CW 17 (Philadelphia PA)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/224582
+Logo: https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: WTXF-TV FOX 29 (Philadelphia PA)
 URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71723
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
@@ -11191,6 +11196,26 @@ URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71466
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: KVIA-TV ABC 3 (Corpus Christi TX)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216621
+Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KIII-TV NBC 6 (Corpus Christi TX)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120804
+Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KZTV-TV CBS 10 (Corpus Christi TX)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216550
+Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KSCC-TV FOX 38 (Corpus Christi TX)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216549
+Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: KCBD-TV NBC 11 (Lubbock TX)
 URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71629
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
@@ -11231,7 +11256,7 @@ URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71785
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: KMYS-TV CW 35 & WOAI-TV 4.2 (San Antonio TX)
+Name: KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX)
 URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71784
 Logo: https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
@@ -11254,6 +11279,11 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 Name: KTVT-TV CBS 11 (Ft. Worth/Dallas TX)
 URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71438
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KDFI-TV MyNetworkTV/FOX More27 (Ft. Worth/Dallas TX)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/121240
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KPRC-TV NBC 2 (Houston TX)
@@ -11346,7 +11376,7 @@ URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71844
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: KTVK-TV 3TV (Phoenix AZ)
+Name: KTVK-TV 3TV CBS/Ind. 3 (Phoenix AZ)
 URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71740
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
@@ -11526,7 +11556,7 @@ URL: http://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: KOMU-TV CW+ 8.3 (Jefferson City MO)
+Name: KOMU-DT CW+ 8.3 (Jefferson City MO)
 URL: http://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 Logo: https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
@@ -11541,7 +11571,7 @@ URL: http://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: KMIZ-TV MyNetworkTV 17.3 (Jefferson City MO)
+Name: KMIZ-DT MyNetworkTV 17.3 (Jefferson City MO)
 URL: http://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
@@ -11591,7 +11621,7 @@ URL: http://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: KTVO-TV CBS 3.2 (Ottumwa IA)
+Name: KTVO-DT CBS 3.2 (Ottumwa IA)
 URL: http://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
@@ -11601,12 +11631,12 @@ URL: http://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: KYOU-TV NBC 15.2 (Ottumwa IA)
+Name: KYOU-DT NBC 15.2 (Ottumwa IA)
 URL: http://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: KYOU-TV CW+ 15.4 (Ottumwa IA)
+Name: KYOU-DT CW+ 15.4 (Ottumwa IA)
 URL: http://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 Logo: https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
@@ -11651,7 +11681,7 @@ URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71672
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: KZTV-TV CW 17.2 (Nashville TN)
+Name: KZTV-DT CW 17.2 (Nashville TN)
 URL: http://fortv.cc:8080/q8KuDU/354945/120901
 Logo: https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
@@ -11686,7 +11716,7 @@ URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71392
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: WTVC-TV FOX 9.2 (Chattanooga TN)
+Name: WTVC-DT FOX 9.2 (Chattanooga TN)
 URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71394
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
@@ -13742,8 +13772,8 @@ URL: https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 Logo: https://i.imgur.com/1rxmu2u.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Cine Adrenalina
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4d042878-a4ee-480d-8f14-ebbfb96388e9
+Name: Cine Adrenalina (720p)
+URL: https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
 Logo: https://i.imgur.com/njCKaMv.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -13752,8 +13782,8 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://i.imgur.com/hCA5BRr.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
-Name: Cine Premiere
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e000-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7f04239-fee6-40d2-9e5e-6893a6d330ec
+Name: Cine Premiere (720p)
+URL: https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 Logo: https://i.imgur.com/PdhWTO6.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
@@ -13915,11 +13945,6 @@ Source: https://iptv-org.github.io/iptv/countries/us.m3u
 Name: Pluto TV Action
 URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
 Logo: https://i.imgur.com/tDapGal.png
-Source: https://iptv-org.github.io/iptv/countries/us.m3u
---------------------------------------------------
-Name: Pluto TV Cine Accion (720p)
-URL: https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
-Logo: https://i.imgur.com/PXhCzXn.png
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: Pluto TV Crime Drama

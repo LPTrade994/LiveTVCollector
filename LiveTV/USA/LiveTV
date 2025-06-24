@@ -3084,9 +3084,9 @@
     "img": "https://i.imgur.com/1rxmu2u.png"
   },
   {
-    "name": "Cine Adrenalina",
+    "name": "Cine Adrenalina (720p)",
     "type": "Movies",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4d042878-a4ee-480d-8f14-ebbfb96388e9",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=",
     "img": "https://i.imgur.com/njCKaMv.png"
   },
   {
@@ -3096,9 +3096,9 @@
     "img": "https://i.imgur.com/hCA5BRr.png"
   },
   {
-    "name": "Cine Premiere",
+    "name": "Cine Premiere (720p)",
     "type": "Movies",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e000-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7f04239-fee6-40d2-9e5e-6893a6d330ec",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
     "img": "https://i.imgur.com/PdhWTO6.png"
   },
   {
@@ -3292,12 +3292,6 @@
     "type": "Movies",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513",
     "img": "https://i.imgur.com/tDapGal.png"
-  },
-  {
-    "name": "Pluto TV Cine Accion (720p)",
-    "type": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=",
-    "img": "https://i.imgur.com/PXhCzXn.png"
   },
   {
     "name": "Pluto TV Crime Drama",
@@ -15666,6 +15660,12 @@
     "img": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png"
   },
   {
+    "name": "WHPL-TV CW 17 (Philadelphia PA)",
+    "type": "Local Channels",
+    "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/224582",
+    "img": "https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg"
+  },
+  {
     "name": "WTXF-TV FOX 29 (Philadelphia PA)",
     "type": "Local Channels",
     "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71723",
@@ -15894,6 +15894,30 @@
     "img": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png"
   },
   {
+    "name": "KVIA-TV ABC 3 (Corpus Christi TX)",
+    "type": "Local Channels",
+    "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216621",
+    "img": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png"
+  },
+  {
+    "name": "KIII-TV NBC 6 (Corpus Christi TX)",
+    "type": "Local Channels",
+    "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/120804",
+    "img": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png"
+  },
+  {
+    "name": "KZTV-TV CBS 10 (Corpus Christi TX)",
+    "type": "Local Channels",
+    "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216550",
+    "img": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png"
+  },
+  {
+    "name": "KSCC-TV FOX 38 (Corpus Christi TX)",
+    "type": "Local Channels",
+    "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216549",
+    "img": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png"
+  },
+  {
     "name": "KCBD-TV NBC 11 (Lubbock TX)",
     "type": "Local Channels",
     "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71629",
@@ -15942,7 +15966,7 @@
     "img": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png"
   },
   {
-    "name": "KMYS-TV CW 35 & WOAI-TV 4.2 (San Antonio TX)",
+    "name": "KMYS-TV CW 35 & WOAI-DT 4.2 (San Antonio TX)",
     "type": "Local Channels",
     "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71784",
     "img": "https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg"
@@ -15970,6 +15994,12 @@
     "type": "Local Channels",
     "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71438",
     "img": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png"
+  },
+  {
+    "name": "KDFI-TV MyNetworkTV/FOX More27 (Ft. Worth/Dallas TX)",
+    "type": "Local Channels",
+    "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/121240",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png"
   },
   {
     "name": "KPRC-TV NBC 2 (Houston TX)",
@@ -16080,7 +16110,7 @@
     "img": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png"
   },
   {
-    "name": "KTVK-TV 3TV (Phoenix AZ)",
+    "name": "KTVK-TV 3TV CBS/Ind. 3 (Phoenix AZ)",
     "type": "Local Channels",
     "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71740",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
@@ -16296,7 +16326,7 @@
     "img": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png"
   },
   {
-    "name": "KOMU-TV CW+ 8.3 (Jefferson City MO)",
+    "name": "KOMU-DT CW+ 8.3 (Jefferson City MO)",
     "type": "Local Channels",
     "url": "http://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8",
     "img": "https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg"
@@ -16314,7 +16344,7 @@
     "img": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png"
   },
   {
-    "name": "KMIZ-TV MyNetworkTV 17.3 (Jefferson City MO)",
+    "name": "KMIZ-DT MyNetworkTV 17.3 (Jefferson City MO)",
     "type": "Local Channels",
     "url": "http://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png"
@@ -16374,7 +16404,7 @@
     "img": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png"
   },
   {
-    "name": "KTVO-TV CBS 3.2 (Ottumwa IA)",
+    "name": "KTVO-DT CBS 3.2 (Ottumwa IA)",
     "type": "Local Channels",
     "url": "http://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8",
     "img": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png"
@@ -16386,13 +16416,13 @@
     "img": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png"
   },
   {
-    "name": "KYOU-TV NBC 15.2 (Ottumwa IA)",
+    "name": "KYOU-DT NBC 15.2 (Ottumwa IA)",
     "type": "Local Channels",
     "url": "http://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8",
     "img": "https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png"
   },
   {
-    "name": "KYOU-TV CW+ 15.4 (Ottumwa IA)",
+    "name": "KYOU-DT CW+ 15.4 (Ottumwa IA)",
     "type": "Local Channels",
     "url": "http://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8",
     "img": "https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg"
@@ -16446,7 +16476,7 @@
     "img": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png"
   },
   {
-    "name": "KZTV-TV CW 17.2 (Nashville TN)",
+    "name": "KZTV-DT CW 17.2 (Nashville TN)",
     "type": "Local Channels",
     "url": "http://fortv.cc:8080/q8KuDU/354945/120901",
     "img": "https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg"
@@ -16488,7 +16518,7 @@
     "img": "https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png"
   },
   {
-    "name": "WTVC-TV FOX 9.2 (Chattanooga TN)",
+    "name": "WTVC-DT FOX 9.2 (Chattanooga TN)",
     "type": "Local Channels",
     "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71394",
     "img": "https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png"
@@ -18600,7 +18630,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
   },
   {
-    "name": "WQHS-TV UniMás 61.2 (Cleveland OH)",
+    "name": "WQHS-DT UniMás 61.2 (Cleveland OH)",
     "type": "Latino (Spanish)",
     "url": "http://hardcoremedia.xyz:80/BG992263/38692743/135406",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png"
@@ -18768,7 +18798,7 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png"
   },
   {
-    "name": "WUVG-TV UniMás 34.2 (Atlanta GA)",
+    "name": "WUVG-DT UniMás 34.2 (Atlanta GA)",
     "type": "Latino (Spanish)",
     "url": "http://hardcoremedia.xyz:80/BG992263/38692743/135403",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/196px-Logo_UniM%C3%A1s.svg.png"
@@ -18780,7 +18810,7 @@
     "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
   },
   {
-    "name": "WKAQ-TV Punto 2 2.2 (San Juan PR)",
+    "name": "WKAQ-DT Punto 2 2.2 (San Juan PR)",
     "type": "Latino (Spanish)",
     "url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
     "img": "https://dishcaribbean.com/img/upload/punto2-color-logo.png"
@@ -24836,7 +24866,7 @@
   {
     "name": "ZESTE French (Canada)",
     "type": "Canadian Channels",
-    "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/22033",
+    "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57502",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
