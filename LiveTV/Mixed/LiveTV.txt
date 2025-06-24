@@ -3656,6 +3656,11 @@ URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STMB_TV3.png/290px-STMB_TV3.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
+Name: TV3
+URL: https://ktpremium.site/live/RY318/7777/912828.ts
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STMB_TV3.png/290px-STMB_TV3.png
+Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
+--------------------------------------------------
 Name: TV6
 URL: https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 Logo: https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814
@@ -3807,7 +3812,12 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Astro_Awani.png/
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO CITRA
-URL: https://get.perfecttv.net/astro_master.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrocitra
+URL: http://195.128.24.55:80/play/live.php?mac=00:1A:79:A1:DE:E8&stream=1163672&extension=ts
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png
+Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
+--------------------------------------------------
+Name: ASTRO CITRA
+URL: https://ktpremium.site/live/RY318/7777/913177.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
@@ -3821,14 +3831,24 @@ URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mp
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Astro_Oasis_%282024%29.png/400px-Astro_Oasis_%282024%29.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
+Name: ASTRO OASIS HD
+URL: https://ktpremium.site/live/RY318/7777/25864.ts
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Astro_Oasis_%282024%29.png/400px-Astro_Oasis_%282024%29.png
+Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
+--------------------------------------------------
 Name: ASTRO PRIMA HD
-URL: https://l18.dp.sooka.my/1000/linear/index.mpd
+URL: http://livesmartphp.RobYang.ggff.net/smart.php?id=Prima-0
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png
+Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
+--------------------------------------------------
+Name: ASTRO PRIMA HD
+URL: http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Prima-0/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO QJ
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_primary.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Astro_QJ_%282024%29.png/440px-Astro_QJ_%282024%29.png
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/Astro%20QJ.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO RANIA
@@ -3837,12 +3857,22 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Astro_Rania_%282
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO RIA
-URL: https://l16.dp.sooka.my/1004/linear/ria.mpd
+URL: http://livesmartphp.RobYang.ggff.net/smart.php?id=Ria-0
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
+Name: ASTRO RIA
+URL: https://ktpremium.site/live/RY318/7777/25855.ts
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png
+Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
+--------------------------------------------------
+Name: ASTRO SENSASI
+URL: https://aseanic.github.io/hls/hubsensasi.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Astro_Sensasi_%28Dec_2024%29.png/500px-Astro_Sensasi_%28Dec_2024%29.png
+Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
+--------------------------------------------------
 Name: ASTRO THANGATHIRAI
-URL: https://get.perfecttv.net/astro_master.mpd?channel=astroABO&username=vip_level7&password=vip_level7
+URL: https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Astro_Thangathirai_%282024%29.png/400px-Astro_Thangathirai_%282024%29.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
@@ -10765,22 +10795,22 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Astro_Arena_2_%2
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO BADMINTON
-URL: https://l17.dp.sooka.my/5170/linear/index.mpd
+URL: https://ktpremium.site/live/RY318/7777/1010678.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/d/d0/Astro_Badminton_1_%282024%29.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO ARENA BOLA
-URL: https://l01.dp.sooka.my/5099/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyNDk3NzMsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MzM1NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYzk5MDc0OTQtYTA4ZS00NDk1LWI5MjQtOGNmYzNmMDJhNmU4IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.DNRY9mONkjqUjdAVfu3A2W82nQQrMtGHABhoTW_9RVo
+URL: http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bolaarena1/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/400px-Astro_Arena_Bola_1_%282024%29.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO ARENA BOLA 2
-URL: https://l02.dp.sooka.my/5100/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyNDk3NzMsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MzM1NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYzk5MDc0OTQtYTA4ZS00NDk1LWI5MjQtOGNmYzNmMDJhNmU4IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.DNRY9mONkjqUjdAVfu3A2W82nQQrMtGHABhoTW_9RVo
+URL: http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bolaarena2/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Astro_Arena_Bola_2_%282024%29.png/400px-Astro_Arena_Bola_2_%282024%29.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO CRICKET
-URL: https://l02.dp.sooka.my/2504/linear/index.mpd
+URL: http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/18629.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Astro_Cricket_%282024%29.png/400px-Astro_Cricket_%282024%29.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
@@ -10790,7 +10820,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ASTRO GRANDSTAND
-URL: https://l03.dp.sooka.my/2701/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkyNDk3NzMsImlzcyI6IlZSIiwiZXhwIjoxNzQ5MzM1NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiYzk5MDc0OTQtYTA4ZS00NDk1LWI5MjQtOGNmYzNmMDJhNmU4IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.DNRY9mONkjqUjdAVfu3A2W82nQQrMtGHABhoTW_9RVo
+URL: http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp3/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
@@ -10799,8 +10829,18 @@ URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
+Name: ASTRO PREMIER LEAGUE
+URL: http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp1/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png
+Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
+--------------------------------------------------
 Name: ASTRO PREMIER LEAGUE 2
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_ott.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png
+Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
+--------------------------------------------------
+Name: ASTRO PREMIER LEAGUE 2
+URL: http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp2/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
@@ -10850,7 +10890,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/e/e0/Dubai_Sports_logo_2023
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: EUROSPORT HD
-URL: http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
+URL: https://atemeshield1-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
