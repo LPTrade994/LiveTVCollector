@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-23 22:02:17",
+  "date": "2025-06-24 07:30:54",
   "channels": {
     "News": [
       {
@@ -1293,6 +1293,64 @@
         "url": "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8"
       }
     ],
+    "Movies": [
+      {
+        "name": "Cine Adrenalina (720p)",
+        "logo": "https://i.imgur.com/njCKaMv.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId="
+      },
+      {
+        "name": "Cine Clásico",
+        "logo": "https://i.imgur.com/hCA5BRr.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41"
+      },
+      {
+        "name": "De Película (576p)",
+        "logo": "https://i.imgur.com/aksM8pa.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8"
+      },
+      {
+        "name": "De Película Plus (576p)",
+        "logo": "https://i.imgur.com/MMhSmDK.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8"
+      },
+      {
+        "name": "Filmstream (clasicos ingles) (720p)",
+        "logo": "https://i.imgur.com/DTRPV6B.png",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
+        "url": "https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "Top Cine (1080p)",
+        "logo": "https://i.imgur.com/DFEKx5N.png",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
+        "url": "https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8"
+      },
+      {
+        "name": "Andes TV",
+        "logo": "https://www.radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
+        "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/chunklist_w2044646175.m3u8"
+      },
+      {
+        "name": "Retro Plus 3 (720p)",
+        "logo": "https://i.imgur.com/i0rZsgG.png",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
+        "url": "https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w1062652673.m3u8"
+      }
+    ],
     "Kids": [
       {
         "name": "Clan TVE Internacional (1080p)",
@@ -1568,57 +1626,6 @@
         "group": "Undefined",
         "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
         "url": "https://cloudvideo.servers10.com:8081/8070/index.m3u8"
-      }
-    ],
-    "Movies": [
-      {
-        "name": "De Película (576p)",
-        "logo": "https://i.imgur.com/aksM8pa.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "De Película Plus (576p)",
-        "logo": "https://i.imgur.com/MMhSmDK.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "Pluto TV Cine Accion (720p)",
-        "logo": "https://i.imgur.com/PXhCzXn.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId="
-      },
-      {
-        "name": "Filmstream (clasicos ingles) (720p)",
-        "logo": "https://i.imgur.com/DTRPV6B.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
-        "url": "https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
-        "name": "Top Cine (1080p)",
-        "logo": "https://i.imgur.com/DFEKx5N.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
-        "url": "https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8"
-      },
-      {
-        "name": "Andes TV",
-        "logo": "https://www.radiosicuani.com/wp-content/uploads/2020/11/logo-tv.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
-        "url": "https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/chunklist_w2044646175.m3u8"
-      },
-      {
-        "name": "Retro Plus 3 (720p)",
-        "logo": "https://i.imgur.com/i0rZsgG.png",
-        "group": "Movies",
-        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
-        "url": "https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w1062652673.m3u8"
       }
     ],
     "Comedy": [
@@ -2303,6 +2310,13 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://vztv.online/live/mysteam_web.m3u8"
+      },
+      {
+        "name": "32 | CONECTA2 TV |",
+        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/CONECTADOS.jpg",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://live.obslivestream.com/conecta2/index.m3u8"
       },
       {
         "name": "34 | BH TV |",
