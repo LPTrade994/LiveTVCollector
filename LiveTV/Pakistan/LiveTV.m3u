@@ -9,8 +9,8 @@ http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/playlist.m3u8
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Op4EsaB.png" group-title="News",Geo News (576p)
 https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Geo_Tez_logo.png" group-title="News",Geo Tez (576p)
-https://jk3lz82elw79-hls-live.5centscdn.com/TEZ/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Geo_Tez_logo.png" group-title="News",Geo Tez (576i)
+https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Lc9t0D.png" group-title="News",Humraaz TV [Not 24/7]
 https://cdn61.liveonlineservices.com/hls/humraaz.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bQfQeEA.jpeg" group-title="News",Lahore News (720p) [Not 24/7]
