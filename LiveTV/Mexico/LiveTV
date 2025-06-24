@@ -5982,9 +5982,9 @@
     "img": "https://i.imgur.com/8ign49i.png"
   },
   {
-    "name": "Cine Adrenalina",
+    "name": "Cine Adrenalina (720p)",
     "type": "Movies",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4d042878-a4ee-480d-8f14-ebbfb96388e9",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=",
     "img": "https://i.imgur.com/njCKaMv.png"
   },
   {
@@ -6022,12 +6022,6 @@
     "type": "Movies",
     "url": "https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8",
     "img": "https://i.imgur.com/JMa7jws.png"
-  },
-  {
-    "name": "Pluto TV Cine Accion (720p)",
-    "type": "Movies",
-    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=",
-    "img": "https://i.imgur.com/PXhCzXn.png"
   },
   {
     "name": "Distrito Comedia (576p)",
