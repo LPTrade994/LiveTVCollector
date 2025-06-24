@@ -1,91 +1,93 @@
-#EXTM3U tvg-updated="2025-06-24T01:52:57+00:00"
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/sJ8nMAbzs2lreEaBW2viL9VCvud_FkkDmFRa4es3Y5zOht6PpBNM56pNIAoh395B6FhYaxTFiVM=s512-c-k-c0x00ffffff-no-rj" group-title="News" tvg-last-checked="2025-06-24T01:51:57+00:00",92 News HD (720p)
+#EXTM3U tvg-updated="2025-06-24T08:32:10+00:00"
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/sJ8nMAbzs2lreEaBW2viL9VCvud_FkkDmFRa4es3Y5zOht6PpBNM56pNIAoh395B6FhYaxTFiVM=s512-c-k-c0x00ffffff-no-rj" group-title="News" tvg-last-checked="2025-06-24T08:31:26+00:00",92 News HD (720p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/92_news_hd_720p_27fb56f7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="News" tvg-last-checked="2025-06-24T01:51:58+00:00",Dunya News (INT Feed) (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="News" tvg-last-checked="2025-06-24T08:31:28+00:00",Dunya News (INT Feed) (720p) [Not 24/7]
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/dunya_news_int_feed_720p_not_247_0b5169cf.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Lc9t0D.png" group-title="News" tvg-last-checked="2025-06-24T01:51:59+00:00",Humraaz TV [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Lc9t0D.png" group-title="News" tvg-last-checked="2025-06-24T08:31:28+00:00",Humraaz TV [Not 24/7]
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/humraaz_tv_not_247_eb34acb9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bQfQeEA.jpeg" group-title="News" tvg-last-checked="2025-06-24T01:52:00+00:00",Lahore News (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bQfQeEA.jpeg" group-title="News" tvg-last-checked="2025-06-24T08:31:30+00:00",Lahore News (720p) [Not 24/7]
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/lahore_news_720p_not_247_aa5c44b2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yYMh3JJ.png" group-title="News" tvg-last-checked="2025-06-24T01:52:01+00:00",Such TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yYMh3JJ.png" group-title="News" tvg-last-checked="2025-06-24T08:31:31+00:00",Such TV
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/such_tv_0e534dad.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/32W50Y6.png" group-title="Movies" tvg-last-checked="2025-06-24T01:52:01+00:00",&TV (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/32W50Y6.png" group-title="Movies" tvg-last-checked="2025-06-24T08:31:31+00:00",&TV (1080p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/tv_1080p_6587b3b7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9ScPIl.png" group-title="Religious" tvg-last-checked="2025-06-24T01:52:01+00:00",ABN Urdu (540p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9ScPIl.png" group-title="Religious" tvg-last-checked="2025-06-24T08:31:32+00:00",ABN Urdu (540p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/abn_urdu_540p_fb8e01c7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Religious" tvg-last-checked="2025-06-24T01:52:01+00:00",EWTN Africa Asia (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Religious" tvg-last-checked="2025-06-24T08:31:32+00:00",EWTN Africa Asia (720p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/ewtn_africa_asia_720p_ad92d3aa.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Religious" tvg-last-checked="2025-06-24T01:52:01+00:00",EWTN Asia-Pacific (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Religious" tvg-last-checked="2025-06-24T08:31:32+00:00",EWTN Asia-Pacific (720p) [Not 24/7]
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/ewtn_asiapacific_720p_not_247_51628b32.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="Religious" tvg-last-checked="2025-06-24T01:52:02+00:00",Fazal TV (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="Religious" tvg-last-checked="2025-06-24T08:31:32+00:00",Fazal TV (1080p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/fazal_tv_1080p_c3347b82.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0W6zzHS.png" group-title="Religious" tvg-last-checked="2025-06-24T01:52:03+00:00",Gawahi TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0W6zzHS.png" group-title="Religious" tvg-last-checked="2025-06-24T08:31:34+00:00",Gawahi TV (720p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/gawahi_tv_720p_b7afa3e6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QSaZPJ4.png" group-title="Religious" tvg-last-checked="2025-06-24T01:52:03+00:00",Grace Network (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QSaZPJ4.png" group-title="Religious" tvg-last-checked="2025-06-24T08:31:34+00:00",Grace Network (720p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/grace_network_720p_a1437ec2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RHDbsiO.png" group-title="Religious" tvg-last-checked="2025-06-24T01:52:04+00:00",Isaac TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RHDbsiO.png" group-title="Religious" tvg-last-checked="2025-06-24T08:31:35+00:00",Isaac TV (720p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/isaac_tv_720p_7e6f2073.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x9xPR2h.png" group-title="Religious" tvg-last-checked="2025-06-24T01:52:04+00:00",Joshua TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x9xPR2h.png" group-title="Religious" tvg-last-checked="2025-06-24T08:31:36+00:00",Joshua TV (720p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/joshua_tv_720p_aed1f6fb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dujrwRE.png" group-title="Religious" tvg-last-checked="2025-06-24T01:52:04+00:00",King TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dujrwRE.png" group-title="Religious" tvg-last-checked="2025-06-24T08:31:36+00:00",King TV (720p) [Not 24/7]
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/king_tv_720p_not_247_f30ee6e8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Abi9j0A.png" group-title="Religious" tvg-last-checked="2025-06-24T01:52:05+00:00",Madani Channel English (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Abi9j0A.png" group-title="Religious" tvg-last-checked="2025-06-24T08:31:37+00:00",Madani Channel English (720p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/madani_channel_english_720p_ef8b0ebd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MitLeCJ.png" group-title="Religious" tvg-last-checked="2025-06-24T01:52:05+00:00",Madani Channel Urdu (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MitLeCJ.png" group-title="Religious" tvg-last-checked="2025-06-24T08:31:38+00:00",Madani Channel Urdu (720p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/madani_channel_urdu_720p_967c66b6.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg" group-title="Religious" tvg-last-checked="2025-06-24T01:52:13+00:00",Peace TV Urdu (1080p)
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/peace_tv_urdu_1080p_6ae2110c.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="Music" tvg-last-checked="2025-06-24T01:52:13+00:00",JooMusic (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KHuKQQL.png" group-title="Music" tvg-last-checked="2025-06-24T08:31:38+00:00",JooMusic (720p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/joomusic_720p_ba50a553.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GfWLn3O.jpg" group-title="General" tvg-last-checked="2025-06-24T01:52:15+00:00",aurLife HD (614p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GfWLn3O.jpg" group-title="General" tvg-last-checked="2025-06-24T08:31:39+00:00",aurLife HD (614p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/aurlife_hd_614p_1e780fc4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business" tvg-last-checked="2025-06-24T01:52:15+00:00",Bloomberg TV Asia (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business" tvg-last-checked="2025-06-24T08:31:40+00:00",Bloomberg TV Asia (720p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/bloomberg_tv_asia_720p_966e1c58.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business" tvg-last-checked="2025-06-24T01:52:17+00:00",Bloomberg TV Asia Live Event (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business" tvg-last-checked="2025-06-24T08:31:43+00:00",Bloomberg TV Asia Live Event (720p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/bloomberg_tv_asia_live_event_720p_f0ac1f32.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Travel" tvg-last-checked="2025-06-24T01:52:17+00:00",Discover Pakistan (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Travel" tvg-last-checked="2025-06-24T08:31:43+00:00",Discover Pakistan (1080p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/discover_pakistan_1080p_05be3099.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uKYH0IM.png" group-title="Entertainment" tvg-last-checked="2025-06-24T01:52:18+00:00",Geo Kahani (360p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uKYH0IM.png" group-title="Entertainment" tvg-last-checked="2025-06-24T08:31:44+00:00",Geo Kahani (360p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/geo_kahani_360p_706238af.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SfyCwXj.png" group-title="Undefined" tvg-last-checked="2025-06-24T01:52:18+00:00",PMI TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SfyCwXj.png" group-title="Undefined" tvg-last-checked="2025-06-24T08:31:45+00:00",PMI TV (720p) [Not 24/7]
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/pmi_tv_720p_not_247_1c357999.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T9fIdLs.png" group-title="Undefined" tvg-last-checked="2025-06-24T01:52:19+00:00",Praise TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T9fIdLs.png" group-title="Undefined" tvg-last-checked="2025-06-24T08:31:45+00:00",Praise TV (720p)
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/praise_tv_720p_580db043.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/izpeOsx.png" group-title="Undefined" tvg-last-checked="2025-06-24T01:52:41+00:00",Sindh TV
-https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/sindh_tv_1a0ee1d5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XBHvR5J.png" group-title="Undefined" tvg-last-checked="2025-06-24T01:52:42+00:00",Zindagi TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBHvR5J.png" group-title="Undefined" tvg-last-checked="2025-06-24T08:31:46+00:00",Zindagi TV (576p) [Not 24/7]
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/zindagi_tv_576p_not_247_6e87e857.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:43+00:00",ARY News
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:31:48+00:00",ARY News
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/ary_news_6d3ba389.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:44+00:00",GEO News
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:31:49+00:00",GEO News
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/geo_news_9300bacc.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:45+00:00",92 News
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:31:50+00:00",92 News
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/92_news_18db75ec.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:46+00:00",BOL News
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:31:51+00:00",BOL News
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/bol_news_d8e4a019.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:46+00:00",City 42
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:31:52+00:00",City 42
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/city_42_3f792df6.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:47+00:00",Dunya News
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:31:53+00:00",Dunya News
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/dunya_news_8e556722.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:48+00:00",Express News
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:31:54+00:00",Express News
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/express_news_5356bc33.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:49+00:00",GEO Tez
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:31:56+00:00",GEO Tez
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/geo_tez_45b241a7.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:50+00:00",GNN News
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:31:57+00:00",GNN News
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/gnn_news_b6a9bc20.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:51+00:00",HUM News
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:31:58+00:00",HUM News
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/hum_news_21719f7b.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:52+00:00",Lahore News
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:31:59+00:00",Lahore News
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/lahore_news_ba856a77.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:53+00:00",NEO News
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:32:00+00:00",NEO News
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/neo_news_a2dee0d2.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:54+00:00",News One
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:32:01+00:00",News One
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/news_one_415fa716.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:55+00:00",PTV News
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:32:03+00:00",PTV News
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/ptv_news_7f88e1c1.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:56+00:00",Public News
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:32:04+00:00",Public News
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/public_news_571b03e8.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:57+00:00",SAMA News
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:32:05+00:00",SAMA News
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/sama_news_c6d4b090.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T01:52:57+00:00",DUNYA NEWS
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Uncategorized" tvg-last-checked="2025-06-24T08:32:06+00:00",DUNYA NEWS
 https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/dunya_news_7dbf9054.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Geo_Tez_logo.png" group-title="News" tvg-last-checked="2025-06-24T08:32:07+00:00",Geo Tez (576i)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/geo_tez_576i_cc992a86.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg" group-title="Religious" tvg-last-checked="2025-06-24T08:32:08+00:00",Peace TV Urdu (1080p)
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/peace_tv_urdu_1080p_6ae2110c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/izpeOsx.png" group-title="Undefined" tvg-last-checked="2025-06-24T08:32:10+00:00",Sindh TV
+https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeStreams/StreamsTV-PK/sindh_tv_1a0ee1d5.m3u8
