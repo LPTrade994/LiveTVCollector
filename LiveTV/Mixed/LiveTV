@@ -36,6 +36,12 @@
     "img": " "
   },
   {
+    "name": "ZEE TV HD (UK)",
+    "type": "SUPERSONIC TV",
+    "url": "http://supersonictv.live:8080/CKidd2023/8327464679/85452",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4S-Et1bVPVl5rpj1wY_gU6sja3qkE4HIyPRkd6khf8k2Lhs2CgZsRVGyGFEy9R-X0F3FYct3q8AuTAQ4J-ANHXeQTLM59tP17OnzQZ73ehzD03y_XxPDRLYrnTvPzWJg41_YPa4g0sfFPljfbGC2xSZE0BQOpdfPFo-P2ykbbSgx0WmYSrhidM9aDLg/s320/1000088673.jpg"
+  },
+  {
     "name": "AAJ TAK (UK)",
     "type": "AP TV",
     "url": "http://ahostingportal.com:8000/3875147095/3458182665/2883",
@@ -530,7 +536,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZmFhM2E1OGItYjgwMy00ZmIxLTljZjQtZTE0NTcxYzg4MTAyIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
+    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYTY2NDIwZjMtMWYyYS00YWZjLWE3NTEtNjBjYjUyZGVhODFiIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -560,7 +566,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNmRiZDcwZGQtMWU4OC00YjMwLThjZmYtMmQ1M2Y3MDViN2VhIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
+    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiZDMyNDBiZTQtMDUxNi00NmZkLTliY2MtYjc0OThiMmVmOGIxIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
