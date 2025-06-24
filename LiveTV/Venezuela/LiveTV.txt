@@ -533,8 +533,8 @@ Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 
 Group: Movies
-Name: Cine Adrenalina
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4d042878-a4ee-480d-8f14-ebbfb96388e9
+Name: Cine Adrenalina (720p)
+URL: https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
 Logo: https://i.imgur.com/njCKaMv.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
@@ -556,11 +556,6 @@ Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 Name: De Película Plus (576p)
 URL: https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 Logo: https://i.imgur.com/MMhSmDK.png
-Source: https://iptv-org.github.io/iptv/countries/ve.m3u
---------------------------------------------------
-Name: Pluto TV Cine Accion (720p)
-URL: https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
-Logo: https://i.imgur.com/PXhCzXn.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 
