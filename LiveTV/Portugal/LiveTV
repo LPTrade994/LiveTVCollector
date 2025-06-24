@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDg6OTo0OCBBTSZoYXNoX3ZhbHVlPVN0MlZ6cW1SbzFaMm56SG9kaEMwNlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1hZjBjYmNkZi1lYWQ4LTQ0OTYtYmNkYS1mY2I0ZmU4MDZkOWM=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDQ6ODowIFBNJmhhc2hfdmFsdWU9TW5obER1bktiZEM3M09jUDA3WURDQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWRkMTQ3MGIxLTczYzQtNDI0OS1hZjUxLWFhMjQ3MDQyM2FjOA==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDg6OTo0OSBBTSZoYXNoX3ZhbHVlPVh6QUJyWk1tUVhxeUNzWExXSmhpYmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mMjkzNWVjMS01NzY0LTQwNWEtYjI5MC1mMWJhMjM1MDBjNDU=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDQ6ODowIFBNJmhhc2hfdmFsdWU9eTdtd0xIRzNVNXF6cE9jVjhXVXppdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTEwZjI2NDM2LWVjMmUtNGFiNy05MjdlLTRlNzFlZDg3YmUyOQ==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDg6OTo0OSBBTSZoYXNoX3ZhbHVlPU55NFFSM2pvZitZK01yNjJjcU5wRXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kYTNlNzhiMC1jZDIwLTRkMTAtYWFlNC05ZmJkZDY4ODk5OWI=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDQ6ODoxIFBNJmhhc2hfdmFsdWU9ZEh4d25vMXkrM3NTVHcraWRaVEFyQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWEzMjRlYWJkLTM0YzYtNDljYy04ODg3LTZhNTM3MmFjNGY2NQ==/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
