@@ -694,6 +694,11 @@ URL: https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
 Logo: https://i.imgur.com/On6ggLe.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
+Name: TF1 HD (720p)
+URL: https://cachehsi1a.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+Logo: https://i.imgur.com/QxHt9NC.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
 Name: Y'a que la vérité qui compte
 URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/612e044c970e6f00083bcf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd6-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2371cf64-2e91-492c-9f0c-c88a7f973944
 Logo: https://i.imgur.com/MDHN2Vc.png
@@ -750,13 +755,28 @@ URL: http://69.64.57.208/france2/mono.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
+Name: France 2 HD (720p)
+URL: https://cachehsi1a.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
 Name: France 3 (1080p) [Geo-blocked]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
+Name: France 3 HD (720p)
+URL: https://cachehsi1a.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
 Name: France 5 (1080p)
 URL: http://69.64.57.208/france5/mono.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
+Name: France 5 HD (720p)
+URL: https://cachehsi1a.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
@@ -924,6 +944,11 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 Name: France 4 (1080p) [Geo-blocked]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
+Name: France 4 HD (720p)
+URL: https://cachehsi1a.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
@@ -2138,6 +2163,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 Name: ARTE -0,5H
 URL: https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8
 Logo: https://i.ibb.co/BPpZPBn/arte.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: M6
+URL: https://cachehsi1a.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
+Logo: https://i.ibb.co/wgJTdGY/m6.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: CHÉRIE 25
@@ -4221,12 +4251,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Z7hoyZTor8v1LfYAFqPbGg&e=1750742617
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=cYBxRO4WnCX8a4Vm0J3nYg&e=1750760572
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Z7hoyZTor8v1LfYAFqPbGg&e=1750742617
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=cYBxRO4WnCX8a4Vm0J3nYg&e=1750760572
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -9006,12 +9036,12 @@ Logo: https://i.ibb.co/MnSQCcr/R1322.jpg
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW 14 עכשיו
-URL: https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+URL: https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8
 Logo: https://i.ibb.co/4g6BSYf/now14smgri.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW 14 עכשיו
-URL: https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8
+URL: https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 Logo: https://i.ibb.co/4g6BSYf/now14smgri.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -9031,7 +9061,7 @@ Logo: https://i.ibb.co/7nYM8MK/arutz24tvtrp.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: CALCALA 10 ערוץ_הכלכלה
-URL: https://r.il.cdn-redge.media/livehls/oil/calcala/live/channel10/live.livx/playlist.m3u8
+URL: https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
 Logo: https://i.ibb.co/3hN9N8X/tv10coil.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -9272,11 +9302,6 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: CALCALA 10 ערוץ_הכלכלה (backup)
 URL: https://r.il.cdn-redge.media/livedash/oil/calcala/live/channel10/live.livx
-Logo: https://i.ibb.co/3hN9N8X/tv10coil.png
-Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
---------------------------------------------------
-Name: CALCALA 10 ערוץ_הכלכלה (backup)
-URL: https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
 Logo: https://i.ibb.co/3hN9N8X/tv10coil.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -12295,6 +12320,16 @@ URL: https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
 Logo: https://i.ibb.co/zNxvwRc/rtlhr.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
+Name: RTL HR
+URL: https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
+Logo: https://i.ibb.co/zNxvwRc/rtlhr.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: HRT 1 (backup)
+URL: https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+Logo: https://i.ibb.co/nnkDGpc/hrthr.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
 Name: CMC TV
 URL: https://stream.cmctv.hr:49998/cmc/live.m3u8
 Logo: https://i.ibb.co/NgPZkKhJ/cmctv.png
@@ -12312,6 +12347,11 @@ Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master
 --------------------------------------------------
 Name: BH RT
 URL: https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8
+Logo: https://i.ibb.co/HLzRKs7k/bhrt.png
+Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
+--------------------------------------------------
+Name: BH RT
+URL: https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
 Logo: https://i.ibb.co/HLzRKs7k/bhrt.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -14534,6 +14574,11 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 Name: RTL Zwei (1080p)
 URL: http://178.219.128.68:64888/RTL2
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
+Name: RTL Zwei HD
+URL: http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/518354068?profile=pass
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------

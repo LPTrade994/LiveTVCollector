@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-24 07:19:55",
+  "date": "2025-06-24 14:00:36",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -675,6 +675,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://tvradiozap.eu/tools/mng-m3u8.php/640.2/30/master.m3u8"
+      },
+      {
+        "name": "M6",
+        "logo": "https://i.ibb.co/wgJTdGY/m6.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://cachehsi1a.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd"
       },
       {
         "name": "CHÉRIE 25",
@@ -3593,14 +3600,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Z7hoyZTor8v1LfYAFqPbGg&e=1750742617"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=cYBxRO4WnCX8a4Vm0J3nYg&e=1750760572"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Z7hoyZTor8v1LfYAFqPbGg&e=1750742617"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=cYBxRO4WnCX8a4Vm0J3nYg&e=1750760572"
       },
       {
         "name": "TV8",
@@ -10292,14 +10299,14 @@
         "logo": "https://i.ibb.co/4g6BSYf/now14smgri.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
+        "url": "https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8"
       },
       {
         "name": "NOW 14 עכשיו",
         "logo": "https://i.ibb.co/4g6BSYf/now14smgri.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8"
+        "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8"
       },
       {
         "name": "i24 NEWS HE עברית",
@@ -10327,7 +10334,7 @@
         "logo": "https://i.ibb.co/3hN9N8X/tv10coil.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://r.il.cdn-redge.media/livehls/oil/calcala/live/channel10/live.livx/playlist.m3u8"
+        "url": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8"
       },
       {
         "name": "HAKNESSET 99 כנסת",
@@ -10664,13 +10671,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://r.il.cdn-redge.media/livedash/oil/calcala/live/channel10/live.livx"
-      },
-      {
-        "name": "CALCALA 10 ערוץ_הכלכלה (backup)",
-        "logo": "https://i.ibb.co/3hN9N8X/tv10coil.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8"
       },
       {
         "name": "WALLA !+ וואלה! חדשות (backup)",
@@ -14894,6 +14894,20 @@
         "url": "https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8"
       },
       {
+        "name": "RTL HR",
+        "logo": "https://i.ibb.co/zNxvwRc/rtlhr.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd"
+      },
+      {
+        "name": "HRT 1 (backup)",
+        "logo": "https://i.ibb.co/nnkDGpc/hrthr.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd"
+      },
+      {
         "name": "CMC TV",
         "logo": "https://i.ibb.co/NgPZkKhJ/cmctv.png",
         "group": "Uncategorized",
@@ -14920,6 +14934,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8"
+      },
+      {
+        "name": "BH RT",
+        "logo": "https://i.ibb.co/HLzRKs7k/bhrt.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8"
       },
       {
         "name": "TELEVIZIJA M",
@@ -19123,6 +19144,13 @@
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8"
       },
       {
+        "name": "France 4 HD (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://cachehsi1a.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd"
+      },
+      {
         "name": "Gulli",
         "logo": "https://i.imgur.com/kqYssbW.png",
         "group": "Kids",
@@ -19513,6 +19541,13 @@
         "url": "https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8"
       },
       {
+        "name": "TF1 HD (720p)",
+        "logo": "https://i.imgur.com/QxHt9NC.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://cachehsi1a.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd"
+      },
+      {
         "name": "Y'a que la vérité qui compte",
         "logo": "https://i.imgur.com/MDHN2Vc.png",
         "group": "Entertainment",
@@ -19557,6 +19592,13 @@
         "url": "http://69.64.57.208/france2/mono.m3u8"
       },
       {
+        "name": "France 2 HD (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://cachehsi1a.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd"
+      },
+      {
         "name": "France 3 (1080p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png",
         "group": "General",
@@ -19564,11 +19606,25 @@
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8"
       },
       {
+        "name": "France 3 HD (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://cachehsi1a.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd"
+      },
+      {
         "name": "France 5 (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "http://69.64.57.208/france5/mono.m3u8"
+      },
+      {
+        "name": "France 5 HD (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://cachehsi1a.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd"
       },
       {
         "name": "Nancy Web TV (394p) [Not 24/7]",
@@ -19936,6 +19992,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "http://178.219.128.68:64888/RTL2"
+      },
+      {
+        "name": "RTL Zwei HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/518354068?profile=pass"
       },
       {
         "name": "Shades of Black",

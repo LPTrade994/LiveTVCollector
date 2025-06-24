@@ -576,6 +576,12 @@
     "img": "https://i.ibb.co/BPpZPBn/arte.png"
   },
   {
+    "name": "M6",
+    "type": "Uncategorized",
+    "url": "https://cachehsi1a.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd",
+    "img": "https://i.ibb.co/wgJTdGY/m6.png"
+  },
+  {
     "name": "CHÉRIE 25",
     "type": "Uncategorized",
     "url": "https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8",
@@ -3074,13 +3080,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Z7hoyZTor8v1LfYAFqPbGg&e=1750742617",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=cYBxRO4WnCX8a4Vm0J3nYg&e=1750760572",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Z7hoyZTor8v1LfYAFqPbGg&e=1750742617",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=cYBxRO4WnCX8a4Vm0J3nYg&e=1750760572",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -8816,13 +8822,13 @@
   {
     "name": "NOW 14 עכשיו",
     "type": "Uncategorized",
-    "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8",
+    "url": "https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8",
     "img": "https://i.ibb.co/4g6BSYf/now14smgri.png"
   },
   {
     "name": "NOW 14 עכשיו",
     "type": "Uncategorized",
-    "url": "https://ch14channel14content-ioriver-cdn.encoders.immergo.tv/master.m3u8",
+    "url": "https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8",
     "img": "https://i.ibb.co/4g6BSYf/now14smgri.png"
   },
   {
@@ -8846,7 +8852,7 @@
   {
     "name": "CALCALA 10 ערוץ_הכלכלה",
     "type": "Uncategorized",
-    "url": "https://r.il.cdn-redge.media/livehls/oil/calcala/live/channel10/live.livx/playlist.m3u8",
+    "url": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8",
     "img": "https://i.ibb.co/3hN9N8X/tv10coil.png"
   },
   {
@@ -9135,12 +9141,6 @@
     "name": "CALCALA 10 ערוץ_הכלכלה (backup)",
     "type": "Uncategorized",
     "url": "https://r.il.cdn-redge.media/livedash/oil/calcala/live/channel10/live.livx",
-    "img": "https://i.ibb.co/3hN9N8X/tv10coil.png"
-  },
-  {
-    "name": "CALCALA 10 ערוץ_הכלכלה (backup)",
-    "type": "Uncategorized",
-    "url": "https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8",
     "img": "https://i.ibb.co/3hN9N8X/tv10coil.png"
   },
   {
@@ -12762,6 +12762,18 @@
     "img": "https://i.ibb.co/zNxvwRc/rtlhr.png"
   },
   {
+    "name": "RTL HR",
+    "type": "Uncategorized",
+    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd",
+    "img": "https://i.ibb.co/zNxvwRc/rtlhr.png"
+  },
+  {
+    "name": "HRT 1 (backup)",
+    "type": "Uncategorized",
+    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd",
+    "img": "https://i.ibb.co/nnkDGpc/hrthr.png"
+  },
+  {
     "name": "CMC TV",
     "type": "Uncategorized",
     "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
@@ -12783,6 +12795,12 @@
     "name": "BH RT",
     "type": "Uncategorized",
     "url": "https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8",
+    "img": "https://i.ibb.co/HLzRKs7k/bhrt.png"
+  },
+  {
+    "name": "BH RT",
+    "type": "Uncategorized",
+    "url": "https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8",
     "img": "https://i.ibb.co/HLzRKs7k/bhrt.png"
   },
   {
@@ -16320,6 +16338,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png"
   },
   {
+    "name": "France 4 HD (720p)",
+    "type": "Kids",
+    "url": "https://cachehsi1a.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/512px-France_4_2018.svg.png"
+  },
+  {
     "name": "Gulli",
     "type": "Kids",
     "url": "https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8",
@@ -16644,6 +16668,12 @@
     "img": "https://i.imgur.com/On6ggLe.png"
   },
   {
+    "name": "TF1 HD (720p)",
+    "type": "Entertainment",
+    "url": "https://cachehsi1a.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd",
+    "img": "https://i.imgur.com/QxHt9NC.png"
+  },
+  {
     "name": "Y'a que la vérité qui compte",
     "type": "Entertainment",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/612e044c970e6f00083bcf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e063bd6-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2371cf64-2e91-492c-9f0c-c88a7f973944",
@@ -16680,15 +16710,33 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png"
   },
   {
+    "name": "France 2 HD (720p)",
+    "type": "General",
+    "url": "https://cachehsi1a.netplus.ch/live/eds/france2hd/browser-dash/france2hd.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/France_2_2018.svg/512px-France_2_2018.svg.png"
+  },
+  {
     "name": "France 3 (1080p) [Geo-blocked]",
     "type": "General",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png"
   },
   {
+    "name": "France 3 HD (720p)",
+    "type": "General",
+    "url": "https://cachehsi1a.netplus.ch/live/eds/france3hd/browser-dash/france3hd.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/512px-France_3_2018.svg.png"
+  },
+  {
     "name": "France 5 (1080p)",
     "type": "General",
     "url": "http://69.64.57.208/france5/mono.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png"
+  },
+  {
+    "name": "France 5 HD (720p)",
+    "type": "General",
+    "url": "https://cachehsi1a.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/512px-France_5_2018.svg.png"
   },
   {
@@ -16995,6 +17043,12 @@
     "name": "RTL Zwei (1080p)",
     "type": "Undefined",
     "url": "http://178.219.128.68:64888/RTL2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png"
+  },
+  {
+    "name": "RTL Zwei HD",
+    "type": "Undefined",
+    "url": "http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/518354068?profile=pass",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png"
   },
   {
