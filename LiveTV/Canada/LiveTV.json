@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-24 06:18:36",
+  "date": "2025-06-24 13:44:20",
   "channels": {
     "New on Pluto TV": [
       {
@@ -2927,13 +2927,6 @@
       }
     ],
     "Outdoor": [
-      {
-        "name": "Love Nature 4K (2160p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png",
-        "group": "Outdoor",
-        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
-        "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8"
-      },
       {
         "name": "Love Nature (720p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png",

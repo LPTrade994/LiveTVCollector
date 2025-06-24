@@ -2442,12 +2442,6 @@
     "img": "https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png"
   },
   {
-    "name": "Love Nature 4K (2160p)",
-    "type": "Outdoor",
-    "url": "https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png"
-  },
-  {
     "name": "Love Nature (720p) [Geo-blocked]",
     "type": "Outdoor",
     "url": "https://bamus-klowdtv.amagi.tv/playlist.m3u8",
