@@ -30306,9 +30306,9 @@
     "img": "https://i.imgur.com/IUVRm5L.png"
   },
   {
-    "name": "24 TV",
+    "name": "24 TV (1080p)",
     "type": "News",
-    "url": "https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8",
+    "url": "http://185.234.111.229:8000/play/a059",
     "img": "https://i.imgur.com/8FO41es.png"
   },
   {
@@ -30444,12 +30444,6 @@
     "img": "https://i.imgur.com/q7iVchl.png"
   },
   {
-    "name": "Nora TV (1080p)",
-    "type": "News",
-    "url": "https://live.artidijitalmedya.com/artidijital_noratv/noratv/playlist.m3u8",
-    "img": "https://noratelevizyonu.com/wp-content/uploads/2023/11/nora-tv-logo-1.png"
-  },
-  {
     "name": "Olay Türk TV Kayseri (720p) [Geo-blocked]",
     "type": "News",
     "url": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8",
@@ -30482,7 +30476,7 @@
   {
     "name": "A2TV",
     "type": "General",
-    "url": "https://c.fulltvizle.com/a2/index.m3u8",
+    "url": "https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8",
     "img": "https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png"
   },
   {
@@ -31101,6 +31095,12 @@
     "name": "RTL Zwei (1080p)",
     "type": "Undefined",
     "url": "http://178.219.128.68:64888/RTL2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png"
+  },
+  {
+    "name": "RTL Zwei HD",
+    "type": "Undefined",
+    "url": "http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/518354068?profile=pass",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png"
   },
   {

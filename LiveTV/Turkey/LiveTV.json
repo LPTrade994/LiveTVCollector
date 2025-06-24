@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-24 06:13:11",
+  "date": "2025-06-24 13:43:01",
   "channels": {
     ".🇹🇷 ULUSAL 🇹🇷 .COM/1.M3U ESKİ USUL": [
       {
@@ -35536,11 +35536,11 @@
         "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8"
       },
       {
-        "name": "24 TV",
+        "name": "24 TV (1080p)",
         "logo": "https://i.imgur.com/8FO41es.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8"
+        "url": "http://185.234.111.229:8000/play/a059"
       },
       {
         "name": "360 (1080p)",
@@ -35697,13 +35697,6 @@
         "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
       },
       {
-        "name": "Nora TV (1080p)",
-        "logo": "https://noratelevizyonu.com/wp-content/uploads/2023/11/nora-tv-logo-1.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://live.artidijitalmedya.com/artidijital_noratv/noratv/playlist.m3u8"
-      },
-      {
         "name": "Olay Türk TV Kayseri (720p) [Geo-blocked]",
         "logo": "https://i.imgur.com/e9ca6gc.png",
         "group": "News",
@@ -35745,7 +35738,7 @@
         "logo": "https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://c.fulltvizle.com/a2/index.m3u8"
+        "url": "https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8"
       },
       {
         "name": "Ahi TV Kirsehir (576p)",
@@ -36473,6 +36466,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "http://178.219.128.68:64888/RTL2"
+      },
+      {
+        "name": "RTL Zwei HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/518354068?profile=pass"
       },
       {
         "name": "Rumeli TV (576p)",

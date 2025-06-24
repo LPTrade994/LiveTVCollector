@@ -10101,8 +10101,8 @@ https://turkhls.persiana.live/hls/stream.m3u8
 https://canlitvulusal.xyz/live/showmax/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8FO41es.png" group-title="News",24 TV
-https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8FO41es.png" group-title="News",24 TV (1080p)
+http://185.234.111.229:8000/play/a059
 #EXTINF:-1 tvg-logo="https://i.imgur.com/agn47sQ.png" group-title="News",360 (1080p)
 http://185.234.111.229:8000/play/a05a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="News",A Haber
@@ -10147,8 +10147,6 @@ https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
 http://185.234.111.229:8000/play/a065
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7iVchl.png" group-title="News",Mekameleen TV (1080p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://noratelevizyonu.com/wp-content/uploads/2023/11/nora-tv-logo-1.png" group-title="News",Nora TV (1080p)
-https://live.artidijitalmedya.com/artidijital_noratv/noratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e9ca6gc.png" group-title="News",Olay Türk TV Kayseri (720p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/thvk3Py.png" group-title="News",ON Medya Haber (720p) [Geo-blocked]
@@ -10160,7 +10158,7 @@ https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png" group-title="News",TRT Haber (1080p)
 http://185.234.111.229:8000/play/a00d
 #EXTINF:-1 tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" group-title="General",A2TV
-https://c.fulltvizle.com/a2/index.m3u8
+https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5LIIZct.png" group-title="General",Ahi TV Kirsehir (576p)
 http://yayin3.canlitv.com:1935/canlitv/ahitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mgDCKiy.png" group-title="General",Aksu TV (720p)
@@ -10367,6 +10365,8 @@ https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 http://178.219.128.68:64888/RTL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="Undefined",RTL Zwei (1080p)
 http://178.219.128.68:64888/RTL2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="Undefined",RTL Zwei HD
+http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/518354068?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xpRPX3a.png" group-title="Undefined",Rumeli TV (576p)
 http://185.234.111.229:8000/play/a023
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lfHVabz.png" group-title="Undefined",Sarıyer TV (360p)
