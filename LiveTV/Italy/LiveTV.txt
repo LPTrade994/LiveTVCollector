@@ -318,6 +318,11 @@ URL: https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
+Name: Canale 5 HD
+URL: https://cachehsi1a.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
 Name: CG Entertainment
 URL: https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/XeWzy7e.png
@@ -671,6 +676,11 @@ URL: https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/512px-Italia_1.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
+Name: Italia 1 HD
+URL: https://cachehsi1a.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+Logo: https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/512px-Italia_1.svg.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
 Name: Italia Channel (1080p)
 URL: https://stream1.aswifi.it/italiachannel/stream/index.m3u8
 Logo: https://i.imgur.com/AVDkd2K.png
@@ -689,6 +699,11 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 Name: LA7d (720p)
 URL: https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
 Logo: https://i.imgur.com/sM0A3GD.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+Name: LA7 HD
+URL: https://cachehsi1a.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: La C TV (720p)
@@ -2543,6 +2558,11 @@ URL: http://188.60.179.180:8000/play/xxRaiGulpxx
 Logo: https://i.imgur.com/irAhPJM.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
+Name: Rai Gulp HD
+URL: https://cachehsi1a.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
+Logo: https://i.imgur.com/irAhPJM.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
 Name: Rai Italia
 URL: https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 Logo: https://i.imgur.com/1nN4rEP.png
@@ -2585,6 +2605,11 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: Rete 4 [Geo-blocked]
 URL: https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Rete_4_2018.svg/512px-Rete_4_2018.svg.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+Name: Rete 4 HD
+URL: https://cachehsi1a.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Rete_4_2018.svg/512px-Rete_4_2018.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
@@ -2655,6 +2680,11 @@ Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 Name: RTL Zwei (1080p)
 URL: http://178.219.128.68:64888/RTL2
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+Name: RTL Zwei HD
+URL: http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/518354068?profile=pass
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
@@ -3143,7 +3173,7 @@ Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/hea
 
 Group: notizie
 Name: Euronews IN DIRETTA
-URL: https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiMDQ2OTcwNmQtNTYxNy00ZDBkLTk4MjAtNDBkMGJlYzgxNjJjIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
+URL: https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZmFhM2E1OGItYjgwMy00ZmIxLTljZjQtZTE0NTcxYzg4MTAyIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
@@ -3168,7 +3198,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
 Name: Africanews
-URL: https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNDU1MDNiZWQtMDJkMi00OTQ0LThlZjAtYzYyNmZkYmEyZDAzIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+URL: https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNmRiZDcwZGQtMWU4OC00YjMwLThjZmYtMmQ1M2Y3MDViN2VhIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------

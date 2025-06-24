@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-24 06:16:40",
+  "date": "2025-06-24 13:43:51",
   "channels": {
     "Music": [
       {
@@ -308,6 +308,13 @@
         "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8"
       },
       {
+        "name": "Italia 1 HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/512px-Italia_1.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://cachehsi1a.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd"
+      },
+      {
         "name": "Italia Channel (1080p)",
         "logo": "https://i.imgur.com/AVDkd2K.png",
         "group": "General",
@@ -334,6 +341,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8"
+      },
+      {
+        "name": "LA7 HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://cachehsi1a.netplus.ch/live/eds/la7/browser-dash/la7.mpd"
       },
       {
         "name": "La C TV (720p)",
@@ -814,6 +828,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8"
+      },
+      {
+        "name": "Canale 5 HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://cachehsi1a.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd"
       },
       {
         "name": "CG Entertainment",
@@ -1387,6 +1408,13 @@
         "url": "http://188.60.179.180:8000/play/xxRaiGulpxx"
       },
       {
+        "name": "Rai Gulp HD",
+        "logo": "https://i.imgur.com/irAhPJM.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://cachehsi1a.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd"
+      },
+      {
         "name": "Rai Italia",
         "logo": "https://i.imgur.com/1nN4rEP.png",
         "group": "Undefined",
@@ -1448,6 +1476,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8"
+      },
+      {
+        "name": "Rete 4 HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Rete_4_2018.svg/512px-Rete_4_2018.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://cachehsi1a.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd"
       },
       {
         "name": "Rete 55 (720p) [Not 24/7]",
@@ -1546,6 +1581,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "http://178.219.128.68:64888/RTL2"
+      },
+      {
+        "name": "RTL Zwei HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/518354068?profile=pass"
       },
       {
         "name": "RTP (404p)",
@@ -3660,7 +3702,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiMDQ2OTcwNmQtNTYxNy00ZDBkLTk4MjAtNDBkMGJlYzgxNjJjIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZmFhM2E1OGItYjgwMy00ZmIxLTljZjQtZTE0NTcxYzg4MTAyIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -3695,7 +3737,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNDU1MDNiZWQtMDJkMi00OTQ0LThlZjAtYzYyNmZkYmEyZDAzIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNmRiZDcwZGQtMWU4OC00YjMwLThjZmYtMmQ1M2Y3MDViN2VhIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
