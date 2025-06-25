@@ -2129,6 +2129,11 @@ URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/86749
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: CBC New Brunswick/Fredericton (Canada)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/217655
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: CTV Sudbury Ontario (Canada)
 URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100454
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2136,11 +2141,6 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: CTV Timmins Ontario (Canada)
 URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100455
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: CTV 2 Vancouver Island (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/136612
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -2169,16 +2169,6 @@ URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57964
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: CTV Comedy Channel (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57408
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: CTV Drama Channel (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57254
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: CTV Edmonton Alberta (Canada)
 URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58725
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2194,18 +2184,8 @@ URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58557
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: CTV 2 London (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58546
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: CTV Montreal (Canada)
 URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47234
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: CTV News Channel (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57350
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -2229,28 +2209,38 @@ URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47296
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: CTV2 Vancouver (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57316
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: CTV2 Windsor (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/77165
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: CTV Barrie Ontario (Canada)
 URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57373
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Global Durham (CHEX-DT-2) (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100453
+Name: CTV 2 Vancouver Island (Canada)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/136612
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Global Peterborough News (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/85269
+Name: CTV 2 London (Canada)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58546
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: CTV 2 Vancouver (Canada)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57316
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: CTV 2 Windsor (Canada)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/77165
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: CTV News Channel (Canada)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57350
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Global Durham (CHEX-DT-2) (Canada)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100453
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -2266,6 +2256,21 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Global Maritimes (Canada)
 URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/171954
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Global Edmonton (Canada)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/132271
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Global Saskatoon (Canada)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66383
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Global Toronto (Canada)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57435
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -2339,23 +2344,38 @@ URL: https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: City TV Winnipeg (Canada)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100631
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: City TV Calgary (Canada)
-URL: https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/75652
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: City TV Toronto (Canada)
-URL: https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57394
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: City TV Vancouver (Canada)
-URL: https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57395
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: City TV Winnipeg (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100631
+Name: City TV News Calgary (Canada)
+URL: https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: City TV News Toronto (Canada)
+URL: https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: City TV News Vancouver (Canada)
+URL: https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -2629,6 +2649,11 @@ URL: http://tvmate.icu:8080/live/7686199/9576982/47234.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: CTV Drama Channel (Canada)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57254
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: CTV Life Channel (Canada)
 URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/116506
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2734,13 +2759,8 @@ URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47218
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: CPAC English (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57352
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: CPAC (Canada)
-URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57351
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57352
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -2771,6 +2791,11 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: E! (Canada)
 URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57249
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: CTV Comedy (Canada)
+URL: http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57408
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------

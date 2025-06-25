@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-25 07:18:26",
+  "date": "2025-06-25 14:00:12",
   "channels": {
     "Religious": [
       {
@@ -28359,6 +28359,13 @@
         "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/86749"
       },
       {
+        "name": "CBC New Brunswick/Fredericton (Canada)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Canadian Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/217655"
+      },
+      {
         "name": "CTV Sudbury Ontario (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
@@ -28371,13 +28378,6 @@
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100455"
-      },
-      {
-        "name": "CTV 2 Vancouver Island (Canada)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Canadian Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/136612"
       },
       {
         "name": "CTV Halifax Nova Scotia (Canada)",
@@ -28415,20 +28415,6 @@
         "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57964"
       },
       {
-        "name": "CTV Comedy Channel (Canada)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Canadian Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57408"
-      },
-      {
-        "name": "CTV Drama Channel (Canada)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Canadian Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57254"
-      },
-      {
         "name": "CTV Edmonton Alberta (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
@@ -28450,25 +28436,11 @@
         "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58557"
       },
       {
-        "name": "CTV 2 London (Canada)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Canadian Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58546"
-      },
-      {
         "name": "CTV Montreal (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47234"
-      },
-      {
-        "name": "CTV News Channel (Canada)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Canadian Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57350"
       },
       {
         "name": "CTV Ottawa (Canada)",
@@ -28499,20 +28471,6 @@
         "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47296"
       },
       {
-        "name": "CTV2 Vancouver (Canada)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Canadian Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57316"
-      },
-      {
-        "name": "CTV2 Windsor (Canada)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Canadian Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/77165"
-      },
-      {
         "name": "CTV Barrie Ontario (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
@@ -28520,18 +28478,46 @@
         "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57373"
       },
       {
+        "name": "CTV 2 Vancouver Island (Canada)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Canadian Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/136612"
+      },
+      {
+        "name": "CTV 2 London (Canada)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Canadian Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/58546"
+      },
+      {
+        "name": "CTV 2 Vancouver (Canada)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Canadian Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57316"
+      },
+      {
+        "name": "CTV 2 Windsor (Canada)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Canadian Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/77165"
+      },
+      {
+        "name": "CTV News Channel (Canada)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Canadian Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57350"
+      },
+      {
         "name": "Global Durham (CHEX-DT-2) (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100453"
-      },
-      {
-        "name": "Global Peterborough News (Canada)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Canadian Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/85269"
       },
       {
         "name": "Global Montreal (Canada)",
@@ -28553,6 +28539,27 @@
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/171954"
+      },
+      {
+        "name": "Global Edmonton (Canada)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Canadian Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/132271"
+      },
+      {
+        "name": "Global Saskatoon (Canada)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Canadian Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/66383"
+      },
+      {
+        "name": "Global Toronto (Canada)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Canadian Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57435"
       },
       {
         "name": "Global News National (Canada)",
@@ -28653,32 +28660,53 @@
         "url": "https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8"
       },
       {
+        "name": "City TV Winnipeg (Canada)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Canadian Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100631"
+      },
+      {
         "name": "City TV Calgary (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8"
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/75652"
       },
       {
         "name": "City TV Toronto (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8"
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57394"
       },
       {
         "name": "City TV Vancouver (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8"
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57395"
       },
       {
-        "name": "City TV Winnipeg (Canada)",
+        "name": "City TV News Calgary (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/100631"
+        "url": "https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8"
+      },
+      {
+        "name": "City TV News Toronto (Canada)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Canadian Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8"
+      },
+      {
+        "name": "City TV News Vancouver (Canada)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Canadian Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8"
       },
       {
         "name": "CP24 News (Canada)",
@@ -29059,6 +29087,13 @@
         "url": "http://tvmate.icu:8080/live/7686199/9576982/47234.m3u8"
       },
       {
+        "name": "CTV Drama Channel (Canada)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Canadian Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57254"
+      },
+      {
         "name": "CTV Life Channel (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
@@ -29206,18 +29241,11 @@
         "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/47218"
       },
       {
-        "name": "CPAC English (Canada)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Canadian Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57352"
-      },
-      {
         "name": "CPAC (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57351"
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57352"
       },
       {
         "name": "ZESTE French (Canada)",
@@ -29260,6 +29288,13 @@
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57249"
+      },
+      {
+        "name": "CTV Comedy (Canada)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Canadian Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57408"
       },
       {
         "name": "Flavour Network (Canada)",
