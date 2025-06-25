@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-24 21:56:50",
+  "date": "2025-06-25 07:15:03",
   "channels": {
     "News": [
       {
@@ -987,6 +987,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41"
+      },
+      {
+        "name": "Cine Premiere (720p)",
+        "logo": "https://i.imgur.com/PdhWTO6.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
       },
       {
         "name": "Cinecanal",
