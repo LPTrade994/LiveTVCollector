@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-24 21:41:28",
+  "date": "2025-06-25 06:16:42",
   "channels": {
     "General": [
       {
@@ -152,21 +152,21 @@
       },
       {
         "name": "Al Jazeera Mubasher 24 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aljazeera_Mubasher.svg/512px-Aljazeera_Mubasher.svg.png",
+        "logo": "https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s160-c-k-c0x00ffffff-no-rj",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
         "url": "https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8"
       },
       {
         "name": "Al Jazeera Mubasher (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aljazeera_Mubasher.svg/512px-Aljazeera_Mubasher.svg.png",
+        "logo": "https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s160-c-k-c0x00ffffff-no-rj",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
         "url": "https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8"
       },
       {
         "name": "Al Jazeera Mubasher Broadcast 2 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aljazeera_Mubasher.svg/512px-Aljazeera_Mubasher.svg.png",
+        "logo": "https://yt3.googleusercontent.com/h0_bBdVgCAXIPJFnQ4hZtE87cDY_qO7rkDAue8qXdmOFxZ5NaO3AFD1uCUcst-EsBcGJ8zl8EQ=s160-c-k-c0x00ffffff-no-rj",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
         "url": "https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8"
