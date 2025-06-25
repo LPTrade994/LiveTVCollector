@@ -4145,7 +4145,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDQ6ODowIFBNJmhhc2hfdmFsdWU9TW5obER1bktiZEM3M09jUDA3WURDQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWRkMTQ3MGIxLTczYzQtNDI0OS1hZjUxLWFhMjQ3MDQyM2FjOA==/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI1IDEyOjMxOjQ2IEFNJmhhc2hfdmFsdWU9NEJCdGlVOW9LMjY3QzNSWnVCWWg1Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTFlMTFkNGZlLWEzN2QtNDliNi04OTI0LWQ1ZTI0MmQwNjYwZQ==/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4160,7 +4160,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: CNN Portugal
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDQ6ODowIFBNJmhhc2hfdmFsdWU9eTdtd0xIRzNVNXF6cE9jVjhXVXppdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTEwZjI2NDM2LWVjMmUtNGFiNy05MjdlLTRlNzFlZDg3YmUyOQ==/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI1IDEyOjMxOjQ2IEFNJmhhc2hfdmFsdWU9V3pUamRYNWlObEZWay9pOTNmUGRDQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY4ZjAyMTQ1LWMzYzYtNGUwNi04N2YwLTM0NDk2OTJmMjAyMA==/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4205,7 +4205,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacio
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI Internacional
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI1IDQ6ODoxIFBNJmhhc2hfdmFsdWU9ZEh4d25vMXkrM3NTVHcraWRaVEFyQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWEzMjRlYWJkLTM0YzYtNDljYy04ODg3LTZhNTM3MmFjNGY2NQ==/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI1IDEyOjMxOjQ3IEFNJmhhc2hfdmFsdWU9cTFXUU1JSExhcldYSU1pWlNucWRhQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTYxMjI4ZmNhLTAyOGQtNDhmNC04YWM1LTgzMDU1NDk2NDYzOA==/
 Logo: https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
