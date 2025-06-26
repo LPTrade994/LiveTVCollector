@@ -2576,7 +2576,13 @@
   {
     "name": "EKO TÜRK",
     "type": "Uncategorized",
-    "url": "http://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=7cItyPb6-p0.m3u8",
+    "url": "https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=Son5meUMZuU.m3u8",
+    "img": "https://i.ibb.co/xS3zLQr/ekoturk.png"
+  },
+  {
+    "name": "EKO TÜRK",
+    "type": "Uncategorized",
+    "url": "https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8",
     "img": "https://i.ibb.co/xS3zLQr/ekoturk.png"
   },
   {
@@ -3086,13 +3092,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=8cfuWH5hiWt8DnJTWiFusg&e=1750915469",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=wpBqedX-eOzi2dJCTOjofg&e=1750933381",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=8cfuWH5hiWt8DnJTWiFusg&e=1750915469",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=wpBqedX-eOzi2dJCTOjofg&e=1750933381",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -3620,7 +3626,7 @@
   {
     "name": "BİZİM EV TV",
     "type": "Uncategorized",
-    "url": "https://ythls-v3.onrender.com/channel/UCIHMK8qtjB_GNuXmeex6i8g.m3u8",
+    "url": "https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCIHMK8qtjB_GNuXmeex6i8g.m3u8",
     "img": "https://i.ibb.co/1Ty8Z3X/bizimev.png"
   },
   {
@@ -6116,7 +6122,19 @@
   {
     "name": "ANT 1",
     "type": "Uncategorized",
+    "url": "https://spark3.smart-tv-data.com/ant1HD/ant1HD/playlist.m3u8",
+    "img": "https://i.ibb.co/qk1SMGf/ant1.jpg"
+  },
+  {
+    "name": "ANT 1",
+    "type": "Uncategorized",
     "url": "https://pcdn.antennaplus.gr/live/media0/antenna-gr/HLS/index.m3u8",
+    "img": "https://i.ibb.co/qk1SMGf/ant1.jpg"
+  },
+  {
+    "name": "ANT 1",
+    "type": "Uncategorized",
+    "url": "https://cdn5.smart-tv-data.com/ant1/ant1live/mpeg.2ts",
     "img": "https://i.ibb.co/qk1SMGf/ant1.jpg"
   },
   {
@@ -6166,6 +6184,12 @@
     "type": "Uncategorized",
     "url": "http://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8",
     "img": "https://i.ibb.co/PmDyTX6/star.jpg"
+  },
+  {
+    "name": "MEGA",
+    "type": "Uncategorized",
+    "url": "https://spark3.smart-tv-data.com/megaHD/megaHD/playlist.m3u8",
+    "img": "https://i.ibb.co/y6D9CPT/megagr.png"
   },
   {
     "name": "MEGA",
@@ -12330,6 +12354,12 @@
     "img": "https://i.imgur.com/KdissvS.png"
   },
   {
+    "name": "RADIO 24 ORE LIVE TV",
+    "type": "Uncategorized",
+    "url": "https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8",
+    "img": "https://i.ibb.co/VppqZ2GD/24ore.png"
+  },
+  {
     "name": "SUPER!",
     "type": "Uncategorized",
     "url": "https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8",
@@ -12774,6 +12804,12 @@
     "img": "https://i.ibb.co/zNxvwRc/rtlhr.png"
   },
   {
+    "name": "RTL2 HR",
+    "type": "Uncategorized",
+    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd",
+    "img": "https://i.ibb.co/39Ph1tGf/rtl2hr.png"
+  },
+  {
     "name": "HRT 1 (backup)",
     "type": "Uncategorized",
     "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd",
@@ -13119,6 +13155,12 @@
     "name": "MAESTRO",
     "type": "Uncategorized",
     "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/maestro.m3u8",
+    "img": "https://i.ibb.co/RN3dJQ7/geoflag.png"
+  },
+  {
+    "name": "PIRVELI TV",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/pirvelitv.m3u8",
     "img": "https://i.ibb.co/RN3dJQ7/geoflag.png"
   },
   {
@@ -14349,6 +14391,12 @@
     "name": "CNBC NEWS",
     "type": "Uncategorized",
     "url": "http://fl3.moveonjoy.com/CNBC/index.m3u8",
+    "img": "https://i.ibb.co/FxZYHhM/cnbc.jpg"
+  },
+  {
+    "name": "CNBC NEWS",
+    "type": "Uncategorized",
+    "url": "https://ft.fbcdntv247.cfd/memfs/4268c138-3258-42b8-8192-f9a3873e7794_output_0.m3u8",
     "img": "https://i.ibb.co/FxZYHhM/cnbc.jpg"
   },
   {

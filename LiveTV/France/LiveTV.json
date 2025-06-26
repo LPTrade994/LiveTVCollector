@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-26 07:18:46",
+  "date": "2025-06-26 13:59:54",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -3012,7 +3012,14 @@
         "logo": "https://i.ibb.co/xS3zLQr/ekoturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "http://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=7cItyPb6-p0.m3u8"
+        "url": "https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=Son5meUMZuU.m3u8"
+      },
+      {
+        "name": "EKO TÜRK",
+        "logo": "https://i.ibb.co/xS3zLQr/ekoturk.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8"
       },
       {
         "name": "CNN TÜRK",
@@ -3607,14 +3614,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=8cfuWH5hiWt8DnJTWiFusg&e=1750915469"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=wpBqedX-eOzi2dJCTOjofg&e=1750933381"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=8cfuWH5hiWt8DnJTWiFusg&e=1750915469"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=wpBqedX-eOzi2dJCTOjofg&e=1750933381"
       },
       {
         "name": "TV8",
@@ -4230,7 +4237,7 @@
         "logo": "https://i.ibb.co/1Ty8Z3X/bizimev.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://ythls-v3.onrender.com/channel/UCIHMK8qtjB_GNuXmeex6i8g.m3u8"
+        "url": "https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCIHMK8qtjB_GNuXmeex6i8g.m3u8"
       },
       {
         "name": "SHOW MAX",
@@ -7142,7 +7149,21 @@
         "logo": "https://i.ibb.co/qk1SMGf/ant1.jpg",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://spark3.smart-tv-data.com/ant1HD/ant1HD/playlist.m3u8"
+      },
+      {
+        "name": "ANT 1",
+        "logo": "https://i.ibb.co/qk1SMGf/ant1.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://pcdn.antennaplus.gr/live/media0/antenna-gr/HLS/index.m3u8"
+      },
+      {
+        "name": "ANT 1",
+        "logo": "https://i.ibb.co/qk1SMGf/ant1.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://cdn5.smart-tv-data.com/ant1/ant1live/mpeg.2ts"
       },
       {
         "name": "ANT 1",
@@ -7199,6 +7220,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "http://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8"
+      },
+      {
+        "name": "MEGA",
+        "logo": "https://i.ibb.co/y6D9CPT/megagr.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://spark3.smart-tv-data.com/megaHD/megaHD/playlist.m3u8"
       },
       {
         "name": "MEGA",
@@ -14390,6 +14418,13 @@
         "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8"
       },
       {
+        "name": "RADIO 24 ORE LIVE TV",
+        "logo": "https://i.ibb.co/VppqZ2GD/24ore.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8"
+      },
+      {
         "name": "SUPER!",
         "logo": "https://i.imgur.com/zDByOwo.png",
         "group": "Uncategorized",
@@ -14908,6 +14943,13 @@
         "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd"
       },
       {
+        "name": "RTL2 HR",
+        "logo": "https://i.ibb.co/39Ph1tGf/rtl2hr.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd"
+      },
+      {
         "name": "HRT 1 (backup)",
         "logo": "https://i.ibb.co/nnkDGpc/hrthr.png",
         "group": "Uncategorized",
@@ -15312,6 +15354,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/maestro.m3u8"
+      },
+      {
+        "name": "PIRVELI TV",
+        "logo": "https://i.ibb.co/RN3dJQ7/geoflag.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/pirvelitv.m3u8"
       },
       {
         "name": "H1 ARM Հանրային հեռուստաը",
@@ -16747,6 +16796,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "http://fl3.moveonjoy.com/CNBC/index.m3u8"
+      },
+      {
+        "name": "CNBC NEWS",
+        "logo": "https://i.ibb.co/FxZYHhM/cnbc.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://ft.fbcdntv247.cfd/memfs/4268c138-3258-42b8-8192-f9a3873e7794_output_0.m3u8"
       },
       {
         "name": "MSNBC",
