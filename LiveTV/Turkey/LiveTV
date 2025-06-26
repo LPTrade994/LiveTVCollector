@@ -31146,12 +31146,6 @@
     "img": "https://i.imgur.com/fdZpGDj.png"
   },
   {
-    "name": "Show TV",
-    "type": "Undefined",
-    "url": "http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8",
-    "img": "https://i.imgur.com/1l7SCCu.png"
-  },
-  {
     "name": "Sinop Yildiz TV (360p)",
     "type": "Undefined",
     "url": "https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8",

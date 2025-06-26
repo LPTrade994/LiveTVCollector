@@ -13515,11 +13515,6 @@ URL: https://canlitvulusal.xyz/live/showturk/index.m3u8
 Logo: https://i.imgur.com/fdZpGDj.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: Show TV
-URL: http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
-Logo: https://i.imgur.com/1l7SCCu.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
 Name: Sinop Yildiz TV (360p)
 URL: https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
 Logo: https://i.imgur.com/CjgbQTk.png
