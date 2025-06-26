@@ -822,6 +822,12 @@
     "img": "https://i.imgur.com/PdhWTO6.png"
   },
   {
+    "name": "Cine XOXO",
+    "type": "Movies",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7",
+    "img": "https://i.imgur.com/eAS86qH.png"
+  },
+  {
     "name": "Cinecanal",
     "type": "Movies",
     "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8",
@@ -840,28 +846,28 @@
     "img": "https://i.imgur.com/MMhSmDK.png"
   },
   {
+    "name": "Pluto TV Cine Accion",
+    "type": "Movies",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=false",
+    "img": "https://i.imgur.com/PXhCzXn.png"
+  },
+  {
+    "name": "Pluto TV Cine Estelar",
+    "type": "Movies",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=false",
+    "img": "https://i.imgur.com/v3BO4nW.png"
+  },
+  {
     "name": "Clan TVE Internacional (1080p)",
     "type": "Kids",
     "url": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8",
     "img": "https://i.imgur.com/03jFV68.png"
   },
   {
-    "name": "Distrito Comedia (576p)",
-    "type": "Comedy",
-    "url": "https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png"
-  },
-  {
-    "name": "Explosión Creativa (720p) [Not 24/7]",
-    "type": "Science",
-    "url": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8",
-    "img": "https://i.imgur.com/Znd1Ml9.png"
-  },
-  {
-    "name": "Hiperconectados TV",
-    "type": "Science",
-    "url": "https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8",
-    "img": "https://i.imgur.com/CBbbrkI.png"
+    "name": "CSI en Español",
+    "type": "Undefined",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424",
+    "img": "https://i.imgur.com/ifarQil.png"
   },
   {
     "name": "Golden Edge Panregional (576p)",
@@ -900,6 +906,24 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png"
   },
   {
+    "name": "Distrito Comedia (576p)",
+    "type": "Comedy",
+    "url": "https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png"
+  },
+  {
+    "name": "Explosión Creativa (720p) [Not 24/7]",
+    "type": "Science",
+    "url": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8",
+    "img": "https://i.imgur.com/Znd1Ml9.png"
+  },
+  {
+    "name": "Hiperconectados TV",
+    "type": "Science",
+    "url": "https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8",
+    "img": "https://i.imgur.com/CBbbrkI.png"
+  },
+  {
     "name": "History 2 Latin America",
     "type": "Documentary",
     "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8",
@@ -912,16 +936,28 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"
   },
   {
-    "name": "Kanade (1080p)",
-    "type": "Animation;Entertainment",
-    "url": "https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8",
-    "img": "https://static.kanade.cl/assets/img/profilepic_512px.png"
+    "name": "Investiga",
+    "type": "Series",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126",
+    "img": "https://i.imgur.com/Sb5adD7.png"
   },
   {
     "name": "Novelisima",
     "type": "Series",
     "url": "https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8",
     "img": "https://i.imgur.com/8dUS3Ih.png"
+  },
+  {
+    "name": "Series con Ñ",
+    "type": "Series",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8988-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d10604b-577d-49d0-a6bc-03b028c6758f",
+    "img": "https://i.imgur.com/uQfzebn.png"
+  },
+  {
+    "name": "Kanade (1080p)",
+    "type": "Animation;Entertainment",
+    "url": "https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8",
+    "img": "https://static.kanade.cl/assets/img/profilepic_512px.png"
   },
   {
     "name": "Platzi TV (1080p)",

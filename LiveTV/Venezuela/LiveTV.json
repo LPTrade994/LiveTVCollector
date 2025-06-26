@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-25 21:57:28",
+  "date": "2025-06-26 07:13:54",
   "channels": {
     "News": [
       {
@@ -996,6 +996,13 @@
         "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
       },
       {
+        "name": "Cine XOXO",
+        "logo": "https://i.imgur.com/eAS86qH.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7"
+      },
+      {
         "name": "Cinecanal",
         "logo": "https://comteco.com.bo/img/upload/canales/qvJQXi.png",
         "group": "Movies",
@@ -1015,6 +1022,20 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8"
+      },
+      {
+        "name": "Pluto TV Cine Accion",
+        "logo": "https://i.imgur.com/PXhCzXn.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=false"
+      },
+      {
+        "name": "Pluto TV Cine Estelar",
+        "logo": "https://i.imgur.com/v3BO4nW.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=false"
       }
     ],
     "Kids": [
@@ -1026,32 +1047,14 @@
         "url": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8"
       }
     ],
-    "Comedy": [
-      {
-        "name": "Distrito Comedia (576p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8"
-      }
-    ],
-    "Science": [
-      {
-        "name": "Explosión Creativa (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/Znd1Ml9.png",
-        "group": "Science",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8"
-      },
-      {
-        "name": "Hiperconectados TV",
-        "logo": "https://i.imgur.com/CBbbrkI.png",
-        "group": "Science",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8"
-      }
-    ],
     "Undefined": [
+      {
+        "name": "CSI en Español",
+        "logo": "https://i.imgur.com/ifarQil.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424"
+      },
       {
         "name": "Golden Edge Panregional (576p)",
         "logo": "https://i.imgur.com/SlSbcp3.png",
@@ -1095,6 +1098,31 @@
         "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8"
       }
     ],
+    "Comedy": [
+      {
+        "name": "Distrito Comedia (576p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8"
+      }
+    ],
+    "Science": [
+      {
+        "name": "Explosión Creativa (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/Znd1Ml9.png",
+        "group": "Science",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8"
+      },
+      {
+        "name": "Hiperconectados TV",
+        "logo": "https://i.imgur.com/CBbbrkI.png",
+        "group": "Science",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8"
+      }
+    ],
     "Documentary": [
       {
         "name": "History 2 Latin America",
@@ -1111,6 +1139,29 @@
         "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
       }
     ],
+    "Series": [
+      {
+        "name": "Investiga",
+        "logo": "https://i.imgur.com/Sb5adD7.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126"
+      },
+      {
+        "name": "Novelisima",
+        "logo": "https://i.imgur.com/8dUS3Ih.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8"
+      },
+      {
+        "name": "Series con Ñ",
+        "logo": "https://i.imgur.com/uQfzebn.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8988-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d10604b-577d-49d0-a6bc-03b028c6758f"
+      }
+    ],
     "Animation;Entertainment": [
       {
         "name": "Kanade (1080p)",
@@ -1118,15 +1169,6 @@
         "group": "Animation;Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8"
-      }
-    ],
-    "Series": [
-      {
-        "name": "Novelisima",
-        "logo": "https://i.imgur.com/8dUS3Ih.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8"
       }
     ],
     "Education": [
