@@ -1110,6 +1110,12 @@
     "img": "https://i.imgur.com/PdhWTO6.png"
   },
   {
+    "name": "Cine XOXO",
+    "type": "Movies",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7",
+    "img": "https://i.imgur.com/eAS86qH.png"
+  },
+  {
     "name": "De Película (576p)",
     "type": "Movies",
     "url": "https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8",
@@ -1120,6 +1126,18 @@
     "type": "Movies",
     "url": "https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8",
     "img": "https://i.imgur.com/MMhSmDK.png"
+  },
+  {
+    "name": "Pluto TV Cine Accion",
+    "type": "Movies",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=false",
+    "img": "https://i.imgur.com/PXhCzXn.png"
+  },
+  {
+    "name": "Pluto TV Cine Estelar",
+    "type": "Movies",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=false",
+    "img": "https://i.imgur.com/v3BO4nW.png"
   },
   {
     "name": "Filmstream (clasicos ingles) (720p)",
@@ -1156,6 +1174,12 @@
     "type": "Undefined",
     "url": "https://live.obslivestream.com/controversiatv/index.m3u8",
     "img": "https://i.imgur.com/X7cPyP2.png"
+  },
+  {
+    "name": "CSI en Español",
+    "type": "Undefined",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424",
+    "img": "https://i.imgur.com/ifarQil.png"
   },
   {
     "name": "Golden Edge Panregional (576p)",
@@ -1416,16 +1440,10 @@
     "img": "https://i.imgur.com/H4SFkx6.png"
   },
   {
-    "name": "JNE TV",
-    "type": "Legislative",
-    "url": "https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8",
-    "img": "https://i.imgur.com/b25XfCj.png"
-  },
-  {
-    "name": "Kanade (1080p)",
-    "type": "Animation;Entertainment",
-    "url": "https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8",
-    "img": "https://static.kanade.cl/assets/img/profilepic_512px.png"
+    "name": "Investiga",
+    "type": "Series",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126",
+    "img": "https://i.imgur.com/Sb5adD7.png"
   },
   {
     "name": "Latina Clasicos",
@@ -1440,10 +1458,28 @@
     "img": "https://i.imgur.com/8dUS3Ih.png"
   },
   {
+    "name": "Series con Ñ",
+    "type": "Series",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8988-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d10604b-577d-49d0-a6bc-03b028c6758f",
+    "img": "https://i.imgur.com/uQfzebn.png"
+  },
+  {
     "name": "Kanal D Drama (1080p)",
     "type": "Series",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
     "img": "https://i.imgur.com/WIeZMKT.png"
+  },
+  {
+    "name": "JNE TV",
+    "type": "Legislative",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8",
+    "img": "https://i.imgur.com/b25XfCj.png"
+  },
+  {
+    "name": "Kanade (1080p)",
+    "type": "Animation;Entertainment",
+    "url": "https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8",
+    "img": "https://static.kanade.cl/assets/img/profilepic_512px.png"
   },
   {
     "name": "Monterrico TV (1080p) [Not 24/7]",
