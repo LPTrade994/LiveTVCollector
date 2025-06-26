@@ -4581,18 +4581,13 @@ URL: https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
 Logo: https://i.imgur.com/SR1YPbD.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
-Name: Hits
-URL: https://av-ch-cdn.mncnow.id/live/eds/HITS/sa_dash/HITS.mpd
-Logo: https://alkhalifitv.github.io/TV/big/hits.png
-Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
---------------------------------------------------
-Name: HITS Movies
-URL: https://av-ch-cdn.mncnow.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd
-Logo: https://alkhalifitv.github.io/TV/big/hitsmovies.png
+Name: HITS
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
+Logo: http://alkhalifitv.github.io/TV/big/hits.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
 Name: ZEE BIOSKOP
-URL: https://av-ch-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd
+URL: http://cdn10jtedge.indihometv.com//atm/DASH/zbioskop/manifest.mpd
 Logo: http://alkhalifitv.github.io/TV/big/zbioskop.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
@@ -7397,19 +7392,14 @@ URL: http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 Logo: https://alkhalifitv.github.io/TV/big/antv.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
-Name: MNCTV HD
-URL: https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
-Logo: https://alkhalifitv.github.io/TV/big/mnctv.png
+Name: MNCTV
+URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+Logo: http://alkhalifitv.github.io/TV/big/mnctv.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
 Name: INDOSIAR
 URL: https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/playlist.mpd
 Logo: https://alkhalifitv.github.io/TV/big/indosiar.png
-Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
---------------------------------------------------
-Name: RCTI
-URL: https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
-Logo: http://alkhalifitv.github.io/TV/big/rcti.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
 Name: RCTI HD
@@ -7422,9 +7412,9 @@ URL: https://cdn10jtedge.indihometv.com/atm/DASH/sctv/playlist.mpd
 Logo: https://alkhalifitv.github.io/TV/big/sctv.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
-Name: GTV HD
-URL: https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
-Logo: https://alkhalifitv.github.io/TV/big/gtv.png
+Name: GTV
+URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+Logo: http://alkhalifitv.github.io/TV/big/gtv.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
 Name: GTV
@@ -10174,16 +10164,6 @@ URL: https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd|referrer=htt
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: 18.GTV 🔵
-URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
-Logo: https://iili.io/JMp3joP.png
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: 15.MNCTV 🔵
-URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-Logo: https://iili.io/JMp3kla.png
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
 Name: 15.MNC TV HD
 URL: https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd|referrer=https://visionplus.id
 Logo: https://i.ibb.co.com/nbBkVwX/MNC.png
@@ -10348,6 +10328,21 @@ Source: https://raw.githubusercontent.com/djonyttnt/mytvnet/refs/heads/main/nont
 --------------------------------------------------
 
 Group: NasioNaL DiGitaL 📡
+Name: RcTi
+URL: https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
+Logo: https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: GtV
+URL: https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+Logo: https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GTV.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: MncTV
+URL: https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+Logo: https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MNCTV.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
 Name: TRANS 7
 URL: http://aromatv.co:80/Enjy3637/4JFEBAs359/444141
 Logo: http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png
@@ -10685,11 +10680,6 @@ URL: https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 Logo: https://i.imgur.com/aKmRvdb.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: IDX
-URL: https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash/IDX.mpd|referrer=https://www.visionplus.id/
-Logo: https://i.imgur.com/1zcrM6F.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
 Name: iNews
 URL: https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 Logo: https://i.imgur.com/cNj0zNL.png
@@ -10711,7 +10701,7 @@ Logo: https://i.imgur.com/mR4Ey2E.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: SindoNews TV ᵛ⁺
-URL: https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
+URL: https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd
 Logo: https://i.imgur.com/lTLsqu2.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------

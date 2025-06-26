@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-25 14:04:41",
+  "date": "2025-06-26 07:33:29",
   "channels": {
     "INDONESIA": [
       {
@@ -13079,20 +13079,6 @@
         "url": "https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd|referrer=https://visionplus.id"
       },
       {
-        "name": "18.GTV 🔵",
-        "logo": "https://iili.io/JMp3joP.png",
-        "group": "NASIONAL",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd"
-      },
-      {
-        "name": "15.MNCTV 🔵",
-        "logo": "https://iili.io/JMp3kla.png",
-        "group": "NASIONAL",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd"
-      },
-      {
         "name": "15.MNC TV HD",
         "logo": "https://i.ibb.co.com/nbBkVwX/MNC.png",
         "group": "NASIONAL",
@@ -13521,25 +13507,18 @@
         "url": "https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c"
       },
       {
-        "name": "Hits",
-        "logo": "https://alkhalifitv.github.io/TV/big/hits.png",
+        "name": "HITS",
+        "logo": "http://alkhalifitv.github.io/TV/big/hits.png",
         "group": "FILM",
         "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
-        "url": "https://av-ch-cdn.mncnow.id/live/eds/HITS/sa_dash/HITS.mpd"
-      },
-      {
-        "name": "HITS Movies",
-        "logo": "https://alkhalifitv.github.io/TV/big/hitsmovies.png",
-        "group": "FILM",
-        "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
-        "url": "https://av-ch-cdn.mncnow.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd"
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd"
       },
       {
         "name": "ZEE BIOSKOP",
         "logo": "http://alkhalifitv.github.io/TV/big/zbioskop.png",
         "group": "FILM",
         "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
-        "url": "https://av-ch-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd"
+        "url": "http://cdn10jtedge.indihometv.com//atm/DASH/zbioskop/manifest.mpd"
       },
       {
         "name": "Celestial Movies Indonesia",
@@ -15704,11 +15683,11 @@
         "url": "http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8"
       },
       {
-        "name": "MNCTV HD",
-        "logo": "https://alkhalifitv.github.io/TV/big/mnctv.png",
+        "name": "MNCTV",
+        "logo": "http://alkhalifitv.github.io/TV/big/mnctv.png",
         "group": "LOKAL",
         "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
-        "url": "https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd"
+        "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd"
       },
       {
         "name": "INDOSIAR",
@@ -15716,13 +15695,6 @@
         "group": "LOKAL",
         "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
         "url": "https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/playlist.mpd"
-      },
-      {
-        "name": "RCTI",
-        "logo": "http://alkhalifitv.github.io/TV/big/rcti.png",
-        "group": "LOKAL",
-        "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
-        "url": "https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd"
       },
       {
         "name": "RCTI HD",
@@ -15739,11 +15711,11 @@
         "url": "https://cdn10jtedge.indihometv.com/atm/DASH/sctv/playlist.mpd"
       },
       {
-        "name": "GTV HD",
-        "logo": "https://alkhalifitv.github.io/TV/big/gtv.png",
+        "name": "GTV",
+        "logo": "http://alkhalifitv.github.io/TV/big/gtv.png",
         "group": "LOKAL",
         "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
-        "url": "https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd"
+        "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd"
       },
       {
         "name": "GTV",
@@ -19452,6 +19424,27 @@
     ],
     "NasioNaL DiGitaL 📡": [
       {
+        "name": "RcTi",
+        "logo": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png",
+        "group": "NasioNaL DiGitaL 📡",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd"
+      },
+      {
+        "name": "GtV",
+        "logo": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GTV.png",
+        "group": "NasioNaL DiGitaL 📡",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd"
+      },
+      {
+        "name": "MncTV",
+        "logo": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MNCTV.png",
+        "group": "NasioNaL DiGitaL 📡",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd"
+      },
+      {
         "name": "TRANS 7",
         "logo": "http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png",
         "group": "NasioNaL DiGitaL 📡",
@@ -19923,13 +19916,6 @@
         "url": "https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8"
       },
       {
-        "name": "IDX",
-        "logo": "https://i.imgur.com/1zcrM6F.png",
-        "group": "Nasional 🇮🇩",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash/IDX.mpd|referrer=https://www.visionplus.id/"
-      },
-      {
         "name": "iNews",
         "logo": "https://i.imgur.com/cNj0zNL.png",
         "group": "Nasional 🇮🇩",
@@ -19962,7 +19948,7 @@
         "logo": "https://i.imgur.com/lTLsqu2.png",
         "group": "Nasional 🇮🇩",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd"
+        "url": "https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd"
       },
       {
         "name": "Transᵀⱽ ᵀ",

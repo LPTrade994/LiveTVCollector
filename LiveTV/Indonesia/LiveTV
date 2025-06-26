@@ -11160,18 +11160,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png"
   },
   {
-    "name": "18.GTV 🔵",
-    "type": "NASIONAL",
-    "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd",
-    "img": "https://iili.io/JMp3joP.png"
-  },
-  {
-    "name": "15.MNCTV 🔵",
-    "type": "NASIONAL",
-    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd",
-    "img": "https://iili.io/JMp3kla.png"
-  },
-  {
     "name": "15.MNC TV HD",
     "type": "NASIONAL",
     "url": "https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd|referrer=https://visionplus.id",
@@ -11532,21 +11520,15 @@
     "img": "https://i.imgur.com/SR1YPbD.jpeg"
   },
   {
-    "name": "Hits",
+    "name": "HITS",
     "type": "FILM",
-    "url": "https://av-ch-cdn.mncnow.id/live/eds/HITS/sa_dash/HITS.mpd",
-    "img": "https://alkhalifitv.github.io/TV/big/hits.png"
-  },
-  {
-    "name": "HITS Movies",
-    "type": "FILM",
-    "url": "https://av-ch-cdn.mncnow.id/live/eds/HitsMovies/sa_dash/HitsMovies.mpd",
-    "img": "https://alkhalifitv.github.io/TV/big/hitsmovies.png"
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd",
+    "img": "http://alkhalifitv.github.io/TV/big/hits.png"
   },
   {
     "name": "ZEE BIOSKOP",
     "type": "FILM",
-    "url": "https://av-ch-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd",
+    "url": "http://cdn10jtedge.indihometv.com//atm/DASH/zbioskop/manifest.mpd",
     "img": "http://alkhalifitv.github.io/TV/big/zbioskop.png"
   },
   {
@@ -13362,22 +13344,16 @@
     "img": "https://alkhalifitv.github.io/TV/big/antv.png"
   },
   {
-    "name": "MNCTV HD",
+    "name": "MNCTV",
     "type": "LOKAL",
-    "url": "https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd",
-    "img": "https://alkhalifitv.github.io/TV/big/mnctv.png"
+    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd",
+    "img": "http://alkhalifitv.github.io/TV/big/mnctv.png"
   },
   {
     "name": "INDOSIAR",
     "type": "LOKAL",
     "url": "https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/playlist.mpd",
     "img": "https://alkhalifitv.github.io/TV/big/indosiar.png"
-  },
-  {
-    "name": "RCTI",
-    "type": "LOKAL",
-    "url": "https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd",
-    "img": "http://alkhalifitv.github.io/TV/big/rcti.png"
   },
   {
     "name": "RCTI HD",
@@ -13392,10 +13368,10 @@
     "img": "https://alkhalifitv.github.io/TV/big/sctv.png"
   },
   {
-    "name": "GTV HD",
+    "name": "GTV",
     "type": "LOKAL",
-    "url": "https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd",
-    "img": "https://alkhalifitv.github.io/TV/big/gtv.png"
+    "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd",
+    "img": "http://alkhalifitv.github.io/TV/big/gtv.png"
   },
   {
     "name": "GTV",
@@ -16554,6 +16530,24 @@
     "img": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6857fe540a10180164d05a65db4/6b9d345a4bc24545b42f2034d15147af.jpg"
   },
   {
+    "name": "RcTi",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd",
+    "img": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png"
+  },
+  {
+    "name": "GtV",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd",
+    "img": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GTV.png"
+  },
+  {
+    "name": "MncTV",
+    "type": "NasioNaL DiGitaL 📡",
+    "url": "https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd",
+    "img": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MNCTV.png"
+  },
+  {
     "name": "TRANS 7",
     "type": "NasioNaL DiGitaL 📡",
     "url": "http://aromatv.co:80/Enjy3637/4JFEBAs359/444141",
@@ -16956,12 +16950,6 @@
     "img": "https://i.imgur.com/aKmRvdb.png"
   },
   {
-    "name": "IDX",
-    "type": "Nasional 🇮🇩",
-    "url": "https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash/IDX.mpd|referrer=https://www.visionplus.id/",
-    "img": "https://i.imgur.com/1zcrM6F.png"
-  },
-  {
     "name": "iNews",
     "type": "Nasional 🇮🇩",
     "url": "https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd",
@@ -16988,7 +16976,7 @@
   {
     "name": "SindoNews TV ᵛ⁺",
     "type": "Nasional 🇮🇩",
-    "url": "https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd",
+    "url": "https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd",
     "img": "https://i.imgur.com/lTLsqu2.png"
   },
   {
