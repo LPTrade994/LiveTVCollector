@@ -5520,12 +5520,6 @@
     "img": "https://i.imgur.com/HZDRG0K.png"
   },
   {
-    "name": "RT en Español (1080p)",
-    "type": "News",
-    "url": "https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"
-  },
-  {
     "name": "TCM 10 HD (1080p)",
     "type": "News",
     "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",

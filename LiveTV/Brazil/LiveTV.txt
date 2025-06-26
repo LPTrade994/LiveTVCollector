@@ -1385,11 +1385,6 @@ URL: https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 Logo: https://i.imgur.com/HZDRG0K.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: RT en Español (1080p)
-URL: https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: TCM 10 HD (1080p)
 URL: https://live.tcm10.com.br/tcm10hd/stream.m3u8
 Logo: https://i.imgur.com/aMuMVvB.png
