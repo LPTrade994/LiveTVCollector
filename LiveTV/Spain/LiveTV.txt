@@ -43463,6 +43463,11 @@ URL: https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist
 Logo: https://i.imgur.com/pMMabI3.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
+Name: Pluto TV Thrillers Spain
+URL: http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=false
+Logo: https://i.imgur.com/ULKvDN7.png
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
 
 Group: Shop
 Name: 1001 Noites
