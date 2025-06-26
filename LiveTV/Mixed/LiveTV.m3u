@@ -15,6 +15,8 @@ https://desiplaylive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd
 http://d029dcec.kazmazpaz.ru/iptv/EHF55SW2TTSDUN/6285/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4S-Et1bVPVl5rpj1wY_gU6sja3qkE4HIyPRkd6khf8k2Lhs2CgZsRVGyGFEy9R-X0F3FYct3q8AuTAQ4J-ANHXeQTLM59tP17OnzQZ73ehzD03y_XxPDRLYrnTvPzWJg41_YPa4g0sfFPljfbGC2xSZE0BQOpdfPFo-P2ykbbSgx0WmYSrhidM9aDLg/s320/1000088673.jpg" group-title="SUPERSONIC TV",ZEE TV HD (UK)
 http://supersonictv.live:8080/CKidd2023/8327464679/85452
+#EXTINF:-1 tvg-logo=" " group-title="FREQ DNS",B4U PLUS (ME)
+http://freqdns.com:80/genericemail72@gmail.com/t7ksSpe/358871
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGNFOla8Hgd9DKo8U9kaF3HdQMlSU1Pq_nhi-HVlayXRjIGwh4ettib_cINl61R6qOQQV2Hu_sqw5ZRAPtJfy3kbL8QIp7v3rEfjOhQFtSMnrxQXRWj2714JFVW_nicV74KAHRcLbtdOI04f9DmIHB5u0OOpolUhg7mIUpkEBPw-711t64p-gekGgP2H8/s320/Picsart_24-10-13_11-29-59-800.jpg" group-title="AP TV",AAJ TAK (UK)
 http://ahostingportal.com:8000/3875147095/3458182665/2883
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLuhyvwXvicW38ECgMjF1thXXOI0TKRo-oEhlhZhBUK6vvokCqTX_x3e57rbyQwtsR325U6o_Tspj_DpGr_yoFyNu8BjszBnY4_QFatS5U0jnXoQOq66GYIEzxcIq2EAhsi_nojgT108-nNnhHRr4133Ui2uqEC_xB0wxma_sxGhYTkKdMpkBR6SEsqqw/s320/Picsart_24-10-13_11-32-24-984.jpg" group-title="AP TV",COLORS CINEPLEX (UK)
@@ -180,7 +182,7 @@ https://videosolutions-wedobigstories-rakuten.amagi.tv/hls/amagi_hls_data_rakute
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="documentari",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Euronews IN DIRETTA
-https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYjc2MzhjN2MtYTcxNC00ZmYzLTlhYTQtMWQyMDk2MGRkZjVjIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
+https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiMTdmZjgwM2UtYzg2Yi00MTNmLWE5MzUtODgwZmNhZjNjNmQwIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",The Reuters 60
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Revry News
@@ -190,7 +192,7 @@ https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Bloomberg TV+
 https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Africanews
-https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNTU4ODY0OWMtNGY1My00MzM1LThiZmQtOTRkOWYxZWE0ZjQ1IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMjkxYmQ1YzAtZjI5NC00YTNiLWI3MWItNmIwMzdlMzRkOGNjIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",NewsWorld
