@@ -1,51 +1,51 @@
 [
   {
-    "name": "CCTV-5+",
-    "type": "📺央视频道",
-    "url": "http://templaralone.asuscomm.com:35455/mgtv/641886773.m3u8",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png"
-  },
-  {
-    "name": "CCTV-16",
-    "type": "📺央视频道",
-    "url": "http://110.52.99.109:9901/tsfile/live/1015_1.m3u8",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png"
-  },
-  {
-    "name": "河北卫视",
+    "name": "浙江卫视",
     "type": "📡卫视频道",
-    "url": "http://110.52.99.109:9901/tsfile/live/1057_1.m3u8",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png"
+    "url": "http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png"
   },
   {
-    "name": "湖州文化娱乐",
-    "type": "☘️浙江频道",
-    "url": "http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州文化娱乐.png"
+    "name": "广东珠江",
+    "type": "☘️广东频道",
+    "url": "http://live.xmcdn.com/live/252/64.m3u8",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png"
   },
   {
-    "name": "绍兴电视台公共",
+    "name": "杭州综合",
     "type": "☘️浙江频道",
-    "url": "http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/绍兴电视台公共.png"
+    "url": "http://live.xmcdn.com/live/1845/64.m3u8",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州综合.png"
   },
   {
-    "name": "湖州公共民生",
+    "name": "湖州新闻综合",
     "type": "☘️浙江频道",
-    "url": "http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州公共民生.png"
+    "url": "http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&amp;amp;amp;fbl=",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州新闻综合.png"
+  },
+  {
+    "name": "海宁新闻综合",
+    "type": "☘️浙江频道",
+    "url": "http://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/海宁新闻综合.png"
+  },
+  {
+    "name": "北京生活",
+    "type": "☘️北京频道",
+    "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png"
+  },
+  {
+    "name": "新闻综合",
+    "type": "☘️上海频道",
+    "url": "http://p2.vzan.com/slowlive/596867413819827251/live.m3u8",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/新闻综合.png"
   },
   {
     "name": "第一财经",
     "type": "☘️上海频道",
     "url": "http://a1live.livecdn.yicai.com/live/radio_tv.m3u8",
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png"
-  },
-  {
-    "name": "六合新闻综合",
-    "type": "☘️江苏频道",
-    "url": "http://p2hs.vzan.com/720020/432453820030502236/live.m3u8",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/六合新闻综合.png"
   },
   {
     "name": "泗洪新闻综合",
@@ -58,6 +58,18 @@
     "type": "☘️江苏频道",
     "url": "http://3739115337.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=nwEAAJApyIx-AKAX&secondToken=secondToken%3AfyPrvACXUQ_VSZUu3Rxm-2py1fo&streamid=suining-tv%3Asuining-tv%2Fsuiningsn&v3=1",
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/睢宁三农.png"
+  },
+  {
+    "name": "苏州4k",
+    "type": "☘️江苏频道",
+    "url": "https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州4k.png"
+  },
+  {
+    "name": "苏州社会经济",
+    "type": "☘️江苏频道",
+    "url": "https://live-auth.51kandianshi.com/szgd/csztv2.m3u8",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州社会经济.png"
   },
   {
     "name": "湖南爱晚",
@@ -84,6 +96,18 @@
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/仁寿综合.png"
   },
   {
+    "name": "剑阁综合",
+    "type": "☘️四川频道",
+    "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/剑阁综合.png"
+  },
+  {
+    "name": "双流综合",
+    "type": "☘️四川频道",
+    "url": "http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd,",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/双流综合.png"
+  },
+  {
     "name": "名山综合",
     "type": "☘️四川频道",
     "url": "https://m3u8channel-ms.yunxya.com:443/nmip-media/audiolive/audio100580/playlist.m3u8",
@@ -106,12 +130,6 @@
     "type": "☘️福建频道",
     "url": "http://live.xmcdn.com/live/789/64.m3u8",
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建经济.png"
-  },
-  {
-    "name": "淅川电视",
-    "type": "☘️河南频道",
-    "url": "http://live.dxhmt.cn:9081/tv/11326-1.m3u8",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/淅川电视.png"
   },
   {
     "name": "邯郸新闻",
@@ -150,28 +168,34 @@
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东体育.png"
   },
   {
-    "name": "太谷新闻综合",
-    "type": "☘️山西频道",
-    "url": "https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/太谷新闻综合.png"
-  },
-  {
-    "name": "长治公共",
-    "type": "☘️山西频道",
-    "url": "http://live.njgdmm.com/changzhi/cztv2.m3u8",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/长治公共.png"
-  },
-  {
     "name": "涡阳新闻综合",
     "type": "☘️安徽频道",
     "url": "http://220.180.124.18:888/live/ch0.m3u8",
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/涡阳新闻综合.png"
   },
   {
+    "name": "德惠综合",
+    "type": "☘️吉林频道",
+    "url": "http://stream11.jlntv.cn/dehuitv/sd/live.m3u8",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/德惠综合.png"
+  },
+  {
     "name": "九台综合",
     "type": "☘️吉林频道",
-    "url": "http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8",
+    "url": "http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild",
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/九台综合.png"
+  },
+  {
+    "name": "磐石综合",
+    "type": "☘️吉林频道",
+    "url": "http://stream3.jlntv.cn:80/aac_psgb/sd/live.m3u8",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/磐石综合.png"
+  },
+  {
+    "name": "辉南新闻综合",
+    "type": "☘️吉林频道",
+    "url": "https://stream5.jlntv.cn/hn/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/辉南新闻综合.png"
   },
   {
     "name": "柳河综合",
@@ -210,6 +234,12 @@
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/哈尔滨影视.png"
   },
   {
+    "name": "哈尔滨生活",
+    "type": "☘️黑龙江频道",
+    "url": "http://stream.hrbtv.net/shpd/sd/live.m3u8",
+    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/哈尔滨生活.png"
+  },
+  {
     "name": "凤凰中文",
     "type": "🌊港·澳·台",
     "url": "http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8",
@@ -220,12 +250,6 @@
     "type": "🌊港·澳·台",
     "url": "http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8",
     "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png"
-  },
-  {
-    "name": "东森超视",
-    "type": "🌊港·澳·台",
-    "url": "http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8",
-    "img": "https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png"
   },
   {
     "name": "音乐之声",
@@ -2816,7 +2840,13 @@
   {
     "name": "EKO TÜRK",
     "type": "Uncategorized",
-    "url": "http://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=7cItyPb6-p0.m3u8",
+    "url": "https://koprulu4.global.ssl.fastly.net/yt.m3u8/?id=Son5meUMZuU.m3u8",
+    "img": "https://i.ibb.co/xS3zLQr/ekoturk.png"
+  },
+  {
+    "name": "EKO TÜRK",
+    "type": "Uncategorized",
+    "url": "https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8",
     "img": "https://i.ibb.co/xS3zLQr/ekoturk.png"
   },
   {
@@ -3326,13 +3356,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=8l-2coskNofFCQz0BlGTxA&e=1750900444",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=wpBqedX-eOzi2dJCTOjofg&e=1750933381",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=8l-2coskNofFCQz0BlGTxA&e=1750900444",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=wpBqedX-eOzi2dJCTOjofg&e=1750933381",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -3860,7 +3890,7 @@
   {
     "name": "BİZİM EV TV",
     "type": "Uncategorized",
-    "url": "https://ythls-v3.onrender.com/channel/UCIHMK8qtjB_GNuXmeex6i8g.m3u8",
+    "url": "https://koprulu4.global.ssl.fastly.net/ythls/?kanal_id=UCIHMK8qtjB_GNuXmeex6i8g.m3u8",
     "img": "https://i.ibb.co/1Ty8Z3X/bizimev.png"
   },
   {
@@ -6356,7 +6386,19 @@
   {
     "name": "ANT 1",
     "type": "Uncategorized",
+    "url": "https://spark3.smart-tv-data.com/ant1HD/ant1HD/playlist.m3u8",
+    "img": "https://i.ibb.co/qk1SMGf/ant1.jpg"
+  },
+  {
+    "name": "ANT 1",
+    "type": "Uncategorized",
     "url": "https://pcdn.antennaplus.gr/live/media0/antenna-gr/HLS/index.m3u8",
+    "img": "https://i.ibb.co/qk1SMGf/ant1.jpg"
+  },
+  {
+    "name": "ANT 1",
+    "type": "Uncategorized",
+    "url": "https://cdn5.smart-tv-data.com/ant1/ant1live/mpeg.2ts",
     "img": "https://i.ibb.co/qk1SMGf/ant1.jpg"
   },
   {
@@ -6406,6 +6448,12 @@
     "type": "Uncategorized",
     "url": "http://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8",
     "img": "https://i.ibb.co/PmDyTX6/star.jpg"
+  },
+  {
+    "name": "MEGA",
+    "type": "Uncategorized",
+    "url": "https://spark3.smart-tv-data.com/megaHD/megaHD/playlist.m3u8",
+    "img": "https://i.ibb.co/y6D9CPT/megagr.png"
   },
   {
     "name": "MEGA",
@@ -12570,6 +12618,12 @@
     "img": "https://i.imgur.com/KdissvS.png"
   },
   {
+    "name": "RADIO 24 ORE LIVE TV",
+    "type": "Uncategorized",
+    "url": "https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8",
+    "img": "https://i.ibb.co/VppqZ2GD/24ore.png"
+  },
+  {
     "name": "SUPER!",
     "type": "Uncategorized",
     "url": "https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8",
@@ -13014,6 +13068,12 @@
     "img": "https://i.ibb.co/zNxvwRc/rtlhr.png"
   },
   {
+    "name": "RTL2 HR",
+    "type": "Uncategorized",
+    "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd",
+    "img": "https://i.ibb.co/39Ph1tGf/rtl2hr.png"
+  },
+  {
     "name": "HRT 1 (backup)",
     "type": "Uncategorized",
     "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd",
@@ -13359,6 +13419,12 @@
     "name": "MAESTRO",
     "type": "Uncategorized",
     "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/maestro.m3u8",
+    "img": "https://i.ibb.co/RN3dJQ7/geoflag.png"
+  },
+  {
+    "name": "PIRVELI TV",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/ge/pirvelitv.m3u8",
     "img": "https://i.ibb.co/RN3dJQ7/geoflag.png"
   },
   {
@@ -14589,6 +14655,12 @@
     "name": "CNBC NEWS",
     "type": "Uncategorized",
     "url": "http://fl3.moveonjoy.com/CNBC/index.m3u8",
+    "img": "https://i.ibb.co/FxZYHhM/cnbc.jpg"
+  },
+  {
+    "name": "CNBC NEWS",
+    "type": "Uncategorized",
+    "url": "https://ft.fbcdntv247.cfd/memfs/4268c138-3258-42b8-8192-f9a3873e7794_output_0.m3u8",
     "img": "https://i.ibb.co/FxZYHhM/cnbc.jpg"
   },
   {
@@ -16478,13 +16550,13 @@
   {
     "name": "SBT Central Live",
     "type": "Variedades",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1750921206/ei/lptcaKH7OY-N-LAP1dzU2A4/ip/138.117.221.249/id/mAq63acIX6M.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AY1jyLNyi28Tt3LiQiUOvddoxvwEEK3sa8fBi5ZNBwwgzbfUe_RCFXPaW0M0t98XdGSH10ZoRPZjAjzk/spc/l3OVKSrswosDKonj76AsKzCumFHR3gbWxEmlVV366PYoS2vjUpyAshwqCS1t1Vly3oA/vprv/1/playlist_type/DVR/hcs/ir/initcwndbps/2325000/met/1750899607,/mh/1D/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/5/pl/24/rmhost/rr2---sn-n0hpjput-bpbe.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1750899154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhALDmCzZbfrrXs7MOkOslJdEoecw3YT-YS7a01wnJmIlvAiB4dJqi4aCeQTA_JToCqWumgvG-KXD0gYgdADKxWFcYFg%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/APaTxxMwRQIgW_xJ80s0prgQfw7mNL0cTYzDmJLO9o9sc2AhzOpSz4YCIQD3Us3838kEHanPE0o6PqG8kiPnC7g75RClApeutANnDg%3D%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1750946406/ei/Bv5caMupEtWRobIPx67NsAE/ip/138.117.221.249/id/mAq63acIX6M.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AY1jyLN6LMUPTy5ETBpZEBG_dWfjX-QK9wzlmNcDW9qlC1wk_nb18LEVQAEC_3PRnrk-QbSbSftXGIyR/spc/l3OVKRdXdEJ-NBTK61N0ZL0Qo79N2bZ_y8Vy54nemYGFztasCMYOMUOujI5zDF-VXHc/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/1907500/met/1750924807,/mh/1D/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/smhost/rr2---sn-n0hpjput-bpbe.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1750924348/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAIcjilxFF9Yh6rTCZ28BepZzwvDncAOv_KaXGMrlvGdyAiEA4FZMcVyC1YVoVmVDPF72aV9CJ3RrlEkhxB96ohkqiik%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms,smhost/lsig/APaTxxMwRQIhALdlW99YTpxVgjZ2wUQb8hp1SmcHGrD58eNIFrqn4PZAAiAGIr3_aTkiEscn5IQILHRzlsxC1EU_7NiehsAI3QkWAg%3D%3D/playlist/index.m3u8",
     "img": "https://cdn.mitvstatic.com/channels/br_sbt_m.png"
   },
   {
     "name": "Diário TV Teresópolis",
     "type": "Variedades",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1750921211/ei/m5tcaKvKFYb7-LAPuvDVqQg/ip/138.117.221.249/id/-yhPBSYTedo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLNsgvEd0WONaaf9E5qIOafWnQjNxyBRgS9CPXtWRAZqDngzR9NXqxMSQ90hk3FdDCEtopkiRnp1/spc/l3OVKZ6DRUMlO3v3PD4PGWv6VFmwVTG8wH5fdXM2L7dBCDHNvcNNfBK4QVfsLC6mEaxEyxvsIrA/vprv/1/playlist_type/DVR/initcwndbps/2353750/met/1750899612,/mh/3u/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1750899154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAL3I9EYkJxFPLO6oVF9NlOcXqGNSyWuzktlYXTVm4-83AiEA3V3bNhY5WjQffzONPNqDpLEnTxQ5tZrMNpLmXtC3AVE%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJKzZ1Ohs4UuFoUQucU7y7t3rDZ44FNwEAbci_R78qITAiEA45Es_jyg2ehAfGuweGsZlNjvba8zbfr9K4gEES4Y52I%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1750946409/ei/Cf5caO2IJ86p9cYP5tmH4AM/ip/138.117.221.249/id/-yhPBSYTedo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLMjvgJ1gsKTsjhTXMrqkZMJgIe17Wb8haSemG7iuXzyousTf_RulDd8ip4lirtRPXNBmV4dIzEr/spc/l3OVKWdPHvRvO-mI5HYRnTg7uK3hoFbs2RFl89TQcllg3xDqkabDLLfZLgccUa7Zg4kJhbJ5qm4/vprv/1/playlist_type/DVR/initcwndbps/2096250/met/1750924810,/mh/3u/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1750924348/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgUanc6go3G1sGqoKXZAHETrh3IT6yBTFlLe9YOq6WsOoCIQDH9GrCIc7OU1lEZ5R9BBYZ3DAYKPWW-hvJKXhqSf1e1g%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhALnBMQf0OUetpvkQy3PUpXDTiOU6DGvocOF7iI-VSSPPAiB3_5-X0CvMy1b8ouDL12hfhGvMLM5e2G4q8sZytVczXQ%3D%3D/playlist/index.m3u8",
     "img": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c395ee4019fcd2bcacc342b09d3c9ff7.webp"
   },
   {
@@ -16598,7 +16670,7 @@
   {
     "name": "PowerRangers TV",
     "type": "Infantil",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1750921210/ei/mptcaOX9COOsobIPj_Dz0QQ/ip/138.117.221.249/id/ukLIu2y_BxE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLPZRS2cdizSgjx2RNmodUDXxvEUmLRu-xYL4LGh0pynnlY8pwYvZDn5P-LX1CrMMWy1kZpTIekj/spc/l3OVKbE5ACuCjqZtoPbRJlOAsuhqVXBbwj9PYSWoh1fMQEqjxn4pOC3E2V65D4P-PN4BuAr_fzg/vprv/1/playlist_type/DVR/initcwndbps/2353750/met/1750899611,/mh/M4/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1750899154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgbWcthByQZnYIkD5n47tTIfO26T715yxwf2IX16VItjICIAY_m2MhckIRoJb_AXs8tGc4mtWhAb1GASlV1_e0DCTT/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIga8e2k6Q3F89DjZBABTg95PEmyU6V4iNTusG9MwGL_zwCIGk7tQiHzM95rrsxMx4zIPiEcWZjRk_8xJH9kC9mmA0C/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1750946408/ei/CP5caIH_I9mY-LAPvMHe4A4/ip/138.117.221.249/id/ekHr-rwwdOQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLO9EJwolrD1e6Jgt3TfeIgnssaZwJhMvAPEmIgOPiPmRZN_wSBmFwBDCZ_AtzASm1dhS9S1Zx2m/spc/l3OVKUQ18pcVLfpxE68_1OdZp5HRdsxfSSPckEFAo3jLAX657ubr1gcejdPmXYZXd2T-PJWR2Uc/vprv/1/playlist_type/DVR/initcwndbps/1930000/met/1750924809,/mh/cx/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1750924583/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKPDnYuj06DwH-bb74SpOPEHR3mhmMuzAEUGKjRUFUGFAiEAk6EMX1Ny8qEzKEL_7bSD3BHLIEcy24izI8FSbFv43r4%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgS9pDS3X_TasPHR0FSN3ywfxc0XZSlyNSwjdj6iGRT6ACIHXgOjrrWwjmk_rGatgC8zV0ulJZEBdMYbAhT2Pa5lAC/playlist/index.m3u8",
     "img": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1803aa8768a96c38aa19d7bc3f0cf98f.webp"
   },
   {
@@ -16752,21 +16824,15 @@
     "img": "https://i.imgur.com/t5oUK3C.png"
   },
   {
-    "name": "Jovem Pan Live",
-    "type": "Notícia",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1750921207/ei/l5tcaNXFNtSN-LAPgfTEoQI/ip/138.117.221.249/id/5Tl6tbFT_Zc.1~51435241/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AY1jyLNATd6n8o45pdA68ns1MbZTDPcdzLeCzUH_FgI5eg15isnfWUYIKqFukc0zWr4Wgd1Ekvn_z3k7/spc/l3OVKUfhkmRu_JWkAK-gpY2t0jh0J8teenqnRuodx8YXd2E4AVOm8aFPPz8yo9ybJBBTubGwLiQ/vprv/1/playlist_type/DVR/initcwndbps/2325000/met/1750899608,/mh/VO/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1750899154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAM2f2qgaI3bGb7WRDiU7lQq756QYHnBDth_35G-TD5o1AiEA3qU0FJSPVNZYcJ2z2DcBRmGUAvoeZpIc9j5H1Oxmhgg%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAJ8K8fMVrvhNK1H_aYXQLG6aVaZWNEWbIRE9E_CO9BUsAiBXoNo47t-O-lLY_UTXxbr6-H6vO-ASoQqvKslgmhk56g%3D%3D/playlist/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png"
-  },
-  {
     "name": "Record News Live",
     "type": "Notícia",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1750921209/ei/mZtcaLJ2iZ_4sA-ysOjBAg/ip/138.117.221.249/id/86106K71Fm8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLOL4CcaJwnT4ka5KWuZQGlEuoBFVlhICiRZaSXRM3vp46nYNr7_x3Fhq8L4OBRXB7coUCWmwyq3/spc/l3OVKXXj9UtoYIBkutg3MCEBjbPCkubeUBJWyVsJpVQvYqhAQ09s89UxNf59JOI-mgCF15DidUc/vprv/1/playlist_type/DVR/initcwndbps/2353750/met/1750899609,/mh/Iq/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1750899154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAOetvsSHKv6sB1ZpHbdwsDsD8ExJiIy1PEAmBcoh7OFFAiAlRaGfDbCWoDOy-TBWoCEot9cnEeX8TAjKUAitJoAuqw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRgIhALjTNpyqZ5ISrGjqx7I9AmN4ZVUNu1Egwa8c5q2iZhWeAiEAoBPsxBoJYXEj0MHvPGQssmjjTwIdxRXKO8vOnnB9UYQ%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1750946407/ei/B_5caO67N-CtgM8Pif6RyQs/ip/138.117.221.249/id/ifXgDTcIfqE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLM1Li6djHhVYqmR9DG2ItY4ZP9DHHAQM7_22dWROwvvVjhYRMmB2-bCX4FJxExC7JXFNgbI94Hj/spc/l3OVKaiyDoBfzU1pbXskDPLp5XFtXbHuDAR_FTJzCqIBr_qxyLKzH8UlQV3vawU7da8yJtkWn90/vprv/1/playlist_type/DVR/initcwndbps/2013750/met/1750924808,/mh/W7/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1750924583/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgdIg5wASP3LCQ1TTqQ-GO5YTYVloFMGnlq8GoJOtrmtsCIQDyfigrFQfR3Ir_ucxXVJM2RmmMQv9UlId_1iz8SydLuA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAPUKjgp4MHCpOfmWUuPvKVL2R0uCJw3WMEIS58kauVGcAiEA-Npf-wYsnymicARjI_7lRp1KALmQuxUFBd_l7cDL-VM%3D/playlist/index.m3u8",
     "img": "https://yt3.googleusercontent.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt=s176-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "CNN Brasil",
     "type": "Notícia",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1750921212/ei/nJtcaI3-L5CZ-LAPi7rNwAg/ip/138.117.221.249/id/QGATiAs7big.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AY1jyLOQ-atCrP2_1zqfS2BVwjBjwi9XAEE92vqBIunb3Z0B4eVB21bI147DUgsb5MbuO3Ajvmm7B1cv/spc/l3OVKalShJiJ7e41KqyGZahzC80F5lyNnDvt3rSPj-hPRQJgTFMpKY1lYDwgy42ekylZADwgMw0/vprv/1/playlist_type/DVR/initcwndbps/2325000/met/1750899613,/mh/7f/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1750899154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhALiWC5bqEbiGPDEmi0gZKjx0UA65zNb3-qVpCDR8IqveAiBplZbQrM5Qtiq4GEzPNbOPeLREB3l4Ju_nhl2I091z0w%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgC33yirh80bZR1Kyi8jvz-_Xhn1NqZTNKuCE6wwafFEsCIQCjw2VSX1Usq0-9DvMYpAf4agBEGIpEe0tAYEMGiWVqXg%3D%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1750946410/ei/Cv5caPycN6SOobIPrMLD6Ag/ip/138.117.221.249/id/aZDGYTej25k.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AY1jyLPVWhL8qnKKHMaM0jJ12fou6MHCa_FEe9L3TTOQGx9kXzJI8SsGIVhWjDrqJkOm9PN7YD-Qwk6U/spc/l3OVKZSa_C-KUC80-p_uO8XaU-9SpU7I1lyJuaZlqhSDMssa2k8v5XPaDh0rZeqfXpHO3Op7jNo/vprv/1/playlist_type/DVR/initcwndbps/2000000/met/1750924811,/mh/gH/mm/44/mn/sn-n0hpjput-bpbl/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1750924348/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAMEehYDYZBM87h3PZpReu1wMiiCNa5to0nDyXUXcadgcAiEAu60VriseH1ksn85icoWNZ8JpwhtTcQr_nmpUfbugQBo%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAOkNrXZsAZMy7KVs-VNvQqzenCfh0Id45vfYV9bTJzhAAiB3o1_jQZDcXGS9QE-t2dAHic32DakO2xjFD7oyBsQTGQ%3D%3D/playlist/index.m3u8",
     "img": "https://yt3.googleusercontent.com/ytc/AIf8zZQb7MP1UvjN4CnJ9tEyGeQM0btuJejf1PQekJlmog=s176-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -17024,7 +17090,7 @@
   {
     "name": "Santuário Nacional de Aparecida",
     "type": "Religião",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1750921213/ei/nZtcaIaqKo-dobIP2sChKQ/ip/138.117.221.249/id/juUt-rN5CVo.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AY1jyLMxY8xrVujZcij7BfS004404rzxQMPQCQzowc80BBKxZ6QRwtcI0rgOtAzeRhNf0ul1eMXt_Cjb/spc/l3OVKdLJevNsS6MRbtPhLRybq0wcO2FVthutzQpB6UtUk8-dhIEWiWOohmnrDwCCo0lhqJ5rVU8/vprv/1/playlist_type/LIVE/initcwndbps/2407500/met/1750899614,/mh/tn/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1750899154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgBBQCQMWMf_rAPj4HZzHWu1HN7gKXOzULV4zUOtVKNQkCIF4grlN8IHjZK_OcVC9kTfgEqH9Xwn_vhxu6gqKBaWEt/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgcWmp8yDqvpfTfStND5Rbvl1LPw7CO4ENlxQ8_-uqpOICIQCluxapUYlrAQnhBBvNwRApCYN8jrGRAVFBCGTwc2k6Vg%3D%3D/playlist/index.m3u8",
+    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1750946411/ei/C_5caKHaMdeG9cYPnM3VuQ8/ip/138.117.221.249/id/juUt-rN5CVo.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AY1jyLNaWUCW9LVZK-hAmsCLvNqEkIyxNUvz73UfTR7Me_YxUpEwXE15aB8sHirFgrUcN8tcGhR3zk5C/spc/l3OVKSTr_kxqrukl7aGhZ3DvH9MIQTAmnJ8vbSntal2GZ5upyuzKhkaFfN6J8yaHuZ_EfYhm76Q/vprv/1/playlist_type/LIVE/initcwndbps/1903750/met/1750924812,/mh/tn/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1750924348/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAM5F02fQYkuNDlxgpMNWHYUHk0Ro0Rw_7H8bHvvegW4IAiEAkzidTUDSDUxITu7APerr53ml9ZBsRD4Z_Z1S7C59AuQ%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgJNN6jMjcOr1mCwHwcipCWCBqMi7vDgZgbrW7F85SOicCIDl0YqW-lkUQTnHKbVNrHSRuROeXKgxNoAELXjLsvUse/playlist/index.m3u8",
     "img": "https://yt3.googleusercontent.com/lJKcikNIOAxJwt56fCFkY-pc57H0TQgZtt0h8xPBlijST3FE_2AOZhqS4_D8afZaDjHKqKOVeA=s176-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -17110,12 +17176,6 @@
     "type": "Esportes",
     "url": "http://cdn.tvmatic.net/fight.m3u8",
     "img": "https://i.imgur.com/l5PBcKN.png"
-  },
-  {
-    "name": "NBA Brasil",
-    "type": "Esportes",
-    "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1750921205/ei/lZtcaNrKK7OaobIPgLrAwAQ/ip/138.117.221.249/id/DqY2l47X0bM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/bui/AY1jyLM2gQUUlFg496d0fPM2udED6c-ZtnuqN2Km9CzQqz9ci1sYNtED7oNkZ40ZQdNhBFMI99HToYGE/spc/l3OVKd1bJmKWYslTYo43ylqCEx7COr0AywptqdLncaw9MYy5BdH5Ut4ORMSh0TYHR811r5VPwVA/vprv/1/playlist_type/DVR/initcwndbps/2353750/met/1750899606,/mh/3B/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1750899154/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPmN4uF9OEPw7eAk91J4NojcA9HLuurLn0IuS61hxLrMAiAs0hQSpAHCmEVB3hOzCNxNeMYeD06P-Tf7c42QDwfUVw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgR1N0ksE-EdheM4rTv6qQm_ZLSowio_TKfU0cVbv6dqMCIQDHbJ43PM8QXzbrf1-KpEeuRWBYHlr4cXUAOmg1bvOzFA%3D%3D/playlist/index.m3u8",
-    "img": "https://pbs.twimg.com/profile_images/724775288333279234/BXRH8jsF_400x400.jpg"
   },
   {
     "name": "1001 Noites",
