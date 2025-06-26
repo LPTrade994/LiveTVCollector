@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-26 07:17:12",
+  "date": "2025-06-26 13:59:39",
   "channels": {
     "Religious": [
       {
@@ -20672,6 +20672,13 @@
     ],
     "Local Public Broadcast": [
       {
+        "name": "PBS-TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/129939"
+      },
+      {
         "name": "Create",
         "logo": "https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png",
         "group": "Local Public Broadcast",
@@ -20693,14 +20700,28 @@
         "url": "https://world.lls.pbs.org/index_1080p.m3u8"
       },
       {
-        "name": "WVIZ-TV 25.2 The Ohio Channel (Cleveland OH)",
+        "name": "WVIZ-TV PBS 25.1 (Cleveland OH)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/243548"
+      },
+      {
+        "name": "WVIZ-DT 25.2 The Ohio Channel (Cleveland OH)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8?player_version=1.18.0"
       },
       {
-        "name": "WTVS-TV 56.6 Michigan Learning Channel",
+        "name": "WTVS-TV PBS 56.1 (Detroit MI)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/243533"
+      },
+      {
+        "name": "WTVS-DT 56.6 Michigan Learning Channel (Detroit MI)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
@@ -20714,35 +20735,35 @@
         "url": "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8"
       },
       {
-        "name": "WKLE-TV KET-TV PBS 46.1 (Lexington KY)",
+        "name": "WKLE-TV KET PBS 46.1 (Lexington KY)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://2-fss-1.streamhoster.com/pl_134/amlst%3a200914-1282960/chunklist.m3u8"
       },
       {
-        "name": "WKLE-TV KET 2 46.2 Create (Lexington KY)",
+        "name": "WKLE-DT KET 2 Create 46.2 (Lexington KY)",
         "logo": "https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1315484/playlist.m3u8"
       },
       {
-        "name": "WKLE-TV KET KY 46.3 (Lexington KY)",
+        "name": "WKLE-DT KET KY 46.3 (Lexington KY)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://2-fss-2.streamhoster.com/pl_132/amlst%3a200914-1315486/playlist.m3u8"
       },
       {
-        "name": "WKMJ-TV KET 2 68.1 PBS (Louisville KY)",
+        "name": "WKMJ-TV KET PBS 68.1 (Louisville KY)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8"
       },
       {
-        "name": "WKMJ-TV KET 2 68.4 KET World (Louisville KY)",
+        "name": "WKMJ-DT KET World 68.4 (Louisville KY)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
@@ -20756,14 +20777,14 @@
         "url": "http://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8"
       },
       {
-        "name": "KETS-TV PBS 2 (Conway AR)",
+        "name": "KNPB-TV PBS 5 (Reno NV)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8"
+        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/243539"
       },
       {
-        "name": "KOCE-TV PBS 50 (Huntington Beach/Los Angeles CA)",
+        "name": "KOCE-TV SoCal PBS 50 (Huntington Beach/Los Angeles CA)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
@@ -20784,35 +20805,49 @@
         "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78489"
       },
       {
-        "name": "WNJT-TV PBS 52 (Trenton NJ)",
+        "name": "WNJT-TV NJ PBS 52 (Trenton NJ)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/224557"
       },
       {
-        "name": "WNED-TV PBS 17 (Buffalo NY/Toronto ON)",
+        "name": "WNED-TV BTPM PBS 17 (Buffalo NY/Toronto ON)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://tvmate.icu:8080/arriejstergis5555@gmail.com/95131969/139756"
       },
       {
-        "name": "WEDH-TV PBS 24 (Hartfort CT)",
+        "name": "WPBS-TV PBS 16 (Watertown NY)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/243546"
+      },
+      {
+        "name": "WEDH-TV P-CPTV PBS 24 (Hartfort CT)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78465"
       },
       {
-        "name": "WETA-TV WETA UK 26.2 (Washington DC)",
+        "name": "WETA-TV WETA PBS 26.1 (Washington DC)",
+        "logo": "https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-uk_1900x1900.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/243522"
+      },
+      {
+        "name": "WETA-DT WETA UK 26.2 (Washington DC)",
         "logo": "https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-uk_1900x1900.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://wetadt2.lls.pbs.org/wetadt2-cmaf-hls.m3u8"
       },
       {
-        "name": "WETA-TV PBS Metro 26.5 (Washington DC)",
+        "name": "WETA-DT PBS Metro 26.5 (Washington DC)",
         "logo": "https://weta.org/sites/default/files/styles/530x350/public/2022-01/weta-metro_1900x1900.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
@@ -20826,49 +20861,56 @@
         "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78545"
       },
       {
-        "name": "WMPB-TV PBS 67.1 (Baltimore MD)",
+        "name": "WMPB-TV MPT PBS 67 (Baltimore MD)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://2-fss-2.streamhoster.com/pl_138/amlst%3a201814-1291584/playlist.m3u8"
       },
       {
-        "name": "WMPB-TV PBS 67.2 Create (Baltimore MD)",
-        "logo": "https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png",
-        "group": "Local Public Broadcast",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://2-fss-1.streamhoster.com/pl_122/amlst%3a201814-2122456/playlist.m3u8"
-      },
-      {
-        "name": "WMPT-TV PBS 22 (Annapolis MD)",
+        "name": "WMPT-TV MPT PBS 22 (Annapolis MD)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8"
       },
       {
-        "name": "WPBT-TV PBS 2 (Miami FL)",
+        "name": "WPBT-TV South Florida PBS 2 (Miami FL)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78546"
       },
       {
-        "name": "WJCT-TV PBS 9 (Jacksonville FL)",
+        "name": "WJCT-TV JAX PBS 9 (Jacksonville FL)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78485"
       },
       {
-        "name": "KAET-TV PBS 8 (Phoenix AZ)",
+        "name": "WABE-TV PBS 30 (Atlanta GA)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/243525"
+      },
+      {
+        "name": "KAET-TV Arizona PBS 8 (Phoenix AZ)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78544"
       },
       {
-        "name": "KETC-TV PBS 9 (St. Louis MO)",
+        "name": "KERA-TV PBS 13 (Ft. Worth/Dallas TX)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/243559"
+      },
+      {
+        "name": "KETC-TV Nine PBS 9 (St. Louis MO)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
@@ -20889,11 +20931,18 @@
         "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78451"
       },
       {
-        "name": "KUED-TV PBS 7 (Salt Lake City UT)",
+        "name": "KUED-TV Utah PBS 7 (Salt Lake City UT)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78447"
+      },
+      {
+        "name": "KOPB-TV PBS 10 (Portland OR)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/243549"
       },
       {
         "name": "KSPS-TV PBS 7 (Spokane WA)",
@@ -20901,6 +20950,34 @@
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/216622"
+      },
+      {
+        "name": "WQED-TV PBS 13 (Pittsburgh PA)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/243553"
+      },
+      {
+        "name": "WHYY-TV PBS 12 (Philadelphia PA)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/243552"
+      },
+      {
+        "name": "WQLN-TV PBS 54 (Erie PA)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/243550"
+      },
+      {
+        "name": "KBDI-TV PBS 12 (Denver CO)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/243520"
       },
       {
         "name": "PBS National (West)",
@@ -27080,7 +27157,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/130066"
+        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/130064"
       },
       {
         "name": "Starz (West)",
@@ -29080,32 +29157,25 @@
         "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/173131"
       },
       {
-        "name": "CTV (Canada)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Canadian Channels",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://tvmate.icu:8080/live/7686199/9576982/47234.m3u8"
-      },
-      {
         "name": "CTV Drama Channel (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://tvmate.icu:8080/live/7686199/9576982/57254.m3u8"
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57254"
       },
       {
         "name": "CTV Life Channel (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://tvmate.icu:8080/live/7686199/9576982/116506.m3u8"
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/116506"
       },
       {
         "name": "CTV Sci-Fi Channel (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Canadian Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://tvmate.icu:8080/live/7686199/9576982/57464.m3u8"
+        "url": "http://1tv41.icu:8080/tandphunt1@gmail.com/AAn4BJhH7f/57464"
       },
       {
         "name": "Makeful (Canada)",
