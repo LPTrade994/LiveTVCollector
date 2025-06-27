@@ -140,9 +140,9 @@ URL: https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184
 Logo: https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846166f4d93e5e/8e60b38dbec04327b6a595877c1e94b3.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: DreamWorks
-URL: http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157610
-Logo: https://www.mncvision.id/userfiles/image/channel/channel_47.png
+Name: Dreamworks HD
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
+Logo: https://e7.pngegg.com/pngimages/393/234/png-clipart-dreamworks-animation-animated-film-logo-dreamworks-poppy-text-film.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Baby TV Asia
@@ -3472,11 +3472,6 @@ Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/play
 Name: Moonbug
 URL: https://av-ch-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash/BabyTV-NewHD.mpd|referrer=https://visionplus.id
 Logo: https://i.ibb.co.com/GgG0f3z/MOONBUG.png
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: Dreamworks HD
-URL: https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
-Logo: https://i.ibb.co.com/0Jn1cxZ/dreamwork.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: MY KIDZ

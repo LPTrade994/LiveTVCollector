@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-27 14:03:31",
+  "date": "2025-06-27 22:01:27",
   "channels": {
     "INDONESIA": [
       {
@@ -12487,11 +12487,11 @@
         "url": "https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd"
       },
       {
-        "name": "DreamWorks",
-        "logo": "https://www.mncvision.id/userfiles/image/channel/channel_47.png",
+        "name": "Dreamworks HD",
+        "logo": "https://e7.pngegg.com/pngimages/393/234/png-clipart-dreamworks-animation-animated-film-logo-dreamworks-poppy-text-film.png",
         "group": "Anak² & Kartun",
         "source": "https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U",
-        "url": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157610"
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd"
       },
       {
         "name": "Baby TV Asia",
@@ -15934,13 +15934,6 @@
         "group": "DUNIA SI KECIL",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
         "url": "https://av-ch-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash/BabyTV-NewHD.mpd|referrer=https://visionplus.id"
-      },
-      {
-        "name": "Dreamworks HD",
-        "logo": "https://i.ibb.co.com/0Jn1cxZ/dreamwork.png",
-        "group": "DUNIA SI KECIL",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd"
       },
       {
         "name": "MY KIDZ",
