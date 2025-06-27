@@ -4428,12 +4428,6 @@
     "img": "https://live.fanmingming.cn/tv/CGTN阿语.png"
   },
   {
-    "name": "CCTV13",
-    "type": "央视频道",
-    "url": "https://event.pull.hebtv.com/jishi/cp1.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "CCTV风云足球",
     "type": "央视频道",
     "url": "https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8",
@@ -5146,6 +5140,12 @@
     "type": "卫视频道",
     "url": "http://home.wwang.pw:35455/itv/1000000002000004097.m3u8?cdn=ystenlive",
     "img": "https://live.fanmingming.cn/tv/山东教育.png"
+  },
+  {
+    "name": "河北卫视",
+    "type": "卫视频道",
+    "url": "https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "山东教育",
@@ -7680,15 +7680,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "电影成龙",
-    "type": "电影频道",
-    "url": "https://www.goodiptv.club/huya/11342386",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "电影星爷",
     "type": "电影频道",
     "url": "https://www.goodiptv.club/huya/11342412",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "电影盗墓",
+    "type": "电影频道",
+    "url": "https://www.goodiptv.club/huya/21059552",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8906,7 +8906,7 @@
   {
     "name": "北京生活",
     "type": "地方频道",
-    "url": "https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1750795213&sign=e1fe97d352caa531dd0f72b9924b2ebe",
+    "url": "https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8964,15 +8964,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "哈尔滨娱乐",
-    "type": "地方频道",
-    "url": "https://stream.hrbtv.net/ylpd/sd/live.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "太谷新闻综合",
     "type": "地方频道",
-    "url": "https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0",
+    "url": "https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8991,6 +8985,12 @@
     "name": "平泉综合",
     "type": "地方频道",
     "url": "https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "平遥新闻综合",
+    "type": "地方频道",
+    "url": "https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9033,24 +9033,6 @@
     "name": "成县综合",
     "type": "地方频道",
     "url": "https://play.kankanlive.com/live/1702454377323961.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "无锡娱乐",
-    "type": "地方频道",
-    "url": "https://stream.thmz.com/wxtv2/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "无锡生活",
-    "type": "地方频道",
-    "url": "https://stream.thmz.com/wxtv4/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "无锡经济",
-    "type": "地方频道",
-    "url": "https://stream.thmz.com/wxtv5/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9141,12 +9123,6 @@
     "name": "海南新闻",
     "type": "地方频道",
     "url": "https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "海宁新闻综合",
-    "type": "地方频道",
-    "url": "https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9606,12 +9582,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "1995年春晚",
-    "type": "春晚频道",
-    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "1996年春晚",
     "type": "春晚频道",
     "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4",
@@ -9693,6 +9663,12 @@
     "name": "2018年春晚",
     "type": "春晚频道",
     "url": "https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "1995年春晚",
+    "type": "春晚频道",
+    "url": "https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -10772,7 +10748,7 @@
   {
     "name": "中华小当家",
     "type": "儿童频道",
-    "url": "https://live.metshop.top/huya/11342413",
+    "url": "https://live.iill.top/huya/11342413",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -10830,19 +10806,37 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "漫画解说",
-    "type": "解说频道",
-    "url": "https://www.goodiptv.club/douyu/5907076",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "龙梅子都说",
     "type": "解说频道",
     "url": "https://vd3.bdstatic.com:443/mda-ma7cm59x1m4015ip/v2-hknm/1080p/mda-ma7cm59x1m4015ip.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "2025-06-27 06:37:52",
+    "name": "云南大理崇圣寺三塔远景",
+    "type": "直播中国",
+    "url": "https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "云南白沙远眺玉龙雪山",
+    "type": "直播中国",
+    "url": "https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "五彩池",
+    "type": "直播中国",
+    "url": "https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "江苏南京牛首山",
+    "type": "直播中国",
+    "url": "https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "2025-06-27 12:31:34",
     "type": "更新时间",
     "url": "https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
