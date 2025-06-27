@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDI1IDg6OTozNiBBTSZoYXNoX3ZhbHVlPW5mS0tNM2JTcjlpMThBd1k0NWVVU2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mN2Y2ZGZjZS01Zjk1LTRmOTktYmE0Ny0yYzNjNDRlZWQ4MmU=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDI1IDQ6ODoxMCBQTSZoYXNoX3ZhbHVlPVY1Q1crV1pSekZQbno4Uk84eEZXL3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jMDgyNzVhYS00ZmZiLTRkMzctOTc1OS0zMjg5NTZlY2I1NDQ=/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDI1IDg6OTozNiBBTSZoYXNoX3ZhbHVlPTVnN1FVMTQ2Z1BWNFd5bmZHNTBhQ2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lYmY1NDcwYS1iMTcwLTQyNmMtYjk5OC05ZTM3ZDZmODhkNzE=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDI1IDQ6ODoxMCBQTSZoYXNoX3ZhbHVlPXMzWm9lM0NaQkRTU1RrNlUyRDlMaGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lMWQ3NGFkZC02MTgyLTQzMWYtYWJhZS00YTZiYmUwOTU0NzY=/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDI1IDg6OTozNyBBTSZoYXNoX3ZhbHVlPVJ0YXJrT0RCempEbmdHMFRwbktzckE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iMWUwYmZhMS02OWEwLTQ5NDctOGRlMS01MGNhNjEyYTVjNzQ=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNy8yMDI1IDQ6ODoxMSBQTSZoYXNoX3ZhbHVlPVlscEt5aHM2cnJTYW80c0dKTmE2NUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xMGY1ZTllMS0yYzM4LTQ3ZmEtOTNmNi0zMDhlNmViYzYzZmI=/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -2650,6 +2650,12 @@
     "type": "O Outro Lado",
     "url": "https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411000000e014t6348.m3u8",
     "img": "https://m3upt.com/logos/O-outro-lado.jpg"
+  },
+  {
+    "name": "Eixo do Mal - 26/6/2025",
+    "type": "Eixo do Mal",
+    "url": "https://videos.impresa.pt/videos/hls/sicnot/2025/06/26/b6ae4204-6e01-4019-b640-30c31fbf1157/video.m3u8",
+    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg"
   },
   {
     "name": "Eixo do Mal - 19/6/2025",
