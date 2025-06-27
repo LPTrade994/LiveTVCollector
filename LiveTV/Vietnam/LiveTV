@@ -2,19 +2,19 @@
   {
     "name": "VTV1 HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV1_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV1_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png"
   },
   {
     "name": "VTV2 HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV2_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV2_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV2%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png"
   },
   {
     "name": "VTV3 HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV3_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV3_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV3%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png"
   },
   {
@@ -26,13 +26,13 @@
   {
     "name": "VTV5 HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV5_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV5%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png"
   },
   {
     "name": "VTV CẦN THƠ HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV_Can_Tho",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-VTV_Can_Tho_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV%20C%E1%BA%A7n%20Th%C6%A1%20HD%20%E2%80%A2%20B%E1%BA%A3n%202.png"
   },
   {
@@ -66,12 +66,6 @@
     "img": " "
   },
   {
-    "name": "FM 90,3 • PT HOẰNG HÓA",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM90-3-Phat_thanh_Hoang_Hoa",
-    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD/OTV1%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ho%E1%BA%B1ng%20H%C3%B3a%201%20HD%20%E2%80%A2%20B%E1%BA%A3n%202.png"
-  },
-  {
     "name": "TTV - TH THANH HÓA HD thử nghiệm",
     "type": "Uncategorized",
     "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-TTV-Truyen_hinh_Thanh_Hoa_HD_thu_nghiem",
@@ -90,82 +84,88 @@
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/BHTTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%A1o%20H%C3%A0%20T%C4%A9nh%20%20%E2%80%A2%20B%E1%BA%A3n%202.png"
   },
   {
-    "name": "FM 88,2 • PT CẨM THỦY",
+    "name": "PT XÃ HOẰNG KIM - HUYỆN HOẰNG HÓA",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM88_2-Phat_thanh_Cam_Thuy",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Hoang_Kim-Huyen_Hoang_Hoa",
     "img": " "
   },
   {
-    "name": "FM 89 • PT NHƯ XUÂN",
+    "name": "PT THÔN 5 - XÃ HOẰNG NGỌC - HUYỆN HOẰNG HÓA",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM89-Phat_thanh_Nhu_Xuan",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thon_5-Xa_Hoang_Ngoc-Huyen_Hoang_Hoa",
     "img": " "
   },
   {
-    "name": "FM 89,6 • PT MƯỜNG LÁT",
+    "name": "PT THỊ TRẤN SƠN LƯ - HUYỆN QUAN SƠN",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM89-6-Phat_thanh_Muong_Lat",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Son_Lu-Huyen_Quan_Son",
     "img": " "
   },
   {
-    "name": "FM 90,8 • PT HÀ TRUNG",
+    "name": "PT XÃ HÀ LĨNH - HUYỆN HÀ TRUNG",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM90-8-Phat_thanh_Ha_Trung",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Ha_Linh-Huyen_Ha_Trung",
     "img": " "
   },
   {
-    "name": "FM 93,1 • PT TP. THANH HÓA",
+    "name": "PT PHƯỜNG AN HOẠCH - TP. THANH HÓA",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM93_1-Phat_thanh_Thanh_pho_Thanh_Hoa",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Phuong_An_Hoach-Thanh_pho_Thanh_Hoa",
     "img": " "
   },
   {
-    "name": "FM 94,6 • PT HẬU LỘC",
+    "name": "PT THỊ TRẤN THỐNG NHẤT - HUYỆN YÊN ĐỊNH",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM94-6-Phat_thanh_Hau_Loc",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Thong_Nhat-Huyen_Yen_Dinh",
     "img": " "
   },
   {
-    "name": "FM 95,4 • PT QUẢNG XƯƠNG",
+    "name": "PT XÃ THIỆU TRUNG - HUYỆN THIỆU HÓA",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM95-4-Phat_thanh_Quang_Xuong",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Thieu_Trung-Huyen_Thieu_Hoa",
     "img": " "
   },
   {
-    "name": "FM 95,8 • PT THẠCH THÀNH",
+    "name": "PT THỊ TRẤN VĨNH LỘC - HUYỆN VĨNH LỘC",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM95-8-Phat_thanh_Thach_Thanh",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Vinh_Loc-Huyen_Vinh_Loc",
     "img": " "
   },
   {
-    "name": "FM 96,8 • PT NÔNG CỐNG",
+    "name": "PT XÃ ĐÔNG PHÚ - TP. THANH HÓA",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM96-8-Phat_thanh_Nong_Cong",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Dong_Phu-Thanh_pho_Thanh_Hoa",
     "img": " "
   },
   {
-    "name": "FM 97,6 • PT NGA SƠN",
+    "name": "PT PHƯỜNG ĐÔNG THỊNH - TP. THANH HÓA",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM97-6-Phat_thanh_Nga_Son",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Phuong_Dong_Thinh-Thanh_pho_Thanh_Hoa",
     "img": " "
   },
   {
-    "name": "FM 97,8 • PT TRIỆU SƠN",
+    "name": "PT THỊ TRẤN TRIỆU SƠN - HUYỆN TRIỆU SƠN",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM97-8-Phat_thanh_Trieu_Son",
-    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD/TSTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Tri%E1%BB%87u%20S%C6%A1n.png"
-  },
-  {
-    "name": "FM 98,4 • PT THƯỜNG XUÂN",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM98-4-Phat_thanh_Thuong_Xuan",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Trieu_Son-Huyen_Trieu_Son",
     "img": " "
   },
   {
-    "name": "FM 102,4 • PT BÁ THƯỚC",
+    "name": "PT XÃ VÂN SƠN - HUYỆN TRIỆU SƠN",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-FM102-4-Phat_thanh_Ba_Thuoc",
-    "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/TTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Thanh%20H%C3%B3a%20HD/BTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20B%C3%A1%20Th%C6%B0%E1%BB%9Bc%20HD%20%E2%80%A2%20B%E1%BA%A3n%203.png"
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Van_Son-Huyen_Trieu_Son",
+    "img": " "
+  },
+  {
+    "name": "PT XÃ ĐÔNG VĂN - HUYỆN ĐÔNG SƠN",
+    "type": "Uncategorized",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Dong_Van-Thanh_pho_Thanh_Hoa",
+    "img": " "
+  },
+  {
+    "name": "PT XÃ ĐÔNG QUANG - TP. THANH HÓA",
+    "type": "Uncategorized",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Dong_Quang-Thanh_pho_Thanh_Hoa",
+    "img": " "
   },
   {
     "name": "大湾区卫视 (高清)",
@@ -362,91 +362,91 @@
   {
     "name": "ON Vie GIẢI TRÍ HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Vie_GIAI_TRI_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Vie_GIAI_TRI_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab1%20-%20ON%20Vie%20GI%E1%BA%A2I%20TR%C3%8D%20HD.png"
   },
   {
     "name": "ON Phim Việt HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Phim_Viet_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Phim_Viet_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab2%20-%20ON%20Phim%20Vi%E1%BB%87t%20HD.png"
   },
   {
     "name": "ON Sports HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Sports_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Sports_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20HD.png"
   },
   {
     "name": "ON Movies HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Movies_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Movies_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab4%20-%20ON%20Movies%20HD.png"
   },
   {
     "name": "ON E Channel HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_E_Channel_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_E_Channel_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab5%20-%20ON%20E%20Channel%20HD.png"
   },
   {
     "name": "On Sports+ HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Sports_Plus_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Sports_Plus_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/On%20Sports%2B%20HD.png"
   },
   {
     "name": "ON Cine HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Cine_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Cine_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab10%20-%20ON%20Cine%20HD.png"
   },
   {
     "name": "ON BiBi HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_BiBi_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_BiBi_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab8%20-%20ON%20BiBi%20HD.png"
   },
   {
     "name": "ON Info TV HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Info_TV_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Info_TV_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab9%20-%20ON%20Info%20TV%20HD.png"
   },
   {
     "name": "ON O2TV HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_O2TV_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_O2TV_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab7%20-%20ON%20O2TV%20HD.png"
   },
   {
     "name": "ON Style TV HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Style_TV_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Style_TV_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab12%20-%20ON%20Style%20TV%20HD.png"
   },
   {
     "name": "ON Music HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Music_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Music_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab15%20-%20ON%20Music%20HD.png"
   },
   {
     "name": "ON Football HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Football_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Football_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Football%20HD.png"
   },
   {
     "name": "ON Trending TV",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Trending_TV",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Trending_TV_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab17%20-%20ON%20Trending%20TV.png"
   },
   {
     "name": "ON Sports News",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Sports_News",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Sports_News_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Sports%20News%20HD.png"
   },
   {
@@ -470,13 +470,13 @@
   {
     "name": "ON Vie DRAMAS HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Vie_DRAMAS_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Vie_DRAMAS_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab19%20-%20ON%20Vie%20DRAMAS%20HD.png"
   },
   {
     "name": "ON VFamily HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_VFamily_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_VFamily_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab20%20-%20ON%20VFamily%20HD.png"
   },
   {
@@ -512,19 +512,19 @@
   {
     "name": "ON Kids HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Kids_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Kids_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab21%20-%20ON%20Kids%20HD.png"
   },
   {
     "name": "ON Life HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Life_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Life_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTVCab22%20-%20ON%20Life%20HD.png"
   },
   {
     "name": "ON Golf",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Golf",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Golf_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/ON%20Golf%20HD.png"
   },
   {
@@ -608,7 +608,7 @@
   {
     "name": "HTV THỂ THAO HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV_The_Thao_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV_The_Thao_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV%20Th%E1%BB%83%20Thao%20HD.png"
   },
   {
@@ -620,7 +620,7 @@
   {
     "name": "BOX HITS HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-BOX_Hits_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-BOX_Hits_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Hits.png"
   },
   {
@@ -698,7 +698,7 @@
   {
     "name": "NBTV - TH NINH BÌNH HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-NBTV-Truyen_hinh_Ninh_Binh_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-NBTV-Truyen_hinh_Ninh_Binh_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/NBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ninh%20B%C3%ACnh%20HD/NBTV%20-%20Truy%E1%BB%81n%20h%C3%ACnh%20Ninh%20B%C3%ACnh%20HD%20%E2%80%A2%20B%E1%BA%A3n%20v%C3%A9c-t%C6%A1.png"
   },
   {
@@ -710,13 +710,13 @@
   {
     "name": "HTV7 HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV7_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV7_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV7%20HD%20%E2%80%A2%20B%E1%BA%A3n%204.png"
   },
   {
     "name": "HTV9 HD",
     "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV9_HD",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-HTV9_HD_du_phong",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HTV9%20HD%20%E2%80%A2%20B%E1%BA%A3n%204.png"
   },
   {
@@ -760,90 +760,6 @@
     "type": "Uncategorized",
     "url": "https://HaNoiIPTV.short.gy/Ha_Noi_hom_nay-Ban_dem",
     "img": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Logo%20kh%C3%A1c/H%C3%A0%20N%E1%BB%99i%20h%C3%B4m%20nay%20%E2%80%A2%20Bu%E1%BB%95i%20t%E1%BB%91i.png"
-  },
-  {
-    "name": "PT XÃ HOẰNG KIM - HUYỆN HOẰNG HÓA",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Hoang_Kim-Huyen_Hoang_Hoa",
-    "img": " "
-  },
-  {
-    "name": "PT THÔN 5 - XÃ HOẰNG NGỌC - HUYỆN HOẰNG HÓA",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thon_5-Xa_Hoang_Ngoc-Huyen_Hoang_Hoa",
-    "img": " "
-  },
-  {
-    "name": "PT THỊ TRẤN SƠN LƯ - HUYỆN QUAN SƠN",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Son_Lu-Huyen_Quan_Son",
-    "img": " "
-  },
-  {
-    "name": "PT XÃ HÀ LĨNH - HUYỆN HÀ TRUNG",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Ha_Linh-Huyen_Ha_Trung",
-    "img": " "
-  },
-  {
-    "name": "PT PHƯỜNG AN HOẠCH - TP. THANH HÓA",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Phuong_An_Hoach-Thanh_pho_Thanh_Hoa",
-    "img": " "
-  },
-  {
-    "name": "PT THỊ TRẤN THỐNG NHẤT - HUYỆN YÊN ĐỊNH",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Thong_Nhat-Huyen_Yen_Dinh",
-    "img": " "
-  },
-  {
-    "name": "PT XÃ THIỆU TRUNG - HUYỆN THIỆU HÓA",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Thieu_Trung-Huyen_Thieu_Hoa",
-    "img": " "
-  },
-  {
-    "name": "PT THỊ TRẤN VĨNH LỘC - HUYỆN VĨNH LỘC",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Vinh_Loc-Huyen_Vinh_Loc",
-    "img": " "
-  },
-  {
-    "name": "PT XÃ ĐÔNG PHÚ - TP. THANH HÓA",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Dong_Phu-Thanh_pho_Thanh_Hoa",
-    "img": " "
-  },
-  {
-    "name": "PT PHƯỜNG ĐÔNG THỊNH - TP. THANH HÓA",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Phuong_Dong_Thinh-Thanh_pho_Thanh_Hoa",
-    "img": " "
-  },
-  {
-    "name": "PT THỊ TRẤN TRIỆU SƠN - HUYỆN TRIỆU SƠN",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Thi_tran_Trieu_Son-Huyen_Trieu_Son",
-    "img": " "
-  },
-  {
-    "name": "PT XÃ VÂN SƠN - HUYỆN TRIỆU SƠN",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Van_Son-Huyen_Trieu_Son",
-    "img": " "
-  },
-  {
-    "name": "PT XÃ ĐÔNG VĂN - HUYỆN ĐÔNG SƠN",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Dong_Van-Thanh_pho_Thanh_Hoa",
-    "img": " "
-  },
-  {
-    "name": "PT XÃ ĐÔNG QUANG - TP. THANH HÓA",
-    "type": "Uncategorized",
-    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTVPlus-Phat_thanh_Xa_Dong_Quang-Thanh_pho_Thanh_Hoa",
-    "img": " "
   },
   {
     "name": "PT XÃ ĐÔNG TIẾN - TP. THANH HÓA",
