@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-26 22:00:33",
+  "date": "2025-06-27 07:30:54",
   "channels": {
     "News": [
       {
@@ -1249,6 +1249,13 @@
         "url": "https://video2.lhdserver.es/asiritv/live.m3u8"
       },
       {
+        "name": "Pluto TV Cine Suspenso (720p)",
+        "logo": "https://i.imgur.com/g9LkLOY.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId="
+      },
+      {
         "name": "Somos Cultura TV (720p)",
         "logo": "https://i.imgur.com/kWR3END.png",
         "group": "Culture",
@@ -1437,6 +1444,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://live.obslivestream.com/planetatv/index.m3u8"
+      },
+      {
+        "name": "Pluto TV The Walking Dead ESP (720p)",
+        "logo": "https://i.imgur.com/h17lAxc.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId="
       },
       {
         "name": "Rai Italia Americas",
