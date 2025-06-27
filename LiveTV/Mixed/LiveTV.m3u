@@ -211,6 +211,8 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
 https://webtvstream.bhtelecom.ba/pink_plus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EvJKarP.png" group-title="Entertainment",like Gecko) Chrome/81.0.4044.138 Safari/537.36",Kurir TV
 https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sYVN1Y.png" group-title="Entertainment",like Gecko) Chrome/81.0.4044.138 Safari/537.36",Blic TV
+https://677c038a28f30.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mHJAqqS.png" group-title="Entertainment",like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nova S
 https://best-str.umn.cdn.united.cloud/stream?i=0Gt9NXzjErdCwjgaJOCJfA&a=p1gv1KX-K2uhYHOwJi_MlzqKRSYyfMYs3m6HUY9FK3zR1dNOZSLR-OQ48h6HWXnkOR2AVk7rhXOAjUsi1GUoDDLIN-CwL4KRF26Qpojg_TgHCqnL0doqSfEqhv_pLQhHECpMEhtlsGzLDiCwtM7rVDiLg258wXTpBwmh0GN23XUhvdarqLPxRl_iwGzitTwh&sp=novas&u=novas&session=1e502a2e-6328-4350-c09b-940dd54c2fc6&player=m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KQu3sVC.png" group-title="Entertainment",like Gecko) Chrome/81.0.4044.138 Safari/537.36",Red TV
@@ -281,6 +283,8 @@ http://89.201.163.244:8080/hls/hdmi.m3u8
 https://live.leveex.hr/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bCtgVgT.png" group-title="General",like Gecko) Chrome/81.0.4044.138 Safari/537.36",Diadora TV
 https://diadoratv.stream/live/diadora/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hvJbLCF.png" group-title="General",like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV Pirot
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w1316212998.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4qOQwjs.png" group-title="General",TV Pi Kanal
 https://stream.pikanal.rs/pikanal/pgm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itKMJhs.png" group-title="General",Super TV Media
@@ -385,6 +389,8 @@ https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
 https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qC0s2Yo.png" group-title="Music",like Gecko) Chrome/81.0.4044.138 Safari/537.36",bravo! TV
 https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BFepEdF.png" group-title="Music",like Gecko) Chrome/81.0.4044.138 Safari/537.36",Star Folk Televizija
+https://live.muzickatv.mk/live/StarMusic.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E14s2r8.png" group-title="Music",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t6h2QUX.png" group-title="Music",like Gecko) Chrome/81.0.4044.138 Safari/537.36",Deep House District

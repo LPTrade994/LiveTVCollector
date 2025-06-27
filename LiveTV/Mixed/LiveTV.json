@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-26 21:55:52",
+  "date": "2025-06-27 07:13:45",
   "channels": {
     "STREAMING": [
       {
@@ -777,6 +777,13 @@
         "url": "https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8"
       },
       {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Blic TV",
+        "logo": "https://i.imgur.com/5sYVN1Y.png",
+        "group": "Entertainment",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://677c038a28f30.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8"
+      },
+      {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Nova S",
         "logo": "https://i.imgur.com/mHJAqqS.png",
         "group": "Entertainment",
@@ -1022,6 +1029,13 @@
         "group": "General",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://diadoratv.stream/live/diadora/playlist.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",TV Pirot",
+        "logo": "https://i.imgur.com/hvJbLCF.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w1316212998.m3u8"
       },
       {
         "name": "TV Pi Kanal",
@@ -1394,6 +1408,13 @@
         "group": "Music",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Star Folk Televizija",
+        "logo": "https://i.imgur.com/BFepEdF.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://live.muzickatv.mk/live/StarMusic.m3u8"
       },
       {
         "name": "Kronehit TV",

@@ -1397,6 +1397,11 @@ URL: https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8
 Logo: https://i.imgur.com/EvJKarP.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
+Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",Blic TV
+URL: https://677c038a28f30.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
+Logo: https://i.imgur.com/5sYVN1Y.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",Nova S
 URL: https://best-str.umn.cdn.united.cloud/stream?i=0Gt9NXzjErdCwjgaJOCJfA&a=p1gv1KX-K2uhYHOwJi_MlzqKRSYyfMYs3m6HUY9FK3zR1dNOZSLR-OQ48h6HWXnkOR2AVk7rhXOAjUsi1GUoDDLIN-CwL4KRF26Qpojg_TgHCqnL0doqSfEqhv_pLQhHECpMEhtlsGzLDiCwtM7rVDiLg258wXTpBwmh0GN23XUhvdarqLPxRl_iwGzitTwh&sp=novas&u=novas&session=1e502a2e-6328-4350-c09b-940dd54c2fc6&player=m3u8
 Logo: https://i.imgur.com/mHJAqqS.png
@@ -1579,6 +1584,11 @@ Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/ip
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",Diadora TV
 URL: https://diadoratv.stream/live/diadora/playlist.m3u8
 Logo: https://i.imgur.com/bCtgVgT.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",TV Pirot
+URL: https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w1316212998.m3u8
+Logo: https://i.imgur.com/hvJbLCF.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: TV Pi Kanal
@@ -4544,6 +4554,11 @@ Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/ip
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",bravo! TV
 URL: https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
 Logo: https://i.imgur.com/qC0s2Yo.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",Star Folk Televizija
+URL: https://live.muzickatv.mk/live/StarMusic.m3u8
+Logo: https://i.imgur.com/BFepEdF.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: Kronehit TV
