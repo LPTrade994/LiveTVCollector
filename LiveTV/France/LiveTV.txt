@@ -1065,6 +1065,11 @@ URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/chann
 Logo: https://i.imgur.com/vSzd5m7.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
+Name: Pluto TV Thrillers
+URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c3472a51a2050008dad272/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b27ed94e-1347-4dd0-af99-b2e901fd5e71
+Logo: https://i.imgur.com/ULKvDN7.png
+Source: https://iptv-org.github.io/iptv/countries/fr.m3u
+--------------------------------------------------
 Name: TF1 Séries Films (720p) [Geo-blocked]
 URL: https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
 Logo: https://i.imgur.com/4CJIDKQ.png
@@ -1434,11 +1439,6 @@ Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 Name: Pluto TV Telenovela
 URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e
 Logo: https://i.imgur.com/huntRdh.png
-Source: https://iptv-org.github.io/iptv/countries/fr.m3u
---------------------------------------------------
-Name: Pluto TV Thrillers
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60c3472a51a2050008dad272/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0614c2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b27ed94e-1347-4dd0-af99-b2e901fd5e71
-Logo: https://i.imgur.com/ULKvDN7.png
 Source: https://iptv-org.github.io/iptv/countries/fr.m3u
 --------------------------------------------------
 Name: The Asylum
@@ -4276,12 +4276,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=aRV_vk-2DZPl_DCIvgC7Ww&e=1751087965
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=k1LQigVwB6A2aNFS1NI5qA&e=1751105930
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=aRV_vk-2DZPl_DCIvgC7Ww&e=1751087965
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=k1LQigVwB6A2aNFS1NI5qA&e=1751105930
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
