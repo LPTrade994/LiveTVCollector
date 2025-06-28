@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-28 07:31:15",
+  "date": "2025-06-28 14:00:28",
   "channels": {
     "Uncategorized": [
       {
@@ -1460,6 +1460,13 @@
         "url": "https://2767164d5ee04887b96812a9eea74d32.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6573/44d3df93-4a3e-43e0-990f-a5d196bbe3aa/5.m3u8"
       },
       {
+        "name": "Al Arabiya (1080p)",
+        "logo": "https://i.imgur.com/NXFkYFj.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
+      },
+      {
         "name": "BBC Arabic (720p)",
         "logo": "https://i.imgur.com/ScyTG6P.png",
         "group": "News",
@@ -1551,6 +1558,36 @@
         "url": "http://185.234.111.229:8000/play/a002"
       }
     ],
+    "Business": [
+      {
+        "name": "Al Arabiya Business (1080p)",
+        "logo": "https://i.imgur.com/eEV4r6J.jpg",
+        "group": "Business",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8"
+      },
+      {
+        "name": "Bloomberg TV EMEA Live Event (720p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "group": "Business",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8"
+      },
+      {
+        "name": "CNBC Africa (480p)",
+        "logo": "https://i.imgur.com/BnNYzWI.png",
+        "group": "Business",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8"
+      },
+      {
+        "name": "CNBC Arabiya (1080p)",
+        "logo": "https://i.imgur.com/opBXx1K.png",
+        "group": "Business",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8"
+      }
+    ],
     "Undefined": [
       {
         "name": "Al Arabiya Programs (1080p)",
@@ -1639,29 +1676,6 @@
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://goccn.cloud/hls/amanitv/index.m3u8"
-      }
-    ],
-    "Business": [
-      {
-        "name": "Bloomberg TV EMEA Live Event (720p)",
-        "logo": "https://i.imgur.com/OuogLHx.png",
-        "group": "Business",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8"
-      },
-      {
-        "name": "CNBC Africa (480p)",
-        "logo": "https://i.imgur.com/BnNYzWI.png",
-        "group": "Business",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8"
-      },
-      {
-        "name": "CNBC Arabiya (1080p)",
-        "logo": "https://i.imgur.com/opBXx1K.png",
-        "group": "Business",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8"
       }
     ],
     "Lifestyle": [
