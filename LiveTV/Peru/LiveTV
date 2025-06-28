@@ -1056,12 +1056,6 @@
     "img": "https://i.imgur.com/7bGVFBa.png"
   },
   {
-    "name": "Pluto TV Cine Suspenso (720p)",
-    "type": "Culture",
-    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
-    "img": "https://i.imgur.com/g9LkLOY.png"
-  },
-  {
     "name": "Somos Cultura TV (720p)",
     "type": "Culture",
     "url": "https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8",
@@ -1144,6 +1138,12 @@
     "type": "Movies",
     "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=false",
     "img": "https://i.imgur.com/v3BO4nW.png"
+  },
+  {
+    "name": "Pluto TV Cine Suspenso (720p)",
+    "type": "Movies",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+    "img": "https://i.imgur.com/GnUmEZn.png"
   },
   {
     "name": "Filmstream (clasicos ingles) (720p)",
@@ -1850,13 +1850,13 @@
   {
     "name": "9.1 | ATV PLUS |",
     "type": "TV PERU",
-    "url": "https://live.airstream.run/alba-pe-atv-atvmas/index.m3u8",
+    "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/480p.m3u8",
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVPLUS.jpg"
   },
   {
     "name": "9.2 | ATV SUR |",
     "type": "TV PERU",
-    "url": "https://live.airstream.run/alba-pe-atv-atvsur/index.m3u8",
+    "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/480p.m3u8",
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVSUR.jpg"
   },
   {
