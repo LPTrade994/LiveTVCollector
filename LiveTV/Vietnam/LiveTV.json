@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-28 06:16:36",
+  "date": "2025-06-28 13:41:53",
   "channels": {
     "Uncategorized": [
       {
@@ -1134,13 +1134,6 @@
         "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8"
       },
       {
-        "name": "TVE Internacional Asia-Oceania [Geo-blocked]",
-        "logo": "https://i.imgur.com/dwzOBZ1.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8"
-      },
-      {
         "name": "Vinh Long TV 1 (576p)",
         "logo": "https://i.imgur.com/5YFsqPx.png",
         "group": "Undefined",
@@ -1231,11 +1224,11 @@
         "url": "http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8"
       },
       {
-        "name": "CCTV-4 Asia (480p)",
+        "name": "CCTV-4 Asia",
         "logo": "https://i.imgur.com/tWt4Wou.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "http://210.210.155.37/qwr9ew/s/s19/index.m3u8"
+        "url": "http://trn03.bozztv.com/gin-cctv4/index.m3u8"
       },
       {
         "name": "Da Nang TV1 (1080p) [Not 24/7]",
@@ -1424,6 +1417,13 @@
         "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8"
       },
       {
+        "name": "ON Vie Drama",
+        "logo": "https://i.postimg.cc/3J83gWVQ/ON-Vie-Dramas.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8"
+      },
+      {
         "name": "One TV Asia (576p) [Geo-blocked]",
         "logo": "https://i.imgur.com/ea0iGfA.png",
         "group": "Entertainment",
@@ -1472,6 +1472,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+      },
+      {
+        "name": "ON Football",
+        "logo": "https://i.postimg.cc/zBTqkhq8/ON-Football-logo-2022.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "http://dvrfl05.bozztv.com/vch_vchannel11/index.m3u8"
       }
     ],
     "Shop": [
@@ -1518,6 +1525,15 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8"
+      }
+    ],
+    "Lifestyle": [
+      {
+        "name": "ON Style TV",
+        "logo": "https://i.postimg.cc/x8RYwSkZ/ON-Style-TV.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8"
       }
     ],
     "News": [

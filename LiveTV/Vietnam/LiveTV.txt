@@ -28,6 +28,11 @@ URL: https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/vn.m3u
 --------------------------------------------------
+Name: ON Vie Drama
+URL: http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
+Logo: https://i.postimg.cc/3J83gWVQ/ON-Vie-Dramas.png
+Source: https://iptv-org.github.io/iptv/countries/vn.m3u
+--------------------------------------------------
 Name: One TV Asia (576p) [Geo-blocked]
 URL: http://210.210.155.37/uq2663/h/h143/index.m3u8
 Logo: https://i.imgur.com/ea0iGfA.png
@@ -59,8 +64,8 @@ URL: http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
 Logo: https://i.imgur.com/dGonewm.png
 Source: https://iptv-org.github.io/iptv/countries/vn.m3u
 --------------------------------------------------
-Name: CCTV-4 Asia (480p)
-URL: http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+Name: CCTV-4 Asia
+URL: http://trn03.bozztv.com/gin-cctv4/index.m3u8
 Logo: https://i.imgur.com/tWt4Wou.png
 Source: https://iptv-org.github.io/iptv/countries/vn.m3u
 --------------------------------------------------
@@ -204,6 +209,13 @@ Logo: https://i.imgur.com/E84jnP8.png
 Source: https://iptv-org.github.io/iptv/countries/vn.m3u
 --------------------------------------------------
 
+Group: Lifestyle
+Name: ON Style TV
+URL: http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8
+Logo: https://i.postimg.cc/x8RYwSkZ/ON-Style-TV.png
+Source: https://iptv-org.github.io/iptv/countries/vn.m3u
+--------------------------------------------------
+
 Group: Movies
 Name: CinemaWorld (576p)
 URL: http://210.210.155.37/dr9445/h/h04/index.m3u8
@@ -281,6 +293,11 @@ Group: Sports
 Name: HTV Sports (1080p) [Geo-blocked]
 URL: https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 Logo: https://i.postimg.cc/Y2ZTQRBw/HTV-Th-thao-logo-2022.png
+Source: https://iptv-org.github.io/iptv/countries/vn.m3u
+--------------------------------------------------
+Name: ON Football
+URL: http://dvrfl05.bozztv.com/vch_vchannel11/index.m3u8
+Logo: https://i.postimg.cc/zBTqkhq8/ON-Football-logo-2022.png
 Source: https://iptv-org.github.io/iptv/countries/vn.m3u
 --------------------------------------------------
 
@@ -1065,11 +1082,6 @@ Source: https://iptv-org.github.io/iptv/countries/vn.m3u
 Name: TV5Monde Pacifique (1080p) [Geo-blocked]
 URL: https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 Logo: https://i.imgur.com/mfZOYZI.png
-Source: https://iptv-org.github.io/iptv/countries/vn.m3u
---------------------------------------------------
-Name: TVE Internacional Asia-Oceania [Geo-blocked]
-URL: https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
-Logo: https://i.imgur.com/dwzOBZ1.png
 Source: https://iptv-org.github.io/iptv/countries/vn.m3u
 --------------------------------------------------
 Name: Vinh Long TV 1 (576p)

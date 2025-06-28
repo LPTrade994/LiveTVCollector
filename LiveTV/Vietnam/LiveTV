@@ -966,12 +966,6 @@
     "img": "https://i.imgur.com/mfZOYZI.png"
   },
   {
-    "name": "TVE Internacional Asia-Oceania [Geo-blocked]",
-    "type": "Undefined",
-    "url": "https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8",
-    "img": "https://i.imgur.com/dwzOBZ1.png"
-  },
-  {
     "name": "Vinh Long TV 1 (576p)",
     "type": "Undefined",
     "url": "http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8",
@@ -1044,9 +1038,9 @@
     "img": "https://i.imgur.com/dGonewm.png"
   },
   {
-    "name": "CCTV-4 Asia (480p)",
+    "name": "CCTV-4 Asia",
     "type": "General",
-    "url": "http://210.210.155.37/qwr9ew/s/s19/index.m3u8",
+    "url": "http://trn03.bozztv.com/gin-cctv4/index.m3u8",
     "img": "https://i.imgur.com/tWt4Wou.png"
   },
   {
@@ -1206,6 +1200,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png"
   },
   {
+    "name": "ON Vie Drama",
+    "type": "Entertainment",
+    "url": "http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8",
+    "img": "https://i.postimg.cc/3J83gWVQ/ON-Vie-Dramas.png"
+  },
+  {
     "name": "One TV Asia (576p) [Geo-blocked]",
     "type": "Entertainment",
     "url": "http://210.210.155.37/uq2663/h/h143/index.m3u8",
@@ -1242,6 +1242,12 @@
     "img": "https://i.postimg.cc/Y2ZTQRBw/HTV-Th-thao-logo-2022.png"
   },
   {
+    "name": "ON Football",
+    "type": "Sports",
+    "url": "http://dvrfl05.bozztv.com/vch_vchannel11/index.m3u8",
+    "img": "https://i.postimg.cc/zBTqkhq8/ON-Football-logo-2022.png"
+  },
+  {
     "name": "Lao SV TV (480p)",
     "type": "Shop",
     "url": "https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8",
@@ -1276,6 +1282,12 @@
     "type": "Kids",
     "url": "http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8",
     "img": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
+    "name": "ON Style TV",
+    "type": "Lifestyle",
+    "url": "http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8",
+    "img": "https://i.postimg.cc/x8RYwSkZ/ON-Style-TV.png"
   },
   {
     "name": "RTM ASEAN",
