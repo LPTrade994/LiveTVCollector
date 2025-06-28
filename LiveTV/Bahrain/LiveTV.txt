@@ -6,6 +6,11 @@ Source: https://iptv-org.github.io/iptv/countries/bh.m3u
 --------------------------------------------------
 
 Group: Business
+Name: Al Arabiya Business (1080p)
+URL: https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+Logo: https://i.imgur.com/eEV4r6J.jpg
+Source: https://iptv-org.github.io/iptv/countries/bh.m3u
+--------------------------------------------------
 Name: Bloomberg TV EMEA Live Event (720p)
 URL: https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 Logo: https://i.imgur.com/OuogLHx.png
@@ -25,9 +30,21 @@ Source: https://iptv-org.github.io/iptv/countries/bh.m3u
 --------------------------------------------------
 
 Group: Documentary
+Name: Asharq Documentary (1080p)
+URL: https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+Logo: https://yt3.googleusercontent.com/AFUZ79or1rvrFKbfaMDdoJ1n_814lANCdUOdH0mdGRmcYfIfDH4cfTWwyUkHwie2I2xJPlaTJg=s512-c-k-c0x00ffffff-no-rj
+Source: https://iptv-org.github.io/iptv/countries/bh.m3u
+--------------------------------------------------
 Name: National Geographic Abu Dhabi (1080p) [Geo-blocked]
 URL: https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 Logo: https://i.imgur.com/fNA00VF.png
+Source: https://iptv-org.github.io/iptv/countries/bh.m3u
+--------------------------------------------------
+
+Group: Documentary;Education
+Name: Asharq Discovery (1080p) [Geo-blocked]
+URL: https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+Logo: https://i.imgur.com/Czxi7yk.png
 Source: https://iptv-org.github.io/iptv/countries/bh.m3u
 --------------------------------------------------
 
@@ -144,6 +161,16 @@ Source: https://iptv-org.github.io/iptv/countries/bh.m3u
 --------------------------------------------------
 
 Group: News
+Name: Al Arabiya (1080p)
+URL: https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+Logo: https://i.imgur.com/NXFkYFj.png
+Source: https://iptv-org.github.io/iptv/countries/bh.m3u
+--------------------------------------------------
+Name: Al Arabiya Al Hadath (1080p) [Not 24/7]
+URL: https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+Logo: https://i.imgur.com/De4SEWE.png
+Source: https://iptv-org.github.io/iptv/countries/bh.m3u
+--------------------------------------------------
 Name: Al Araby TV 2 (1080p)
 URL: https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 Logo: https://i.imgur.com/Gp5mNea.png
