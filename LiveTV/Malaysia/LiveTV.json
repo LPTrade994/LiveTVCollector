@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-28 07:28:33",
+  "date": "2025-06-28 13:59:37",
   "channels": {
     "siaranMy": [
       {
@@ -12275,11 +12275,11 @@
         "url": "https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8"
       },
       {
-        "name": "CCTV-4 Asia (480p)",
+        "name": "CCTV-4 Asia",
         "logo": "https://i.imgur.com/tWt4Wou.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
-        "url": "http://210.210.155.37/qwr9ew/s/s19/index.m3u8"
+        "url": "http://trn03.bozztv.com/gin-cctv4/index.m3u8"
       },
       {
         "name": "FTV (民視) (720p) [Not 24/7]",
@@ -12366,13 +12366,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
         "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311"
-      },
-      {
-        "name": "TVE Internacional Asia-Oceania [Geo-blocked]",
-        "logo": "https://i.imgur.com/dwzOBZ1.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/my.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8"
       },
       {
         "name": "TVIKIM",

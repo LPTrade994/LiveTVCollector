@@ -283,8 +283,8 @@ URL: https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-sou
 Logo: https://i.imgur.com/x90U1Bf.png
 Source: https://iptv-org.github.io/iptv/countries/my.m3u
 --------------------------------------------------
-Name: CCTV-4 Asia (480p)
-URL: http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+Name: CCTV-4 Asia
+URL: http://trn03.bozztv.com/gin-cctv4/index.m3u8
 Logo: https://i.imgur.com/tWt4Wou.png
 Source: https://iptv-org.github.io/iptv/countries/my.m3u
 --------------------------------------------------
@@ -8704,11 +8704,6 @@ Source: https://iptv-org.github.io/iptv/countries/my.m3u
 Name: TV9
 URL: https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
 Logo: https://i.imgur.com/Krh1F8d.png
-Source: https://iptv-org.github.io/iptv/countries/my.m3u
---------------------------------------------------
-Name: TVE Internacional Asia-Oceania [Geo-blocked]
-URL: https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
-Logo: https://i.imgur.com/dwzOBZ1.png
 Source: https://iptv-org.github.io/iptv/countries/my.m3u
 --------------------------------------------------
 Name: TVIKIM
