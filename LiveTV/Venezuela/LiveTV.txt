@@ -59,11 +59,6 @@ URL: https://vcp2.myplaytv.com/pltv/pltv/playlist.m3u8
 Logo: https://i.imgur.com/ftblZ6f.jpg
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
-Name: Pluto TV Cine Suspenso (720p)
-URL: https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-Logo: https://i.imgur.com/g9LkLOY.png
-Source: https://iptv-org.github.io/iptv/countries/ve.m3u
---------------------------------------------------
 Name: Somos Cultura TV (720p)
 URL: https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 Logo: https://i.imgur.com/kWR3END.png
@@ -581,6 +576,11 @@ Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 Name: Pluto TV Cine Estelar
 URL: http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=false
 Logo: https://i.imgur.com/v3BO4nW.png
+Source: https://iptv-org.github.io/iptv/countries/ve.m3u
+--------------------------------------------------
+Name: Pluto TV Cine Suspenso (720p)
+URL: https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+Logo: https://i.imgur.com/GnUmEZn.png
 Source: https://iptv-org.github.io/iptv/countries/ve.m3u
 --------------------------------------------------
 
