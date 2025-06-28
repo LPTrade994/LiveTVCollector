@@ -6270,6 +6270,12 @@
     "img": "https://i.imgur.com/vSz2WEp.png"
   },
   {
+    "name": "Current Time TV",
+    "type": "News",
+    "url": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+    "img": "https://i.imgur.com/hKo8ApU.png"
+  },
+  {
     "name": "Polsat News Polityka (1080p) [Geo-blocked]",
     "type": "News",
     "url": "https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd",
