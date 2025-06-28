@@ -4266,9 +4266,9 @@
     "img": "https://i.imgur.com/YRiulCU.png"
   },
   {
-    "name": "CCTV-4 Asia (480p)",
+    "name": "CCTV-4 Asia",
     "type": "General",
-    "url": "http://210.210.155.37/qwr9ew/s/s19/index.m3u8",
+    "url": "http://trn03.bozztv.com/gin-cctv4/index.m3u8",
     "img": "https://i.imgur.com/tWt4Wou.png"
   },
   {
@@ -4474,12 +4474,6 @@
     "type": "Undefined",
     "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8",
     "img": "https://i.imgur.com/mfZOYZI.png"
-  },
-  {
-    "name": "TVE Internacional Asia-Oceania [Geo-blocked]",
-    "type": "Undefined",
-    "url": "https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8",
-    "img": "https://i.imgur.com/dwzOBZ1.png"
   },
   {
     "name": "Umm TV",

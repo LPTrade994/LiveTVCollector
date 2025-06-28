@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-28 06:21:31",
+  "date": "2025-06-28 13:42:44",
   "channels": {
     "VTV": [
       {
@@ -5028,11 +5028,11 @@
         "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8"
       },
       {
-        "name": "CCTV-4 Asia (480p)",
+        "name": "CCTV-4 Asia",
         "logo": "https://i.imgur.com/tWt4Wou.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/th.m3u",
-        "url": "http://210.210.155.37/qwr9ew/s/s19/index.m3u8"
+        "url": "http://trn03.bozztv.com/gin-cctv4/index.m3u8"
       },
       {
         "name": "Channel 7 (1080p)",
@@ -5275,13 +5275,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/th.m3u",
         "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8"
-      },
-      {
-        "name": "TVE Internacional Asia-Oceania [Geo-blocked]",
-        "logo": "https://i.imgur.com/dwzOBZ1.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/th.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8"
       },
       {
         "name": "Umm TV",
