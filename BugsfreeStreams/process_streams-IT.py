@@ -8,6 +8,10 @@ import concurrent.futures
 import time
 import json
 from datetime import datetime, timedelta
+
+# This script collects Italian streams, validates them and writes individual
+# playlists. Only channels whose `group-title` matches one of the predefined
+# Italian groups are kept.
 from urllib.parse import urlparse
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
@@ -29,7 +33,93 @@ VALIDATION_TIMEOUT = 60  # Max 60 seconds for validation
 REVALIDATION_INTERVAL = 24 * 3600  # Revalidate every 24 hours
 DEFAULT_LOGO = f"https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/{BRANCH}/BugsfreeLogo/default-logo.png"
 
-# Source M3U playlist
+# Only keep channels whose group-title matches this list of Italian groups.
+# The list was generated from the project playlists and contains 83 titles.
+ALLOWED_GROUPS = [
+    "Altro",
+    "Animazione e Bambini",
+    "Business",
+    "Comedy",
+    "Culture",
+    "Culture;Religious",
+    "Culture;Science",
+    "Discovery",
+    "Documentari",
+    "Documentary",
+    "Documentary;Education",
+    "Education",
+    "Education;Religious",
+    "Entertainment",
+    "Family",
+    "Family;Movies",
+    "Film",
+    "General",
+    "General;Series",
+    "Horror e Paranormale",
+    "IT| 24/7 MOVIES & SERIES",
+    "IT| AMAZON PRIME",
+    "IT| BAMBINI",
+    "IT| BASKET",
+    "IT| CINEMA",
+    "IT| DAZN",
+    "IT| DAZN PPV",
+    "IT| DISCOVERY+",
+    "IT| DOCUMENTARIO",
+    "IT| FORMULA 1 / MOTOGP",
+    "IT| GENERALE",
+    "IT| ITALY FHD/HEVC",
+    "IT| ITALY UHD/4K",
+    "IT| LNP PASS PPV",
+    "IT| PRIME PPV",
+    "IT| PRIME PPV ᴿᴬᵂ",
+    "IT| REGIONALI",
+    "IT| SERIE A/B/C",
+    "IT| SPORT",
+    "Intrattenimento",
+    "Kids",
+    "Legislative",
+    "Lifestyle",
+    "Mediaset",
+    "Motori e Sport",
+    "Movies",
+    "Music",
+    "Music;News",
+    "Musica",
+    "News",
+    "News e mondo",
+    "News;Religious",
+    "Novità su Pluto TV",
+    "Outdoor",
+    "Outdoor;Shop",
+    "Outdoor;Travel",
+    "Radio",
+    "Rai",
+    "Reality Show",
+    "Religious",
+    "Sci-Fi",
+    "Serie",
+    "Serie Classiche",
+    "Serie Crime",
+    "Series",
+    "Shop",
+    "Sky",
+    "Sports",
+    "Star Trek",
+    "Teen",
+    "Travel",
+    "True Crime",
+    "Undefined",
+    "bambini",
+    "cucina",
+    "documentari",
+    "film",
+    "lifestyle",
+    "musica",
+    "notizie",
+    "programmi_tv",
+    "reality",
+    "sport"
+]
 SOURCES = [
     "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/LiveTV/Italy/LiveTV.m3u",
 ]
@@ -222,6 +312,17 @@ def parse_m3u(content):
     logger.info(f"Parsed {len(entries)} entries")
     return entries[:MAX_STREAMS_PER_SOURCE]
 
+# Filter entries by group title
+def filter_by_group(entries, allowed_groups):
+    filtered = []
+    for extinf, url in entries:
+        match = re.search(r'group-title="([^"]+)"', extinf)
+        group = match.group(1) if match else ""
+        if group in allowed_groups:
+            filtered.append((extinf, url))
+    logger.info(f"Kept {len(filtered)} entries after group filtering")
+    return filtered
+
 # Fetch and parse a source
 def process_source(source, session):
     if not validate_source(source, session):
@@ -234,6 +335,8 @@ def process_source(source, session):
             content = response.text
             entries = parse_m3u(content)
             logger.info(f"Found {len(entries)} entries in {source}")
+            entries = filter_by_group(entries, ALLOWED_GROUPS)
+            logger.info(f"{len(entries)} entries kept after group filter")
             return entries
         else:
             logger.warning(f"Source {source} returned status {response.status_code}")
@@ -280,6 +383,8 @@ def main():
     if not all_entries:
         logger.warning("No entries from sources, using static M3U")
         all_entries = parse_m3u(STATIC_M3U)
+        all_entries = filter_by_group(all_entries, ALLOWED_GROUPS)
+        logger.info(f"{len(all_entries)} entries kept after group filter on fallback")
 
     # Validate streams
     logger.info(f"Validating {len(all_entries)} streams concurrently")
