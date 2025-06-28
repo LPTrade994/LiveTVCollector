@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-28 06:14:51",
+  "date": "2025-06-28 13:41:27",
   "channels": {
     "Music": [
       {
@@ -1429,13 +1429,6 @@
         "url": "http://188.60.179.180:8000/play/a0oy"
       },
       {
-        "name": "Rai Scuola (576p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011"
-      },
-      {
         "name": "Rai Storia (576p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png",
         "group": "Undefined",
@@ -2800,6 +2793,22 @@
         "url": "https://tvd-ria60.fluid.stream/Anni60TV/livestream/playlist.m3u8"
       }
     ],
+    "Education": [
+      {
+        "name": "Rai Scuola",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://cachehsi1a.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd"
+      },
+      {
+        "name": "Rai Scuola (576p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011"
+      }
+    ],
     "Family;Movies": [
       {
         "name": "Rakuten TV Family Movies (1080p)",
@@ -3702,7 +3711,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZGQwY2QxZDYtMjgzMi00M2FlLWE3ZDAtNWVhMGU1OWIzMzJiIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZDhkYmZlZTktMTQ5MS00MDRmLWI5MGMtY2I1MTc5ZDBlOTUyIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -3737,7 +3746,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiZmJlOTIzYzEtMzdlMC00MmYzLWE2MGEtZWI0ZmNmNTY0MzZmIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiY2ExMGQ1M2YtZTkwMS00OWE1LWIxZjYtOTgzY2FkMTg0NTIxIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",

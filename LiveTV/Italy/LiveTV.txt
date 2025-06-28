@@ -295,6 +295,18 @@ Logo: https://i.imgur.com/rF3tpbR.jpeg
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
 
+Group: Education
+Name: Rai Scuola
+URL: https://cachehsi1a.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+Name: Rai Scuola (576p) [Geo-blocked]
+URL: https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png
+Source: https://iptv-org.github.io/iptv/countries/it.m3u
+--------------------------------------------------
+
 Group: Education;Religious
 Name: Telepace 3 (1080p)
 URL: https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
@@ -2568,11 +2580,6 @@ URL: http://188.60.179.180:8000/play/a0oy
 Logo: https://i.imgur.com/40g5Urz.png
 Source: https://iptv-org.github.io/iptv/countries/it.m3u
 --------------------------------------------------
-Name: Rai Scuola (576p) [Geo-blocked]
-URL: https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png
-Source: https://iptv-org.github.io/iptv/countries/it.m3u
---------------------------------------------------
 Name: Rai Storia (576p) [Geo-blocked]
 URL: https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png
@@ -3168,7 +3175,7 @@ Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/hea
 
 Group: notizie
 Name: Euronews IN DIRETTA
-URL: https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZGQwY2QxZDYtMjgzMi00M2FlLWE3ZDAtNWVhMGU1OWIzMzJiIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
+URL: https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZDhkYmZlZTktMTQ5MS00MDRmLWI5MGMtY2I1MTc5ZDBlOTUyIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
@@ -3193,7 +3200,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
 Name: Africanews
-URL: https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiZmJlOTIzYzEtMzdlMC00MmYzLWE2MGEtZWI0ZmNmNTY0MzZmIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+URL: https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiY2ExMGQ1M2YtZTkwMS00OWE1LWIxZjYtOTgzY2FkMTg0NTIxIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
