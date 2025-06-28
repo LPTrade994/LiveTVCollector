@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-28 07:14:23",
+  "date": "2025-06-28 13:55:41",
   "channels": {
     "Religious": [
       {
@@ -1498,6 +1498,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "https://reflect-vod-cmac.cablecast.tv/live-11/live/live.m3u8"
+      },
+      {
+        "name": "Galavision",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8"
       },
       {
         "name": "Galicia TV América (720p)",
@@ -3980,6 +3987,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbd5d7ff-a6cc-4ad9-bb5f-d0f36c75fc29"
+      },
+      {
+        "name": "Pluto TV Thrillers",
+        "logo": "https://i.imgur.com/ULKvDN7.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b68-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bd17736-43bd-4c5d-aaa9-c3cdc2c77562"
       },
       {
         "name": "Pluto TV Westerns",
@@ -11692,13 +11706,6 @@
         "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId="
       },
       {
-        "name": "Pluto TV Thrillers",
-        "logo": "https://i.imgur.com/ULKvDN7.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b68-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bd17736-43bd-4c5d-aaa9-c3cdc2c77562"
-      },
-      {
         "name": "Pluto TV True Crime",
         "logo": "https://i.imgur.com/lNfaxiv.png",
         "group": "Series",
@@ -13665,6 +13672,13 @@
         "url": "https://dai.google.com/linear/hls/event/7xSxXPG1RqKkNva1wIWlVw/master.m3u8"
       },
       {
+        "name": "WUPA-DT1",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8"
+      },
+      {
         "name": "WXXV-TV News (Biloxi MS) (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
         "group": "Undefined",
@@ -14471,6 +14485,13 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60493283ffc52f000710edae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85e80dc7-d7c2-49ee-b346-20b976b1db9b"
       },
       {
+        "name": "Bob Esponja LATAM",
+        "logo": "https://i.imgur.com/nmZ2nId.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff04-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236222be-74f0-4d28-b58b-70f75ce8319a&userId=&serverSideAds=false"
+      },
+      {
         "name": "Brat TV (720p) [Geo-blocked]",
         "logo": "https://i.imgur.com/Kkcp9Bk.png",
         "group": "Kids",
@@ -15112,11 +15133,11 @@
         "url": "https://amg09501-questar-amg09501c3-stirr-us-3096.playouts.now.amagi.tv/amg09501/AMG09501C3/segmented_playlist/0/35-89-3096.m3u8"
       },
       {
-        "name": "Free form East",
+        "name": "Freeform (720p)",
         "logo": "https://i.imgur.com/BGAGeIf.png",
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/us.m3u",
-        "url": "https://fl3.moveonjoy.com/FREE_FORM/index.m3u8"
+        "url": "https://tvpass.org/live/FreeformEast/hd"
       },
       {
         "name": "Hallmark Channel East",

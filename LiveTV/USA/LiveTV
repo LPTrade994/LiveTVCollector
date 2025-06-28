@@ -1278,6 +1278,12 @@
     "img": "https://i.imgur.com/PYhdQy9.png"
   },
   {
+    "name": "Galavision",
+    "type": "General",
+    "url": "http://tv.nstvlatino.com:8080/live/Mitv2462/I8G5FfZBMw/3793.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/512px-Galavision_Logo_2013.svg.png"
+  },
+  {
     "name": "Galicia TV América (720p)",
     "type": "General",
     "url": "https://america-crtvg.flumotion.com/playlist.m3u8",
@@ -3400,6 +3406,12 @@
     "type": "Movies",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b67-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbd5d7ff-a6cc-4ad9-bb5f-d0f36c75fc29",
     "img": "https://i.imgur.com/eWtoHDM.png"
+  },
+  {
+    "name": "Pluto TV Thrillers",
+    "type": "Movies",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b68-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bd17736-43bd-4c5d-aaa9-c3cdc2c77562",
+    "img": "https://i.imgur.com/ULKvDN7.png"
   },
   {
     "name": "Pluto TV Westerns",
@@ -9990,12 +10002,6 @@
     "img": "https://i.imgur.com/hxl6Ctq.png"
   },
   {
-    "name": "Pluto TV Thrillers",
-    "type": "Series",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b68-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2bd17736-43bd-4c5d-aaa9-c3cdc2c77562",
-    "img": "https://i.imgur.com/ULKvDN7.png"
-  },
-  {
     "name": "Pluto TV True Crime",
     "type": "Series",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6270-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2e2e43d4-4547-47dd-9325-2c583c9314b2",
@@ -11676,6 +11682,12 @@
     "img": "https://i.imgur.com/XIoBeja.png"
   },
   {
+    "name": "WUPA-DT1",
+    "type": "Undefined",
+    "url": "https://dvrfl03.bozztv.com/hondu/hondu-ovair1-cwhd/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/512px-The_CW.svg.png"
+  },
+  {
     "name": "WXXV-TV News (Biloxi MS) (720p)",
     "type": "Undefined",
     "url": "https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8",
@@ -12360,6 +12372,12 @@
     "img": "https://i.imgur.com/bTXIYic.png"
   },
   {
+    "name": "Bob Esponja LATAM",
+    "type": "Kids",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff04-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236222be-74f0-4d28-b58b-70f75ce8319a&userId=&serverSideAds=false",
+    "img": "https://i.imgur.com/nmZ2nId.png"
+  },
+  {
     "name": "Brat TV (720p) [Geo-blocked]",
     "type": "Kids",
     "url": "https://amg00350-amg00350c1-klowdtv-us-2536.playouts.now.amagi.tv/playlist/amg00350-bratstudiofast-brat-klowdtvus/playlist.m3u8",
@@ -12906,9 +12924,9 @@
     "img": "https://i.imgur.com/TCKJT2x.png"
   },
   {
-    "name": "Free form East",
+    "name": "Freeform (720p)",
     "type": "Family",
-    "url": "https://fl3.moveonjoy.com/FREE_FORM/index.m3u8",
+    "url": "https://tvpass.org/live/FreeformEast/hd",
     "img": "https://i.imgur.com/BGAGeIf.png"
   },
   {
