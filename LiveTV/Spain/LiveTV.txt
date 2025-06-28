@@ -31757,6 +31757,16 @@ URL: https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1a
 Logo: https://i.imgur.com/v3BO4nW.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
+Name: Pluto TV Cine Estelar Spain+
+URL: http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff04-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236222be-74f0-4d28-b58b-70f75ce8319a&userId=&serverSideAds=false
+Logo: https://i.imgur.com/v3BO4nW.png
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
+Name: Pluto TV Thrillers Spain
+URL: http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=false
+Logo: https://i.imgur.com/ULKvDN7.png
+Source: https://iptv-org.github.io/iptv/countries/es.m3u
+--------------------------------------------------
 Name: Rakuten TV Action Movies (1080p)
 URL: https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 Logo: https://i.imgur.com/Meew6eX.png
@@ -43461,11 +43471,6 @@ Source: https://raw.githubusercontent.com/ahmedkassem2004/M3U-player/refs/heads/
 Name: BBC Doctor Who (1080p)
 URL: https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/pMMabI3.png
-Source: https://iptv-org.github.io/iptv/countries/es.m3u
---------------------------------------------------
-Name: Pluto TV Thrillers Spain
-URL: http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=false
-Logo: https://i.imgur.com/ULKvDN7.png
 Source: https://iptv-org.github.io/iptv/countries/es.m3u
 --------------------------------------------------
 
