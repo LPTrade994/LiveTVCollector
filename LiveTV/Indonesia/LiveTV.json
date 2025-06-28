@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-28 07:29:59",
+  "date": "2025-06-28 21:58:56",
   "channels": {
     "INDONESIA": [
       {
@@ -15175,7 +15175,7 @@
         "logo": "https://alkhalifitv.github.io/TV/big/inews.png",
         "group": "BERITA",
         "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
-        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews"
+        "url": "https://inews-cutv.rctiplus.id/inews-sdi.m3u8"
       },
       {
         "name": "INEWS HD",
@@ -15690,6 +15690,13 @@
         "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd"
       },
       {
+        "name": "MNCTV HD",
+        "logo": "https://alkhalifitv.github.io/TV/big/mnctv.png",
+        "group": "LOKAL",
+        "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
+        "url": "https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8"
+      },
+      {
         "name": "INDOSIAR",
         "logo": "https://alkhalifitv.github.io/TV/big/indosiar.png",
         "group": "LOKAL",
@@ -15718,25 +15725,11 @@
         "url": "https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd"
       },
       {
-        "name": "GTV",
-        "logo": "https://alkhalifitv.github.io/TV/big/gtv.png",
-        "group": "LOKAL",
-        "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
-        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv"
-      },
-      {
         "name": "RTV",
         "logo": "https://alkhalifitv.github.io/TV/big/rtv.png",
         "group": "LOKAL",
         "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
         "url": "http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8"
-      },
-      {
-        "name": "MDTV HD",
-        "logo": "https://alkhalifitv.github.io/TV/big/mdtv.png",
-        "group": "LOKAL",
-        "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
-        "url": "http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8"
       },
       {
         "name": "MOJI",
@@ -18986,6 +18979,13 @@
         "group": "No SignaL 📺",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=rcti"
+      },
+      {
+        "name": "GTV (R+)",
+        "logo": "https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png",
+        "group": "No SignaL 📺",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv"
       },
       {
         "name": "Sportstars 1 (V+)",
@@ -27223,6 +27223,13 @@
         "url": "https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd"
       },
       {
+        "name": "INEWS (R+)",
+        "logo": "https://i.ibb.co/d6sfBLj/inews.png",
+        "group": "TV BackUP",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews"
+      },
+      {
         "name": "KOMPAS TV",
         "logo": "https://i.ibb.co/MR6fmDw/kompastv.png",
         "group": "TV BackUP",
@@ -28883,11 +28890,11 @@
         "url": "https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8"
       },
       {
-        "name": "CCTV-4 Asia (480p)",
+        "name": "CCTV-4 Asia",
         "logo": "https://i.imgur.com/tWt4Wou.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
-        "url": "http://210.210.155.37/qwr9ew/s/s19/index.m3u8"
+        "url": "http://trn03.bozztv.com/gin-cctv4/index.m3u8"
       },
       {
         "name": "Celebes TV [Not 24/7]",
@@ -29116,13 +29123,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
         "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8"
-      },
-      {
-        "name": "TVE Internacional Asia-Oceania [Geo-blocked]",
-        "logo": "https://i.imgur.com/dwzOBZ1.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/id.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8"
       },
       {
         "name": "Zee Bioskop (360p) [Geo-blocked]",

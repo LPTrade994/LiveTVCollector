@@ -4304,7 +4304,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/Australia
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/tvone.png" group-title="BERITA",TVONE HD
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/inews.png" group-title="BERITA",INEWS
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/inews.png" group-title="BERITA",INEWS HD
 https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/btv.png" group-title="BERITA",Berita Satu
@@ -4449,6 +4449,8 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 #EXTINF:-1 tvg-logo="http://alkhalifitv.github.io/TV/big/mnctv.png" group-title="LOKAL",MNCTV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+#EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/mnctv.png" group-title="LOKAL",MNCTV HD
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/indosiar.png" group-title="LOKAL",INDOSIAR
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/playlist.mpd
 #EXTINF:-1 tvg-logo="http://alkhalifitv.github.io/TV/big/rcti.png" group-title="LOKAL",RCTI HD
@@ -4457,12 +4459,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 https://cdn10jtedge.indihometv.com/atm/DASH/sctv/playlist.mpd
 #EXTINF:-1 tvg-logo="http://alkhalifitv.github.io/TV/big/gtv.png" group-title="LOKAL",GTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
-#EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/gtv.png" group-title="LOKAL",GTV
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/rtv.png" group-title="LOKAL",RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
-#EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/mdtv.png" group-title="LOKAL",MDTV HD
-http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/moji.png" group-title="LOKAL",MOJI
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/jaktv.png" group-title="LOKAL",JAKTV
@@ -5385,6 +5383,8 @@ https://wumbodumbo.serv00.net/red/play.mpd?id=6317&type=dash
 https://cempedak-cdn-fly.mncnow.id/live/eds/soccerchannel-test/sa_dash/soccerchannel-test.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="No SignaL 📺",RCTI R++ 🇮🇩
 https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=rcti
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="No SignaL 📺",GTV (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="No SignaL 📺",Sportstars 1 (V+)
 https://cempedak-cdn-fly.mncnow.id/live/eds/MNCSports-HD/sa_dash/MNCSports-HD.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png" group-title="No SignaL 📺",Sportstars 2 (V+)
@@ -7731,6 +7731,8 @@ https://liveaneviadev.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 http://melon-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6sfBLj/inews.png" group-title="TV BackUP",INEWS
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6sfBLj/inews.png" group-title="TV BackUP",INEWS (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR6fmDw/kompastv.png" group-title="TV BackUP",KOMPAS TV
 https://cempedak-cdn-fly.mncnow.id/live/eds/KompasTV/sa_dash/KompasTV.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR6fmDw/kompastv.png" group-title="TV BackUP",KOMPAS TV
@@ -8203,8 +8205,8 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bw8fLiD.png" group-title="General",Arek TV (720p)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia (480p)
-http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia
+http://trn03.bozztv.com/gin-cctv4/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Celebes_TV.png" group-title="General",Celebes TV [Not 24/7]
 https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3iC41QX.png" group-title="General",DM TV Malang
@@ -8269,8 +8271,6 @@ http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="Undefined",TV5Monde Pacifique (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dwzOBZ1.png" group-title="Undefined",TVE Internacional Asia-Oceania [Geo-blocked]
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="Undefined",Zee Bioskop (360p) [Geo-blocked]
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia (720p)
