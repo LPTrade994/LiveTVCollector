@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-28 06:32:26",
+  "date": "2025-06-28 13:45:44",
   "channels": {
     "Uncategorized": [
       {
@@ -112,7 +112,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=52&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=52&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "ESTRELLA TV",
@@ -231,21 +231,21 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=3&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=3&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "TELEMUNDO",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=7&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=7&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "TLNOVELAS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=69&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=69&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "Minuto Para Ganar",
@@ -322,21 +322,21 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=56&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=56&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "HISTORY CHANNEL",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=19&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=19&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "NATGEO",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=15&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=15&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "TNT",
@@ -406,49 +406,49 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=23&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=23&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "SONY HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista2.php?c=a03h&f=.m3u8&token=TecnoplusJunio03"
+        "url": "http://clubtv.link/jun27/phpcode/lista2.php?c=a03h&f=.m3u8&token=TecnoplusJunio03"
       },
       {
         "name": "SONY MOVIES HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista2.php?c=a03i&f=.m3u8&token=TecnoplusJunio03"
+        "url": "http://clubtv.link/jun27/phpcode/lista2.php?c=a03i&f=.m3u8&token=TecnoplusJunio03"
       },
       {
         "name": "Cinecanal",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista4.php?c=a007&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista4.php?c=a007&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "Cinemax",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista4.php?c=a020&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista4.php?c=a020&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "DE PELICULA",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=48&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=48&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "CINE DINAMITA",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=85&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=85&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "USA NETWORK",
@@ -532,168 +532,168 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=44&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=44&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "DISCOVERY KIDS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=45&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=45&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "CARTOON NETWORK",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=51&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=51&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "NICK  JR",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=13&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=13&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "DISNEY JR",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=43&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=43&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "UNIVERSAL CRIME",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=32&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=32&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "UNIVERSAL CINEMA",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=36&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=36&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "UNIVERSAL PREMIER",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=31&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=31&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "UNIVERSO",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=68&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=68&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "UNIVERSAL CHANNEL",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=38&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=38&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "HBO PLUS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=21&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=21&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "HBO",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=24&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=24&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "HBO FAMILY",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=22&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=22&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "HBO SIGNATURE",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=20&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=20&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "HBO XTREME",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=16&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=16&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "AXN",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=55&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=55&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "SPACE",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=10&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=10&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "TNT",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=6&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=6&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "TNT SERIES",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=5&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=5&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "AMC",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=57&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=57&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "TCM",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=73&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=73&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "CINECANAL",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=50&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=50&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "CINEMAX",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=49&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=49&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "DISCOVERY CHANNEL",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=47&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=47&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "DISCOVERY CHANNEL OP2",
@@ -707,182 +707,182 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=80&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=80&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "DISCOVERY THEATER",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista1.php?c=a02l&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista1.php?c=a02l&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "DISCOVERY WORD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista1.php?c=a02n&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista1.php?c=a02n&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "DISCOVERY ID",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=18&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=18&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "DISCOVERY H&H",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=46&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=46&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "GOLDEN PLUS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=26&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=26&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "GOLDEN PREMIER",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=25&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=25&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "PARAMOUNT CHANNEL",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=12&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=12&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "FX",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=27&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=27&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "SONY",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=11&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=11&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "A&E",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=58&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=58&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "WARNER",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=2&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=2&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "LIFE TIME",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=33&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=33&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "STAR CHANNEL",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=37&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=37&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "STUDIO UNIVERSAL",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=70&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=70&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "ESPN 1 MX",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=41&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=41&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "ESPN 2 MX",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=40&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=40&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "ESPN 3 MX",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=39&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=39&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "FOX SPORTS 1 MX",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=30&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=30&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "FOX SPORTS 2 mx",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=29&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=29&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "FOX SPORTS 3 MX",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=28&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=28&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "WIN SPORTS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=67&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=67&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "ESPN SUR",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=77&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=77&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "ESPN 2 SUR",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=79&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=79&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "ESPN 3 SUR",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=78&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=78&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "CLARO SPORTS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=82&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=82&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "ESPN 2 HD",
@@ -3983,126 +3983,126 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/distro.php?c=wapptv"
+        "url": "http://clubtv.link/jun27/phpcode/distro.php?c=wapptv"
       },
       {
         "name": "El Conflicto TV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/distro.php?c=el-conflicto-tv"
+        "url": "http://clubtv.link/jun27/phpcode/distro.php?c=el-conflicto-tv"
       },
       {
         "name": "Glewedtv Spanish",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/distro.php?c=glewedtv-spanish"
+        "url": "http://clubtv.link/jun27/phpcode/distro.php?c=glewedtv-spanish"
       },
       {
         "name": "La Bocina Latina",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/distro.php?c=la-bocina-latina"
+        "url": "http://clubtv.link/jun27/phpcode/distro.php?c=la-bocina-latina"
       },
       {
         "name": "Trace Latina",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/distro.php?c=trace-latina"
+        "url": "http://clubtv.link/jun27/phpcode/distro.php?c=trace-latina"
       },
       {
         "name": "FreeTV Hits",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/distro.php?c=freetv-hits"
+        "url": "http://clubtv.link/jun27/phpcode/distro.php?c=freetv-hits"
       },
       {
         "name": "XFT TV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/distro.php?c=xfc-tv"
+        "url": "http://clubtv.link/jun27/phpcode/distro.php?c=xfc-tv"
       },
       {
         "name": "Drama",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/distro.php?c=freetv-drama-latam"
+        "url": "http://clubtv.link/jun27/phpcode/distro.php?c=freetv-drama-latam"
       },
       {
         "name": "Pitufo TV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/distro.php?c=pitufo-tv"
+        "url": "http://clubtv.link/jun27/phpcode/distro.php?c=pitufo-tv"
       },
       {
         "name": "RCN",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=71&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=71&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "CARACOL",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=86&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=86&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "WWE NETWORK",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=65&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=65&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "Az Cinema",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=89&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=89&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "AZ MUNDO",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=87&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=87&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "Az Corazon",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=88&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=88&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "Boomerang",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=53&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=53&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "Nick",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista0.php?c=92&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista0.php?c=92&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "Nickelodeon",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista3.php?c=a038&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista3.php?c=a038&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "BeIN SPORTS XTRA En Espanol",
@@ -4214,49 +4214,49 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista2.php?c=a01x&f=.m3u8&token=TecnoplusJunio03"
+        "url": "http://clubtv.link/jun27/phpcode/lista2.php?c=a01x&f=.m3u8&token=TecnoplusJunio03"
       },
       {
         "name": "Cartoonito HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista2.php?c=a003&f=.m3u8&token=TecnoplusJunio03"
+        "url": "http://clubtv.link/jun27/phpcode/lista2.php?c=a003&f=.m3u8&token=TecnoplusJunio03"
       },
       {
         "name": "EL GOURMET",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista2.php?c=a04w&f=.m3u8&token=TecnoplusJunio03"
+        "url": "http://clubtv.link/jun27/phpcode/lista2.php?c=a04w&f=.m3u8&token=TecnoplusJunio03"
       },
       {
         "name": "City TV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista4.php?c=a01w&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista4.php?c=a01w&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "ViaX",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista4.php?c=a018&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista4.php?c=a018&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "Win",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista4.php?c=a026&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista4.php?c=a026&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "Deporte Py+",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/FULLTV.M3U",
-        "url": "http://clubtv.link/ju0614/phpcode/lista5.php?c=a061&token=TecnoplusJunio03&f=.m3u8"
+        "url": "http://clubtv.link/jun27/phpcode/lista5.php?c=a061&token=TecnoplusJunio03&f=.m3u8"
       },
       {
         "name": "PIGUINO TV HD",
@@ -5609,6 +5609,13 @@
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u",
         "url": "https://stitcher.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=38bfe94a-53b7-11f0-9877-8aca768389fe"
+      },
+      {
+        "name": "Bob Esponja LATAM",
+        "logo": "https://i.imgur.com/nmZ2nId.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff04-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236222be-74f0-4d28-b58b-70f75ce8319a&userId=&serverSideAds=false"
       },
       {
         "name": "Clan TVE Internacional (1080p)",
@@ -7107,6 +7114,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
+      },
+      {
+        "name": "Cine Terror",
+        "logo": "https://i.imgur.com/I5XxyLI.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f"
       },
       {
         "name": "Cine XOXO",
