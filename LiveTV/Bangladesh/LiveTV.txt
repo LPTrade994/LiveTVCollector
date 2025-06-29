@@ -20,7 +20,7 @@ Logo: https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: SOMOY TV
-URL: https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702.m3u8
+URL: https://bd.yflix.top/live.php?id=27ec4394-7640-4dab-abf8-6a48893dfdfe
 Logo: https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -50,7 +50,7 @@ Logo: https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: INDEPENDENT TV
-URL: https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704.m3u8
+URL: https://tvsen6.aynaott.com/independenttv/tracks-v1a1/mono.ts.m3u8
 Logo: https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -110,12 +110,12 @@ Logo: https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Ekushey TV
-URL: http://xtv.ooo:8080/live/Amjadsc/nwl1234/245937.ts
+URL: https://bd.yflix.top/live.php?id=b3f0df76-15ba-4ede-a7de-bbaaf23a630e
 Logo: https://s4.gifyu.com/images/image534fa27d7683f33d.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Channel I
-URL: https://ayna-three.vercel.app/api/stream/20714fd4-dc3c-46d6-924f-3038d61f027c.m3u8
+URL: https://tvsen6.aynaott.com/channeli/tracks-v1a1/mono.ts.m3u8
 Logo: https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -169,6 +169,16 @@ URL: https://jolshabd.com/live/mbanglatv/playlist.m3u8
 Logo: https://imgur.com/ofqGiiK
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: Me-tv
+URL: https://iptvbd.live/metv1080/1080.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Vukta tv
+URL: https://103.121.61.218/tmp_hls/voktatv/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: Movie Bangla TV
 URL: http://alvetv.com/moviebanglatv/8080/index.m3u8
 Logo: https://i.ibb.co/0rPdpW9/MB-TV.jpg
@@ -199,6 +209,11 @@ URL: https://live.sanonda.tv/sanonda/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: Kushbo tv
+URL: https://cdn-4.pishow.tv/live/1473/1473_2.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: Ekushey TV
 URL: https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 Logo: https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png
@@ -222,11 +237,6 @@ Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/head
 Name: iON TV Bangla
 URL: https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 Logo: https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg
-Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
---------------------------------------------------
-Name: Me Tv
-URL: https://iptvbd.live/metv1080/1080.m3u8
-Logo: https://i.imgur.com/gTnzXlx.png
 Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8
 --------------------------------------------------
 Name: Time Televison
@@ -1580,7 +1590,7 @@ Logo: https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Akash Aath
-URL: http://xott.live:8080/17871787/17871787/245928
+URL: https://cdn-4.pishow.tv/live/969/969_1.m3u8
 Logo: https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1720,7 +1730,7 @@ Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/head
 
 Group: Kids
 Name: Duronto TV
-URL: http://kst.moonplex.net:8080/CH12/tracks-v1a1/mono.m3u8
+URL: https://bd.yflix.top/live.php?segment=3a4c9ee6063b7da5c97744ecdf4c9c91a40773a1fc2c336f570935eeab8b5060ffa1cd5bffdd8400e21b40733b49ab2aecb1de7a7d5bee746923af7dbfca0e3d89db025f14687710669fe641042ecc40817d007c204386f1dd166bb41fb7188241706ed38e180bb232138346e013ae05ce6aa195ccf57c42356feb1c44c3145bd0f567b6c1cb7cefc04089326cfdf4fd01576910cc7afe6b8d44eec74b81926df17525b2e9ae21c15889fbe7b12a644b3006b3728d7e094bc960722b1c0ca843
 Logo: https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1812,11 +1822,6 @@ Source: https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/head
 --------------------------------------------------
 
 Group: MUSIC
-Name: ATN Music
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sbin.stream/playlist.m3u8
-Logo: https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
 Name: RTV Music
 URL: http://38.96.178.201/live/Dhoom/index.m3u8
 Logo: https://imgpile.com/images/58YDwk.jpg
@@ -1956,6 +1961,66 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: IPS
 URL: https://pixeldra.in/api/file/kXsthFko?download
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Movibazar-1
+URL: https://tv.mymoviebazar.net/stream/stream56.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Movibazar-2
+URL: https://tv.mymoviebazar.net/stream/stream57.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Movibazar-3
+URL: https://tv.mymoviebazar.net/stream/stream209.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Movibazar-4
+URL: https://tv.mymoviebazar.net/stream/stream58.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Movibazar-5
+URL: https://tv.mymoviebazar.net/stream/stream59.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Movibazar-6
+URL: https://tv.mymoviebazar.net/stream/stream13.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Movibazar-7
+URL: https://tv.mymoviebazar.net/stream/stream12.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Movibazar-8
+URL: https://tv.mymoviebazar.net/stream/stream11.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Movibazar-9
+URL: https://tv.mymoviebazar.net/stream/stream201.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Movibazar-10
+URL: https://tv.mymoviebazar.net/stream/stream202.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Movibazar-11
+URL: https://tv.mymoviebazar.net/stream/stream205.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Movibazar-12
+URL: https://tv.mymoviebazar.net/stream/stream206.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2337,7 +2402,7 @@ Logo: https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Star Sports 1
-URL: https://off1.gogohaalmal.com:1686/hls/star1in.m3u8?md5=vc0V6jyOUP-TzYmF70r9rg&expires=1749902445
+URL: https://off1.gogohaalmal.com:1686/hls/star1in.m3u8?md5=0MgUiPupGPhbR7tO5bUT_g&expires=1751201567
 Logo: https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2412,7 +2477,7 @@ Logo: https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: PTV Sports
-URL: https://off1.gogohaalmal.com:1686/hls/ptvpk.m3u8?md5=-3Ot5MCZdv8sMdTv5Sdffw&expires=1749902873
+URL: https://off1.gogohaalmal.com:1686/hls/ptvpk.m3u8?md5=odLWkt-7IqOXPNHIHvHXIg&expires=1751201859
 Logo: https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2432,17 +2497,17 @@ Logo: https://iconape.com/wp-content/files/da/323865/png/323865.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: A Sports
-URL: http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+URL: https://off1.gogohaalmal.com:1686/hls/asportshd.m3u8?md5=iy7Vtx8hnO3N7LawfG_3og&expires=1751203074
 Logo: https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Geo Super TV
-URL: http://xott.live:8080/17871787/17871787/167568
+URL: http://175.107.244.52:4456/play/a06z/index.m3u8
 Logo: https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Willow HD
-URL: http://xott.live:8080/17871787/17871787/167583
+URL: https://off1.gogohaalmal.com:1686/hls/willowusa.m3u8?md5=4y1_snBLS-XKUlhMxiZGDw&expires=1751202735
 Logo: https://aimages.willow.tv/wlo_logo_200_200.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2479,6 +2544,11 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 Name: Sky Sports Cricket [2]
 URL: http://xott.live:8080/17871787/17871787/220064
 Logo: https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Sky Sports Main Event
+URL: https://off1.gogohaalmal.com:1686/hls/skysme.m3u8?md5=IQ6wqqjUsfKOkIMvqftiuw&expires=1751203351
+Logo: https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Sky Sports Football
@@ -3277,6 +3347,11 @@ Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/
 Name: Nexus TV
 URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 Logo: https://appv10static.jaagobd.com/media/channel_logos/nexus-tv_iLOxmte.jpg
+Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
+--------------------------------------------------
+Name: Sangeet Bangla
+URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sbin.stream/playlist.m3u8
+Logo: https://appv10static.jaagobd.com/media/channel_logos/1000062342.jpg
 Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
 --------------------------------------------------
 Name: Live Sports
@@ -4321,6 +4396,11 @@ Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%2
 --------------------------------------------------
 Name: Colors Bangla
 URL: https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts=
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
+--------------------------------------------------
+Name: A Sports
+URL: http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------

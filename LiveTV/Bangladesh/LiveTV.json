@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-29 13:51:26",
+  "date": "2025-06-29 21:50:23",
   "channels": {
     "BANGLA": [
       {
@@ -35,7 +35,7 @@
         "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",
         "group": "BANGLA",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/1702.m3u8"
+        "url": "https://bd.yflix.top/live.php?id=27ec4394-7640-4dab-abf8-6a48893dfdfe"
       },
       {
         "name": "SOMOY TV-[2]",
@@ -77,7 +77,7 @@
         "logo": "https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",
         "group": "BANGLA",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/1704.m3u8"
+        "url": "https://tvsen6.aynaott.com/independenttv/tracks-v1a1/mono.ts.m3u8"
       },
       {
         "name": "JAMUNA TV",
@@ -161,14 +161,14 @@
         "logo": "https://s4.gifyu.com/images/image534fa27d7683f33d.png",
         "group": "BANGLA",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://xtv.ooo:8080/live/Amjadsc/nwl1234/245937.ts"
+        "url": "https://bd.yflix.top/live.php?id=b3f0df76-15ba-4ede-a7de-bbaaf23a630e"
       },
       {
         "name": "Channel I",
         "logo": "https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png",
         "group": "BANGLA",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://ayna-three.vercel.app/api/stream/20714fd4-dc3c-46d6-924f-3038d61f027c.m3u8"
+        "url": "https://tvsen6.aynaott.com/channeli/tracks-v1a1/mono.ts.m3u8"
       },
       {
         "name": "Deepto TV",
@@ -241,6 +241,20 @@
         "url": "https://jolshabd.com/live/mbanglatv/playlist.m3u8"
       },
       {
+        "name": "Me-tv",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "BANGLA",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://iptvbd.live/metv1080/1080.m3u8"
+      },
+      {
+        "name": "Vukta tv",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "BANGLA",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://103.121.61.218/tmp_hls/voktatv/index.m3u8"
+      },
+      {
         "name": "Movie Bangla TV",
         "logo": "https://i.ibb.co/0rPdpW9/MB-TV.jpg",
         "group": "BANGLA",
@@ -283,6 +297,13 @@
         "url": "https://live.sanonda.tv/sanonda/index.m3u8"
       },
       {
+        "name": "Kushbo tv",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "BANGLA",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://cdn-4.pishow.tv/live/1473/1473_2.m3u8"
+      },
+      {
         "name": "Ekushey TV",
         "logo": "https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",
         "group": "BANGLA",
@@ -316,13 +337,6 @@
         "group": "BANGLA",
         "source": "https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8",
         "url": "https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8"
-      },
-      {
-        "name": "Me Tv",
-        "logo": "https://i.imgur.com/gTnzXlx.png",
-        "group": "BANGLA",
-        "source": "https://raw.githubusercontent.com/skjahangirkabir/Bdix-549.m3u/refs/heads/main/BDIX-549.m3u8",
-        "url": "https://iptvbd.live/metv1080/1080.m3u8"
       },
       {
         "name": "Time Televison",
@@ -422,7 +436,7 @@
         "logo": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://off1.gogohaalmal.com:1686/hls/star1in.m3u8?md5=vc0V6jyOUP-TzYmF70r9rg&expires=1749902445"
+        "url": "https://off1.gogohaalmal.com:1686/hls/star1in.m3u8?md5=0MgUiPupGPhbR7tO5bUT_g&expires=1751201567"
       },
       {
         "name": "Star Sports 1-[2]",
@@ -527,7 +541,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://off1.gogohaalmal.com:1686/hls/ptvpk.m3u8?md5=-3Ot5MCZdv8sMdTv5Sdffw&expires=1749902873"
+        "url": "https://off1.gogohaalmal.com:1686/hls/ptvpk.m3u8?md5=odLWkt-7IqOXPNHIHvHXIg&expires=1751201859"
       },
       {
         "name": "PTV Sports-[2]",
@@ -555,21 +569,21 @@
         "logo": "https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8"
+        "url": "https://off1.gogohaalmal.com:1686/hls/asportshd.m3u8?md5=iy7Vtx8hnO3N7LawfG_3og&expires=1751203074"
       },
       {
         "name": "Geo Super TV",
         "logo": "https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://xott.live:8080/17871787/17871787/167568"
+        "url": "http://175.107.244.52:4456/play/a06z/index.m3u8"
       },
       {
         "name": "Willow HD",
         "logo": "https://aimages.willow.tv/wlo_logo_200_200.jpg",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://xott.live:8080/17871787/17871787/167583"
+        "url": "https://off1.gogohaalmal.com:1686/hls/willowusa.m3u8?md5=4y1_snBLS-XKUlhMxiZGDw&expires=1751202735"
       },
       {
         "name": "Willow Extra HD",
@@ -619,6 +633,13 @@
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
         "url": "http://xott.live:8080/17871787/17871787/220064"
+      },
+      {
+        "name": "Sky Sports Main Event",
+        "logo": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://off1.gogohaalmal.com:1686/hls/skysme.m3u8?md5=IQ6wqqjUsfKOkIMvqftiuw&expires=1751203351"
       },
       {
         "name": "Sky Sports Football",
@@ -946,7 +967,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://kst.moonplex.net:8080/CH12/tracks-v1a1/mono.m3u8"
+        "url": "https://bd.yflix.top/live.php?segment=3a4c9ee6063b7da5c97744ecdf4c9c91a40773a1fc2c336f570935eeab8b5060ffa1cd5bffdd8400e21b40733b49ab2aecb1de7a7d5bee746923af7dbfca0e3d89db025f14687710669fe641042ecc40817d007c204386f1dd166bb41fb7188241706ed38e180bb232138346e013ae05ce6aa195ccf57c42356feb1c44c3145bd0f567b6c1cb7cefc04089326cfdf4fd01576910cc7afe6b8d44eec74b81926df17525b2e9ae21c15889fbe7b12a644b3006b3728d7e094bc960722b1c0ca843"
       },
       {
         "name": "Sony YAY",
@@ -1174,7 +1195,7 @@
         "logo": "https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj",
         "group": "Indian-Bangla",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://xott.live:8080/17871787/17871787/245928"
+        "url": "https://cdn-4.pishow.tv/live/969/969_1.m3u8"
       },
       {
         "name": "DD Bangla",
@@ -1234,13 +1255,6 @@
       }
     ],
     "MUSIC": [
-      {
-        "name": "ATN Music",
-        "logo": "https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg",
-        "group": "MUSIC",
-        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sbin.stream/playlist.m3u8"
-      },
       {
         "name": "RTV Music",
         "logo": "https://imgpile.com/images/58YDwk.jpg",
@@ -1610,6 +1624,90 @@
         "group": "Movie",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
         "url": "https://pixeldra.in/api/file/kXsthFko?download"
+      },
+      {
+        "name": "Movibazar-1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Movie",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://tv.mymoviebazar.net/stream/stream56.m3u8"
+      },
+      {
+        "name": "Movibazar-2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Movie",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://tv.mymoviebazar.net/stream/stream57.m3u8"
+      },
+      {
+        "name": "Movibazar-3",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Movie",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://tv.mymoviebazar.net/stream/stream209.m3u8"
+      },
+      {
+        "name": "Movibazar-4",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Movie",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://tv.mymoviebazar.net/stream/stream58.m3u8"
+      },
+      {
+        "name": "Movibazar-5",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Movie",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://tv.mymoviebazar.net/stream/stream59.m3u8"
+      },
+      {
+        "name": "Movibazar-6",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Movie",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://tv.mymoviebazar.net/stream/stream13.m3u8"
+      },
+      {
+        "name": "Movibazar-7",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Movie",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://tv.mymoviebazar.net/stream/stream12.m3u8"
+      },
+      {
+        "name": "Movibazar-8",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Movie",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://tv.mymoviebazar.net/stream/stream11.m3u8"
+      },
+      {
+        "name": "Movibazar-9",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Movie",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://tv.mymoviebazar.net/stream/stream201.m3u8"
+      },
+      {
+        "name": "Movibazar-10",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Movie",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://tv.mymoviebazar.net/stream/stream202.m3u8"
+      },
+      {
+        "name": "Movibazar-11",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Movie",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://tv.mymoviebazar.net/stream/stream205.m3u8"
+      },
+      {
+        "name": "Movibazar-12",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Movie",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://tv.mymoviebazar.net/stream/stream206.m3u8"
       }
     ],
     "Uncategorized": [
@@ -2256,6 +2354,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott",
         "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8"
+      },
+      {
+        "name": "Sangeet Bangla",
+        "logo": "https://appv10static.jaagobd.com/media/channel_logos/1000062342.jpg",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sbin.stream/playlist.m3u8"
       },
       {
         "name": "Live Sports",
@@ -3719,6 +3824,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
         "url": "https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8?hdnts="
+      },
+      {
+        "name": "A Sports",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)",
+        "url": "http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8"
       },
       {
         "name": "DEEPTO TV",
