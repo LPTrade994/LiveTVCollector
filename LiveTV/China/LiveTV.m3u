@@ -1477,12 +1477,12 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="央视频道",CCTV4
+https://piccpndali.v.myalicdn.com/audio/cctveurope_2.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="央视频道",CCTV13
 https://event.pull.hebtv.com/jishi/cp1.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="央视频道",CCTV14
 https://event.pull.hebtv.com/jishi/cp2.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="央视频道",CCTV第一剧场
-https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="央视频道",CCTV风云足球
 https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="备用频道",CCTV1
@@ -1721,10 +1721,12 @@ http://home.wwang.pw:35455/itv/2000000003000000033.m3u8?cdn=hnbblive
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/山东教育.png" group-title="卫视频道",山东教育
 http://home.wwang.pw:35455/itv/1000000002000004097.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="卫视频道",广西卫视
+https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="卫视频道",河北卫视
 https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="卫视频道",三沙卫视
-https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="卫视频道",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="卫视频道",山东教育
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="卫视频道",三沙卫视
@@ -2563,8 +2565,12 @@ http://1.94.31.214:35455/yy/1354889019
 https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",龙华电影
 https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",北京影视
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1750971609&sign=9bcd2811899143e73af7853441517e39
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",浙江影视
 https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",电影英叔
+https://www.goodiptv.club/huya/11342421
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",美亚电影
 https://live.tvfix.org/live/mydy/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="电影频道",豆瓣电影
@@ -3009,16 +3015,10 @@ https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",广西国际
 https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",延边2
-https://live.ybtvyun.com/video/s10006-1c8f0ebfee9f/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",怀仁综合
 https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",成县综合
 https://play.kankanlive.com/live/1702454377323961.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",无锡娱乐
-https://stream.thmz.com/wxtv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",无锡生活
-https://stream.thmz.com/wxtv4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",无锡经济
 https://stream.thmz.com/wxtv5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",昌黎综合
@@ -3051,8 +3051,6 @@ https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
 https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",海南新闻
 https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",海宁新闻综合
-https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",淮阴综合
 https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",清河新闻综合
@@ -3061,6 +3059,8 @@ https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
 https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",渭源新闻
 https://play.kankanlive.com/live/1711955176432990.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",湖州文化娱乐
+https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",溧水新闻综合
 https://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="地方频道",灌阳新闻综合
@@ -3609,9 +3609,13 @@ https://www.goodiptv.club/douyu/5907076
 https://vd2.bdstatic.com/mda-nb8j3b6sz77bdvk8/sc/cae_h264_delogo/1644413904258506067/mda-nb8j3b6sz77bdvk8.mp4
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="解说频道",龙梅子都说
 https://vd3.bdstatic.com:443/mda-ma7cm59x1m4015ip/v2-hknm/1080p/mda-ma7cm59x1m4015ip.mp4
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="直播中国",月牙泉
-https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="更新时间",2025-06-29 06:37:33
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="直播中国",张掖七彩丹霞
+https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="直播中国",黄山排云亭
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="直播中国",黄花城水长城01
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="更新时间",2025-06-29 12:37:23
 https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="☘️北京频道",BRTV影视
 https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1742954511&sign=5241ba5667bd08639fd195ea9db6da5a
