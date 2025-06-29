@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-28 21:59:34",
+  "date": "2025-06-29 07:52:05",
   "channels": {
     "Uncategorized": [
       {
@@ -1428,22 +1428,22 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8"
+      },
+      {
+        "name": "Africa 24 Sport (1080p)",
+        "logo": "https://i.imgur.com/YWIJdai.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
       }
     ],
     "News": [
       {
-        "name": "Africa 24 (540p)",
+        "name": "Africa 24 (1080p)",
         "logo": "https://i.imgur.com/YWIJdai.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"
-      },
-      {
-        "name": "Africa 24 English (1080p)",
-        "logo": "https://i.imgur.com/YWIJdai.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
+        "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"
       },
       {
         "name": "Africanews",

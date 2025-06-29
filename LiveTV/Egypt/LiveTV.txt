@@ -238,13 +238,8 @@ Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
 
 Group: News
-Name: Africa 24 (540p)
-URL: https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-Logo: https://i.imgur.com/YWIJdai.png
-Source: https://iptv-org.github.io/iptv/countries/eg.m3u
---------------------------------------------------
-Name: Africa 24 English (1080p)
-URL: https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+Name: Africa 24 (1080p)
+URL: https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 Logo: https://i.imgur.com/YWIJdai.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
@@ -397,6 +392,11 @@ Group: Sports
 Name: Abu Dhabi Sports 1 (1080p)
 URL: https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 Logo: https://i.imgur.com/6BVWk8z.png
+Source: https://iptv-org.github.io/iptv/countries/eg.m3u
+--------------------------------------------------
+Name: Africa 24 Sport (1080p)
+URL: https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+Logo: https://i.imgur.com/YWIJdai.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
 
