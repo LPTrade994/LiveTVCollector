@@ -12918,12 +12918,6 @@
     "img": "https://alkhalifitv.github.io/TV/big/inews.png"
   },
   {
-    "name": "INEWS HD",
-    "type": "BERITA",
-    "url": "https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd",
-    "img": "https://alkhalifitv.github.io/TV/big/inews.png"
-  },
-  {
     "name": "Berita Satu",
     "type": "BERITA",
     "url": "http://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8",

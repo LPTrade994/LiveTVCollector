@@ -4305,8 +4305,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/Australia
 http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/inews.png" group-title="BERITA",INEWS
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-#EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/inews.png" group-title="BERITA",INEWS HD
-https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/btv.png" group-title="BERITA",Berita Satu
 http://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/kompastv.png" group-title="BERITA",KOMPAS TV
