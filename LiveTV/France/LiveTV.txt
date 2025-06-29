@@ -4266,12 +4266,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=SjHm2kQEYFo__rN_0UVhmg&e=1751192483
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=gsmIJOvvGrSiKxiklH1EQQ&e=1751224529
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=SjHm2kQEYFo__rN_0UVhmg&e=1751192483
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=gsmIJOvvGrSiKxiklH1EQQ&e=1751224529
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
