@@ -5052,7 +5052,7 @@
     "img": "https://algorit.ma/wp-content/uploads/2023/04/Antaranews.png"
   },
   {
-    "name": "ANTV #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
+    "name": "ANTV",
     "type": "INDONESIA🇮🇩",
     "url": "https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png"
@@ -5112,10 +5112,28 @@
     "img": "https://static.wikia.nocookie.net/logopedia/images/6/69/CitraDangdut_Logo.png"
   },
   {
+    "name": "CITRA DANGDUT",
+    "type": "INDONESIA🇮🇩",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/6/69/CitraDangdut_Logo.png"
+  },
+  {
     "name": "CITRA DRAMA",
     "type": "INDONESIA🇮🇩",
     "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd",
     "img": "https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503"
+  },
+  {
+    "name": "CITRA DRAMA",
+    "type": "INDONESIA🇮🇩",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503"
+  },
+  {
+    "name": "CITRA ENTERTAIMENT",
+    "type": "INDONESIA🇮🇩",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png"
   },
   {
     "name": "CNBC INDONESIA HD",
@@ -5133,6 +5151,12 @@
     "name": "DAAI TV",
     "type": "INDONESIA🇮🇩",
     "url": "https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/a/a5/DAAI_TV_with_Slogan.svg/revision/latest/scale-to-width-down/250?cb=20231119100827"
+  },
+  {
+    "name": "DAAI TV",
+    "type": "INDONESIA🇮🇩",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd",
     "img": "https://static.wikia.nocookie.net/logopedia/images/a/a5/DAAI_TV_with_Slogan.svg/revision/latest/scale-to-width-down/250?cb=20231119100827"
   },
   {
@@ -5252,7 +5276,7 @@
   {
     "name": "JTV",
     "type": "INDONESIA🇮🇩",
-    "url": "https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/360px-JTV_%28Indonesian_TV_channel%29_2022.svg.png"
   },
   {
@@ -6069,7 +6093,7 @@
     "name": "CITRA BIOSKOP",
     "type": "MOVIES",
     "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest?cb=20191014052144"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_Citra_Bioskop.png/1598px-Logo_Citra_Bioskop.png"
   },
   {
     "name": "COLORS CINEPLEX BOLLYWOOD",
@@ -6138,6 +6162,12 @@
     "img": "https://static.wikia.nocookie.net/pluto-tv/images/9/99/FlicksofFury.svg/revision/latest/thumbnail/width/360/height/360?cb=20220803003107"
   },
   {
+    "name": "FLIK",
+    "type": "MOVIES",
+    "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd",
+    "img": "https://rec.id/wp-content/uploads/2022/07/FLIK-1080X1080.png"
+  },
+  {
     "name": "GALAXY",
     "type": "MOVIES",
     "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd",
@@ -6192,16 +6222,10 @@
     "img": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/Hunan%20TV.png"
   },
   {
-    "name": "FLIK",
-    "type": "MOVIES",
-    "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd",
-    "img": "https://rec.id/wp-content/uploads/2022/07/FLIK-1080X1080.png"
-  },
-  {
     "name": "IMC",
     "type": "MOVIES",
     "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd",
-    "img": "https://www.lyngsat.com/logo/tv/ii/imc-id.png"
+    "img": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/IMC.jpeg"
   },
   {
     "name": "JIANGSU TV",

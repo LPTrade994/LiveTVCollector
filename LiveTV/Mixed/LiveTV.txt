@@ -2334,7 +2334,7 @@ URL: https://streaming.indihometv.com/atm/DASH/antara/manifest.mpd
 Logo: https://algorit.ma/wp-content/uploads/2023/04/Antaranews.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
-Name: ANTV #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+Name: ANTV
 URL: https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
@@ -2384,9 +2384,24 @@ URL: https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 Logo: https://static.wikia.nocookie.net/logopedia/images/6/69/CitraDangdut_Logo.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
+Name: CITRA DANGDUT
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
+Logo: https://static.wikia.nocookie.net/logopedia/images/6/69/CitraDangdut_Logo.png
+Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
+--------------------------------------------------
 Name: CITRA DRAMA
 URL: https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 Logo: https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503
+Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
+--------------------------------------------------
+Name: CITRA DRAMA
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
+Logo: https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503
+Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
+--------------------------------------------------
+Name: CITRA ENTERTAIMENT
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
+Logo: https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: CNBC INDONESIA HD
@@ -2401,6 +2416,11 @@ Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV
 --------------------------------------------------
 Name: DAAI TV
 URL: https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
+Logo: https://static.wikia.nocookie.net/logopedia/images/a/a5/DAAI_TV_with_Slogan.svg/revision/latest/scale-to-width-down/250?cb=20231119100827
+Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
+--------------------------------------------------
+Name: DAAI TV
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 Logo: https://static.wikia.nocookie.net/logopedia/images/a/a5/DAAI_TV_with_Slogan.svg/revision/latest/scale-to-width-down/250?cb=20231119100827
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
@@ -2500,7 +2520,7 @@ Logo: https://assets-a1.kompasiana.com/items/album/2021/10/10/logo-baru-istimewa
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: JTV
-URL: https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/360px-JTV_%28Indonesian_TV_channel%29_2022.svg.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
@@ -4109,7 +4129,7 @@ Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV
 --------------------------------------------------
 Name: CITRA BIOSKOP
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
-Logo: https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest?cb=20191014052144
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_Citra_Bioskop.png/1598px-Logo_Citra_Bioskop.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: COLORS CINEPLEX BOLLYWOOD
@@ -4167,6 +4187,11 @@ URL: https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9
 Logo: https://static.wikia.nocookie.net/pluto-tv/images/9/99/FlicksofFury.svg/revision/latest/thumbnail/width/360/height/360?cb=20220803003107
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
+Name: FLIK
+URL: https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+Logo: https://rec.id/wp-content/uploads/2022/07/FLIK-1080X1080.png
+Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
+--------------------------------------------------
 Name: GALAXY
 URL: https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 Logo: https://raw.githubusercontent.com/mystery75/logo/main/Galaxy.png
@@ -4212,14 +4237,9 @@ URL: https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
 Logo: https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/Hunan%20TV.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
-Name: FLIK
-URL: https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
-Logo: https://rec.id/wp-content/uploads/2022/07/FLIK-1080X1080.png
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
 Name: IMC
 URL: https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
-Logo: https://www.lyngsat.com/logo/tv/ii/imc-id.png
+Logo: https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/IMC.jpeg
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: JIANGSU TV

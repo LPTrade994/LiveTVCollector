@@ -1683,7 +1683,7 @@ https://tv.aliman.id/aliman/live.m3u8
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://algorit.ma/wp-content/uploads/2023/04/Antaranews.png" group-title="INDONESIA🇮🇩",ANTARA NEWS
 https://streaming.indihometv.com/atm/DASH/antara/manifest.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" group-title="INDONESIA🇮🇩",ANTV #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" group-title="INDONESIA🇮🇩",ANTV
 https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Ashiil_TV.png/revision/latest?cb=20180922125304" group-title="INDONESIA🇮🇩",ASHILL TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
@@ -1703,14 +1703,22 @@ http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/CitraDangdut_Logo.png" group-title="INDONESIA🇮🇩",CITRA DANGDUT
 https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/CitraDangdut_Logo.png" group-title="INDONESIA🇮🇩",CITRA DANGDUT
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="INDONESIA🇮🇩",CITRA DRAMA
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="INDONESIA🇮🇩",CITRA DRAMA
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png" group-title="INDONESIA🇮🇩",CITRA ENTERTAIMENT
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/16/CNBC_Indonesia_logo.svg/1024px-CNBC_Indonesia_logo.svg.png?20231118105655" group-title="INDONESIA🇮🇩",CNBC INDONESIA HD
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/eroz_brebes.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/CNN_Indonesia_%28boxless%29.svg/revision/latest/scale-to-width-down/250?cb=20231215230627" group-title="INDONESIA🇮🇩",CNN INDONESIA HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/eroz_brebes.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/DAAI_TV_with_Slogan.svg/revision/latest/scale-to-width-down/250?cb=20231119100827" group-title="INDONESIA🇮🇩",DAAI TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/DAAI_TV_with_Slogan.svg/revision/latest/scale-to-width-down/250?cb=20231119100827" group-title="INDONESIA🇮🇩",DAAI TV
+https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/94/DhohoTVlogo.png/400px-DhohoTVlogo.png" group-title="INDONESIA🇮🇩",DHOHO TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Dunia_Lain_TV.svg/revision/latest/scale-to-width-down/284?cb=20210109161817" group-title="INDONESIA🇮🇩",DUNIA LAIN
@@ -1750,7 +1758,7 @@ https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
 #EXTINF:-1 tvg-logo="https://assets-a1.kompasiana.com/items/album/2021/10/10/logo-baru-istimewa-6162e92124da920a8a607312.png" group-title="INDONESIA🇮🇩",JITV
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/360px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="INDONESIA🇮🇩",JTV
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png/revision/latest?cb=20181005160144" group-title="INDONESIA🇮🇩",KAWANUA TV
 https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/4/41/Kompas_TV_%282011%29_logo.png/revision/latest?cb=20210412015958" group-title="INDONESIA🇮🇩",KOMPAS TV
@@ -2021,7 +2029,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES",CINEMAX HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest?cb=20191014052144" group-title="MOVIES",CITRA BIOSKOP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_Citra_Bioskop.png/1598px-Logo_Citra_Bioskop.png" group-title="MOVIES",CITRA BIOSKOP
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg/revision/latest/scale-to-width-down/250?cb=20210605153257" group-title="MOVIES",COLORS CINEPLEX BOLLYWOOD
 http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/96345
@@ -2045,6 +2053,8 @@ https://WahyuIPTV.short.gy/ETVBioskop3.ts
 https://WahyuIPTV.short.gy/ETVBioskop4.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/9/99/FlicksofFury.svg/revision/latest/thumbnail/width/360/height/360?cb=20220803003107" group-title="MOVIES",FLICKS OF FURY
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://rec.id/wp-content/uploads/2022/07/FLIK-1080X1080.png" group-title="MOVIES",FLIK
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Galaxy.png" group-title="MOVIES",GALAXY
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/GalaxyPremium.png" group-title="MOVIES",GALAXY PREMIUM
@@ -2063,9 +2073,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 https://linear05-playback.sooka.my/CH3/masterCH3.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/Hunan%20TV.png" group-title="MOVIES",HUNAN TV
 https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
-#EXTINF:-1 tvg-logo="https://rec.id/wp-content/uploads/2022/07/FLIK-1080X1080.png" group-title="MOVIES",FLIK
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png" group-title="MOVIES",IMC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/IMC.jpeg" group-title="MOVIES",IMC
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/Jiangsu%20Tv.png" group-title="MOVIES",JIANGSU TV
 https://atemeshield1-voe.sysln.id/live/eds/JiangsuTV/mpd/JiangsuTV.mpd

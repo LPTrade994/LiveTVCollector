@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-28 21:53:18",
+  "date": "2025-06-29 07:22:10",
   "channels": {
     "STREAMING": [
       {
@@ -5985,7 +5985,7 @@
         "url": "https://streaming.indihometv.com/atm/DASH/antara/manifest.mpd"
       },
       {
-        "name": "ANTV #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
+        "name": "ANTV",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png",
         "group": "INDONESIA🇮🇩",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
@@ -6055,11 +6055,32 @@
         "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd"
       },
       {
+        "name": "CITRA DANGDUT",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/69/CitraDangdut_Logo.png",
+        "group": "INDONESIA🇮🇩",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd"
+      },
+      {
         "name": "CITRA DRAMA",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503",
         "group": "INDONESIA🇮🇩",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd"
+      },
+      {
+        "name": "CITRA DRAMA",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503",
+        "group": "INDONESIA🇮🇩",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd"
+      },
+      {
+        "name": "CITRA ENTERTAIMENT",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png",
+        "group": "INDONESIA🇮🇩",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd"
       },
       {
         "name": "CNBC INDONESIA HD",
@@ -6081,6 +6102,13 @@
         "group": "INDONESIA🇮🇩",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd"
+      },
+      {
+        "name": "DAAI TV",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a5/DAAI_TV_with_Slogan.svg/revision/latest/scale-to-width-down/250?cb=20231119100827",
+        "group": "INDONESIA🇮🇩",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd"
       },
       {
         "name": "DHOHO TV",
@@ -6220,7 +6248,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/360px-JTV_%28Indonesian_TV_channel%29_2022.svg.png",
         "group": "INDONESIA🇮🇩",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd"
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd"
       },
       {
         "name": "KAWANUA TV",
@@ -7187,7 +7215,7 @@
       },
       {
         "name": "CITRA BIOSKOP",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest?cb=20191014052144",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_Citra_Bioskop.png/1598px-Logo_Citra_Bioskop.png",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd"
@@ -7270,6 +7298,13 @@
         "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com"
       },
       {
+        "name": "FLIK",
+        "logo": "https://rec.id/wp-content/uploads/2022/07/FLIK-1080X1080.png",
+        "group": "MOVIES",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd"
+      },
+      {
         "name": "GALAXY",
         "logo": "https://raw.githubusercontent.com/mystery75/logo/main/Galaxy.png",
         "group": "MOVIES",
@@ -7333,15 +7368,8 @@
         "url": "https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd"
       },
       {
-        "name": "FLIK",
-        "logo": "https://rec.id/wp-content/uploads/2022/07/FLIK-1080X1080.png",
-        "group": "MOVIES",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd"
-      },
-      {
         "name": "IMC",
-        "logo": "https://www.lyngsat.com/logo/tv/ii/imc-id.png",
+        "logo": "https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/IMC.jpeg",
         "group": "MOVIES",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd"
