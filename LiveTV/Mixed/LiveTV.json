@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-29 13:54:55",
+  "date": "2025-06-29 21:53:15",
   "channels": {
     "STREAMING": [
       {
@@ -681,7 +681,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiM2QxOWJjODItYTY5NS00NmQxLWEyOWUtNGFmMzZhMjUxMmU3IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZjVlOGQwMjQtMmNiZi00NWUwLTgwMzktODY5ZTJlYzQ2YTliIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -716,7 +716,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYTZlMTMzMjYtNTM0Ni00YzgxLWJiYTEtMjM1MTZmNmRhNGQyIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiZDBkM2I3ZDEtMzBiYi00ZDNlLTkzYjktODM3ZGQyMjQzMjFmIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
@@ -4110,14 +4110,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Astro_Badminton_1_%282024%29.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://ktpremium.site/live/RY318/7777/1010678.ts"
+        "url": "https://hls-gateway.vpstv.net/streams/477793.m3u8"
       },
       {
         "name": "ASTRO ARENA BOLA",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Astro_Arena_Bola_1_%282024%29.png/400px-Astro_Arena_Bola_1_%282024%29.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Bolaarena1/playlist.m3u8"
+        "url": "https://hls-gateway.vpstv.net/streams/489851.m3u8"
       },
       {
         "name": "ASTRO ARENA BOLA 2",
@@ -4145,7 +4145,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp3/playlist.m3u8"
+        "url": "http://000.hfr1107.top/tv/smt.php?id=go_assp3"
       },
       {
         "name": "ASTRO PREMIER LEAGUE",
@@ -4159,7 +4159,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp1/playlist.m3u8"
+        "url": "http://000.hfr1107.top/tv/smt.php?id=go_assp1"
       },
       {
         "name": "ASTRO PREMIER LEAGUE 2",
@@ -4173,7 +4173,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Astro_Premier_League_1_%282024%29.png/400px-Astro_Premier_League_1_%282024%29.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/go_assp2/playlist.m3u8"
+        "url": "http://000.hfr1107.top/tv/smt.php?id=go_assp2"
       },
       {
         "name": "ASTRO SPORTS PLUS",
@@ -4721,7 +4721,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Citra_%282024%29.png/400px-Astro_Citra_%282024%29.png",
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://ktpremium.site/live/RY318/7777/913177.ts"
+        "url": "https://hls-gateway.vpstv.net/streams/605064.m3u8"
       },
       {
         "name": "ASTRO HUA HEE DAI",
@@ -4742,21 +4742,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Astro_Oasis_%282024%29.png/400px-Astro_Oasis_%282024%29.png",
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://ktpremium.site/live/RY318/7777/25864.ts"
+        "url": "https://hls-gateway.vpstv.net/streams/708963.m3u8"
       },
       {
         "name": "ASTRO PRIMA HD",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png",
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://livesmartphp.RobYang.ggff.net/smart.php?id=Prima-0"
-      },
-      {
-        "name": "ASTRO PRIMA HD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Astro_Prima_%282024%29.png/440px-Astro_Prima_%282024%29.png",
-        "group": "MALAYSIA🇲🇾",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://wanjiatv.net/ydmt/smrt.php?playurl=http://50.7.234.10:8278/Prima-0/playlist.m3u8"
+        "url": "https://hls-gateway.vpstv.net/streams/605095.m3u8"
       },
       {
         "name": "ASTRO QJ",
@@ -4777,14 +4770,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png",
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "http://livesmartphp.RobYang.ggff.net/smart.php?id=Ria-0"
-      },
-      {
-        "name": "ASTRO RIA",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Astro_Ria_%282024%29.png/400px-Astro_Ria_%282024%29.png",
-        "group": "MALAYSIA🇲🇾",
-        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://ktpremium.site/live/RY318/7777/25855.ts"
+        "url": "https://hls-gateway.vpstv.net/streams/605063.m3u8"
       },
       {
         "name": "ASTRO SENSASI",
