@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-29 21:42:59",
+  "date": "2025-06-30 06:32:18",
   "channels": {
     "Кино": [
       {
@@ -56,7 +56,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Кино",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEyNjY2ODgsImlhdCI6MTc1MTE4MDI4OCwiY2lkIjo2LCJ1aWQiOjkyNjg1MTU4NCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.7QukHFdSAApW4xp6nTveg-UDadj43N2IKL6sgNVc7vk&offset=10"
+        "url": "http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEzMTAxMzAsImlhdCI6MTc1MTIyMzczMCwiY2lkIjo2LCJ1aWQiOjkyNjk4MDg0NSwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.c6_hQJcwYQXxCsLsx9tUNkC4tq3wSGhPYcKTSyMIqec&offset=10"
       },
       {
         "name": "Viju TV1000",
@@ -4669,63 +4669,63 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEyNjY2ODgsImlhdCI6MTc1MTE4MDI4OCwiY2lkIjo2LCJ1aWQiOjkyNjg1MTU4NCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.7QukHFdSAApW4xp6nTveg-UDadj43N2IKL6sgNVc7vk&offset=10"
+        "url": "http://api.peers.tv/timeshift/shalun/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEzMTAxMzAsImlhdCI6MTc1MTIyMzczMCwiY2lkIjo2LCJ1aWQiOjkyNjk4MDg0NSwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.c6_hQJcwYQXxCsLsx9tUNkC4tq3wSGhPYcKTSyMIqec&offset=10"
       },
       {
         "name": "Exxxotica HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEyNjY2ODgsImlhdCI6MTc1MTE4MDI4OCwiY2lkIjo2LCJ1aWQiOjkyNjg1MTU4NCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.7QukHFdSAApW4xp6nTveg-UDadj43N2IKL6sgNVc7vk&offset=10"
+        "url": "http://api.peers.tv/timeshift/exxxotica_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEzMTAxMzAsImlhdCI6MTc1MTIyMzczMCwiY2lkIjo2LCJ1aWQiOjkyNjk4MDg0NSwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.c6_hQJcwYQXxCsLsx9tUNkC4tq3wSGhPYcKTSyMIqec&offset=10"
       },
       {
         "name": "Blue Hustler",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEyNjY2ODgsImlhdCI6MTc1MTE4MDI4OCwiY2lkIjo2LCJ1aWQiOjkyNjg1MTU4NCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.7QukHFdSAApW4xp6nTveg-UDadj43N2IKL6sgNVc7vk&offset=10"
+        "url": "http://api.peers.tv/timeshift/blue_hustler_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEzMTAxMzAsImlhdCI6MTc1MTIyMzczMCwiY2lkIjo2LCJ1aWQiOjkyNjk4MDg0NSwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.c6_hQJcwYQXxCsLsx9tUNkC4tq3wSGhPYcKTSyMIqec&offset=10"
       },
       {
         "name": "Erox",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEyNjY2ODgsImlhdCI6MTc1MTE4MDI4OCwiY2lkIjo2LCJ1aWQiOjkyNjg1MTU4NCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.7QukHFdSAApW4xp6nTveg-UDadj43N2IKL6sgNVc7vk&offset=10"
+        "url": "http://api.peers.tv/timeshift/erox_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEzMTAxMzAsImlhdCI6MTc1MTIyMzczMCwiY2lkIjo2LCJ1aWQiOjkyNjk4MDg0NSwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.c6_hQJcwYQXxCsLsx9tUNkC4tq3wSGhPYcKTSyMIqec&offset=10"
       },
       {
         "name": "Brazzers TV Europe",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEyNjY2ODgsImlhdCI6MTc1MTE4MDI4OCwiY2lkIjo2LCJ1aWQiOjkyNjg1MTU4NCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.7QukHFdSAApW4xp6nTveg-UDadj43N2IKL6sgNVc7vk&offset=10"
+        "url": "http://api.peers.tv/timeshift/brazzers_tv_europe_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEzMTAxMzAsImlhdCI6MTc1MTIyMzczMCwiY2lkIjo2LCJ1aWQiOjkyNjk4MDg0NSwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.c6_hQJcwYQXxCsLsx9tUNkC4tq3wSGhPYcKTSyMIqec&offset=10"
       },
       {
         "name": "Red Lips HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEyNjY2ODgsImlhdCI6MTc1MTE4MDI4OCwiY2lkIjo2LCJ1aWQiOjkyNjg1MTU4NCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.7QukHFdSAApW4xp6nTveg-UDadj43N2IKL6sgNVc7vk&offset=10"
+        "url": "http://api.peers.tv/timeshift/red_lips_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEzMTAxMzAsImlhdCI6MTc1MTIyMzczMCwiY2lkIjo2LCJ1aWQiOjkyNjk4MDg0NSwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.c6_hQJcwYQXxCsLsx9tUNkC4tq3wSGhPYcKTSyMIqec&offset=10"
       },
       {
         "name": "Playboy TV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEyNjY2ODgsImlhdCI6MTc1MTE4MDI4OCwiY2lkIjo2LCJ1aWQiOjkyNjg1MTU4NCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.7QukHFdSAApW4xp6nTveg-UDadj43N2IKL6sgNVc7vk&offset=10"
+        "url": "http://api.peers.tv/timeshift/playboy_tv_18/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEzMTAxMzAsImlhdCI6MTc1MTIyMzczMCwiY2lkIjo2LCJ1aWQiOjkyNjk4MDg0NSwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.c6_hQJcwYQXxCsLsx9tUNkC4tq3wSGhPYcKTSyMIqec&offset=10"
       },
       {
         "name": "Babes TV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEyNjY2ODgsImlhdCI6MTc1MTE4MDI4OCwiY2lkIjo2LCJ1aWQiOjkyNjg1MTU4NCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.7QukHFdSAApW4xp6nTveg-UDadj43N2IKL6sgNVc7vk&offset=10"
+        "url": "http://api.peers.tv/timeshift/babes_tv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEzMTAxMzAsImlhdCI6MTc1MTIyMzczMCwiY2lkIjo2LCJ1aWQiOjkyNjk4MDg0NSwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.c6_hQJcwYQXxCsLsx9tUNkC4tq3wSGhPYcKTSyMIqec&offset=10"
       },
       {
         "name": "Русская ночь",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "XXX",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEyNjY2ODgsImlhdCI6MTc1MTE4MDI4OCwiY2lkIjo2LCJ1aWQiOjkyNjg1MTU4NCwicmVnIjpmYWxzZSwiaXAiOjMxMTMyMTI5NTcsImFkdWx0IjpmYWxzZX0.7QukHFdSAApW4xp6nTveg-UDadj43N2IKL6sgNVc7vk&offset=10"
+        "url": "http://api.peers.tv/timeshift/russkayanoch/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTEzMTAxMzAsImlhdCI6MTc1MTIyMzczMCwiY2lkIjo2LCJ1aWQiOjkyNjk4MDg0NSwicmVnIjpmYWxzZSwiaXAiOjE1ODU2NzQ1NTksImFkdWx0IjpmYWxzZX0.c6_hQJcwYQXxCsLsx9tUNkC4tq3wSGhPYcKTSyMIqec&offset=10"
       },
       {
         "name": "Playboy HD",
