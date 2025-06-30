@@ -2262,16 +2262,16 @@
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/SolarTv.jpg"
   },
   {
-    "name": "113 | COSITEL TV |",
+    "name": "113 | COSITEL TV PUNO |",
     "type": "TV PERU",
-    "url": "https://live-evg25.tv360.bitel.com.pe/bitel/cositel/chunks.m3u8",
-    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/cositel.jpg"
+    "url": "https://live-evg25.tv360.bitel.com.pe/bitel/cositeljuliaca/chunks.m3u8",
+    "img": "https://i.imgur.com/smtfr3v.jpeg"
   },
   {
-    "name": "113.1 | COSITEL PERU TV |",
+    "name": "113.1 | COSITEL TV |",
     "type": "TV PERU",
     "url": "https://vod3.qbi.lat:15123/cositel/tracks-v1a1/mono.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/cositel.jpg"
   },
   {
     "name": "115 | BNB TV |",
@@ -3646,5 +3646,11 @@
     "type": "SERIES",
     "url": "https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8",
     "img": "https://i.imgur.com/aRS9b7q.jpeg"
+  },
+  {
+    "name": "| RETRO X TV |",
+    "type": "SERIES",
+    "url": "https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   }
 ]
