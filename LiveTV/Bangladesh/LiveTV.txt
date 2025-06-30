@@ -969,7 +969,7 @@ Source: https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/hea
 
 Group: English Movie
 Name: Sony Pix
-URL: http://kst.moonplex.net:8080/CH8/tracks-v1a1/mono.m3u8
+URL: http://195.181.169.162/SONY_PIX_HD/index.m3u8?token=test
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -996,6 +996,11 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 Name: My Cinema
 URL: https://mytime-tcl.amagi.tv/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: MNX-HD
+URL: https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
+Logo: https://s4.gifyu.com/images/image8c255c8f4e981429.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 
@@ -1254,8 +1259,13 @@ URL: https://cdn-2.pishow.tv/live/228/228_1.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: Colors
+URL: http://195.181.169.162/COLORS_HD/index.m3u8?token=test
+Logo: https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: &Tv
-URL: http://xott.live:8080/17871787/17871787/109952
+URL: http://195.181.169.162/AND_TV_HD/index.m3u8?token=test
 Logo: https://yt3.ggpht.com/ytc/AKedOLS0XIuM3jYJPnjEFAdoBoqrDkEwev9LQL8HdM4w1Q=s900-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1285,23 +1295,18 @@ Logo: http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Zee tv
-URL: http://m3u.denver1769.fun/port/trex.php?id=280773|User-Agent=Denver1769
+URL: http://195.181.169.162/ZEE_CINEMA_HD/index.m3u8?token=test
 Logo: https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Zee Bolly Wood HD
-URL: http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1446015
+URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Zee One
 URL: https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/1c1ecdc6-be34-4ea2-bde9-8e30209e896b/2.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: Zee Cinema
-URL: http://xott.live:8080/17871787/17871787/109958
-Logo: https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Zee Action
@@ -1315,22 +1320,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Sony Entertainment HD
-URL: http://iptvtree.net:8080/F25093/29838750/4867
+URL: http://195.181.169.162/SONY_HD/index.m3u8?token=test
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: SONY SAB
-URL: http://xott.live:8080/17871787/17871787/66174
+URL: http://195.181.169.162/SONY_MAX_HD/index.m3u8?token=test
 Logo: https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: SONY MAX SD
 URL: http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: SONY MAX HD
-URL: http://xott.live:8080/17871787/17871787/66179
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1858,7 +1858,7 @@ Logo: https://allaboutentertainment786055931.files.wordpress.com/2018/01/mtvbeat
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Mtv
-URL: http://m3u.denver1769.fun/port/trex.php?id=280760|User-Agent=Denver1769
+URL: http://mytv-extra.com:88/live/974653543656/MeaX2XAEDMTiPrD/187154.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -1874,6 +1874,11 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Zing
 URL: https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: PTC Hits
+URL: http://udigitalott.ridsys.in/riptv/live/stream37/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2402,7 +2407,7 @@ Logo: https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Star Sports 1
-URL: https://off1.gogohaalmal.com:1686/hls/star1in.m3u8?md5=0MgUiPupGPhbR7tO5bUT_g&expires=1751201567
+URL: http://xtv.ooo:8080/live/Amjadsc/nwl1234/167575.ts
 Logo: https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2434,6 +2439,16 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 Name: Star Sports Select 1
 URL: http://xott.live:8080/17871787/17871787/167578
 Logo: https://imgur.com/ZTxVYed.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Star Sports Select 1
+URL: http://pankajgorasiya.net/play/live.php?mac=00:1a:79:1C:03:CE&stream=155972&extension=ts&play_token=JD4P7ykzYY
+Logo: https://imgur.com/ZTxVYed.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Star Sports Select 2
+URL: http://pankajgorasiya.net/play/live.php?mac=00:1a:79:1C:03:CE&stream=1114584&extension=ts&play_token=LNvo1XOyv5
+Logo: https://imgur.com/pFgUCZF.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Star Sports Select 2
@@ -2507,7 +2522,7 @@ Logo: https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.j
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Willow HD
-URL: https://off1.gogohaalmal.com:1686/hls/willowusa.m3u8?md5=4y1_snBLS-XKUlhMxiZGDw&expires=1751202735
+URL: http://38.96.178.201/live/WILLOWTV/index.m3u8
 Logo: https://aimages.willow.tv/wlo_logo_200_200.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2537,12 +2552,12 @@ Logo: https://lo1.in/LOGO/CARIBBEAN/FLOWSPORTS2.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Sky Sports Cricket
-URL: http://xott.live:8080/17871787/17871787/167594
+URL: http://muka03.wanicelife.com:8880/live/D12m0405/88855553/2879.ts
 Logo: https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Sky Sports Cricket [2]
-URL: http://xott.live:8080/17871787/17871787/220064
+URL: http://astv.life:8080/anil@123/anil@123/208260
 Logo: https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2561,6 +2576,11 @@ URL: http://xott.live:8080/17871787/17871787/167592
 Logo: https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: Super Sport Cricket [2]
+URL: http://astv.life:8080/anil@123/anil@123/208258
+Logo: https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: Laliga tv
 URL: http://xott.live:8080/17871787/17871787/238479
 Logo: https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200
@@ -2572,12 +2592,12 @@ Logo: https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?wi
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: BeIN Sports 1
-URL: http://xott.live:8080/17871787/17871787/381330
+URL: http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10040
 Logo: https://static.epg.best/qa/beINSports1.qa.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: BeIN Sports 2
-URL: http://xott.live:8080/17871787/17871787/381331
+URL: https://deneme123.parisiptv1.workers.dev/Bein-Sport-2-FHD/tracks-v1a1/mono.m3u8
 Logo: https://static.epg.best/qa/beINSports2.qa.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2594,6 +2614,11 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 Name: BeIN Sports Extra
 URL: https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 Logo: https://static.epg.best/qa/beINSports1.qa.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: RTV Sports
+URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Sport Italia So
@@ -4426,11 +4451,6 @@ Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%2
 --------------------------------------------------
 Name: CLASSIC BOLLYWOOD
 URL: https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
---------------------------------------------------
-Name: BOLLYWOOD HD
-URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/shuvo880/iptv/refs/heads/master/MiME%20(SHUVO)
 --------------------------------------------------

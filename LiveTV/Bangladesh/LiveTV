@@ -368,7 +368,7 @@
   {
     "name": "Star Sports 1",
     "type": "SPORTS",
-    "url": "https://off1.gogohaalmal.com:1686/hls/star1in.m3u8?md5=0MgUiPupGPhbR7tO5bUT_g&expires=1751201567",
+    "url": "http://xtv.ooo:8080/live/Amjadsc/nwl1234/167575.ts",
     "img": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg"
   },
   {
@@ -406,6 +406,18 @@
     "type": "SPORTS",
     "url": "http://xott.live:8080/17871787/17871787/167578",
     "img": "https://imgur.com/ZTxVYed.png"
+  },
+  {
+    "name": "Star Sports Select 1",
+    "type": "SPORTS",
+    "url": "http://pankajgorasiya.net/play/live.php?mac=00:1a:79:1C:03:CE&stream=155972&extension=ts&play_token=JD4P7ykzYY",
+    "img": "https://imgur.com/ZTxVYed.png"
+  },
+  {
+    "name": "Star Sports Select 2",
+    "type": "SPORTS",
+    "url": "http://pankajgorasiya.net/play/live.php?mac=00:1a:79:1C:03:CE&stream=1114584&extension=ts&play_token=LNvo1XOyv5",
+    "img": "https://imgur.com/pFgUCZF.png"
   },
   {
     "name": "Star Sports Select 2",
@@ -494,7 +506,7 @@
   {
     "name": "Willow HD",
     "type": "SPORTS",
-    "url": "https://off1.gogohaalmal.com:1686/hls/willowusa.m3u8?md5=4y1_snBLS-XKUlhMxiZGDw&expires=1751202735",
+    "url": "http://38.96.178.201/live/WILLOWTV/index.m3u8",
     "img": "https://aimages.willow.tv/wlo_logo_200_200.jpg"
   },
   {
@@ -530,13 +542,13 @@
   {
     "name": "Sky Sports Cricket",
     "type": "SPORTS",
-    "url": "http://xott.live:8080/17871787/17871787/167594",
+    "url": "http://muka03.wanicelife.com:8880/live/D12m0405/88855553/2879.ts",
     "img": "https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png"
   },
   {
     "name": "Sky Sports Cricket [2]",
     "type": "SPORTS",
-    "url": "http://xott.live:8080/17871787/17871787/220064",
+    "url": "http://astv.life:8080/anil@123/anil@123/208260",
     "img": "https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png"
   },
   {
@@ -558,6 +570,12 @@
     "img": "https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png"
   },
   {
+    "name": "Super Sport Cricket [2]",
+    "type": "SPORTS",
+    "url": "http://astv.life:8080/anil@123/anil@123/208258",
+    "img": "https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png"
+  },
+  {
     "name": "Laliga tv",
     "type": "SPORTS",
     "url": "http://xott.live:8080/17871787/17871787/238479",
@@ -572,13 +590,13 @@
   {
     "name": "BeIN Sports 1",
     "type": "SPORTS",
-    "url": "http://xott.live:8080/17871787/17871787/381330",
+    "url": "http://31.43.191.210:8080/cs22cs.suroot/4amFSTThYHGGS2223/10040",
     "img": "https://static.epg.best/qa/beINSports1.qa.png"
   },
   {
     "name": "BeIN Sports 2",
     "type": "SPORTS",
-    "url": "http://xott.live:8080/17871787/17871787/381331",
+    "url": "https://deneme123.parisiptv1.workers.dev/Bein-Sport-2-FHD/tracks-v1a1/mono.m3u8",
     "img": "https://static.epg.best/qa/beINSports2.qa.png"
   },
   {
@@ -598,6 +616,12 @@
     "type": "SPORTS",
     "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
     "img": "https://static.epg.best/qa/beINSports1.qa.png"
+  },
+  {
+    "name": "RTV Sports",
+    "type": "SPORTS",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Sport Italia So",
@@ -1106,7 +1130,7 @@
   {
     "name": "Mtv",
     "type": "MUSIC",
-    "url": "http://m3u.denver1769.fun/port/trex.php?id=280760|User-Agent=Denver1769",
+    "url": "http://mytv-extra.com:88/live/974653543656/MeaX2XAEDMTiPrD/187154.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1125,6 +1149,12 @@
     "name": "Zing",
     "type": "MUSIC",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png"
+  },
+  {
+    "name": "PTC Hits",
+    "type": "MUSIC",
+    "url": "http://udigitalott.ridsys.in/riptv/live/stream37/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/Zing_2011_logo.png"
   },
   {
@@ -1206,9 +1236,15 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524"
   },
   {
+    "name": "Colors",
+    "type": "Hindi",
+    "url": "http://195.181.169.162/COLORS_HD/index.m3u8?token=test",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/13/Colors-cineplex.png?20211203010524"
+  },
+  {
     "name": "&Tv",
     "type": "Hindi",
-    "url": "http://xott.live:8080/17871787/17871787/109952",
+    "url": "http://195.181.169.162/AND_TV_HD/index.m3u8?token=test",
     "img": "https://yt3.ggpht.com/ytc/AKedOLS0XIuM3jYJPnjEFAdoBoqrDkEwev9LQL8HdM4w1Q=s900-c-k-c0x00ffffff-no-rj"
   },
   {
@@ -1244,13 +1280,13 @@
   {
     "name": "Zee tv",
     "type": "Hindi",
-    "url": "http://m3u.denver1769.fun/port/trex.php?id=280773|User-Agent=Denver1769",
+    "url": "http://195.181.169.162/ZEE_CINEMA_HD/index.m3u8?token=test",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png"
   },
   {
     "name": "Zee Bolly Wood HD",
     "type": "Hindi",
-    "url": "http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1446015",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png"
   },
   {
@@ -1258,12 +1294,6 @@
     "type": "Hindi",
     "url": "https://ef56ef401101403a8b06f1dec29ef1eb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ZeeOne/1c1ecdc6-be34-4ea2-bde9-8e30209e896b/2.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png"
-  },
-  {
-    "name": "Zee Cinema",
-    "type": "Hindi",
-    "url": "http://xott.live:8080/17871787/17871787/109958",
-    "img": "https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg"
   },
   {
     "name": "Zee Action",
@@ -1280,25 +1310,19 @@
   {
     "name": "Sony Entertainment HD",
     "type": "Hindi",
-    "url": "http://iptvtree.net:8080/F25093/29838750/4867",
+    "url": "http://195.181.169.162/SONY_HD/index.m3u8?token=test",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png"
   },
   {
     "name": "SONY SAB",
     "type": "Hindi",
-    "url": "http://xott.live:8080/17871787/17871787/66174",
+    "url": "http://195.181.169.162/SONY_MAX_HD/index.m3u8?token=test",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/SonySABlogo.png"
   },
   {
     "name": "SONY MAX SD",
     "type": "Hindi",
     "url": "http://kst.moonplex.net:8080/CH1/tracks-v1a1/mono.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png"
-  },
-  {
-    "name": "SONY MAX HD",
-    "type": "Hindi",
-    "url": "http://xott.live:8080/17871787/17871787/66179",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png"
   },
   {
@@ -1310,7 +1334,7 @@
   {
     "name": "Sony Pix",
     "type": "English Movie",
-    "url": "http://kst.moonplex.net:8080/CH8/tracks-v1a1/mono.m3u8",
+    "url": "http://195.181.169.162/SONY_PIX_HD/index.m3u8?token=test",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Pix.jpeg"
   },
   {
@@ -1342,6 +1366,12 @@
     "type": "English Movie",
     "url": "https://mytime-tcl.amagi.tv/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"
+  },
+  {
+    "name": "MNX-HD",
+    "type": "English Movie",
+    "url": "https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8",
+    "img": "https://s4.gifyu.com/images/image8c255c8f4e981429.png"
   },
   {
     "name": "Dava",
@@ -3291,12 +3321,6 @@
     "name": "CLASSIC BOLLYWOOD",
     "type": "Uncategorized",
     "url": "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BOLLYWOOD HD",
-    "type": "Uncategorized",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
