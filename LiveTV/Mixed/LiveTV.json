@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-29 21:53:15",
+  "date": "2025-06-30 07:18:15",
   "channels": {
     "STREAMING": [
       {
@@ -947,6 +947,13 @@
         "url": "https://webtvstream.bhtelecom.ba/hrt3.m3u8"
       },
       {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",HRT 4",
+        "logo": "https://i.imgur.com/S8qqiNN.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd"
+      },
+      {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RTRS Plus",
         "logo": "https://i.imgur.com/wB2P0S3.png",
         "group": "General",
@@ -1270,11 +1277,18 @@
         "url": "https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd"
       },
       {
-        "name": "CMC TV",
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",CMC TV",
         "logo": "https://i.imgur.com/1AgOvn4.png",
         "group": "Music",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://stream.cmctv.hr:49998/cmc/live.m3u8"
+      },
+      {
+        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Jugoton TV",
+        "logo": "https://i.imgur.com/NoDaRlq.png",
+        "group": "Music",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://stream.cmctv.hr:49998/jugoton/live.m3u8"
       },
       {
         "name": "Top TV",
@@ -1417,13 +1431,6 @@
         "url": "https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Star Folk Televizija",
-        "logo": "https://i.imgur.com/BFepEdF.png",
-        "group": "Music",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "https://live.muzickatv.mk/live/StarMusic.m3u8"
-      },
-      {
         "name": "Kronehit TV",
         "logo": "https://i.imgur.com/E14s2r8.png",
         "group": "Music",
@@ -1466,6 +1473,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://jmp2.uk/sam-DE2600003TR.m3u8"
+      },
+      {
+        "name": "MONI TV",
+        "logo": "https://cdn.m3u.cl/logo/1300_Moni_TV.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "https://tv.arkeo.cl:19360/8134/8134.m3u8"
       },
       {
         "name": "PUTERA PERLIS MULTIMEDIA",
@@ -2219,21 +2233,21 @@
         "logo": "https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png",
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL"
+        "url": "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8"
       },
       {
         "name": "Retro Plus TV 2",
         "logo": "https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png",
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/retroplustv2/playlist.m3u8?PlaylistM3UCL"
+        "url": "https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8"
       },
       {
         "name": "Retro Plus TV 3",
         "logo": "https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png",
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8?PlaylistM3UCL"
+        "url": "https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8"
       },
       {
         "name": "VClassicTV",
@@ -2255,13 +2269,6 @@
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL"
-      },
-      {
-        "name": "Molina TV",
-        "logo": "https://cdn.m3u.cl/logo/1249_Molina_TV.png",
-        "group": "NACIONAL",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL"
       },
       {
         "name": "Nova TV Canal 7",
@@ -2327,256 +2334,14 @@
         "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8"
       }
     ],
-    "DEPORTES": [
-      {
-        "name": "TNT SPORTS P MGO",
-        "logo": "https://i.ibb.co/sp4wTqb/descarga.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34676"
-      },
-      {
-        "name": "TNT SPORTS P2 MGO",
-        "logo": "http://miarea.vip:8080/images/77486a5c8373a25a31a2f5f7c66ccdec.png group-title=",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34675"
-      },
-      {
-        "name": "TNT SPORTS PREMIUM 1",
-        "logo": "https://i.ibb.co/vw4KkVP/TNTsport-P.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/248243.m3u8"
-      },
-      {
-        "name": "TNT SPORTS PREMIUM 2",
-        "logo": "https://i.ibb.co/vw4KkVP/TNTsport-P.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/248242.m3u8"
-      },
-      {
-        "name": "TNT SPORTS PREMIUM 3",
-        "logo": "https://i.ibb.co/vw4KkVP/TNTsport-P.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/247844.m3u8"
-      },
-      {
-        "name": "TNT SPORTS PREMIUM 4",
-        "logo": "https://i.ibb.co/vw4KkVP/TNTsport-P.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/86.m3u8"
-      },
-      {
-        "name": "TNT SPORTS PREMIUM 5",
-        "logo": "https://i.ibb.co/vw4KkVP/TNTsport-P.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/88.m3u8"
-      },
-      {
-        "name": "TNT SPORTS PREMIUM 6",
-        "logo": "https://i.ibb.co/vw4KkVP/TNTsport-P.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/93.m3u8"
-      },
-      {
-        "name": "TNT SPORTS PREMIUM",
-        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F56%2F18567794_A2C66547B8F06760.png&height=60&resize=RATIO&format=PNG",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/123886"
-      },
-      {
-        "name": "TNT SPORTS 1",
-        "logo": "https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/61274.m3u8"
-      },
-      {
-        "name": "TNT SPORTS 2",
-        "logo": "https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/98.m3u8"
-      },
-      {
-        "name": "TNT Sports (ARG)",
-        "logo": "https://img.hidra.app/deportes/tntsport.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34683"
-      },
-      {
-        "name": "ESPN PREMIUM",
-        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54410.m3u8"
-      },
-      {
-        "name": "ESPN",
-        "logo": "https://i.ibb.co/k5WgfJ1/espn.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://cdn-live.mundogo.cl/espn/espn.mpd"
-      },
-      {
-        "name": "ESPN 2",
-        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://cdn-live.mundogo.cl/espn2/espn2.mpd"
-      },
-      {
-        "name": "ESPN 3",
-        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://cdn-live.mundogo.cl/espn3/espn3.mpd"
-      },
-      {
-        "name": "ESPN 4",
-        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea10%2FIMAGES%2F00%2F10%2F11%2F10113696_046392A4A17B42D1.png&height=60&resize=RATIO&format=PNG",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://cdn-live.mundogo.cl/espn4/espn4.mpd"
-      },
-      {
-        "name": "ESPN 5",
-        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120538_C879B6958D9AC767.png&height=60&resize=RATIO&format=PNG",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://179.49.163.34:45000/play/a02a/index.m3u8"
-      },
-      {
-        "name": "ESPN 6",
-        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120540_B7604BB1E7F6FE82.png&height=60&resize=RATIO&format=PNG",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://179.49.163.34:45000/play/a01s/index.m3u8"
-      },
-      {
-        "name": "ESPN 7",
-        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120542_D5E98ACC166EE489.png&height=60&resize=RATIO&format=PNG",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54411.m3u8"
-      },
-      {
-        "name": "TYC SPORTS",
-        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F57%2F6577079_6A66E5AB224CD2F5.png&height=60&resize=RATIO&format=PNG",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://cdn-live.mundogo.cl/tycsports/tycsports.mpd"
-      },
-      {
-        "name": "FOX SPORT",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://181.78.27.128:8000/play/a02t/index.m3u8"
-      },
-      {
-        "name": "FOX SPORTS 2",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://181.78.27.128:8000/play/a02r/index.m3u8"
-      },
-      {
-        "name": "FOX SPORT 3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/250px-Fox_Sports_3_Argentina_2023.svg.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://181.78.27.128:8000/play/a02s/index.m3u8"
-      },
-      {
-        "name": "GOL TV",
-        "logo": "https://logowik.com/content/uploads/images/goltv2532.jpg",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://181.78.27.128:8000/play/a02u/index.m3u8"
-      },
-      {
-        "name": "L1MAX",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/63061.m3u8"
-      },
-      {
-        "name": "MOVISTAR DEPORTES",
-        "logo": "https://img.hidra.app/deportes/movistardeportes.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34704"
-      },
-      {
-        "name": "DAZN 1",
-        "logo": "http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEisfpLaNpQzT32Vpr_YWSTVRhdcKD1L3N_4aXrW9We6KE3pPWkY0_hR3RbuHE5XsX8.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335431"
-      },
-      {
-        "name": "DAZN 2",
-        "logo": "http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzffIRKJOONPgvze0v23iCjx7Eaf1rNr19zNergL58Ug.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335434"
-      },
-      {
-        "name": "DAZN 3",
-        "logo": "http://hidra.live:80/images/IPipT31tafaSLBzN7UqRBWKd18SmX-NzH-YBR2p5orFKhgsGa4KM8VoC-wcpWC8lK0JLfgwZQDo1t7_MT0KM-A.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335436"
-      },
-      {
-        "name": "DAZN 4",
-        "logo": "http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzffIRKJOONPgvze0v23iC63f1PKT3TPJublQWXeZZEQ.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335438"
-      },
-      {
-        "name": "DIRECTV SPORTS",
-        "logo": "https://i.ibb.co/fMh1j6W/610.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://200.60.124.19:29000/play/a081/index.m3u8"
-      },
-      {
-        "name": "DIRECTV SPORTS 2",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/473.m3u8"
-      },
-      {
-        "name": "WIN SPORTS +",
-        "logo": "https://img.hidra.app/deportes/winsportsplus.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34691"
-      }
-    ],
-    "→ DEPORTES LATINOS ←": [
-      {
-        "name": "DEP• DIRECTV SPORTS+ AR (HD) »2«",
-        "logo": "https://i.postimg.cc/7Lb92ddX/directvsports.png",
-        "group": "→ DEPORTES LATINOS ←",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/466.m3u8"
-      }
-    ],
     "CINE Y SERIES": [
+      {
+        "name": "PRIDE TV",
+        "logo": "https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8"
+      },
       {
         "name": "A3SERIES",
         "logo": "https://mma.prnewswire.com/media/323322/1498622_logo_atreseries_Logo.jpg?p=facebook",
@@ -2634,11 +2399,11 @@
         "url": "http://38.41.8.1:8000/play/a066"
       },
       {
-        "name": "PRIDE TV",
-        "logo": "https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png",
+        "name": "+CINE",
+        "logo": "https://cdn.m3u.cl/logo/1435__Cine.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8?PlaylistM3UCL"
+        "url": "https://tv.arkeo.cl:19360/8128/8128.m3u8"
       },
       {
         "name": "STAR CHANNEL",
@@ -2898,6 +2663,255 @@
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54452.m3u8"
+      }
+    ],
+    "DEPORTES": [
+      {
+        "name": "TNT SPORTS P MGO",
+        "logo": "https://i.ibb.co/sp4wTqb/descarga.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34676"
+      },
+      {
+        "name": "TNT SPORTS P2 MGO",
+        "logo": "http://miarea.vip:8080/images/77486a5c8373a25a31a2f5f7c66ccdec.png group-title=",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34675"
+      },
+      {
+        "name": "TNT SPORTS PREMIUM 1",
+        "logo": "https://i.ibb.co/vw4KkVP/TNTsport-P.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/248243.m3u8"
+      },
+      {
+        "name": "TNT SPORTS PREMIUM 2",
+        "logo": "https://i.ibb.co/vw4KkVP/TNTsport-P.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/248242.m3u8"
+      },
+      {
+        "name": "TNT SPORTS PREMIUM 3",
+        "logo": "https://i.ibb.co/vw4KkVP/TNTsport-P.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/247844.m3u8"
+      },
+      {
+        "name": "TNT SPORTS PREMIUM 4",
+        "logo": "https://i.ibb.co/vw4KkVP/TNTsport-P.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/86.m3u8"
+      },
+      {
+        "name": "TNT SPORTS PREMIUM 5",
+        "logo": "https://i.ibb.co/vw4KkVP/TNTsport-P.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/88.m3u8"
+      },
+      {
+        "name": "TNT SPORTS PREMIUM 6",
+        "logo": "https://i.ibb.co/vw4KkVP/TNTsport-P.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/93.m3u8"
+      },
+      {
+        "name": "TNT SPORTS PREMIUM",
+        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F56%2F18567794_A2C66547B8F06760.png&height=60&resize=RATIO&format=PNG",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/123886"
+      },
+      {
+        "name": "TNT SPORTS 1",
+        "logo": "https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/61274.m3u8"
+      },
+      {
+        "name": "TNT SPORTS 2",
+        "logo": "https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/98.m3u8"
+      },
+      {
+        "name": "TNT Sports (ARG)",
+        "logo": "https://img.hidra.app/deportes/tntsport.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34683"
+      },
+      {
+        "name": "ESPN PREMIUM",
+        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F11%2F00%2F11002400_AD584A58C7FE9D78.png&height=60&resize=RATIO&format=PNG",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54410.m3u8"
+      },
+      {
+        "name": "ESPN",
+        "logo": "https://i.ibb.co/k5WgfJ1/espn.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "https://cdn-live.mundogo.cl/espn/espn.mpd"
+      },
+      {
+        "name": "ESPN 2",
+        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383310_007CE9E18A928D1C.png&height=60&resize=RATIO&format=PNG",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "https://cdn-live.mundogo.cl/espn2/espn2.mpd"
+      },
+      {
+        "name": "ESPN 3",
+        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F38%2F6383311_78D38321059792D4.png&height=60&resize=RATIO&format=PNG",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "https://cdn-live.mundogo.cl/espn3/espn3.mpd"
+      },
+      {
+        "name": "ESPN 4",
+        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea10%2FIMAGES%2F00%2F10%2F11%2F10113696_046392A4A17B42D1.png&height=60&resize=RATIO&format=PNG",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "https://cdn-live.mundogo.cl/espn4/espn4.mpd"
+      },
+      {
+        "name": "ESPN 5",
+        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120538_C879B6958D9AC767.png&height=60&resize=RATIO&format=PNG",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://179.49.163.34:45000/play/a02a/index.m3u8"
+      },
+      {
+        "name": "ESPN 6",
+        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120540_B7604BB1E7F6FE82.png&height=60&resize=RATIO&format=PNG",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://179.49.163.34:45000/play/a01s/index.m3u8"
+      },
+      {
+        "name": "ESPN 7",
+        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F18%2F12%2F18120542_D5E98ACC166EE489.png&height=60&resize=RATIO&format=PNG",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54411.m3u8"
+      },
+      {
+        "name": "TYC SPORTS",
+        "logo": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F57%2F6577079_6A66E5AB224CD2F5.png&height=60&resize=RATIO&format=PNG",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "https://cdn-live.mundogo.cl/tycsports/tycsports.mpd"
+      },
+      {
+        "name": "FOX SPORT",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://181.78.27.128:8000/play/a02t/index.m3u8"
+      },
+      {
+        "name": "FOX SPORTS 2",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://181.78.27.128:8000/play/a02r/index.m3u8"
+      },
+      {
+        "name": "FOX SPORT 3",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/250px-Fox_Sports_3_Argentina_2023.svg.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://181.78.27.128:8000/play/a02s/index.m3u8"
+      },
+      {
+        "name": "GOL TV",
+        "logo": "https://logowik.com/content/uploads/images/goltv2532.jpg",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://181.78.27.128:8000/play/a02u/index.m3u8"
+      },
+      {
+        "name": "L1MAX",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/63061.m3u8"
+      },
+      {
+        "name": "MOVISTAR DEPORTES",
+        "logo": "https://img.hidra.app/deportes/movistardeportes.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34704"
+      },
+      {
+        "name": "DAZN 1",
+        "logo": "http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEisfpLaNpQzT32Vpr_YWSTVRhdcKD1L3N_4aXrW9We6KE3pPWkY0_hR3RbuHE5XsX8.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335431"
+      },
+      {
+        "name": "DAZN 2",
+        "logo": "http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzffIRKJOONPgvze0v23iCjx7Eaf1rNr19zNergL58Ug.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335434"
+      },
+      {
+        "name": "DAZN 3",
+        "logo": "http://hidra.live:80/images/IPipT31tafaSLBzN7UqRBWKd18SmX-NzH-YBR2p5orFKhgsGa4KM8VoC-wcpWC8lK0JLfgwZQDo1t7_MT0KM-A.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335436"
+      },
+      {
+        "name": "DAZN 4",
+        "logo": "http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzffIRKJOONPgvze0v23iC63f1PKT3TPJublQWXeZZEQ.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/335438"
+      },
+      {
+        "name": "DIRECTV SPORTS",
+        "logo": "https://i.ibb.co/fMh1j6W/610.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/58289.m3u8"
+      },
+      {
+        "name": "DIRECTV SPORTS 2",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/473.m3u8"
+      },
+      {
+        "name": "WIN SPORTS +",
+        "logo": "https://img.hidra.app/deportes/winsportsplus.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34691"
+      }
+    ],
+    "→ DEPORTES LATINOS ←": [
+      {
+        "name": "DEP• DIRECTV SPORTS+ AR (HD) »2«",
+        "logo": "https://i.postimg.cc/7Lb92ddX/directvsports.png",
+        "group": "→ DEPORTES LATINOS ←",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/466.m3u8"
       }
     ],
     "INFANTILES": [

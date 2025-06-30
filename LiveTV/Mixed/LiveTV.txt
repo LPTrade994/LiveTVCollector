@@ -753,6 +753,11 @@ Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/ip
 --------------------------------------------------
 
 Group: CINE Y SERIES
+Name: PRIDE TV
+URL: https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8
+Logo: https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
 Name: A3SERIES
 URL: http://179.49.163.34:45000/play/a038/index.m3u8
 Logo: https://mma.prnewswire.com/media/323322/1498622_logo_atreseries_Logo.jpg?p=facebook
@@ -793,9 +798,9 @@ URL: http://38.41.8.1:8000/play/a066
 Logo: https://th.bing.com/th/id/R.7446f227527b5082427fc9e32ba65a8e?rik=10qKysXSMsYRKQ&pid=ImgRaw&r=0
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
-Name: PRIDE TV
-URL: https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8?PlaylistM3UCL
-Logo: https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png
+Name: +CINE
+URL: https://tv.arkeo.cl:19360/8128/8128.m3u8
+Logo: https://cdn.m3u.cl/logo/1435__Cine.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: STAR CHANNEL
@@ -1272,7 +1277,7 @@ Logo: http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzff
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: DIRECTV SPORTS
-URL: http://200.60.124.19:29000/play/a081/index.m3u8
+URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/58289.m3u8
 Logo: https://i.ibb.co/fMh1j6W/610.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -1524,6 +1529,11 @@ Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/ip
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3
 URL: https://webtvstream.bhtelecom.ba/hrt3.m3u8
 Logo: https://i.imgur.com/nK7WEOM.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 4
+URL: https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+Logo: https://i.imgur.com/S8qqiNN.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",RTRS Plus
@@ -4466,9 +4476,14 @@ URL: https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv
 Logo: https://i.imgur.com/zhKxthr.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
-Name: CMC TV
+Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",CMC TV
 URL: https://stream.cmctv.hr:49998/cmc/live.m3u8
 Logo: https://i.imgur.com/1AgOvn4.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",Jugoton TV
+URL: https://stream.cmctv.hr:49998/jugoton/live.m3u8
+Logo: https://i.imgur.com/NoDaRlq.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: Top TV
@@ -4569,11 +4584,6 @@ Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/ip
 Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",bravo! TV
 URL: https://streaming.social3.hr/bravoTVkdjd7djd/XAbSERW5p3/2.m3u8
 Logo: https://i.imgur.com/qC0s2Yo.png
-Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
---------------------------------------------------
-Name: like Gecko) Chrome/81.0.4044.138 Safari/537.36",Star Folk Televizija
-URL: https://live.muzickatv.mk/live/StarMusic.m3u8
-Logo: https://i.imgur.com/BFepEdF.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: Kronehit TV
@@ -4684,17 +4694,17 @@ Logo: https://cdn.m3u.cl/logo/77_TVR.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: Retro Plus TV
-URL: https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL
+URL: https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 Logo: https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: Retro Plus TV 2
-URL: https://live20.bozztv.com/akamaissh101/ssh101/retroplustv2/playlist.m3u8?PlaylistM3UCL
+URL: https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 Logo: https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: Retro Plus TV 3
-URL: https://live20.bozztv.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8?PlaylistM3UCL
+URL: https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 Logo: https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -4711,11 +4721,6 @@ Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 Name: PLANETA TV
 URL: https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
 Logo: https://cdn.m3u.cl/logo/1014_PlanetaTV.png
-Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
-Name: Molina TV
-URL: https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL
-Logo: https://cdn.m3u.cl/logo/1249_Molina_TV.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: Nova TV Canal 7
@@ -11519,6 +11524,11 @@ Name: Euronews
 URL: https://jmp2.uk/sam-DE2600003TR.m3u8
 Logo: https://i.imgur.com/w4hjRV0.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: MONI TV
+URL: https://tv.arkeo.cl:19360/8134/8134.m3u8
+Logo: https://cdn.m3u.cl/logo/1300_Moni_TV.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: PUTERA PERLIS MULTIMEDIA
 URL: http://youtube
