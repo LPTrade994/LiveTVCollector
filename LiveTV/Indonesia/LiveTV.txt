@@ -113,7 +113,7 @@ URL: https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3
 Logo: https://alkhalifitv.github.io/TV/big/cartoonnetwork.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
-Name: Animax Asia
+Name: Animax
 URL: https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 Logo: https://alkhalifitv.github.io/TV/big/animax.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
@@ -4601,11 +4601,6 @@ URL: http://op-group1-swiftservesd-1.dens.tv/s/s34/01.m3u8
 Logo: https://alkhalifitv.github.io/TV/big/thrill.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
-Name: My Cinema
-URL: http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
-Logo: https://alkhalifitv.github.io/TV/big/mycinema.png
-Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
---------------------------------------------------
 Name: My Cinema Asia
 URL: http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
 Logo: https://alkhalifitv.github.io/TV/big/mycinemaasia.png
@@ -4614,11 +4609,6 @@ Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playl
 Name: My Cinema Europe
 URL: http://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 Logo: https://alkhalifitv.github.io/TV/big/mycinemaeurope.png
-Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
---------------------------------------------------
-Name: My Family Channel
-URL: http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
-Logo: https://alkhalifitv.github.io/TV/big/myfamily.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
 Name: Rock Action
@@ -4955,6 +4945,11 @@ Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
 
 Group: HIBURAN
+Name: ATV
+URL: https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
+Logo: http://alkhalifitv.github.io/TV/big/atv.png
+Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
+--------------------------------------------------
 Name: Rock Entertainment
 URL: http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8
 Logo: https://alkhalifitv.github.io/TV/big/rock_ent.png
@@ -7438,7 +7433,7 @@ Logo: https://alkhalifitv.github.io/TV/big/jowo.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
 Name: Da Ai TV
-URL: http://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
+URL: http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8
 Logo: https://alkhalifitv.github.io/TV/big/daaitv.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
@@ -9311,6 +9306,16 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: Rock Entertainment
 URL: https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash/Rockentertainment.mpd
 Logo: https://bit.ly/3GDKsO7
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: My Cinema
+URL: http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+Logo: https://bit.ly/3GExy24
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: My Family Channel
+URL: http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
+Logo: https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: AXN

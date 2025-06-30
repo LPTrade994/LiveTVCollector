@@ -363,6 +363,10 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash/GalaxyPre
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash/Rockaction.mpd
 #EXTINF:-1 tvg-logo="https://bit.ly/3GDKsO7" group-title="Movies",Rock Entertainment
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash/Rockentertainment.mpd
+#EXTINF:-1 tvg-logo="https://bit.ly/3GExy24" group-title="Movies",My Cinema
+http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png" group-title="Movies",My Family Channel
+http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/axn.png" group-title="Movies",AXN
 https://d1abp075u76pbq.cloudfront.net/live/eds/AXN/sa_dash/AXN.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://github.com/Qingtvnew/test/raw/main/Thrill.png" group-title="Movies",Thrill
@@ -3791,7 +3795,7 @@ http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/cartoonnetwork.png" group-title="ANAK",Cartoon Network
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/animax.png" group-title="ANAK",Animax Asia
+#EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/animax.png" group-title="ANAK",Animax
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/aniplus.png" group-title="ANAK",ANIPLUS
 http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8
@@ -3851,14 +3855,10 @@ http://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
 http://cdn4.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/thrill.png" group-title="FILM",Thrill
 http://op-group1-swiftservesd-1.dens.tv/s/s34/01.m3u8
-#EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/mycinema.png" group-title="FILM",My Cinema
-http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/mycinemaasia.png" group-title="FILM",My Cinema Asia
 http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/mycinemaeurope.png" group-title="FILM",My Cinema Europe
 http://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
-#EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/myfamily.png" group-title="FILM",My Family Channel
-http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/rock_action.png" group-title="FILM",Rock Action
 http://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/tvnmovies.png" group-title="FILM",tvN Movies Asia HD
@@ -4468,7 +4468,9 @@ http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/jowo.png" group-title="LOKAL",Jowo Channel
 https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/daaitv.png" group-title="LOKAL",Da Ai TV
-http://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
+http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8
+#EXTINF:-1 tvg-logo="http://alkhalifitv.github.io/TV/big/atv.png" group-title="HIBURAN",ATV
+https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/rock_ent.png" group-title="HIBURAN",Rock Entertainment
 http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8
 #EXTINF:-1 tvg-logo="https://alkhalifitv.github.io/TV/big/kix.png" group-title="HIBURAN",KIX

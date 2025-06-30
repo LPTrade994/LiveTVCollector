@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-29 21:59:15",
+  "date": "2025-06-30 07:39:34",
   "channels": {
     "INDONESIA": [
       {
@@ -1277,6 +1277,20 @@
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash/Rockentertainment.mpd"
+      },
+      {
+        "name": "My Cinema",
+        "logo": "https://bit.ly/3GExy24",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8"
+      },
+      {
+        "name": "My Family Channel",
+        "logo": "https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8"
       },
       {
         "name": "AXN",
@@ -13335,7 +13349,7 @@
         "url": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8"
       },
       {
-        "name": "Animax Asia",
+        "name": "Animax",
         "logo": "https://alkhalifitv.github.io/TV/big/animax.png",
         "group": "ANAK",
         "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
@@ -13549,13 +13563,6 @@
         "url": "http://op-group1-swiftservesd-1.dens.tv/s/s34/01.m3u8"
       },
       {
-        "name": "My Cinema",
-        "logo": "https://alkhalifitv.github.io/TV/big/mycinema.png",
-        "group": "FILM",
-        "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
-        "url": "http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8"
-      },
-      {
         "name": "My Cinema Asia",
         "logo": "https://alkhalifitv.github.io/TV/big/mycinemaasia.png",
         "group": "FILM",
@@ -13568,13 +13575,6 @@
         "group": "FILM",
         "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
         "url": "http://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8"
-      },
-      {
-        "name": "My Family Channel",
-        "logo": "https://alkhalifitv.github.io/TV/big/myfamily.png",
-        "group": "FILM",
-        "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
-        "url": "http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8"
       },
       {
         "name": "Rock Action",
@@ -15757,10 +15757,17 @@
         "logo": "https://alkhalifitv.github.io/TV/big/daaitv.png",
         "group": "LOKAL",
         "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
-        "url": "http://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8"
+        "url": "http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8"
       }
     ],
     "HIBURAN": [
+      {
+        "name": "ATV",
+        "logo": "http://alkhalifitv.github.io/TV/big/atv.png",
+        "group": "HIBURAN",
+        "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
+        "url": "https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd"
+      },
       {
         "name": "Rock Entertainment",
         "logo": "https://alkhalifitv.github.io/TV/big/rock_ent.png",

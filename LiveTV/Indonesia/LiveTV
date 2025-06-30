@@ -1092,6 +1092,18 @@
     "img": "https://bit.ly/3GDKsO7"
   },
   {
+    "name": "My Cinema",
+    "type": "Movies",
+    "url": "http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8",
+    "img": "https://bit.ly/3GExy24"
+  },
+  {
+    "name": "My Family Channel",
+    "type": "Movies",
+    "url": "http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8",
+    "img": "https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png"
+  },
+  {
     "name": "AXN",
     "type": "Movies",
     "url": "https://d1abp075u76pbq.cloudfront.net/live/eds/AXN/sa_dash/AXN.mpd|Referer=https://www.visionplus.id/",
@@ -11376,7 +11388,7 @@
     "img": "https://alkhalifitv.github.io/TV/big/cartoonnetwork.png"
   },
   {
-    "name": "Animax Asia",
+    "name": "Animax",
     "type": "ANAK",
     "url": "https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd",
     "img": "https://alkhalifitv.github.io/TV/big/animax.png"
@@ -11556,12 +11568,6 @@
     "img": "https://alkhalifitv.github.io/TV/big/thrill.png"
   },
   {
-    "name": "My Cinema",
-    "type": "FILM",
-    "url": "http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8",
-    "img": "https://alkhalifitv.github.io/TV/big/mycinema.png"
-  },
-  {
     "name": "My Cinema Asia",
     "type": "FILM",
     "url": "http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8",
@@ -11572,12 +11578,6 @@
     "type": "FILM",
     "url": "http://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8",
     "img": "https://alkhalifitv.github.io/TV/big/mycinemaeurope.png"
-  },
-  {
-    "name": "My Family Channel",
-    "type": "FILM",
-    "url": "http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8",
-    "img": "https://alkhalifitv.github.io/TV/big/myfamily.png"
   },
   {
     "name": "Rock Action",
@@ -13406,8 +13406,14 @@
   {
     "name": "Da Ai TV",
     "type": "LOKAL",
-    "url": "http://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8",
+    "url": "http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8",
     "img": "https://alkhalifitv.github.io/TV/big/daaitv.png"
+  },
+  {
+    "name": "ATV",
+    "type": "HIBURAN",
+    "url": "https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd",
+    "img": "http://alkhalifitv.github.io/TV/big/atv.png"
   },
   {
     "name": "Rock Entertainment",
