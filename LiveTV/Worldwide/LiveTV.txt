@@ -1722,11 +1722,6 @@ URL: http://cdn.tvmatic.net/fight.m3u8
 Logo: https://i.imgur.com/l5PBcKN.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: CazéTV
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1751266804/ei/lOFhaLO2OveL9cYP0NC1yAw/ip/138.117.221.191/id/8OKw4TCT1w4.2~45367092/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ctier/SPL/playlist_duration/30/manifest_duration/30/gcr/br/bui/AY1jyLMyt_vWPhWOKcSFlisnaRGerBCznMegT_Cxn6hwIZjvtgZd3870asaplf0GYzuY7OA5rfDU0i37/spc/l3OVKUovg-tCm00kRnDBz10Kiyi95tCFPvSUp8-J4SM65pjs09VpvBed3JETXeLGVwhs-57Y--4/vprv/1/playlist_type/DVR/initcwndbps/2062500/met/1751245205,/mh/__/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1751244758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ctier,playlist_duration,manifest_duration,gcr,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgXW4QytPm75moZ_1Xq0usaK2YnfOu8fbWQqJYZqzdnE8CIEPER7bCShqJzNv9ZOSyAp0cFlFpHvLPWrAKF5ehN7t2/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgHDmjqCMdj3VLKOM-Ndo0OS1CsntQsspdf1710D9GwVwCIQDCEjSTa8Itche3u4s-NLVr-hrZzR1qvQq2xMaCJE-N0Q%3D%3D/playlist/index.m3u8
-Logo: https://yt3.googleusercontent.com/4oHE9WPNm2O_OCXfv-z1ikfOHAWLe46KViKgZNwBGiRQKfLDPlHmnBQ9rbuXvWasG4YixvFA=s176-c-k-c0x00ffffff-no-rj
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 
 Group: FILM
 Name: SONY MAX
@@ -2302,7 +2297,7 @@ Logo: https://imgur.com/TRu90uI
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: PowerRangers TV
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1751266809/ei/meFhaI3oM-W59cYP2tO0iA8/ip/138.117.221.191/id/0m_u1_2g1Pk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLOw74BfDxje8Y0ozARxdSHY1GL_GCablB-zEokoGrAEaMG7FQ2Vzv-rH3ymXrwS5i9M7EaSP7bb/spc/l3OVKY3GJThlgXUTYncdqQPhZ9YwPwaCQDbYaghlv5XKqJjyp1TvEjaDZbe9cDuqSC7Ew9GnPLw/vprv/1/playlist_type/DVR/initcwndbps/2062500/met/1751245210,/mh/79/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51476174/mt/1751244758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgbzdW4Xtw6LGmPLIqE8FUpCGe9WONafsrV3z3KssDOeUCIQCZe0yzXnGcNgrjrBu_UZznaygvCBiB5jqwYMn1Bvd6SQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMy33YsPpD7I92q4izq82eJdokM-GWKt6BqTGlGVk4wvAiEAmWBFLZG5OfOwC4Wn5uEiirpVB7nV9RlQz-CoY2zlomw%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1751292008/ei/CERiaPm-G9ua9cYPqLTswQg/ip/138.117.221.191/id/yggj4eS2NOI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLNdTC297cTYrYN7ij9XE9KPAEEaziTCgCRv9c0dvDYKLJzyVSxnl_LcvWXi14QtDwlx63S5fVx2/spc/l3OVKeStc5CmQ6NNp4nYAQ2Yj8Sk7yPZsCsr-YzSMxHOp3Qhr8HSPvZ2fUNXzPW_RE7A4K9j7gA/vprv/1/playlist_type/DVR/initcwndbps/2182500/met/1751270409,/mh/SX/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1751269950/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhALL1kXuydtbj9R5AdHXBi42wf0H9RRpAY_7lGp4Ie-X2AiEAtt6vtwCt14pUUfEHqvzTooyt64XQSkWvvMU53q4Qs6Q%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgcIeg6_9DA6QuuK6WIMJ2tSJAhYuotJpIMuwT-Gt7EbcCIQC_mu_U2c0C_HJs59FPpcZjYHJwPavmbcrG4hJV5o5aaw%3D%3D/playlist/index.m3u8
 Logo: https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1803aa8768a96c38aa19d7bc3f0cf98f.webp
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -3142,12 +3137,12 @@ Logo: https://i.imgur.com/t5oUK3C.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Record News Live
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1751266809/ei/meFhaP7xBKuhobIPm9bb8QI/ip/138.117.221.191/id/6Wnyona85Kc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLMflkwtgx0mYLfQZQ4sG1jE5hGSza5aSerSEEPD9MdcKEEfS0Nz-mBFY57Tse4Hoz-unTweTRsS/spc/l3OVKaHuJoui5imzm_oVjjvUxJUGJ7snp6YWWfKlgJjZN7VEv95WwR3m0uKy1jkUauQHEoudgQs/vprv/1/playlist_type/DVR/initcwndbps/2270000/met/1751245209,/mh/mb/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/5/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1751244758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAOh66kVHPPcDTq6hUtonDCVNfW3unUO6DVcBVLLioqrJAiArzy3HV6y0ImcMADDTOduMaBzMlCLU07ZWcnpP3JiCmg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgCQZOtqTSCHolbf70lkgYJoIH9ZGH6ppyk0lw5zUaUY0CIQDW2rXPZjTJdw9ORhMJWF5Qm5GHfHGWbUQO5_vfv0924A%3D%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1751292007/ei/B0RiaM2pG6Ok9cYP85ihuA0/ip/138.117.221.191/id/6Wnyona85Kc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLOgnEbwIG8qoPCHDo8EX1UGiczg5oGpxWNbBAHolQsXIRhSLziNUwm4GFpc3veCpWJDzKL-ukqz/spc/l3OVKUvMNnGizCIeBbY9WzLWbu8PhQT04fuuL4tjw0WX1zPHCUjo6OlWpr1IiALEYf6WEhVl6kk/vprv/1/playlist_type/DVR/initcwndbps/1966250/met/1751270408,/mh/mb/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/5/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1751269950/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgU8OOdZEj0l7wFpsvUguMhCu2tlYPBJqz7r0rBYh5tGkCIQDj0CQXZuOckbMj5T3Pb4IZNOUWogD3h1AKNOf1HP-vRg%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhANxUf6-4AwMzRhzxVPx4k0M3HfSGcVhLtVwrjIcGeoDSAiAimo_m35Ejd_8-CkqL8nzlsXe4-31vgSH18RADSHd3Jw%3D%3D/playlist/index.m3u8
 Logo: https://yt3.googleusercontent.com/xoqgjnZ9Wd8-cPvKryCyTcfeaT7K3rZtQxCJHhcbICXoVvw7x3hYcQ0S02kzvdmsqwq-Fgnt=s176-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: CNN Brasil
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1751266812/ei/nOFhaLWBKNOyobIPz9_egAM/ip/138.117.221.191/id/UeM30hLBPpk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AY1jyLMgXzfeoST-EZfJscdBNh7oJnpp2fpeeAns1n4YGcH7ML3iNiOR5U56i1lclCNKQfKb89w_zIji/spc/l3OVKdx6uswz_GbXh7XcGZFXF69zIJal7K25389MpMvDgWUwKejF74KecTsUydxrmFbfq59OfEY/vprv/1/playlist_type/DVR/initcwndbps/2270000/met/1751245213,/mh/4E/mm/44/mn/sn-n0hpjput-bpbe/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1751244758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgeNcl9PXchfrkfgkIEiENHxcAtKqXAEtNqu4843hkAAACID6fOpNxeFLOg3CNDzSJGTMukVWYar_wjQrcK1qrX2LP/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgLCxoNyLCmrYMFNn_Gz-5T8uz7SDBlWMgLo5mCpJZyTECIQDEq0hO14qEiCFwV9nSnfZRSxmRY-w0P56_MbWStc6JtA%3D%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1751292011/ei/C0RiaLvcAc6qobIPz-eisAc/ip/138.117.221.191/id/HDauuK_sQVE.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/bui/AY1jyLMSwIjnj1rf1wgzbe3kbunXI0hBt0AzXHS-UjZgr4ahZnmAI2Yc-0wm-LJTxZf0ZRV6WKujN9YU/spc/l3OVKSdQl85yLkb30xCgX5nMdYCya7WbZTQlTXZW8xCDoRMEzW3DlnmYrnbY2Po7JSqkLT13z74/vprv/1/playlist_type/DVR/initcwndbps/2047500/met/1751270411,/mh/Xh/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1751269950/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAPOwCzoZCStnOECBesbbS-lgXwLh109eSImKbp8y9Rn7AiEAhjPW_bmMNErQvUGhnbNQrUeAnpfNCBPG-81sSq5P9Q4%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgAcIfE_Mfd1nxArODOD3rN2RHKcRT__ZjX4n53aOwLuYCIDAe6NdL9sqWNBeqeQTx2btIKYA4tu_h6OLBvci0K1Pc/playlist/index.m3u8
 Logo: https://yt3.googleusercontent.com/ytc/AIf8zZQb7MP1UvjN4CnJ9tEyGeQM0btuJejf1PQekJlmog=s176-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -4057,7 +4052,7 @@ Logo: https://i.imgur.com/TIsk5zN.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Santuário Nacional de Aparecida
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1751266813/ei/neFhaL3HLZDIobIP3MvR8A4/ip/138.117.221.191/id/juUt-rN5CVo.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AY1jyLNSpgLz1_MT6kaGifSVgiEFXf_yBPVOLsztio93mz-IqAOiqki3kKo9e3dmD5xOuiTm0A_vXHZM/spc/l3OVKU1tphgcTB_M2r-sXUQDOCajbK5KzK8Z4_Gp4hZRqe6Lbbk-aYhHcDMdfQzCogxRsR6wYl8/vprv/1/playlist_type/LIVE/initcwndbps/2062500/met/1751245214,/mh/tn/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51476175/mt/1751244758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgIWPYYe1C0Du-vlGfTG84qWzc5AjxnfWTn8rEHahTJrwCIHI3FRVkW3BRzEBqBtQP9YymROnPB9EI9Qp6aVbIdeyb/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAJ6tLCmN3dPIc3C3dPDOxUaOD2ZxkMeZlqjSizvO6jmmAiEAuFDNGwpVoRC7oLfaloAXZytpiN8ulD0lNTvKQnHQo9E%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1751292011/ei/C0RiaMHWOuqO-LAPuvrTYA/ip/138.117.221.191/id/juUt-rN5CVo.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AY1jyLNpoSo2VityDWPHAv5JojyYKlUFsXCf6jBZAynbpBpN9rZhPt9JqoVYjpgyDy1FKLgk88CV4jQz/spc/l3OVKRzm8ZVoBamYXFuiQ0PB-2vw4K2Oo5lpUbRfdYlWQTjwdGRojyGhkT60S40QwyXdAgRbhF8/vprv/1/playlist_type/LIVE/initcwndbps/2182500/met/1751270412,/mh/tn/mm/44/mn/sn-n0hpjput-bpbz/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1751269950/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgOdqc6BfRwxVHDjAGpBN_SvkB2pQUlfI8U2zDky2v9LsCIQDnqULA3uL65qg7YeokUk477TsIy-8a1TO563BSnMyJJA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgaQwPsshdMaVzqZfDIyowVmTlaJnTA0XBb1Q5twR0gNUCIErClc4I8D7BC0Kp0pYZ1mmNm_bmuJqP7ybDH2KTWrvs/playlist/index.m3u8
 Logo: https://yt3.googleusercontent.com/lJKcikNIOAxJwt56fCFkY-pc57H0TQgZtt0h8xPBlijST3FE_2AOZhqS4_D8afZaDjHKqKOVeA=s176-c-k-c0x00ffffff-no-rj
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -6678,12 +6673,12 @@ Logo: https://i.ibb.co/BrGNZJ4/showtv.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=sUE5MzOXzOPNEEQTUrb9MQ&e=1751245874
+URL: https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=z988U1YaCk60nlN0yoFNQg&e=1751279012
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
 Name: NOW
-URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=sUE5MzOXzOPNEEQTUrb9MQ&e=1751245874
+URL: https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=z988U1YaCk60nlN0yoFNQg&e=1751279012
 Logo: https://i.ibb.co/0DpKtzT/nowtvturk.png
 Source: https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u
 --------------------------------------------------
@@ -17535,12 +17530,12 @@ Logo: https://i.imgur.com/TxHWAeD.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: SBT Central Live
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1751266807/ei/luFhaOShPPqk9cYPtJyQ2QI/ip/138.117.221.191/id/eOT-9WV3nng.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AY1jyLMabJzXrJ73o54OwMgiVKLr31PN3LH5bELbgMEr8eK-UZ94MxBVjGWDVFUQyRu33E8nqqMAtI2T/spc/l3OVKZuZawm7jrMLh--WfGVqBXpXXca1XpR3Hz0XJE624gJs5y1sQZbsJnBM2HYSkxw/vprv/1/playlist_type/DVR/initcwndbps/2257500/met/1751245207,/mh/kW/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1751244758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgH2bl98QxwctrlTw4n5k14rupqfDWAbSCKcVfqk8frJACIDQcWmoNgAhFAZFJMgFh1g0B0-ae1cZVaAS51REZnigh/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgAP5tZopkw25lhDco8kwA96sAFjjw7Q1peMnato9Rs5ICIQDyVf9ILTCyCifkajo8qS8MYO7E5Q3Pmt1uiVUukQ4ueQ%3D%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1751292005/ei/BURiaKjwMOagobIPnP-V0QQ/ip/138.117.221.191/id/eOT-9WV3nng.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-n0hpjput-bpb6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLNWHpIDK_0gW6qIx3W12pd2VwQR2CUzdfiQTzgL7jn1YCn2TL59qz3SEufZZ_8PhvNeJOk4CZPJ/spc/l3OVKXnsU9XpXYA3iGXHwOO6m1RDhM3ymYZb5VLdHLuqdamOcaeDtrXesWJWoLn-Jv8/vprv/1/playlist_type/DVR/initcwndbps/2047500/met/1751270406,/mh/kW/mm/44/mn/sn-n0hpjput-bpb6/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1751269950/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgK_jDZCwVQ4HFDcdAOUaLBk0vhBNWS-sSOqV0ljI6JhcCICEx7wuHwTxD4cJaTvaXwL6_38PxfZnNJmXi7BkCTeLR/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRAIgRSTjCncC_4Q1Per8X5iNUwUqfvwTtvtLKhSo8UzDlIcCIE-N9gosSwtAmknkTRBXO0ttmjAuxOR8hrWYt8CrXJBZ/playlist/index.m3u8
 Logo: https://cdn.mitvstatic.com/channels/br_sbt_m.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Diário TV Teresópolis
-URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1751266811/ei/m-FhaLH-C8qhobIPt4j94A4/ip/138.117.221.191/id/-yhPBSYTedo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLPOaPRjbVbRyS2liz5YXOHwIfEdbDMBG4iJ7lQ9C8HmboBHdsAmDlJcwcF_wbDsSMnL5AHuvHH8/spc/l3OVKQLkcGWI1kP_hCtSC1h6jLkKa_bbSGtEYKUIEij5dbDtjGyhDaOBOMqaYufZiTjDBSwJHW8/vprv/1/playlist_type/DVR/initcwndbps/2320000/met/1751245212,/mh/3u/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1751244758/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAIl50hbe8VWasSfaZvpzT27S5cTfftJG4ouvvxm0gNOZAiARWG-geBpPVuu1wfwL4kj29ZNKwaNxiUltM6oH31jsFA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAImda5s6txFA6kkjdL3cUywjQorrgRVP9yD0Vy6WdxBWAiEA6wl-MIgadHkaPqHP0BrPlqVCP4iavABLjAuVlpjx_yM%3D/playlist/index.m3u8
+URL: https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1751292009/ei/CURiaJe6J6SRobIPnb-k6AI/ip/138.117.221.191/id/-yhPBSYTedo.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-n0hpjput-bpbs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AY1jyLOM7lUUBYLERRohzcua4qO32WHyyl12mzcyQ9bvTY2aDXNI_AVi6ifjktR0F2nUep9QbPiM0_nH/spc/l3OVKZvM3e6u76Sm3FF-L3FEiQ-u3vgN-rsen89m72UDLS-zCcGj2CUMrab2WTCrsSd2ALgCauY/vprv/1/playlist_type/DVR/initcwndbps/1877500/met/1751270410,/mh/3u/mm/44/mn/sn-n0hpjput-bpbs/ms/lva/mv/m/mvi/4/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1751269950/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgew7zX_nP0vqWjjZ-b66-VkKUJA6V_jM63e5qSz68TWACIAEMtJw3TkX96ifnEu_WWpo0fSfF783lmRJ7cHvNaagf/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAP_RSuNX-7YdTM0Me1EZVDD1J5wPaSNdZEkPpiXjiEMRAiAoiYDIbYYTTsGghCRFtxfzIj6AKT3Ojewu3DyE_HHp9Q%3D%3D/playlist/index.m3u8
 Logo: https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c395ee4019fcd2bcacc342b09d3c9ff7.webp
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -17572,9 +17567,9 @@ URL: https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0
 Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙少儿.png
 Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
 --------------------------------------------------
-Name: 内蒙农牧
-URL: http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
-Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙农牧.png
+Name: 蒙语文化
+URL: https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
+Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/蒙语文化.png
 Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
 --------------------------------------------------
 
@@ -17586,8 +17581,13 @@ Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_
 --------------------------------------------------
 
 Group: ☘️吉林频道
+Name: 德惠综合
+URL: http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
+Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/德惠综合.png
+Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
+--------------------------------------------------
 Name: 九台综合
-URL: http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
+URL: http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/九台综合.png
 Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
 --------------------------------------------------
@@ -17601,21 +17601,21 @@ URL: http://stream3.jlntv.cn:80/aac_lhgb/sd/live.m3u8
 Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/柳河综合.png
 Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
 --------------------------------------------------
-
-Group: ☘️四川频道
-Name: 井研综合
-URL: http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
-Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/井研综合.png
+Name: 汪清综合
+URL: http://stream5.jlntv.cn/wq/sd/live.m3u8
+Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/汪清综合.png
 Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
 --------------------------------------------------
+
+Group: ☘️四川频道
 Name: 仁寿综合
 URL: https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef
 Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/仁寿综合.png
 Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
 --------------------------------------------------
-Name: 双流综合
-URL: http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd,
-Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/双流综合.png
+Name: 剑阁综合
+URL: https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/剑阁综合.png
 Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
 --------------------------------------------------
 Name: 名山综合
@@ -17660,6 +17660,13 @@ Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/
 Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
 --------------------------------------------------
 
+Group: ☘️广东频道
+Name: 广东珠江
+URL: http://live.xmcdn.com/live/252/64.m3u8
+Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png
+Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
+--------------------------------------------------
+
 Group: ☘️广西频道
 Name: 南宁公共
 URL: http://jzlive.jztvnews.com:90/live/jzgg.m3u8
@@ -17678,14 +17685,14 @@ Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_
 --------------------------------------------------
 
 Group: ☘️江苏频道
-Name: 六合新闻综合
-URL: http://p2hs.vzan.com/720020/432453820030502236/live.m3u8
-Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/六合新闻综合.png
-Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
---------------------------------------------------
 Name: 泗洪新闻综合
 URL: http://3739115337.cloudvdn.com/a.m3u8?domain=siyang-tv-hls.cm.jstv.com&player=nwEAAKHdjSKP_58X&secondToken=secondToken%3A5FUijZmDyNMxtCDdne0YzSAwjuw&streamid=siyang-tv%3Asiyang-tv%2Fsiyangzh&v3=1
 Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/泗洪新闻综合.png
+Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
+--------------------------------------------------
+Name: 睢宁三农
+URL: http://3739115337.cloudvdn.com/a.m3u8?domain=suining-tv-hls.cm.jstv.com&player=nwEAAJApyIx-AKAX&secondToken=secondToken%3AfyPrvACXUQ_VSZUu3Rxm-2py1fo&streamid=suining-tv%3Asuining-tv%2Fsuiningsn&v3=1
+Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/睢宁三农.png
 Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
 --------------------------------------------------
 Name: 苏州社会经济
@@ -17706,30 +17713,37 @@ Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/
 Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
 --------------------------------------------------
 
+Group: ☘️河南频道
+Name: 周口扶沟
+URL: http://live.dxhmt.cn:9081/tv/11621-1.m3u8
+Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/周口扶沟.png
+Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
+--------------------------------------------------
+Name: 淅川电视
+URL: http://live.dxhmt.cn:9081/tv/11326-1.m3u8
+Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/淅川电视.png
+Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
+--------------------------------------------------
+
 Group: ☘️浙江频道
-Name: 浙江国际
-URL: http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
-Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江国际.png
+Name: 杭州综合
+URL: http://live.xmcdn.com/live/1845/64.m3u8
+Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州综合.png
 Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
 --------------------------------------------------
 Name: 嘉兴新闻综合
-URL: http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
+URL: https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉兴新闻综合.png
 Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
 --------------------------------------------------
 Name: 湖州新闻综合
-URL: http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&amp;fbl=
+URL: http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&amp;amp;amp;fbl=
 Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州新闻综合.png
 Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
 --------------------------------------------------
-Name: 绍兴电视台公共
-URL: http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/绍兴电视台公共.png
-Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
---------------------------------------------------
-Name: 湖州公共民生
-URL: http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
-Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州公共民生.png
+Name: 湖州文化娱乐
+URL: http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887&amp;amp;fbl=
+Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州文化娱乐.png
 Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
 --------------------------------------------------
 
@@ -17753,11 +17767,6 @@ Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_
 --------------------------------------------------
 
 Group: ☘️黑龙江频道
-Name: 哈尔滨影视
-URL: http://stream.hrbtv.net/yspd/sd/live.m3u8
-Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/哈尔滨影视.png
-Source: https://raw.githubusercontent.com/zking2000/m3u/refs/heads/main/working_streams.m3u
---------------------------------------------------
 Name: 哈尔滨生活
 URL: http://stream.hrbtv.net/shpd/sd/live.m3u8
 Logo: https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/哈尔滨生活.png
