@@ -402,12 +402,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "SquashTV",
-    "type": "sport",
-    "url": "https://amg12058-amg12058c5-rakuten-gb-7997.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-squashtvcc-rakutengb/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "PFL MMA",
     "type": "sport",
     "url": "https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8",
@@ -540,7 +534,7 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "WeDo Big Stories",
+    "name": "wedo Big Stories",
     "type": "documentari",
     "url": "https://videosolutions-wedobigstories-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-videosolutions-wedobigstories-rakuten/CDN/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
@@ -554,7 +548,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZTkxOGY1ZDMtYjFiZS00YTM5LTgzZWEtMmQ1M2U5ODgxNmYyIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
+    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiODk0M2NmMjgtNDJlZC00Y2U0LWI4ZWItNDgxYTE4ODI5MTBhIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -584,7 +578,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNTMzNGY0ZTktZGYwOC00ZmRkLThmZmQtMWE1MmE4NWE0MmMxIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
+    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYzY2YmQ4NzEtZjNlNy00OGQxLWJiYTAtN2EzN2EyOTE2MTMzIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -630,12 +624,6 @@
     "img": "https://i.imgur.com/a7nBbBq.png"
   },
   {
-    "name": "Pink Plus",
-    "type": "Entertainment",
-    "url": "https://webtvstream.bhtelecom.ba/pink_plus.m3u8",
-    "img": "https://i.imgur.com/1O6LEcO.png"
-  },
-  {
     "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Kurir TV",
     "type": "Entertainment",
     "url": "https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8",
@@ -654,19 +642,37 @@
     "img": "https://i.imgur.com/mHJAqqS.png"
   },
   {
-    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Red TV",
-    "type": "Entertainment",
-    "url": "https://edge8.pink.rs/redtv/index.m3u8",
-    "img": "https://i.imgur.com/KQu3sVC.png"
-  },
-  {
     "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Alternativna Televizija",
     "type": "Entertainment",
     "url": "https://vpn.komtel.ba/hls/mylivestream.m3u8",
     "img": "https://i.imgur.com/NmRWiqb.png"
   },
   {
-    "name": "Televizija M",
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Red TV",
+    "type": "Entertainment",
+    "url": "https://edge8.pink.rs/redtv/index.m3u8",
+    "img": "https://i.imgur.com/KQu3sVC.png"
+  },
+  {
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Pink",
+    "type": "Entertainment",
+    "url": "https://edge8.pink.rs/pinktv/index.m3u8",
+    "img": "https://i.imgur.com/DMsShck.png"
+  },
+  {
+    "name": "Pink Plus",
+    "type": "Entertainment",
+    "url": "https://webtvstream.bhtelecom.ba/pink_plus.m3u8",
+    "img": "https://i.imgur.com/1O6LEcO.png"
+  },
+  {
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Narodna TV",
+    "type": "Entertainment",
+    "url": "https://edge8.pink.rs/narodnatv/index.m3u8",
+    "img": "https://i.imgur.com/xnFgCxd.png"
+  },
+  {
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Televizija M",
     "type": "Entertainment",
     "url": "https://live.tv-m.net/hls/stream.m3u8",
     "img": "https://i.imgur.com/DLYslWy.png"
@@ -736,6 +742,12 @@
     "type": "Entertainment",
     "url": "https://webtvstream.bhtelecom.ba/sat1.m3u8",
     "img": "https://i.imgur.com/5l6aMpx.png"
+  },
+  {
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Happy TV",
+    "type": "General",
+    "url": "https://stream1.happytv.rs/Happytv/myStream/playlist.m3u8",
+    "img": "https://i.imgur.com/H8ahEwS.png"
   },
   {
     "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RTS 1",
