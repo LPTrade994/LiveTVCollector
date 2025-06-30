@@ -709,6 +709,28 @@ Logo: https://i.imgur.com/V10iVeh.png
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
 --------------------------------------------------
 
+Group: INFANTILES
+Name: | RETRO PALMARES TV |
+URL: https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
+Logo: https://i.imgur.com/4e6jtKv.jpeg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: | RETRO TV ᴴᴰ |
+URL: https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8
+Logo: https://i.imgur.com/aRS9b7q.jpeg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: | RETRO X TV |
+URL: https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: | XTREMA KIDS |
+URL: https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w1126563396.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+
 Group: KIDS
 Name: FunBox
 URL: https://live-evg25.tv360.bitel.com.pe/bitel/funbox/bitel/funbox_ori_source/chunks.m3u8
@@ -1293,23 +1315,6 @@ Name: Tu Universo TV (720p)
 URL: https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 Logo: https://i.imgur.com/e6esjLZ.jpg
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
---------------------------------------------------
-
-Group: SERIES
-Name: | RETRO PALMARES TV |
-URL: https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8
-Logo: https://i.imgur.com/4e6jtKv.jpeg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
-Name: | RETRO TV ᴴᴰ |
-URL: https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8
-Logo: https://i.imgur.com/aRS9b7q.jpeg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
-Name: | RETRO X TV |
-URL: https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 
 Group: Science
@@ -2429,6 +2434,11 @@ URL: https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/exitosa1.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
+Name: 08 | CANAL N |
+URL: http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/14030
+Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalN.jpg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
 Name: 09 | ATV HD |
 URL: https://d19e55ehz2il4i.cloudfront.net/index.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVhd.jpg
@@ -2830,7 +2840,7 @@ Logo: https://i.imgur.com/qVFkBJd.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 126  | INKAVISION |
-URL: https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/bitel/inkavision_480p/chunks.m3u8
+URL: https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/bitel/inkavision_ori_480p/chunks.m3u8
 Logo: http://imgfz.com/i/Dk3PgdU.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------

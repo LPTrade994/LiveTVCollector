@@ -1854,6 +1854,12 @@
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/exitosa1.jpg"
   },
   {
+    "name": "08 | CANAL N |",
+    "type": "TV PERU",
+    "url": "http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/14030",
+    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/canalN.jpg"
+  },
+  {
     "name": "09 | ATV HD |",
     "type": "TV PERU",
     "url": "https://d19e55ehz2il4i.cloudfront.net/index.m3u8",
@@ -2336,7 +2342,7 @@
   {
     "name": "126  | INKAVISION |",
     "type": "TV PERU",
-    "url": "https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/bitel/inkavision_480p/chunks.m3u8",
+    "url": "https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/bitel/inkavision_ori_480p/chunks.m3u8",
     "img": "http://imgfz.com/i/Dk3PgdU.jpeg"
   },
   {
@@ -3637,20 +3643,26 @@
   },
   {
     "name": "| RETRO PALMARES TV |",
-    "type": "SERIES",
+    "type": "INFANTILES",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/tvretropalmares/chunks.m3u8",
     "img": "https://i.imgur.com/4e6jtKv.jpeg"
   },
   {
     "name": "| RETRO TV ᴴᴰ |",
-    "type": "SERIES",
+    "type": "INFANTILES",
     "url": "https://server.streamtech.com.co:5443/retroTv/streams/sJlaR9zuk3cJ8jqN4467369974529.m3u8",
     "img": "https://i.imgur.com/aRS9b7q.jpeg"
   },
   {
     "name": "| RETRO X TV |",
-    "type": "SERIES",
+    "type": "INFANTILES",
     "url": "https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "| XTREMA KIDS |",
+    "type": "INFANTILES",
+    "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w1126563396.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   }
 ]
