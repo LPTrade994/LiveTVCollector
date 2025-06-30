@@ -308,7 +308,7 @@
   {
     "name": "SCTV1",
     "type": "SCTV",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv1",
+    "url": "https://liveh12.seenow.vn/hls/SCTV1/index.m3u8",
     "img": "https://i.ibb.co/yBnxfhH/sctv1-hd.png"
   },
   {
@@ -320,20 +320,14 @@
   {
     "name": "SCTV3",
     "type": "SCTV",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv3",
+    "url": "https://liveh12.seenow.vn/hls/SCTV3/index.m3u8",
     "img": "https://i.ibb.co/pwy6LhX/sctv3-hd.png"
   },
   {
     "name": "SCTV4",
     "type": "SCTV",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv4",
+    "url": "https://liveh12.seenow.vn/hls/SCTV4/index.m3u8",
     "img": "https://i.ibb.co/rHsWYhW/sctv4-hd.png"
-  },
-  {
-    "name": "SCTV5",
-    "type": "SCTV",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv5",
-    "img": "https://i.ibb.co/BLgS3HC/sctv5.png"
   },
   {
     "name": "SCTV6",
@@ -344,49 +338,43 @@
   {
     "name": "SCTV7",
     "type": "SCTV",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv7",
+    "url": "https://liveh12.seenow.vn/hls/SCTV7/index.m3u8",
     "img": "https://i.ibb.co/q52fk4p/logo26072108-sctv7-hd.png"
   },
   {
     "name": "SCTV8",
     "type": "SCTV",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv8",
+    "url": "https://liveh12.seenow.vn/hls/SCTV8/index.m3u8",
     "img": "https://i.ibb.co/1Z8k49W/logo26072108-sctv8.png"
   },
   {
     "name": "SCTV9",
     "type": "SCTV",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv9",
+    "url": "https://liveh12.seenow.vn/hls/SCTV9/index.m3u8",
     "img": "https://i.ibb.co/bdMgBLN/logo26072108-sctv9-hd.png"
-  },
-  {
-    "name": "SCTV10",
-    "type": "SCTV",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv10",
-    "img": "https://xemtvtructuyen.com/wp-content/uploads/2024/06/sctv10.jpg"
   },
   {
     "name": "SCTV11",
     "type": "SCTV",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv11",
+    "url": "https://liveh12.seenow.vn/hls/SCTV11/index.m3u8",
     "img": "https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png"
   },
   {
     "name": "SCTV12",
     "type": "SCTV",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv12",
+    "url": "https://liveh12.seenow.vn/hls/SCTV12/index.m3u8",
     "img": "https://i.ibb.co/hxNHc7x/logo26072108-sctv12-hd.png"
   },
   {
     "name": "SCTV13",
     "type": "SCTV",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv13",
+    "url": "https://liveh12.seenow.vn/hls/SCTV13/index.m3u8",
     "img": "https://i.ibb.co/3pQsyPf/logo26072108-sctv13-hd.png"
   },
   {
     "name": "SCTV14",
     "type": "SCTV",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv14",
+    "url": "https://liveh12.seenow.vn/hls/SCTV14/index.m3u8",
     "img": "https://i.ibb.co/wLKj69Q/logo26072108-sctv14-hd.png"
   },
   {
@@ -398,7 +386,7 @@
   {
     "name": "SCTV16",
     "type": "SCTV",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv16",
+    "url": "https://liveh12.seenow.vn/hls/SCTV16/index.m3u8",
     "img": "https://i.ibb.co/1KsLhCz/logo26072108-sctv16-hd.png"
   },
   {
@@ -410,7 +398,7 @@
   {
     "name": "SCTV18",
     "type": "SCTV",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv18",
+    "url": "https://liveh12.seenow.vn/hls/SCTV18/index.m3u8",
     "img": "https://i.ibb.co/LY0CW6H/logo26072108-sctv18-hd.png"
   },
   {
@@ -440,7 +428,7 @@
   {
     "name": "SCTV Phim tổng hợp",
     "type": "SCTV",
-    "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctvpth",
+    "url": "https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8",
     "img": "https://i.ibb.co/G2XQD3X/logo26072108-sctv-phim-THHD.png"
   },
   {

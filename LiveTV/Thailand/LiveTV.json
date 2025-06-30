@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-30 06:26:40",
+  "date": "2025-06-30 13:45:53",
   "channels": {
     "VTV": [
       {
@@ -374,7 +374,7 @@
         "logo": "https://i.ibb.co/yBnxfhH/sctv1-hd.png",
         "group": "SCTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv1"
+        "url": "https://liveh12.seenow.vn/hls/SCTV1/index.m3u8"
       },
       {
         "name": "SCTV2",
@@ -388,21 +388,14 @@
         "logo": "https://i.ibb.co/pwy6LhX/sctv3-hd.png",
         "group": "SCTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv3"
+        "url": "https://liveh12.seenow.vn/hls/SCTV3/index.m3u8"
       },
       {
         "name": "SCTV4",
         "logo": "https://i.ibb.co/rHsWYhW/sctv4-hd.png",
         "group": "SCTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv4"
-      },
-      {
-        "name": "SCTV5",
-        "logo": "https://i.ibb.co/BLgS3HC/sctv5.png",
-        "group": "SCTV",
-        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv5"
+        "url": "https://liveh12.seenow.vn/hls/SCTV4/index.m3u8"
       },
       {
         "name": "SCTV6",
@@ -416,56 +409,49 @@
         "logo": "https://i.ibb.co/q52fk4p/logo26072108-sctv7-hd.png",
         "group": "SCTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv7"
+        "url": "https://liveh12.seenow.vn/hls/SCTV7/index.m3u8"
       },
       {
         "name": "SCTV8",
         "logo": "https://i.ibb.co/1Z8k49W/logo26072108-sctv8.png",
         "group": "SCTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv8"
+        "url": "https://liveh12.seenow.vn/hls/SCTV8/index.m3u8"
       },
       {
         "name": "SCTV9",
         "logo": "https://i.ibb.co/bdMgBLN/logo26072108-sctv9-hd.png",
         "group": "SCTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv9"
-      },
-      {
-        "name": "SCTV10",
-        "logo": "https://xemtvtructuyen.com/wp-content/uploads/2024/06/sctv10.jpg",
-        "group": "SCTV",
-        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv10"
+        "url": "https://liveh12.seenow.vn/hls/SCTV9/index.m3u8"
       },
       {
         "name": "SCTV11",
         "logo": "https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png",
         "group": "SCTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv11"
+        "url": "https://liveh12.seenow.vn/hls/SCTV11/index.m3u8"
       },
       {
         "name": "SCTV12",
         "logo": "https://i.ibb.co/hxNHc7x/logo26072108-sctv12-hd.png",
         "group": "SCTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv12"
+        "url": "https://liveh12.seenow.vn/hls/SCTV12/index.m3u8"
       },
       {
         "name": "SCTV13",
         "logo": "https://i.ibb.co/3pQsyPf/logo26072108-sctv13-hd.png",
         "group": "SCTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv13"
+        "url": "https://liveh12.seenow.vn/hls/SCTV13/index.m3u8"
       },
       {
         "name": "SCTV14",
         "logo": "https://i.ibb.co/wLKj69Q/logo26072108-sctv14-hd.png",
         "group": "SCTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv14"
+        "url": "https://liveh12.seenow.vn/hls/SCTV14/index.m3u8"
       },
       {
         "name": "SCTV15",
@@ -479,7 +465,7 @@
         "logo": "https://i.ibb.co/1KsLhCz/logo26072108-sctv16-hd.png",
         "group": "SCTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv16"
+        "url": "https://liveh12.seenow.vn/hls/SCTV16/index.m3u8"
       },
       {
         "name": "SCTV17",
@@ -493,7 +479,7 @@
         "logo": "https://i.ibb.co/LY0CW6H/logo26072108-sctv18-hd.png",
         "group": "SCTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctv18"
+        "url": "https://liveh12.seenow.vn/hls/SCTV18/index.m3u8"
       },
       {
         "name": "SCTV19",
@@ -528,7 +514,7 @@
         "logo": "https://i.ibb.co/G2XQD3X/logo26072108-sctv-phim-THHD.png",
         "group": "SCTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=sctvpth"
+        "url": "https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8"
       }
     ],
     "Livestream": [

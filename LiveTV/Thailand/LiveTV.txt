@@ -685,7 +685,7 @@ Source: https://iptv-org.github.io/iptv/countries/th.m3u
 
 Group: SCTV
 Name: SCTV1
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
+URL: https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
 Logo: https://i.ibb.co/yBnxfhH/sctv1-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -695,18 +695,13 @@ Logo: https://i.ibb.co/VqNpntW/sctv2-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: SCTV3
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
+URL: https://liveh12.seenow.vn/hls/SCTV3/index.m3u8
 Logo: https://i.ibb.co/pwy6LhX/sctv3-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: SCTV4
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
+URL: https://liveh12.seenow.vn/hls/SCTV4/index.m3u8
 Logo: https://i.ibb.co/rHsWYhW/sctv4-hd.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: SCTV5
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv5
-Logo: https://i.ibb.co/BLgS3HC/sctv5.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: SCTV6
@@ -715,42 +710,37 @@ Logo: https://i.ibb.co/HpgQgB5/logo26072108-sctv6-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: SCTV7
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv7
+URL: https://liveh12.seenow.vn/hls/SCTV7/index.m3u8
 Logo: https://i.ibb.co/q52fk4p/logo26072108-sctv7-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: SCTV8
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv8
+URL: https://liveh12.seenow.vn/hls/SCTV8/index.m3u8
 Logo: https://i.ibb.co/1Z8k49W/logo26072108-sctv8.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: SCTV9
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv9
+URL: https://liveh12.seenow.vn/hls/SCTV9/index.m3u8
 Logo: https://i.ibb.co/bdMgBLN/logo26072108-sctv9-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
-Name: SCTV10
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv10
-Logo: https://xemtvtructuyen.com/wp-content/uploads/2024/06/sctv10.jpg
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
 Name: SCTV11
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv11
+URL: https://liveh12.seenow.vn/hls/SCTV11/index.m3u8
 Logo: https://i.ibb.co/88mFbmH/logo26072108-sctv11-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: SCTV12
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv12
+URL: https://liveh12.seenow.vn/hls/SCTV12/index.m3u8
 Logo: https://i.ibb.co/hxNHc7x/logo26072108-sctv12-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: SCTV13
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv13
+URL: https://liveh12.seenow.vn/hls/SCTV13/index.m3u8
 Logo: https://i.ibb.co/3pQsyPf/logo26072108-sctv13-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: SCTV14
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv14
+URL: https://liveh12.seenow.vn/hls/SCTV14/index.m3u8
 Logo: https://i.ibb.co/wLKj69Q/logo26072108-sctv14-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -760,7 +750,7 @@ Logo: https://i.ibb.co/jZzbTYK/logo26072108-sctv15-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: SCTV16
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
+URL: https://liveh12.seenow.vn/hls/SCTV16/index.m3u8
 Logo: https://i.ibb.co/1KsLhCz/logo26072108-sctv16-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -770,7 +760,7 @@ Logo: https://i.ibb.co/RS1Rq74/logo26072108-sctv17-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: SCTV18
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv18
+URL: https://liveh12.seenow.vn/hls/SCTV18/index.m3u8
 Logo: https://i.ibb.co/LY0CW6H/logo26072108-sctv18-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -795,7 +785,7 @@ Logo: https://i.ibb.co/JK0TF38/sctv22-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: SCTV Phim tổng hợp
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctvpth
+URL: https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
 Logo: https://i.ibb.co/G2XQD3X/logo26072108-sctv-phim-THHD.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
