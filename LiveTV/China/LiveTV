@@ -5160,18 +5160,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "河北卫视",
-    "type": "卫视频道",
-    "url": "https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "三沙卫视",
-    "type": "卫视频道",
-    "url": "https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "山东教育",
     "type": "卫视频道",
     "url": "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8",
@@ -7686,18 +7674,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "浙江影视",
-    "type": "电影频道",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "电影英叔",
-    "type": "电影频道",
-    "url": "https://www.goodiptv.club/huya/11342421",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "美亚电影",
     "type": "电影频道",
     "url": "https://live.tvfix.org/live/mydy/index.m3u8",
@@ -9024,12 +9000,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "无锡娱乐",
-    "type": "地方频道",
-    "url": "https://stream.thmz.com/wxtv2/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "无锡生活",
     "type": "地方频道",
     "url": "https://stream.thmz.com/wxtv4/playlist.m3u8",
@@ -9147,6 +9117,12 @@
     "name": "渭源新闻",
     "type": "地方频道",
     "url": "https://play.kankanlive.com/live/1711955176432990.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "灌阳新闻综合",
+    "type": "地方频道",
+    "url": "https://ls.qingting.fm/live/5043/64k.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -10734,6 +10710,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "中华小当家",
+    "type": "儿童频道",
+    "url": "https://live.metshop.top/huya/11342413",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "海绵宝宝",
     "type": "儿童频道",
     "url": "https://live.metshop.top/douyu/3949681",
@@ -10776,13 +10758,7 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "湖南张家界水绕四门",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "2025-06-30 12:38:43",
+    "name": "2025-06-30 18:39:01",
     "type": "更新时间",
     "url": "https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
