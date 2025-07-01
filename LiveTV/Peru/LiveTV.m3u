@@ -361,6 +361,8 @@ https://live-evg1.tv360.bitel.com.pe/bitel/usmp/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/usmp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="Culture",Cultura 24 (360p)
 https://cloud.live.opencaster.com/multi_web/play_480.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst Spanish
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmZ2nId.png" group-title="Kids",Bob Esponja LATAM
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff04-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236222be-74f0-4d28-b58b-70f75ce8319a&userId=&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Kids",Clan TVE Internacional (1080p)
