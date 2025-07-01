@@ -42500,7 +42500,7 @@
   {
     "name": "Pluto TV Cine Estelar Spain+",
     "type": "Movies",
-    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff04-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236222be-74f0-4d28-b58b-70f75ce8319a&userId=&serverSideAds=false",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
     "img": "https://i.imgur.com/v3BO4nW.png"
   },
   {
@@ -54442,6 +54442,12 @@
     "type": "Undefined",
     "url": "https://directes-tv-cat.3catdirectes.cat/live-origin/super3-hls/master.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Canal-Super3_logo2009.png"
+  },
+  {
+    "name": "Syfy",
+    "type": "Undefined",
+    "url": "http://185.189.225.150:85/syfy/index.m3u8",
+    "img": "https://i.imgur.com/4fMWhUE.png"
   },
   {
     "name": "TNA Wrestling",
