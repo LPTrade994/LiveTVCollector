@@ -1,8 +1,8 @@
 name: TV-Israel Update Files
 
 on:
-  schedule:
-    - cron: '0 0,8,16 * * *'  # Runs at 00:00, 08:00, 16:00 UTC daily
+#  schedule:
+#    - cron: '0 0,8,16 * * *'  # Runs at 00:00, 08:00, 16:00 UTC daily
   workflow_dispatch:  # Allows manual triggering
 
 permissions:

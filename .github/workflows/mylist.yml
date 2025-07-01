@@ -2,8 +2,8 @@ name: MyList LiveTV Files
 
 on:
   workflow_dispatch:          # avvio manuale
-  schedule:
-    - cron: '25 */8 * * *'    # ogni 8 h
+#  schedule:
+#    - cron: '25 */8 * * *'    # ogni 8 h
 
 jobs:
   build:
